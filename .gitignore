@@ -1,0 +1,21 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vs/
+.vscode/
+.idea/
+
+# Local build/tooling noise
+bin/
+obj/
+*.user
+*.suo
+*.tmp
+*.temp
+*.log
+
+# Local staging/scratch output
+.staging/
+.tmp/
+local/
