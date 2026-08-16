@@ -1,6 +1,3 @@
-# NLL-Runtime-Assets
-Public runtime asset registry and web-safe derivatives for Northern Lights Labs applications.
-
 # Northern Lights Labs Runtime Assets
 
 Public runtime asset repository for Northern Lights Labs applications.
