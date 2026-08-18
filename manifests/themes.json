@@ -1,7 +1,3413 @@
 {
   "schemaVersion": "1.0.0",
   "generator": "NL Asset Control",
-  "generatedAt": null,
-  "themeCount": 0,
-  "themes": []
+  "generatedAt": "2026-08-18T04:41:34.5821926+00:00",
+  "themeCount": 50,
+  "themes": [
+    {
+      "id": "100th-day-of-school",
+      "name": "100th Day of School",
+      "description": "Photo Album recipe using the shared eight-slot contract for 100th Day of School.",
+      "collectionIds": [
+        "album-theme-100th-day-of-school"
+      ],
+      "assetSlots": {
+        "banner": [
+          "abacus-390866ad8b",
+          "bright-student-21b47c333b",
+          "calculator-a1af26ef9e",
+          "class-teacher-5e440e7527",
+          "education-robot-76ee96f5be",
+          "math-teacher-8f136f6303",
+          "sad-student-4c17677bb2",
+          "student-degree-03e8e43def"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "abacus-390866ad8b",
+          "calculator-a1af26ef9e",
+          "education-robot-76ee96f5be",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8"
+        ],
+        "background": [
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "reading-glasses-bfd1553f94",
+          "magnifying-glass-1ec65aa24b",
+          "magnifying-glass-c334982113",
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "decorations": [
+          "abacus-390866ad8b",
+          "bright-student-21b47c333b",
+          "calculator-a1af26ef9e",
+          "class-teacher-5e440e7527",
+          "education-robot-76ee96f5be",
+          "math-teacher-8f136f6303",
+          "sad-student-4c17677bb2",
+          "student-degree-03e8e43def",
+          "student-solving-10b9a7e51b",
+          "student-trophy-a101d5e4b5",
+          "teacher-7a20a835d2",
+          "vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d",
+          "vctrly-student-education-learning-college-campus-book-study-math-ed183eb973",
+          "virtual-teacher-7ab7d2ba92",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "binder-file-584ce84640",
+          "biology-teacher-8475f4d3e5",
+          "blocks-1755cf7c71",
+          "books-717a709a7f",
+          "boost-knowledge-8e96abb5eb"
+        ]
+      }
+    },
+    {
+      "id": "apple-orchard",
+      "name": "Apple Orchard",
+      "description": "Photo Album recipe using the shared eight-slot contract for Apple Orchard.",
+      "collectionIds": [
+        "album-theme-apple-orchard"
+      ],
+      "assetSlots": {
+        "banner": [
+          "autumn-forest-7e0183a203",
+          "autumn-trees-e4724a21c4",
+          "tree-stump-4c2f2bac07",
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "autumn-cottage-837a7383bd",
+          "autumn-splendor-94a8692f6e"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "autumn-forest-7e0183a203",
+          "autumn-trees-e4724a21c4",
+          "tree-stump-4c2f2bac07",
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "autumn-cottage-837a7383bd",
+          "autumn-splendor-94a8692f6e"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "autumn-forest-7e0183a203",
+          "autumn-trees-e4724a21c4",
+          "tree-stump-4c2f2bac07",
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "autumn-cottage-837a7383bd",
+          "autumn-splendor-94a8692f6e",
+          "bale-grabber-8490471370",
+          "bamboo-cage-264a34c569",
+          "bamboo-forest-bbb34f00f2",
+          "bamboo-sticks-fab1002a1f",
+          "barn-273f8af229",
+          "bell-b45739e887",
+          "bird-bath-162fe57e18",
+          "birdhouse-b2a7830faa",
+          "blooming-flowers-9cc5b9a46b",
+          "bucket-trowel-9ebad5df2d",
+          "bug-hotel-282d5f4c50",
+          "cabbage-edbd0d1612",
+          "carrot-box-5542924338",
+          "cattle-farm-f76626211b",
+          "cattle-prodder-b6c45fe679",
+          "christmas-tree-5535a723c1"
+        ]
+      }
+    },
+    {
+      "id": "art-studio",
+      "name": "Art Studio",
+      "description": "Photo Album recipe using the shared eight-slot contract for Art Studio.",
+      "collectionIds": [
+        "album-theme-art-studio"
+      ],
+      "assetSlots": {
+        "banner": [
+          "canvas-painting-5ea2984a76",
+          "drawing-compass-24d90551aa",
+          "drawing-paper-08f3ec97bb",
+          "drawing-tools-717bc7a46a",
+          "stationery-tools-drawing-doodles-0c416e309d",
+          "vctrly-studio-work-creative-creativity-art-productions-artist-pa-cac7016c38",
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7"
+        ],
+        "top-trim": [
+          "scale-divider-5bf5fad325",
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "scale-divider-5bf5fad325",
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [
+          "hanging-frame-76be23b74d",
+          "modular-frame-a8a36becbf",
+          "photo-frame-970e2e989f",
+          "victorian-frame-a97e34cabe"
+        ],
+        "corner-accent": [
+          "canvas-painting-5ea2984a76",
+          "drawing-compass-24d90551aa",
+          "drawing-paper-08f3ec97bb",
+          "drawing-tools-717bc7a46a",
+          "stationery-tools-drawing-doodles-0c416e309d",
+          "vctrly-studio-work-creative-creativity-art-productions-artist-pa-cac7016c38",
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7"
+        ],
+        "background": [
+          "magnifying-glass-1ec65aa24b",
+          "reading-glasses-bfd1553f94",
+          "magnifying-glass-c334982113",
+          "magnifying-glass-fcf780bba5",
+          "reading-glasses-2b7920a060",
+          "roman-glass-135c9b02b8",
+          "safety-glasses-13ceb31c87",
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "scale-divider-5bf5fad325",
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "canvas-painting-5ea2984a76",
+          "drawing-compass-24d90551aa",
+          "drawing-paper-08f3ec97bb",
+          "drawing-tools-717bc7a46a",
+          "stationery-tools-drawing-doodles-0c416e309d",
+          "vctrly-studio-work-creative-creativity-art-productions-artist-pa-cac7016c38",
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "apron-f23492c288",
+          "art-book-532b5d2cf4",
+          "atom-cb9da277e8",
+          "backpack-e802bc20db",
+          "barcode-printer-dfbb423ab8",
+          "binder-clips-9316dcb2dc",
+          "binder-file-584ce84640",
+          "biology-teacher-8475f4d3e5",
+          "blocks-1755cf7c71",
+          "book-538f5c7168",
+          "books-717a709a7f",
+          "books-stock-0447fa39cd",
+          "boost-knowledge-8e96abb5eb"
+        ]
+      }
+    },
+    {
+      "id": "autumn-harvest",
+      "name": "Autumn Harvest",
+      "description": "Photo Album recipe using the shared eight-slot contract for Autumn Harvest.",
+      "collectionIds": [
+        "album-theme-autumn-harvest"
+      ],
+      "assetSlots": {
+        "banner": [
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "bale-grabber-8490471370",
+          "barn-273f8af229",
+          "bell-b45739e887",
+          "birdhouse-b2a7830faa",
+          "blooming-flowers-9cc5b9a46b"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "bale-grabber-8490471370",
+          "barn-273f8af229",
+          "bell-b45739e887",
+          "birdhouse-b2a7830faa",
+          "blooming-flowers-9cc5b9a46b"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "bale-grabber-8490471370",
+          "barn-273f8af229",
+          "bell-b45739e887",
+          "birdhouse-b2a7830faa",
+          "blooming-flowers-9cc5b9a46b",
+          "cabbage-edbd0d1612",
+          "carrot-box-5542924338",
+          "cattle-farm-f76626211b",
+          "cattle-prodder-b6c45fe679",
+          "corn-plant-a56f1031a5",
+          "cow-10815fc4e2",
+          "door-229f828fb4",
+          "drilling-machine-fd049a3231",
+          "dumper-305ea38b11",
+          "egg-collector-f7db41045e",
+          "egg-incubator-c649fdbd77",
+          "egg-tray-deec8a412e",
+          "eggplant-d21f6eb5fa",
+          "farm-boots-0f79117aea",
+          "farm-cart-0cc4543e0c",
+          "farm-drone-2bc95b11ad"
+        ]
+      }
+    },
+    {
+      "id": "awards-achievement",
+      "name": "Awards \u0026 Achievement",
+      "description": "Photo Album recipe using the shared eight-slot contract for Awards \u0026 Achievement.",
+      "collectionIds": [
+        "album-theme-awards-achievement"
+      ],
+      "assetSlots": {
+        "banner": [
+          "abacus-390866ad8b",
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "abacus-390866ad8b",
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8"
+        ],
+        "background": [
+          "star-glasses-9b959fbba7",
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "reading-glasses-bfd1553f94"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "abacus-390866ad8b",
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "banjo-203f0c6f20",
+          "banner-29926b3e17",
+          "bauble-dd6709aa14",
+          "beatboxing-28b52ffba3",
+          "binder-file-584ce84640",
+          "biology-teacher-8475f4d3e5",
+          "birthday-banner-f47b53dd1c",
+          "blocks-1755cf7c71",
+          "books-717a709a7f",
+          "boost-knowledge-8e96abb5eb",
+          "bouquet-2525ac6a47",
+          "bright-student-21b47c333b",
+          "bunny-hat-b8a8028613",
+          "bunny-headband-09253c2fe4",
+          "burger-306184e121",
+          "buy-books-deb7f4df67"
+        ]
+      }
+    },
+    {
+      "id": "back-to-school",
+      "name": "Back to School",
+      "description": "Photo Album recipe using the shared eight-slot contract for Back to School.",
+      "collectionIds": [
+        "album-theme-back-to-school"
+      ],
+      "assetSlots": {
+        "banner": [
+          "vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80",
+          "vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d",
+          "vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531",
+          "vctrly-student-education-learning-college-campus-book-study-fa8057c683",
+          "vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60",
+          "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
+          "vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50",
+          "vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c"
+        ],
+        "top-trim": [
+          "scale-divider-5bf5fad325"
+        ],
+        "bottom-trim": [
+          "scale-divider-5bf5fad325"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
+          "education-robot-76ee96f5be",
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8"
+        ],
+        "background": [
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "reading-glasses-bfd1553f94",
+          "magnifying-glass-1ec65aa24b"
+        ],
+        "divider": [
+          "scale-divider-5bf5fad325"
+        ],
+        "decorations": [
+          "vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80",
+          "vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d",
+          "vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531",
+          "vctrly-student-education-learning-college-campus-book-study-fa8057c683",
+          "vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60",
+          "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
+          "vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50",
+          "vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c",
+          "vctrly-student-education-learning-college-campus-book-study-man-f5b3773638",
+          "vctrly-student-education-learning-college-campus-book-study-math-ed183eb973",
+          "vctrly-student-education-learning-college-campus-book-study-note-b37a68663d",
+          "vctrly-student-education-learning-college-campus-book-study-onli-9220b8c095",
+          "vctrly-student-education-learning-college-campus-book-study-team-bf81bb44cc",
+          "vctrly-student-education-learning-college-campus-book-study-team-cdd3a12d66",
+          "vctrly-student-education-learning-college-campus-book-study-wind-828e33a4d4",
+          "bright-student-21b47c333b",
+          "education-robot-76ee96f5be",
+          "sad-student-4c17677bb2",
+          "student-card-132cff09a4",
+          "student-degree-03e8e43def",
+          "student-reading-ec0e599df3",
+          "student-solving-10b9a7e51b",
+          "student-trophy-a101d5e4b5",
+          "abacus-390866ad8b"
+        ]
+      }
+    },
+    {
+      "id": "birthday-friendship",
+      "name": "Birthday \u0026 Friendship",
+      "description": "Photo Album recipe using the shared eight-slot contract for Birthday \u0026 Friendship.",
+      "collectionIds": [
+        "album-theme-birthday-friendship"
+      ],
+      "assetSlots": {
+        "banner": [
+          "air-balloon-3b70a4fd6c",
+          "birthday-banner-f47b53dd1c",
+          "emoji-balloons-24760888bd",
+          "heart-balloon-88c24df640",
+          "party-cap-bc88b1b730",
+          "party-celebration-doodles-0a28266668",
+          "party-dress-df48e89566",
+          "party-girl-a473f8f221"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "air-balloon-3b70a4fd6c",
+          "emoji-balloons-24760888bd",
+          "heart-balloon-88c24df640",
+          "party-cap-bc88b1b730",
+          "party-celebration-doodles-0a28266668",
+          "party-dress-df48e89566",
+          "party-hats-8612b7a1b3",
+          "party-horn-5a0a24841c"
+        ],
+        "background": [
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "air-balloon-3b70a4fd6c",
+          "birthday-banner-f47b53dd1c",
+          "emoji-balloons-24760888bd",
+          "heart-balloon-88c24df640",
+          "party-cap-bc88b1b730",
+          "party-celebration-doodles-0a28266668",
+          "party-dress-df48e89566",
+          "party-girl-a473f8f221",
+          "party-hats-8612b7a1b3",
+          "party-horn-5a0a24841c",
+          "party-pipe-83b8416733",
+          "party-popper-3d3aeaeafe",
+          "party-table-737efe9ff7",
+          "vctrly-teamwork-balloon-stonk-growth-success-celebration-f599442348",
+          "virtual-party-4b94666a67",
+          "accordion-9b56ec9cc6",
+          "banjo-203f0c6f20",
+          "banner-29926b3e17",
+          "bauble-dd6709aa14",
+          "beatboxing-28b52ffba3",
+          "bouquet-2525ac6a47",
+          "bunny-hat-b8a8028613",
+          "bunny-headband-09253c2fe4",
+          "burger-306184e121"
+        ]
+      }
+    },
+    {
+      "id": "book-fair",
+      "name": "Book Fair",
+      "description": "Photo Album recipe using the shared eight-slot contract for Book Fair.",
+      "collectionIds": [
+        "album-theme-book-fair"
+      ],
+      "assetSlots": {
+        "banner": [
+          "banned-book-4046d87ae1",
+          "book-clock-a12aaa4cb3",
+          "book-coasters-69160c3e4b",
+          "book-delivery-d0acd300d9",
+          "book-display-cd32e0a04c",
+          "book-magnifier-3a852096ea",
+          "book-permits-4f8b07850b",
+          "book-return-e6a790b56f"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "banned-book-4046d87ae1",
+          "book-clock-a12aaa4cb3",
+          "book-coasters-69160c3e4b",
+          "book-delivery-d0acd300d9",
+          "book-display-cd32e0a04c",
+          "book-magnifier-3a852096ea",
+          "book-permits-4f8b07850b",
+          "book-return-e6a790b56f"
+        ],
+        "background": [
+          "reading-glasses-2b7920a060",
+          "reading-glasses-bfd1553f94",
+          "reading-glasses-e7e89285b2",
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "banned-book-4046d87ae1",
+          "book-clock-a12aaa4cb3",
+          "book-coasters-69160c3e4b",
+          "book-delivery-d0acd300d9",
+          "book-display-cd32e0a04c",
+          "book-magnifier-3a852096ea",
+          "book-permits-4f8b07850b",
+          "book-return-e6a790b56f",
+          "book-shelf-703f5a9741",
+          "book-stack-1568806f1a",
+          "book-stand-02aa8ccccb",
+          "book-umbrella-acb0452029",
+          "books-717a709a7f",
+          "braille-book-7e45672aee",
+          "buy-books-deb7f4df67",
+          "censored-book-ae1c89be9d",
+          "fantasy-book-da9f51b3ae",
+          "fitness-books-b66f96f53c",
+          "graduation-book-e75f7f8f56",
+          "historic-book-27b9d807f6",
+          "interesting-book-b932915f14",
+          "key-book-5bf77ce077",
+          "law-book-fc28587c2d",
+          "library-badge-11aefe3966"
+        ]
+      }
+    },
+    {
+      "id": "botanical-garden-greenhouse",
+      "name": "Botanical Garden \u0026 Greenhouse",
+      "description": "Photo Album recipe using the shared eight-slot contract for Botanical Garden \u0026 Greenhouse.",
+      "collectionIds": [
+        "album-theme-botanical-garden-greenhouse"
+      ],
+      "assetSlots": {
+        "banner": [
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-e7466e3df2",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-f700b98938",
+          "decorative-plant-3044d33694",
+          "flower-plants-93bdc61203",
+          "plant-caddy-e098930793",
+          "plant-cloche-16632c2bc0",
+          "plant-dome-ee93351b23",
+          "plant-shelf-b5883afcaf",
+          "plant-stand-31ba3b47c3",
+          "plant-tray-43549e7638",
+          "plant-trellis-9cfbeab81a",
+          "potted-plant-7d05008c37",
+          "air-plant-bebf0c0b90",
+          "anemone-flower-9e02f901cf",
+          "aster-flower-30a7d2a32b",
+          "bell-flowers-452b76428f"
+        ]
+      }
+    },
+    {
+      "id": "butterflies-bugs",
+      "name": "Butterflies \u0026 Bugs",
+      "description": "Photo Album recipe using the shared eight-slot contract for Butterflies \u0026 Bugs.",
+      "collectionIds": [
+        "album-theme-butterflies-bugs"
+      ],
+      "assetSlots": {
+        "banner": [
+          "1-d43ae3a55c",
+          "10-6e2bd29d62",
+          "100-5d913bec9c",
+          "11-a613f34798",
+          "12-725a24dad0",
+          "13-2fb690c245",
+          "14-925e5a5bad",
+          "15-aa163bc8af"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "1-d43ae3a55c",
+          "10-6e2bd29d62",
+          "100-5d913bec9c",
+          "11-a613f34798",
+          "12-725a24dad0",
+          "13-2fb690c245",
+          "14-925e5a5bad",
+          "15-aa163bc8af"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "1-d43ae3a55c",
+          "10-6e2bd29d62",
+          "100-5d913bec9c",
+          "11-a613f34798",
+          "12-725a24dad0",
+          "13-2fb690c245",
+          "14-925e5a5bad",
+          "15-aa163bc8af",
+          "16-82042f61f4",
+          "17-56c496995d",
+          "18-9578195f6c",
+          "19-07d9b2a89c",
+          "2-4778964c8f",
+          "20-2fa7662293",
+          "21-00d4416ad5",
+          "22-3cd726f56f",
+          "23-7002aef4d1",
+          "24-7b9df7bb8f",
+          "25-aefc693bfa",
+          "26-248c09afd0",
+          "27-3ddbfff910",
+          "28-d99f2c1918",
+          "29-4f31fe8a33",
+          "3-252d55305c"
+        ]
+      }
+    },
+    {
+      "id": "classic-classroom-memories",
+      "name": "Classic Classroom Memories",
+      "description": "Photo Album recipe using the shared eight-slot contract for Classic Classroom Memories.",
+      "collectionIds": [
+        "album-theme-classic-classroom-memories"
+      ],
+      "assetSlots": {
+        "banner": [
+          "vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80",
+          "vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d",
+          "vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531",
+          "vctrly-student-education-learning-college-campus-book-study-fa8057c683",
+          "vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60",
+          "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
+          "vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50",
+          "vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c"
+        ],
+        "top-trim": [
+          "scale-divider-5bf5fad325"
+        ],
+        "bottom-trim": [
+          "scale-divider-5bf5fad325"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
+          "books-717a709a7f",
+          "buy-books-deb7f4df67",
+          "education-robot-76ee96f5be",
+          "reading-16b69b30a2",
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340"
+        ],
+        "background": [
+          "reading-glasses-bfd1553f94",
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "magnifying-glass-1ec65aa24b",
+          "reading-glasses-2b7920a060",
+          "reading-glasses-e7e89285b2"
+        ],
+        "divider": [
+          "scale-divider-5bf5fad325"
+        ],
+        "decorations": [
+          "vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80",
+          "vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d",
+          "vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531",
+          "vctrly-student-education-learning-college-campus-book-study-fa8057c683",
+          "vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60",
+          "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
+          "vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50",
+          "vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c",
+          "vctrly-student-education-learning-college-campus-book-study-man-f5b3773638",
+          "vctrly-student-education-learning-college-campus-book-study-math-ed183eb973",
+          "vctrly-student-education-learning-college-campus-book-study-note-b37a68663d",
+          "vctrly-student-education-learning-college-campus-book-study-onli-9220b8c095",
+          "vctrly-student-education-learning-college-campus-book-study-team-bf81bb44cc",
+          "vctrly-student-education-learning-college-campus-book-study-team-cdd3a12d66",
+          "vctrly-student-education-learning-college-campus-book-study-wind-828e33a4d4",
+          "books-717a709a7f",
+          "buy-books-deb7f4df67",
+          "education-robot-76ee96f5be",
+          "reading-16b69b30a2",
+          "student-reading-ec0e599df3",
+          "teacher-9e05ea1ed3",
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340"
+        ]
+      }
+    },
+    {
+      "id": "classroom-celebration",
+      "name": "Classroom Celebration",
+      "description": "Photo Album recipe using the shared eight-slot contract for Classroom Celebration.",
+      "collectionIds": [
+        "album-theme-classroom-celebration"
+      ],
+      "assetSlots": {
+        "banner": [
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "binder-file-584ce84640",
+          "biology-teacher-8475f4d3e5"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "binder-file-584ce84640",
+          "blocks-1755cf7c71"
+        ],
+        "background": [
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "reading-glasses-bfd1553f94",
+          "magnifying-glass-1ec65aa24b",
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "decorations": [
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "binder-file-584ce84640",
+          "biology-teacher-8475f4d3e5",
+          "blocks-1755cf7c71",
+          "books-717a709a7f",
+          "boost-knowledge-8e96abb5eb",
+          "bright-student-21b47c333b",
+          "buy-books-deb7f4df67",
+          "calculator-a1af26ef9e",
+          "calendar-c7709cf2d6",
+          "canvas-painting-5ea2984a76",
+          "cap-f91121d289",
+          "certificate-0b2c808779",
+          "class-teacher-5e440e7527",
+          "clip-holder-14dd9850f1",
+          "clipboard-70fa7ee360",
+          "colour-pencils-edfe60e4a4",
+          "computer-610c28b2ea",
+          "counting-petals-8935b19b1f"
+        ]
+      }
+    },
+    {
+      "id": "community-helpers",
+      "name": "Community Helpers",
+      "description": "Photo Album recipe using the shared eight-slot contract for Community Helpers.",
+      "collectionIds": [
+        "album-theme-community-helpers"
+      ],
+      "assetSlots": {
+        "banner": [
+          "biology-teacher-8475f4d3e5",
+          "bright-student-21b47c333b",
+          "class-teacher-5e440e7527",
+          "math-teacher-8f136f6303",
+          "sad-student-4c17677bb2",
+          "school-boy-fc97a7b42b",
+          "student-card-132cff09a4",
+          "student-degree-03e8e43def"
+        ],
+        "top-trim": [
+          "scale-divider-5bf5fad325"
+        ],
+        "bottom-trim": [
+          "scale-divider-5bf5fad325"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "binder-file-584ce84640"
+        ],
+        "background": [
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "reading-glasses-bfd1553f94",
+          "magnifying-glass-1ec65aa24b"
+        ],
+        "divider": [
+          "scale-divider-5bf5fad325"
+        ],
+        "decorations": [
+          "biology-teacher-8475f4d3e5",
+          "bright-student-21b47c333b",
+          "class-teacher-5e440e7527",
+          "math-teacher-8f136f6303",
+          "sad-student-4c17677bb2",
+          "school-boy-fc97a7b42b",
+          "student-card-132cff09a4",
+          "student-degree-03e8e43def",
+          "student-reading-ec0e599df3",
+          "student-solving-10b9a7e51b",
+          "student-trophy-a101d5e4b5",
+          "teacher-7a20a835d2",
+          "teacher-9e05ea1ed3",
+          "teacher-chair-4c421a7b63",
+          "vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80",
+          "vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d",
+          "vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531",
+          "vctrly-student-education-learning-college-campus-book-study-fa8057c683",
+          "vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60",
+          "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
+          "vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50",
+          "vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c",
+          "vctrly-student-education-learning-college-campus-book-study-man-f5b3773638",
+          "vctrly-student-education-learning-college-campus-book-study-math-ed183eb973"
+        ]
+      }
+    },
+    {
+      "id": "coral-reef",
+      "name": "Coral Reef",
+      "description": "Photo Album recipe using the shared eight-slot contract for Coral Reef.",
+      "collectionIds": [
+        "album-theme-coral-reef"
+      ],
+      "assetSlots": {
+        "banner": [
+          "coral-reef-95275e0476",
+          "coral-reef-a4dc9d5d32",
+          "coral-reef-b371bb1a75",
+          "fringing-reef-4fb12d746d",
+          "coral-bloom-57cb49d273",
+          "fish-4de6f72c3c",
+          "ocean-coral-f2325941c8",
+          "tropical-fish-fd48a7aad8"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "coral-reef-95275e0476",
+          "coral-reef-a4dc9d5d32",
+          "coral-reef-b371bb1a75",
+          "fringing-reef-4fb12d746d",
+          "coral-bloom-57cb49d273",
+          "fish-4de6f72c3c",
+          "ocean-coral-f2325941c8",
+          "tropical-fish-fd48a7aad8"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "coral-reef-95275e0476",
+          "coral-reef-a4dc9d5d32",
+          "coral-reef-b371bb1a75",
+          "fringing-reef-4fb12d746d",
+          "coral-bloom-57cb49d273",
+          "fish-4de6f72c3c",
+          "ocean-coral-f2325941c8",
+          "tropical-fish-fd48a7aad8",
+          "backpack-d983ecab15",
+          "beach-7fa5e1ca3d",
+          "beach-bag-414a21cd8d",
+          "beach-ball-8c73733ae2",
+          "beach-blanket-c14bd68967",
+          "beach-bonfire-718341aa67",
+          "beach-chair-bffcfdde73",
+          "beach-cruiser-ff3e13de26",
+          "beach-driftwood-f8edecc558",
+          "beach-hut-bad27e1f60",
+          "beach-pebbles-5326835af0",
+          "beach-reading-8156280117",
+          "beach-rock-11c015c586",
+          "beach-shorts-5599527a8d",
+          "beach-sunset-9d24980213",
+          "beach-swing-103ee7e2b3"
+        ]
+      }
+    },
+    {
+      "id": "cultural-celebration",
+      "name": "Cultural Celebration",
+      "description": "Photo Album recipe using the shared eight-slot contract for Cultural Celebration.",
+      "collectionIds": [
+        "album-theme-cultural-celebration"
+      ],
+      "assetSlots": {
+        "banner": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b"
+        ],
+        "background": [
+          "magnifying-glass-fcf780bba5",
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b",
+          "champagne-tower-73c767df1d",
+          "cn-tower-126c5377e9",
+          "dendur-temple-15b08447e8",
+          "dublin-castle-9b8e7d9f0f",
+          "eiffel-tower-7f080c992d",
+          "freedom-tower-29294df918",
+          "galata-tower-6768f5e7c4",
+          "gliwice-tower-ea18e55ad9",
+          "hassan-tower-c11d93687d",
+          "helsinki-cathedral-d42e573f7e",
+          "hoover-tower-276df4184b",
+          "horyuji-temple-a81ffaf4f6",
+          "leaning-tower-0a2ed63a3d",
+          "malbork-castle-8241c9e268",
+          "matsumoto-castle-a432ce7edc",
+          "miami-tower-21ad8558eb"
+        ]
+      }
+    },
+    {
+      "id": "dinosaurs-fossils",
+      "name": "Dinosaurs \u0026 Fossils",
+      "description": "Photo Album recipe using the shared eight-slot contract for Dinosaurs \u0026 Fossils.",
+      "collectionIds": [
+        "album-theme-dinosaurs-fossils"
+      ],
+      "assetSlots": {
+        "banner": [
+          "1-020ea324e1",
+          "1-d43ae3a55c",
+          "1-dba743078e",
+          "10-6e2bd29d62",
+          "10-c725475bb1",
+          "10-fb893ece5a",
+          "100-5d913bec9c",
+          "100-f506bc2cb7"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [
+          "hanging-frame-76be23b74d",
+          "photo-frame-970e2e989f",
+          "victorian-frame-a97e34cabe"
+        ],
+        "corner-accent": [
+          "1-020ea324e1",
+          "1-d43ae3a55c",
+          "1-dba743078e",
+          "10-6e2bd29d62",
+          "10-c725475bb1",
+          "10-fb893ece5a",
+          "100-5d913bec9c",
+          "100-f506bc2cb7"
+        ],
+        "background": [
+          "roman-glass-135c9b02b8"
+        ],
+        "divider": [],
+        "decorations": [
+          "1-020ea324e1",
+          "1-d43ae3a55c",
+          "1-dba743078e",
+          "10-6e2bd29d62",
+          "10-c725475bb1",
+          "10-fb893ece5a",
+          "100-5d913bec9c",
+          "100-f506bc2cb7",
+          "101-c2fb9718c5",
+          "102-82b4c9d8af",
+          "103-e9ec1a72d1",
+          "104-ebc71ac0ed",
+          "105-86dbd58765",
+          "106-17eda768a8",
+          "107-016d9fc068",
+          "108-a5668f1c81",
+          "109-ca0e708cbf",
+          "11-9e58189341",
+          "11-a613f34798",
+          "11-cf3bc66f62",
+          "110-3c91617f52",
+          "111-5394356790",
+          "112-6b4b750597",
+          "113-05c8af9a74"
+        ]
+      }
+    },
+    {
+      "id": "discovery",
+      "name": "Discovery",
+      "description": "Photo Album recipe using the shared eight-slot contract for Discovery.",
+      "collectionIds": [
+        "album-theme-discovery"
+      ],
+      "assetSlots": {
+        "banner": [
+          "space-needle-b484f42041",
+          "1-020ea324e1",
+          "10-c725475bb1",
+          "100-f506bc2cb7",
+          "101-c2fb9718c5",
+          "102-82b4c9d8af",
+          "103-e9ec1a72d1",
+          "104-ebc71ac0ed"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [
+          "hanging-frame-76be23b74d",
+          "photo-frame-970e2e989f",
+          "victorian-frame-a97e34cabe"
+        ],
+        "corner-accent": [
+          "space-needle-b484f42041",
+          "1-020ea324e1",
+          "10-c725475bb1",
+          "100-f506bc2cb7",
+          "101-c2fb9718c5",
+          "102-82b4c9d8af",
+          "103-e9ec1a72d1",
+          "104-ebc71ac0ed"
+        ],
+        "background": [
+          "roman-glass-135c9b02b8",
+          "magnifying-glass-fcf780bba5"
+        ],
+        "divider": [],
+        "decorations": [
+          "space-needle-b484f42041",
+          "1-020ea324e1",
+          "10-c725475bb1",
+          "100-f506bc2cb7",
+          "101-c2fb9718c5",
+          "102-82b4c9d8af",
+          "103-e9ec1a72d1",
+          "104-ebc71ac0ed",
+          "105-86dbd58765",
+          "106-17eda768a8",
+          "107-016d9fc068",
+          "108-a5668f1c81",
+          "109-ca0e708cbf",
+          "11-cf3bc66f62",
+          "110-3c91617f52",
+          "111-5394356790",
+          "112-6b4b750597",
+          "113-05c8af9a74",
+          "114-012fdc6af8",
+          "115-e2eb28b86d",
+          "116-dec9296fc7",
+          "117-fc2da83654",
+          "118-22f10554ef",
+          "119-4ba0ada1be"
+        ]
+      }
+    },
+    {
+      "id": "end-of-year-memories",
+      "name": "End-of-Year Memories",
+      "description": "Photo Album recipe using the shared eight-slot contract for End-of-Year Memories.",
+      "collectionIds": [
+        "album-theme-end-of-year-memories"
+      ],
+      "assetSlots": {
+        "banner": [
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "binder-file-584ce84640",
+          "biology-teacher-8475f4d3e5"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "photo-frame": [
+          "hanging-frame-76be23b74d",
+          "modular-frame-a8a36becbf",
+          "photo-frame-970e2e989f",
+          "vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305",
+          "victorian-frame-a97e34cabe"
+        ],
+        "corner-accent": [
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "binder-file-584ce84640",
+          "blocks-1755cf7c71"
+        ],
+        "background": [
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "reading-glasses-bfd1553f94",
+          "magnifying-glass-1ec65aa24b",
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "decorations": [
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "binder-file-584ce84640",
+          "biology-teacher-8475f4d3e5",
+          "blocks-1755cf7c71",
+          "books-717a709a7f",
+          "boost-knowledge-8e96abb5eb",
+          "bright-student-21b47c333b",
+          "buy-books-deb7f4df67",
+          "calculator-a1af26ef9e",
+          "calendar-c7709cf2d6",
+          "canvas-painting-5ea2984a76",
+          "cap-f91121d289",
+          "certificate-0b2c808779",
+          "class-teacher-5e440e7527",
+          "clip-holder-14dd9850f1",
+          "clipboard-70fa7ee360",
+          "colour-pencils-edfe60e4a4",
+          "computer-610c28b2ea",
+          "counting-petals-8935b19b1f"
+        ]
+      }
+    },
+    {
+      "id": "fall-festival",
+      "name": "Fall Festival",
+      "description": "Photo Album recipe using the shared eight-slot contract for Fall Festival.",
+      "collectionIds": [
+        "album-theme-fall-festival"
+      ],
+      "assetSlots": {
+        "banner": [
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "autumn-cottage-837a7383bd",
+          "autumn-forest-7e0183a203",
+          "autumn-splendor-94a8692f6e"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "autumn-cottage-837a7383bd",
+          "autumn-forest-7e0183a203",
+          "autumn-splendor-94a8692f6e"
+        ],
+        "background": [
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "autumn-cottage-837a7383bd",
+          "autumn-forest-7e0183a203",
+          "autumn-splendor-94a8692f6e",
+          "autumn-trees-e4724a21c4",
+          "bale-grabber-8490471370",
+          "banjo-203f0c6f20",
+          "banner-29926b3e17",
+          "barn-273f8af229",
+          "bauble-dd6709aa14",
+          "beatboxing-28b52ffba3",
+          "bell-b45739e887",
+          "birdhouse-b2a7830faa",
+          "birthday-banner-f47b53dd1c",
+          "blooming-flowers-9cc5b9a46b",
+          "bouquet-2525ac6a47",
+          "bunny-hat-b8a8028613",
+          "bunny-headband-09253c2fe4",
+          "burger-306184e121",
+          "cabbage-edbd0d1612"
+        ]
+      }
+    },
+    {
+      "id": "farm-agriculture",
+      "name": "Farm \u0026 Agriculture",
+      "description": "Photo Album recipe using the shared eight-slot contract for Farm \u0026 Agriculture.",
+      "collectionIds": [
+        "album-theme-farm-agriculture"
+      ],
+      "assetSlots": {
+        "banner": [
+          "cattle-farm-f76626211b",
+          "animal-feeder-fceab76f4c",
+          "blooming-flowers-9cc5b9a46b",
+          "corn-plant-a56f1031a5",
+          "farm-boots-0f79117aea",
+          "farm-cart-0cc4543e0c",
+          "farm-drone-2bc95b11ad",
+          "farm-pitchfork-cc4dce0172"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "cattle-farm-f76626211b",
+          "animal-feeder-fceab76f4c",
+          "blooming-flowers-9cc5b9a46b",
+          "corn-plant-a56f1031a5",
+          "farm-boots-0f79117aea",
+          "farm-cart-0cc4543e0c",
+          "farm-drone-2bc95b11ad",
+          "farm-pitchfork-cc4dce0172"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "cattle-farm-f76626211b",
+          "animal-feeder-fceab76f4c",
+          "blooming-flowers-9cc5b9a46b",
+          "corn-plant-a56f1031a5",
+          "farm-boots-0f79117aea",
+          "farm-cart-0cc4543e0c",
+          "farm-drone-2bc95b11ad",
+          "farm-pitchfork-cc4dce0172",
+          "farm-plow-e6491afc20",
+          "farm-truck-308d4d7cf3",
+          "farm-wheelbarrow-06b3437ee8",
+          "growing-plant-4538f8f6aa",
+          "hydroponic-plant-89ffa8655b",
+          "lavender-flower-2947f788c8",
+          "almond-bowl-bfb39ca0ce",
+          "automatic-feeder-a7fa3ffa81",
+          "bale-grabber-8490471370",
+          "barn-273f8af229",
+          "bell-b45739e887",
+          "birdhouse-b2a7830faa",
+          "cabbage-edbd0d1612",
+          "carrot-box-5542924338",
+          "cattle-prodder-b6c45fe679",
+          "cow-10815fc4e2"
+        ]
+      }
+    },
+    {
+      "id": "field-day-sports",
+      "name": "Field Day \u0026 Sports",
+      "description": "Photo Album recipe using the shared eight-slot contract for Field Day \u0026 Sports.",
+      "collectionIds": [
+        "album-theme-field-day-sports"
+      ],
+      "assetSlots": {
+        "banner": [
+          "table-tennis-952d0af3e7",
+          "tennis-49ff2dcff1",
+          "abacus-390866ad8b",
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "table-tennis-952d0af3e7",
+          "tennis-49ff2dcff1",
+          "abacus-390866ad8b",
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf"
+        ],
+        "background": [
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "reading-glasses-bfd1553f94",
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "table-tennis-952d0af3e7",
+          "tennis-49ff2dcff1",
+          "abacus-390866ad8b",
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "banjo-203f0c6f20",
+          "banner-29926b3e17",
+          "basketball-f51719664f",
+          "bauble-dd6709aa14",
+          "beatboxing-28b52ffba3",
+          "binder-file-584ce84640",
+          "biology-teacher-8475f4d3e5",
+          "birthday-banner-f47b53dd1c",
+          "blocks-1755cf7c71",
+          "books-717a709a7f",
+          "boost-knowledge-8e96abb5eb",
+          "bouquet-2525ac6a47",
+          "bright-student-21b47c333b",
+          "bunny-hat-b8a8028613"
+        ]
+      }
+    },
+    {
+      "id": "field-trip-adventure",
+      "name": "Field Trip Adventure",
+      "description": "Photo Album recipe using the shared eight-slot contract for Field Trip Adventure.",
+      "collectionIds": [
+        "album-theme-field-trip-adventure"
+      ],
+      "assetSlots": {
+        "banner": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [
+          "hanging-frame-76be23b74d",
+          "photo-frame-970e2e989f",
+          "victorian-frame-a97e34cabe"
+        ],
+        "corner-accent": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b"
+        ],
+        "background": [
+          "magnifying-glass-fcf780bba5",
+          "roman-glass-135c9b02b8"
+        ],
+        "divider": [],
+        "decorations": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b",
+          "cn-tower-126c5377e9",
+          "dendur-temple-15b08447e8",
+          "dublin-castle-9b8e7d9f0f",
+          "eiffel-tower-7f080c992d",
+          "freedom-tower-29294df918",
+          "galata-tower-6768f5e7c4",
+          "gliwice-tower-ea18e55ad9",
+          "hassan-tower-c11d93687d",
+          "helsinki-cathedral-d42e573f7e",
+          "hoover-tower-276df4184b",
+          "horyuji-temple-a81ffaf4f6",
+          "leaning-tower-0a2ed63a3d",
+          "malbork-castle-8241c9e268",
+          "matsumoto-castle-a432ce7edc",
+          "miami-tower-21ad8558eb",
+          "nagoya-castle-f4deea9148"
+        ]
+      }
+    },
+    {
+      "id": "history-heritage",
+      "name": "History \u0026 Heritage",
+      "description": "Photo Album recipe using the shared eight-slot contract for History \u0026 Heritage.",
+      "collectionIds": [
+        "album-theme-history-heritage"
+      ],
+      "assetSlots": {
+        "banner": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [
+          "hanging-frame-76be23b74d",
+          "photo-frame-970e2e989f",
+          "victorian-frame-a97e34cabe"
+        ],
+        "corner-accent": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b"
+        ],
+        "background": [
+          "magnifying-glass-fcf780bba5",
+          "roman-glass-135c9b02b8"
+        ],
+        "divider": [],
+        "decorations": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b",
+          "cn-tower-126c5377e9",
+          "dendur-temple-15b08447e8",
+          "dublin-castle-9b8e7d9f0f",
+          "eiffel-tower-7f080c992d",
+          "freedom-tower-29294df918",
+          "galata-tower-6768f5e7c4",
+          "gliwice-tower-ea18e55ad9",
+          "hassan-tower-c11d93687d",
+          "helsinki-cathedral-d42e573f7e",
+          "hoover-tower-276df4184b",
+          "horyuji-temple-a81ffaf4f6",
+          "leaning-tower-0a2ed63a3d",
+          "malbork-castle-8241c9e268",
+          "matsumoto-castle-a432ce7edc",
+          "miami-tower-21ad8558eb",
+          "nagoya-castle-f4deea9148"
+        ]
+      }
+    },
+    {
+      "id": "library-reading",
+      "name": "Library \u0026 Reading",
+      "description": "Photo Album recipe using the shared eight-slot contract for Library \u0026 Reading.",
+      "collectionIds": [
+        "album-theme-library-reading"
+      ],
+      "assetSlots": {
+        "banner": [
+          "banned-book-4046d87ae1",
+          "book-clock-a12aaa4cb3",
+          "book-coasters-69160c3e4b",
+          "book-delivery-d0acd300d9",
+          "book-display-cd32e0a04c",
+          "book-magnifier-3a852096ea",
+          "book-permits-4f8b07850b",
+          "book-return-e6a790b56f"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "banned-book-4046d87ae1",
+          "book-clock-a12aaa4cb3",
+          "book-coasters-69160c3e4b",
+          "book-delivery-d0acd300d9",
+          "book-display-cd32e0a04c",
+          "book-magnifier-3a852096ea",
+          "book-permits-4f8b07850b",
+          "book-return-e6a790b56f"
+        ],
+        "background": [
+          "reading-glasses-2b7920a060",
+          "reading-glasses-bfd1553f94",
+          "reading-glasses-e7e89285b2",
+          "glass-magnifying-3d-icon-9b6f6791c1"
+        ],
+        "divider": [],
+        "decorations": [
+          "banned-book-4046d87ae1",
+          "book-clock-a12aaa4cb3",
+          "book-coasters-69160c3e4b",
+          "book-delivery-d0acd300d9",
+          "book-display-cd32e0a04c",
+          "book-magnifier-3a852096ea",
+          "book-permits-4f8b07850b",
+          "book-return-e6a790b56f",
+          "book-shelf-703f5a9741",
+          "book-stack-1568806f1a",
+          "book-stand-02aa8ccccb",
+          "book-umbrella-acb0452029",
+          "books-717a709a7f",
+          "braille-book-7e45672aee",
+          "buy-books-deb7f4df67",
+          "censored-book-ae1c89be9d",
+          "fantasy-book-da9f51b3ae",
+          "fitness-books-b66f96f53c",
+          "graduation-book-e75f7f8f56",
+          "historic-book-27b9d807f6",
+          "interesting-book-b932915f14",
+          "key-book-5bf77ce077",
+          "law-book-fc28587c2d",
+          "library-badge-11aefe3966"
+        ]
+      }
+    },
+    {
+      "id": "memory-gallery",
+      "name": "Memory Gallery",
+      "description": "Photo Album recipe using the shared eight-slot contract for Memory Gallery.",
+      "collectionIds": [
+        "album-theme-memory-gallery"
+      ],
+      "assetSlots": {
+        "banner": [
+          "vctrly-studio-work-creative-creativity-art-productions-artist-dr-cd0f04bdad",
+          "vctrly-studio-work-creative-creativity-art-productions-draw-arti-800a0b3f0f",
+          "1-020ea324e1",
+          "10-c725475bb1",
+          "100-f506bc2cb7",
+          "101-c2fb9718c5",
+          "102-82b4c9d8af",
+          "103-e9ec1a72d1"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [
+          "hanging-frame-76be23b74d",
+          "photo-frame-970e2e989f",
+          "victorian-frame-a97e34cabe",
+          "modular-frame-a8a36becbf",
+          "vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305"
+        ],
+        "corner-accent": [
+          "vctrly-studio-work-creative-creativity-art-productions-artist-dr-cd0f04bdad",
+          "vctrly-studio-work-creative-creativity-art-productions-draw-arti-800a0b3f0f",
+          "1-020ea324e1",
+          "10-c725475bb1",
+          "100-f506bc2cb7",
+          "101-c2fb9718c5",
+          "102-82b4c9d8af",
+          "103-e9ec1a72d1"
+        ],
+        "background": [
+          "roman-glass-135c9b02b8"
+        ],
+        "divider": [],
+        "decorations": [
+          "vctrly-studio-work-creative-creativity-art-productions-artist-dr-cd0f04bdad",
+          "vctrly-studio-work-creative-creativity-art-productions-draw-arti-800a0b3f0f",
+          "1-020ea324e1",
+          "10-c725475bb1",
+          "100-f506bc2cb7",
+          "101-c2fb9718c5",
+          "102-82b4c9d8af",
+          "103-e9ec1a72d1",
+          "104-ebc71ac0ed",
+          "105-86dbd58765",
+          "106-17eda768a8",
+          "107-016d9fc068",
+          "108-a5668f1c81",
+          "109-ca0e708cbf",
+          "11-cf3bc66f62",
+          "110-3c91617f52",
+          "111-5394356790",
+          "112-6b4b750597",
+          "113-05c8af9a74",
+          "114-012fdc6af8",
+          "115-e2eb28b86d",
+          "116-dec9296fc7",
+          "117-fc2da83654",
+          "118-22f10554ef"
+        ]
+      }
+    },
+    {
+      "id": "museum-adventure",
+      "name": "Museum Adventure",
+      "description": "Photo Album recipe using the shared eight-slot contract for Museum Adventure.",
+      "collectionIds": [
+        "album-theme-museum-adventure"
+      ],
+      "assetSlots": {
+        "banner": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [
+          "hanging-frame-76be23b74d",
+          "photo-frame-970e2e989f",
+          "victorian-frame-a97e34cabe"
+        ],
+        "corner-accent": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b"
+        ],
+        "background": [
+          "magnifying-glass-fcf780bba5",
+          "roman-glass-135c9b02b8"
+        ],
+        "divider": [],
+        "decorations": [
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cayan-tower-0602be779b",
+          "cn-tower-126c5377e9",
+          "dendur-temple-15b08447e8",
+          "dublin-castle-9b8e7d9f0f",
+          "eiffel-tower-7f080c992d",
+          "freedom-tower-29294df918",
+          "galata-tower-6768f5e7c4",
+          "gliwice-tower-ea18e55ad9",
+          "hassan-tower-c11d93687d",
+          "helsinki-cathedral-d42e573f7e",
+          "hoover-tower-276df4184b",
+          "horyuji-temple-a81ffaf4f6",
+          "leaning-tower-0a2ed63a3d",
+          "malbork-castle-8241c9e268",
+          "matsumoto-castle-a432ce7edc",
+          "miami-tower-21ad8558eb",
+          "nagoya-castle-f4deea9148"
+        ]
+      }
+    },
+    {
+      "id": "music-performance",
+      "name": "Music \u0026 Performance",
+      "description": "Photo Album recipe using the shared eight-slot contract for Music \u0026 Performance.",
+      "collectionIds": [
+        "album-theme-music-performance"
+      ],
+      "assetSlots": {
+        "banner": [
+          "drum-ced23384e3",
+          "drum-set-acf7ecb66f",
+          "guitar-140656f0f8",
+          "guitar-b9f863ed9a",
+          "guitar-strumming-9c5ee943e2",
+          "music-speakers-b9ba2cb533",
+          "piano-0ae1abbaa6",
+          "saxophone-f9c6142328"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "drum-ced23384e3",
+          "drum-set-acf7ecb66f",
+          "guitar-140656f0f8",
+          "acoustic-guitar-f4cb06bb9e",
+          "bass-guitar-503b664bc9",
+          "double-neck-guitar-2a388771de",
+          "drum-set-50b8bbadae",
+          "electric-guitar-c385988719"
+        ],
+        "background": [
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "drum-ced23384e3",
+          "drum-set-acf7ecb66f",
+          "guitar-140656f0f8",
+          "acoustic-guitar-f4cb06bb9e",
+          "bass-guitar-503b664bc9",
+          "double-neck-guitar-2a388771de",
+          "drum-set-50b8bbadae",
+          "electric-guitar-c385988719",
+          "grand-piano-da5fdb4006",
+          "guitar-b9f863ed9a",
+          "guitar-strumming-9c5ee943e2",
+          "music-speakers-b9ba2cb533",
+          "piano-0ae1abbaa6",
+          "piano-7b3cc09b05",
+          "saxophone-470dedb7b5",
+          "saxophone-f9c6142328",
+          "snare-drum-7298236030",
+          "trumpet-7b080e32f5",
+          "trumpet-fc1b9b3e02",
+          "violin-db5ba8fa75",
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "angklung-d4fa6b7a1b",
+          "banjo-203f0c6f20"
+        ]
+      }
+    },
+    {
+      "id": "natural-history-museum",
+      "name": "Natural History Museum",
+      "description": "Photo Album recipe using the shared eight-slot contract for Natural History Museum.",
+      "collectionIds": [
+        "album-theme-natural-history-museum"
+      ],
+      "assetSlots": {
+        "banner": [
+          "animal-book-51f09dc490",
+          "animal-cell-3218332792",
+          "animal-feeder-20e08cf7ae",
+          "animal-feeder-fceab76f4c",
+          "animal-testing-b306701733",
+          "animal-trap-bee83fa43d",
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [
+          "hanging-frame-76be23b74d",
+          "photo-frame-970e2e989f",
+          "victorian-frame-a97e34cabe"
+        ],
+        "corner-accent": [
+          "animal-book-51f09dc490",
+          "animal-cell-3218332792",
+          "animal-feeder-20e08cf7ae",
+          "animal-feeder-fceab76f4c",
+          "animal-testing-b306701733",
+          "animal-trap-bee83fa43d",
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6"
+        ],
+        "background": [
+          "roman-glass-135c9b02b8"
+        ],
+        "divider": [],
+        "decorations": [
+          "animal-book-51f09dc490",
+          "animal-cell-3218332792",
+          "animal-feeder-20e08cf7ae",
+          "animal-feeder-fceab76f4c",
+          "animal-testing-b306701733",
+          "animal-trap-bee83fa43d",
+          "arun-temple-eeb36101a1",
+          "aspire-tower-6f3dd49ef6",
+          "barzan-tower-d2996936f7",
+          "belem-tower-cc266ea325",
+          "blarney-castle-f7d749224d",
+          "borobudur-temple-124d4f77ce",
+          "bristol-castle-4fb0a808fb",
+          "cat-718959ead0",
+          "cayan-tower-0602be779b",
+          "cn-tower-126c5377e9",
+          "dendur-temple-15b08447e8",
+          "dog-3ebe6102df",
+          "dublin-castle-9b8e7d9f0f",
+          "eiffel-tower-7f080c992d",
+          "freedom-tower-29294df918",
+          "galata-tower-6768f5e7c4",
+          "gliwice-tower-ea18e55ad9",
+          "hassan-tower-c11d93687d"
+        ]
+      }
+    },
+    {
+      "id": "night-sky-constellations",
+      "name": "Night Sky \u0026 Constellations",
+      "description": "Photo Album recipe using the shared eight-slot contract for Night Sky \u0026 Constellations.",
+      "collectionIds": [
+        "album-theme-night-sky-constellations"
+      ],
+      "assetSlots": {
+        "banner": [
+          "lunar-robot-a2087069b0",
+          "moon-b7752b8c1d",
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff",
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b",
+          "ai-robot-a57903c81f",
+          "alien-55541b99ca",
+          "alien-rocket-dd65fcffea",
+          "alien-saucer-74ce828f74"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "lunar-robot-a2087069b0",
+          "moon-b7752b8c1d",
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff",
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b",
+          "ai-robot-a57903c81f",
+          "alien-55541b99ca",
+          "alien-rocket-dd65fcffea",
+          "alien-saucer-74ce828f74"
+        ],
+        "background": [
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [],
+        "decorations": [
+          "lunar-robot-a2087069b0",
+          "moon-b7752b8c1d",
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff",
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b",
+          "ai-robot-a57903c81f",
+          "alien-55541b99ca",
+          "alien-rocket-dd65fcffea",
+          "alien-saucer-74ce828f74",
+          "alien-spaceship-588950454f",
+          "alien-ufo-9f23e59dbe",
+          "asteroid-a323402d06",
+          "astronaut-08cc3f5dc3",
+          "astronaut-173c730311",
+          "astronaut-helmet-5af3fdb4b4",
+          "astronomy-bae2cd9453",
+          "black-hole-cc6749b107",
+          "bonfire-night-1b761e9918",
+          "camp-night-edd966abde",
+          "cryogenic-chamber-cd5ea62ec4",
+          "crystal-globe-4a1cece08e",
+          "detecting-tool-c673dddd00",
+          "digital-tablet-a3a3a0e2f7",
+          "drone-f6eacff76c",
+          "exploration-robot-24f46bbed9"
+        ]
+      }
+    },
+    {
+      "id": "ocean-aquarium",
+      "name": "Ocean \u0026 Aquarium",
+      "description": "Photo Album recipe using the shared eight-slot contract for Ocean \u0026 Aquarium.",
+      "collectionIds": [
+        "album-theme-ocean-aquarium"
+      ],
+      "assetSlots": {
+        "banner": [
+          "coral-bloom-57cb49d273",
+          "coral-reef-b371bb1a75",
+          "ocean-coral-f2325941c8",
+          "tropical-fish-fd48a7aad8",
+          "backpack-d983ecab15",
+          "beach-7fa5e1ca3d",
+          "beach-bag-414a21cd8d",
+          "beach-ball-8c73733ae2"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "coral-bloom-57cb49d273",
+          "coral-reef-b371bb1a75",
+          "ocean-coral-f2325941c8",
+          "tropical-fish-fd48a7aad8",
+          "backpack-d983ecab15",
+          "beach-7fa5e1ca3d",
+          "beach-bag-414a21cd8d",
+          "beach-ball-8c73733ae2"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "coral-bloom-57cb49d273",
+          "coral-reef-b371bb1a75",
+          "ocean-coral-f2325941c8",
+          "tropical-fish-fd48a7aad8",
+          "backpack-d983ecab15",
+          "beach-7fa5e1ca3d",
+          "beach-bag-414a21cd8d",
+          "beach-ball-8c73733ae2",
+          "beach-blanket-c14bd68967",
+          "beach-bonfire-718341aa67",
+          "beach-chair-bffcfdde73",
+          "beach-cruiser-ff3e13de26",
+          "beach-driftwood-f8edecc558",
+          "beach-hut-bad27e1f60",
+          "beach-pebbles-5326835af0",
+          "beach-reading-8156280117",
+          "beach-rock-11c015c586",
+          "beach-shorts-5599527a8d",
+          "beach-sunset-9d24980213",
+          "beach-swing-103ee7e2b3",
+          "beach-umbrella-64e1cd0da3",
+          "bikini-top-7cdb0a83d3",
+          "binoculars-0eb70f3855",
+          "boat-anchor-00b0a75e94"
+        ]
+      }
+    },
+    {
+      "id": "park-outdoor-adventure",
+      "name": "Park \u0026 Outdoor Adventure",
+      "description": "Photo Album recipe using the shared eight-slot contract for Park \u0026 Outdoor Adventure.",
+      "collectionIds": [
+        "album-theme-park-outdoor-adventure"
+      ],
+      "assetSlots": {
+        "banner": [
+          "vctrly-outdoor-laptop-drawing-tablet-landscape-tree-plan-man-nom-293be726a6",
+          "vctrly-woman-laptop-digital-tree-outdoor-chair-b8fff256f8",
+          "autumn-forest-7e0183a203",
+          "autumn-trees-e4724a21c4",
+          "bamboo-forest-bbb34f00f2",
+          "christmas-trees-94c04fadd6",
+          "forest-river-e3b75d0379",
+          "forest-scenery-bb97623951"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "autumn-forest-7e0183a203",
+          "autumn-trees-e4724a21c4",
+          "bamboo-forest-bbb34f00f2",
+          "christmas-trees-94c04fadd6",
+          "forest-river-e3b75d0379",
+          "forest-scenery-bb97623951",
+          "mangrove-forest-acef670694",
+          "oak-tree-7c78d14893"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "vctrly-outdoor-laptop-drawing-tablet-landscape-tree-plan-man-nom-293be726a6",
+          "vctrly-woman-laptop-digital-tree-outdoor-chair-b8fff256f8",
+          "autumn-forest-7e0183a203",
+          "autumn-trees-e4724a21c4",
+          "bamboo-forest-bbb34f00f2",
+          "christmas-trees-94c04fadd6",
+          "forest-river-e3b75d0379",
+          "forest-scenery-bb97623951",
+          "mangrove-forest-acef670694",
+          "oak-tree-7c78d14893",
+          "outdoor-reading-a8461f9508",
+          "palm-fronds-f062bd49c6",
+          "palm-island-bbac7f1a72",
+          "palm-tree-ee4d43794a",
+          "palm-trees-9215ddcc31",
+          "rain-forest-196ab5c472",
+          "rainy-forest-2d134efca8",
+          "salix-tree-a19abc763e",
+          "scary-forest-232fe9ad2c",
+          "tree-2f99eae542",
+          "tree-canopy-19eab333e2",
+          "tree-stump-7f47892c1c",
+          "vctrly-teamwork-trip-outdoor-travel-traveling-training-camp-team-e78476cc6c",
+          "vctrly-teamwork-workspace-anywhere-public-space-outdoor-c07f6a2f60"
+        ]
+      }
+    },
+    {
+      "id": "plants-pollinators",
+      "name": "Plants \u0026 Pollinators",
+      "description": "Photo Album recipe using the shared eight-slot contract for Plants \u0026 Pollinators.",
+      "collectionIds": [
+        "album-theme-plants-pollinators"
+      ],
+      "assetSlots": {
+        "banner": [
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-e7466e3df2",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-f700b98938",
+          "decorative-plant-3044d33694",
+          "flower-plants-93bdc61203",
+          "plant-caddy-e098930793",
+          "plant-cloche-16632c2bc0",
+          "plant-dome-ee93351b23",
+          "plant-shelf-b5883afcaf",
+          "plant-stand-31ba3b47c3",
+          "plant-tray-43549e7638",
+          "plant-trellis-9cfbeab81a",
+          "potted-plant-7d05008c37",
+          "air-plant-bebf0c0b90",
+          "anemone-flower-9e02f901cf",
+          "aster-flower-30a7d2a32b",
+          "bell-flowers-452b76428f"
+        ]
+      }
+    },
+    {
+      "id": "pumpkin-patch",
+      "name": "Pumpkin Patch",
+      "description": "Photo Album recipe using the shared eight-slot contract for Pumpkin Patch.",
+      "collectionIds": [
+        "album-theme-pumpkin-patch"
+      ],
+      "assetSlots": {
+        "banner": [
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "autumn-cottage-837a7383bd",
+          "autumn-forest-7e0183a203",
+          "autumn-splendor-94a8692f6e",
+          "autumn-trees-e4724a21c4",
+          "bale-grabber-8490471370"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "autumn-cottage-837a7383bd",
+          "autumn-forest-7e0183a203",
+          "autumn-splendor-94a8692f6e",
+          "autumn-trees-e4724a21c4",
+          "bale-grabber-8490471370"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "almond-bowl-bfb39ca0ce",
+          "animal-feeder-fceab76f4c",
+          "automatic-feeder-a7fa3ffa81",
+          "autumn-cottage-837a7383bd",
+          "autumn-forest-7e0183a203",
+          "autumn-splendor-94a8692f6e",
+          "autumn-trees-e4724a21c4",
+          "bale-grabber-8490471370",
+          "barn-273f8af229",
+          "bell-b45739e887",
+          "birdhouse-b2a7830faa",
+          "blooming-flowers-9cc5b9a46b",
+          "cabbage-edbd0d1612",
+          "carrot-box-5542924338",
+          "cattle-farm-f76626211b",
+          "cattle-prodder-b6c45fe679",
+          "corn-plant-a56f1031a5",
+          "cow-10815fc4e2",
+          "door-229f828fb4",
+          "drilling-machine-fd049a3231",
+          "dumper-305ea38b11",
+          "egg-collector-f7db41045e",
+          "egg-incubator-c649fdbd77",
+          "egg-tray-deec8a412e"
+        ]
+      }
+    },
+    {
+      "id": "safari-adventure",
+      "name": "Safari Adventure",
+      "description": "Photo Album recipe using the shared eight-slot contract for Safari Adventure.",
+      "collectionIds": [
+        "album-theme-safari-adventure"
+      ],
+      "assetSlots": {
+        "banner": [
+          "animal-book-51f09dc490",
+          "animal-feeder-20e08cf7ae",
+          "animal-trap-bee83fa43d",
+          "civet-cat-0008b2b727",
+          "lion-roaring-9261c76831",
+          "monkey-b6a454eedf",
+          "secretary-bird-f5d3a7383a",
+          "tiger-moth-191554866c"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [
+          "hanging-frame-76be23b74d",
+          "photo-frame-970e2e989f",
+          "victorian-frame-a97e34cabe"
+        ],
+        "corner-accent": [
+          "animal-book-51f09dc490",
+          "animal-feeder-20e08cf7ae",
+          "animal-trap-bee83fa43d",
+          "civet-cat-0008b2b727",
+          "lion-roaring-9261c76831",
+          "monkey-b6a454eedf",
+          "secretary-bird-f5d3a7383a",
+          "tiger-moth-191554866c"
+        ],
+        "background": [
+          "magnifying-glass-fcf780bba5",
+          "roman-glass-135c9b02b8"
+        ],
+        "divider": [],
+        "decorations": [
+          "animal-book-51f09dc490",
+          "animal-feeder-20e08cf7ae",
+          "animal-trap-bee83fa43d",
+          "civet-cat-0008b2b727",
+          "lion-roaring-9261c76831",
+          "monkey-b6a454eedf",
+          "secretary-bird-f5d3a7383a",
+          "tiger-moth-191554866c",
+          "wild-dog-5178f8b856",
+          "adventure-map-1e43ee8ef7",
+          "african-hare-b2593ee24f",
+          "ammo-belt-f1eeeb74b4",
+          "animal-cell-3218332792",
+          "animal-feeder-fceab76f4c",
+          "animal-testing-b306701733",
+          "archery-bow-4e1c80e92d",
+          "backpack-a6c90aa9b8",
+          "binoculars-f49a57b44d",
+          "black-mamba-8c1f53304f",
+          "bullet-belt-507887af1c",
+          "bush-saw-96a0964b01",
+          "butterfly-net-5a8b04b0aa",
+          "camera-d713a6e2eb",
+          "camouflage-gaiters-aa0f101e6c"
+        ]
+      }
+    },
+    {
+      "id": "school-bus-adventure",
+      "name": "School Bus Adventure",
+      "description": "Photo Album recipe using the shared eight-slot contract for School Bus Adventure.",
+      "collectionIds": [
+        "album-theme-school-bus-adventure"
+      ],
+      "assetSlots": {
+        "banner": [
+          "bus-conductor-e255d18bd2",
+          "rescue-vehicle-c2578e3a44",
+          "school-bus-e63acd13ca",
+          "space-vehicle-f5d2ee5972",
+          "vehicle-illustrations-fc2d30e1b3",
+          "1-cdc7cc554b",
+          "10-43e91bf114",
+          "11-6ebc0ba4a2"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "bus-conductor-e255d18bd2",
+          "rescue-vehicle-c2578e3a44",
+          "school-bus-e63acd13ca",
+          "space-vehicle-f5d2ee5972",
+          "vehicle-illustrations-fc2d30e1b3",
+          "1-cdc7cc554b",
+          "10-43e91bf114",
+          "11-6ebc0ba4a2"
+        ],
+        "background": [
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "reading-glasses-bfd1553f94"
+        ],
+        "divider": [],
+        "decorations": [
+          "bus-conductor-e255d18bd2",
+          "rescue-vehicle-c2578e3a44",
+          "school-bus-e63acd13ca",
+          "space-vehicle-f5d2ee5972",
+          "vehicle-illustrations-fc2d30e1b3",
+          "1-cdc7cc554b",
+          "10-43e91bf114",
+          "11-6ebc0ba4a2",
+          "12-548f1f5d69",
+          "13-adc194496c",
+          "14-ca6c4537d4",
+          "15-c02c579fe2",
+          "16-8654860068",
+          "17-3fbe7a6d73",
+          "18-8e5f067587",
+          "19-72097312d2",
+          "2-914f7d26bc",
+          "20-e68ff98165",
+          "21-a0d01581e7",
+          "22-a5ca09b001",
+          "23-0deea6126a",
+          "24-60d507f2f8",
+          "25-2391d30983",
+          "26-8fe5d66d34"
+        ]
+      }
+    },
+    {
+      "id": "school-carnival",
+      "name": "School Carnival",
+      "description": "Photo Album recipe using the shared eight-slot contract for School Carnival.",
+      "collectionIds": [
+        "album-theme-school-carnival"
+      ],
+      "assetSlots": {
+        "banner": [
+          "party-cap-bc88b1b730",
+          "party-celebration-doodles-0a28266668",
+          "party-dress-df48e89566",
+          "party-girl-a473f8f221",
+          "party-hats-8612b7a1b3",
+          "party-horn-5a0a24841c",
+          "party-pipe-83b8416733",
+          "party-popper-3d3aeaeafe"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "party-cap-bc88b1b730",
+          "party-celebration-doodles-0a28266668",
+          "party-dress-df48e89566",
+          "party-hats-8612b7a1b3",
+          "party-horn-5a0a24841c",
+          "party-pipe-83b8416733",
+          "party-popper-3d3aeaeafe",
+          "party-table-737efe9ff7"
+        ],
+        "background": [
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "reading-glasses-bfd1553f94",
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "party-cap-bc88b1b730",
+          "party-celebration-doodles-0a28266668",
+          "party-dress-df48e89566",
+          "party-girl-a473f8f221",
+          "party-hats-8612b7a1b3",
+          "party-horn-5a0a24841c",
+          "party-pipe-83b8416733",
+          "party-popper-3d3aeaeafe",
+          "party-table-737efe9ff7",
+          "virtual-party-4b94666a67",
+          "abacus-390866ad8b",
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "banjo-203f0c6f20",
+          "banner-29926b3e17",
+          "bauble-dd6709aa14",
+          "beatboxing-28b52ffba3",
+          "binder-file-584ce84640",
+          "biology-teacher-8475f4d3e5"
+        ]
+      }
+    },
+    {
+      "id": "science-lab",
+      "name": "Science Lab",
+      "description": "Photo Album recipe using the shared eight-slot contract for Science Lab.",
+      "collectionIds": [
+        "album-theme-science-lab"
+      ],
+      "assetSlots": {
+        "banner": [
+          "biology-doodles-19693719f3",
+          "biology-lecture-01170f9b54",
+          "biology-teacher-8475f4d3e5",
+          "science-book-5e7fb437b6",
+          "science-doodles-6fd34df3c3",
+          "science-experiment-8d23fa16b1",
+          "science-innovation-4ad49445ef",
+          "science-lecture-a95896888f"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "science-laboratory-68909b8d3c",
+          "biology-doodles-19693719f3",
+          "biology-lecture-01170f9b54",
+          "science-book-5e7fb437b6",
+          "science-doodles-6fd34df3c3",
+          "science-experiment-8d23fa16b1",
+          "science-innovation-4ad49445ef",
+          "science-lecture-a95896888f"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "science-laboratory-68909b8d3c",
+          "biology-doodles-19693719f3",
+          "biology-lecture-01170f9b54",
+          "biology-teacher-8475f4d3e5",
+          "science-book-5e7fb437b6",
+          "science-doodles-6fd34df3c3",
+          "science-experiment-8d23fa16b1",
+          "science-innovation-4ad49445ef",
+          "science-lecture-a95896888f",
+          "space-telescope-cd7c92ea9b",
+          "telescope-45792a1b40",
+          "telescope-9aaa11f2b1",
+          "test-tubes-2072a26ac8",
+          "test-tubes-8f53b2b55f",
+          "acoustic-wave-8656118c70",
+          "ai-robot-0538a5cb59",
+          "amoeba-22011c07ba",
+          "anemia-3b6e2241bd",
+          "animal-cell-3218332792",
+          "animal-testing-b306701733",
+          "astronaut-173c730311",
+          "atom-structure-548c0a746f",
+          "attraction-39e93636b2",
+          "bacteria-b596d025b6"
+        ]
+      }
+    },
+    {
+      "id": "science-museum",
+      "name": "Science Museum",
+      "description": "Photo Album recipe using the shared eight-slot contract for Science Museum.",
+      "collectionIds": [
+        "album-theme-science-museum"
+      ],
+      "assetSlots": {
+        "banner": [
+          "1-020ea324e1",
+          "10-c725475bb1",
+          "100-f506bc2cb7",
+          "101-c2fb9718c5",
+          "102-82b4c9d8af",
+          "103-e9ec1a72d1",
+          "104-ebc71ac0ed",
+          "105-86dbd58765"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [
+          "hanging-frame-76be23b74d",
+          "photo-frame-970e2e989f",
+          "victorian-frame-a97e34cabe"
+        ],
+        "corner-accent": [
+          "1-020ea324e1",
+          "10-c725475bb1",
+          "100-f506bc2cb7",
+          "101-c2fb9718c5",
+          "102-82b4c9d8af",
+          "103-e9ec1a72d1",
+          "104-ebc71ac0ed",
+          "105-86dbd58765"
+        ],
+        "background": [
+          "roman-glass-135c9b02b8",
+          "magnifying-glass-fcf780bba5"
+        ],
+        "divider": [],
+        "decorations": [
+          "1-020ea324e1",
+          "10-c725475bb1",
+          "100-f506bc2cb7",
+          "101-c2fb9718c5",
+          "102-82b4c9d8af",
+          "103-e9ec1a72d1",
+          "104-ebc71ac0ed",
+          "105-86dbd58765",
+          "106-17eda768a8",
+          "107-016d9fc068",
+          "108-a5668f1c81",
+          "109-ca0e708cbf",
+          "11-cf3bc66f62",
+          "110-3c91617f52",
+          "111-5394356790",
+          "112-6b4b750597",
+          "113-05c8af9a74",
+          "114-012fdc6af8",
+          "115-e2eb28b86d",
+          "116-dec9296fc7",
+          "117-fc2da83654",
+          "118-22f10554ef",
+          "119-4ba0ada1be",
+          "12-0d9f3bcae7"
+        ]
+      }
+    },
+    {
+      "id": "space-planetarium",
+      "name": "Space \u0026 Planetarium",
+      "description": "Photo Album recipe using the shared eight-slot contract for Space \u0026 Planetarium.",
+      "collectionIds": [
+        "album-theme-space-planetarium"
+      ],
+      "assetSlots": {
+        "banner": [
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff",
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b",
+          "alien-rocket-dd65fcffea",
+          "alien-spaceship-588950454f",
+          "astronaut-08cc3f5dc3",
+          "astronaut-173c730311",
+          "astronaut-helmet-5af3fdb4b4",
+          "crystal-globe-4a1cece08e"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff",
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b",
+          "alien-rocket-dd65fcffea",
+          "alien-spaceship-588950454f",
+          "astronaut-08cc3f5dc3",
+          "astronaut-173c730311",
+          "astronaut-helmet-5af3fdb4b4",
+          "crystal-globe-4a1cece08e"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff",
+          "vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b",
+          "alien-rocket-dd65fcffea",
+          "alien-spaceship-588950454f",
+          "astronaut-08cc3f5dc3",
+          "astronaut-173c730311",
+          "astronaut-helmet-5af3fdb4b4",
+          "crystal-globe-4a1cece08e",
+          "lunar-robot-a2087069b0",
+          "moon-b7752b8c1d",
+          "planet-bcf40eb2b6",
+          "planet-hologram-0b350505da",
+          "rocket-4fe99f597d",
+          "rocket-a9c180f727",
+          "rocket-spaceship-f252b213f3",
+          "space-helmet-695be97bdc",
+          "space-planet-b3559b144c",
+          "space-rocket-414f7c5e43",
+          "spacecraft-ea4dd0547d",
+          "spaceship-attack-2c9b5968a7",
+          "spaceship-landing-0909b11e5d",
+          "world-globe-6e3fd56eb9",
+          "ai-robot-a57903c81f",
+          "alien-55541b99ca"
+        ]
+      }
+    },
+    {
+      "id": "spirit-week",
+      "name": "Spirit Week",
+      "description": "Photo Album recipe using the shared eight-slot contract for Spirit Week.",
+      "collectionIds": [
+        "album-theme-spirit-week"
+      ],
+      "assetSlots": {
+        "banner": [
+          "table-tennis-952d0af3e7",
+          "tennis-49ff2dcff1",
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "table-tennis-952d0af3e7",
+          "tennis-49ff2dcff1",
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8"
+        ],
+        "background": [
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "reading-glasses-bfd1553f94",
+          "magnifying-glass-1ec65aa24b",
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401",
+          "scale-divider-5bf5fad325"
+        ],
+        "decorations": [
+          "table-tennis-952d0af3e7",
+          "tennis-49ff2dcff1",
+          "abacus-390866ad8b",
+          "alarm-clock-dcde8fdfe7",
+          "alphabet-blocks-08ef6d8340",
+          "alphabet-popsicle-11a48b9adf",
+          "alphabet-puzzle-073406a8b5",
+          "atom-cb9da277e8",
+          "binder-file-584ce84640",
+          "biology-teacher-8475f4d3e5",
+          "blocks-1755cf7c71",
+          "books-717a709a7f",
+          "boost-knowledge-8e96abb5eb",
+          "bright-student-21b47c333b",
+          "buy-books-deb7f4df67",
+          "calculator-a1af26ef9e",
+          "calendar-c7709cf2d6",
+          "canvas-painting-5ea2984a76",
+          "cap-f91121d289",
+          "certificate-0b2c808779",
+          "class-teacher-5e440e7527",
+          "clip-holder-14dd9850f1",
+          "clipboard-70fa7ee360",
+          "colour-pencils-edfe60e4a4"
+        ]
+      }
+    },
+    {
+      "id": "spring-garden",
+      "name": "Spring Garden",
+      "description": "Photo Album recipe using the shared eight-slot contract for Spring Garden.",
+      "collectionIds": [
+        "album-theme-spring-garden"
+      ],
+      "assetSlots": {
+        "banner": [
+          "blossom-bud-1c1c9e12f6",
+          "citrus-blossom-18fc81ccf6",
+          "tulip-blossom-b72c6281f7",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "blossom-bud-1c1c9e12f6",
+          "citrus-blossom-18fc81ccf6",
+          "tulip-blossom-b72c6281f7",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "blossom-bud-1c1c9e12f6",
+          "citrus-blossom-18fc81ccf6",
+          "tulip-blossom-b72c6281f7",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-e7466e3df2",
+          "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-f700b98938",
+          "anemone-flower-9e02f901cf",
+          "aster-flower-30a7d2a32b",
+          "bell-flowers-452b76428f",
+          "blooming-flowers-9cc5b9a46b",
+          "botanical-flowers-d6d08cb699",
+          "camelia-flowers-7a6af207b6",
+          "chrysanthemum-flower-8ed279c0cf",
+          "clematis-flowers-756b8d2441",
+          "crocus-flower-61f8803cdf",
+          "crocus-flowers-24ff956d32",
+          "decorative-plant-3044d33694"
+        ]
+      }
+    },
+    {
+      "id": "stem-makerspace",
+      "name": "STEM \u0026 Makerspace",
+      "description": "Photo Album recipe using the shared eight-slot contract for STEM \u0026 Makerspace.",
+      "collectionIds": [
+        "album-theme-stem-makerspace"
+      ],
+      "assetSlots": {
+        "banner": [
+          "education-robot-76ee96f5be",
+          "abacus-390866ad8b",
+          "ai-robot-0538a5cb59",
+          "bio-robot-e415a2e3ce",
+          "biology-teacher-8475f4d3e5",
+          "bright-student-21b47c333b",
+          "calculator-13bb09b755",
+          "calculator-a1af26ef9e"
+        ],
+        "top-trim": [
+          "scale-divider-5bf5fad325"
+        ],
+        "bottom-trim": [
+          "scale-divider-5bf5fad325"
+        ],
+        "photo-frame": [
+          "modular-frame-a8a36becbf"
+        ],
+        "corner-accent": [
+          "education-robot-76ee96f5be",
+          "abacus-390866ad8b",
+          "ai-robot-0538a5cb59",
+          "bio-robot-e415a2e3ce",
+          "calculator-13bb09b755",
+          "calculator-a1af26ef9e",
+          "math-robot-dffa8d4a95",
+          "microscope-5993ce3a67"
+        ],
+        "background": [
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "magnifying-glass-1ec65aa24b",
+          "magnifying-glass-c334982113",
+          "reading-glasses-bfd1553f94",
+          "safety-glasses-13ceb31c87"
+        ],
+        "divider": [
+          "scale-divider-5bf5fad325"
+        ],
+        "decorations": [
+          "education-robot-76ee96f5be",
+          "abacus-390866ad8b",
+          "ai-robot-0538a5cb59",
+          "bio-robot-e415a2e3ce",
+          "biology-teacher-8475f4d3e5",
+          "bright-student-21b47c333b",
+          "calculator-13bb09b755",
+          "calculator-a1af26ef9e",
+          "class-teacher-5e440e7527",
+          "math-robot-dffa8d4a95",
+          "math-teacher-8f136f6303",
+          "microscope-5993ce3a67",
+          "robotics-3eae3ffccf",
+          "sad-student-4c17677bb2",
+          "scientific-calculator-1ec4439c3e",
+          "stationery-pouch-0b326b746a",
+          "student-degree-03e8e43def",
+          "student-solving-10b9a7e51b",
+          "student-trophy-a101d5e4b5",
+          "teacher-7a20a835d2",
+          "telescope-45792a1b40",
+          "test-tubes-2072a26ac8",
+          "vctrly-programmer-code-coding-laptop-application-web-developer-l-e7e1ce7936",
+          "vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d"
+        ]
+      }
+    },
+    {
+      "id": "summer-send-off",
+      "name": "Summer Send-Off",
+      "description": "Photo Album recipe using the shared eight-slot contract for Summer Send-Off.",
+      "collectionIds": [
+        "album-theme-summer-send-off"
+      ],
+      "assetSlots": {
+        "banner": [
+          "plant-study-46fdcc09df",
+          "1-d43ae3a55c",
+          "1-dba743078e",
+          "10-6e2bd29d62",
+          "10-fb893ece5a",
+          "100-5d913bec9c",
+          "11-9e58189341",
+          "11-a613f34798"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "plant-study-46fdcc09df",
+          "1-d43ae3a55c",
+          "1-dba743078e",
+          "10-6e2bd29d62",
+          "10-fb893ece5a",
+          "100-5d913bec9c",
+          "11-9e58189341",
+          "11-a613f34798"
+        ],
+        "background": [
+          "glass-magnifying-3d-icon-9b6f6791c1",
+          "reading-glasses-bfd1553f94",
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "plant-study-46fdcc09df",
+          "1-d43ae3a55c",
+          "1-dba743078e",
+          "10-6e2bd29d62",
+          "10-fb893ece5a",
+          "100-5d913bec9c",
+          "11-9e58189341",
+          "11-a613f34798",
+          "12-725a24dad0",
+          "12-cd9e7950cc",
+          "13-0181f5a45d",
+          "13-2fb690c245",
+          "14-925e5a5bad",
+          "14-b1e997733f",
+          "15-5ef0f708d7",
+          "15-aa163bc8af",
+          "16-82042f61f4",
+          "16-8cddb83747",
+          "17-56c496995d",
+          "17-6522793532",
+          "18-9578195f6c",
+          "18-f3d96f90c0",
+          "19-07d9b2a89c",
+          "19-f33e5dc2b2"
+        ]
+      }
+    },
+    {
+      "id": "theater-stage",
+      "name": "Theater \u0026 Stage",
+      "description": "Photo Album recipe using the shared eight-slot contract for Theater \u0026 Stage.",
+      "collectionIds": [
+        "album-theme-theater-stage"
+      ],
+      "assetSlots": {
+        "banner": [
+          "drum-ced23384e3",
+          "drum-set-acf7ecb66f",
+          "guitar-140656f0f8",
+          "music-speakers-b9ba2cb533",
+          "accordion-9b56ec9cc6",
+          "air-balloon-3b70a4fd6c",
+          "banjo-203f0c6f20",
+          "banner-29926b3e17"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "drum-ced23384e3",
+          "drum-set-acf7ecb66f",
+          "guitar-140656f0f8",
+          "music-speakers-b9ba2cb533",
+          "accordion-9b56ec9cc6",
+          "acoustic-guitar-f4cb06bb9e",
+          "air-balloon-3b70a4fd6c",
+          "angklung-d4fa6b7a1b"
+        ],
+        "background": [
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "drum-ced23384e3",
+          "drum-set-acf7ecb66f",
+          "guitar-140656f0f8",
+          "music-speakers-b9ba2cb533",
+          "accordion-9b56ec9cc6",
+          "acoustic-guitar-f4cb06bb9e",
+          "air-balloon-3b70a4fd6c",
+          "angklung-d4fa6b7a1b",
+          "banjo-203f0c6f20",
+          "banjo-8dc77cc757",
+          "banner-29926b3e17",
+          "bass-guitar-503b664bc9",
+          "bauble-dd6709aa14",
+          "beatboxing-28b52ffba3",
+          "birthday-banner-f47b53dd1c",
+          "bongo-b44cff980c",
+          "bouquet-2525ac6a47",
+          "bunny-hat-b8a8028613",
+          "bunny-headband-09253c2fe4",
+          "burger-306184e121",
+          "cake-a9e7e31937",
+          "cake-slice-b47113d6cc",
+          "camera-f29a3b0ec9",
+          "candy-cane-762024e873"
+        ]
+      }
+    },
+    {
+      "id": "weather-earth-science",
+      "name": "Weather \u0026 Earth Science",
+      "description": "Photo Album recipe using the shared eight-slot contract for Weather \u0026 Earth Science.",
+      "collectionIds": [
+        "album-theme-weather-earth-science"
+      ],
+      "assetSlots": {
+        "banner": [
+          "rain-cloud-86114946a7",
+          "vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096",
+          "animal-cell-3218332792",
+          "animal-testing-b306701733",
+          "clouds-f35da9ac7e",
+          "earth-globe-f896e461dd",
+          "flower-reproductive-79815e7140",
+          "plant-reproduction-d8591fada2"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "rain-cloud-86114946a7",
+          "vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096",
+          "animal-cell-3218332792",
+          "animal-testing-b306701733",
+          "clouds-f35da9ac7e",
+          "earth-globe-f896e461dd",
+          "flower-reproductive-79815e7140",
+          "plant-reproduction-d8591fada2"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "rain-cloud-86114946a7",
+          "vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096",
+          "animal-cell-3218332792",
+          "animal-testing-b306701733",
+          "clouds-f35da9ac7e",
+          "earth-globe-f896e461dd",
+          "flower-reproductive-79815e7140",
+          "plant-reproduction-d8591fada2",
+          "plant-testing-bfc6364e85",
+          "plant-tissue-a3e5424b4b",
+          "rain-6b9b2bf92c",
+          "rain-forest-196ab5c472",
+          "rainbow-7a5adbe585",
+          "rainbow-7fbbf74288",
+          "snow-crystal-f9bb9a11f4",
+          "snow-lake-9772338b3d",
+          "snow-mountain-202a1995cd",
+          "sun-fd8d0f82e2",
+          "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4",
+          "1-d43ae3a55c",
+          "1-dba743078e",
+          "10-6e2bd29d62",
+          "10-fb893ece5a",
+          "100-5d913bec9c"
+        ]
+      }
+    },
+    {
+      "id": "winter-celebration",
+      "name": "Winter Celebration",
+      "description": "Photo Album recipe using the shared eight-slot contract for Winter Celebration.",
+      "collectionIds": [
+        "album-theme-winter-celebration"
+      ],
+      "assetSlots": {
+        "banner": [
+          "air-balloon-3b70a4fd6c",
+          "christmas-tree-9c11765798",
+          "holiday-cookies-b1d498483f",
+          "party-horn-5a0a24841c",
+          "snow-globe-1ea10c33b8",
+          "winter-holiday-doodles-09a1649991",
+          "accordion-9b56ec9cc6",
+          "advent-calendar-9cd653bd2b"
+        ],
+        "top-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "bottom-trim": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "photo-frame": [],
+        "corner-accent": [
+          "air-balloon-3b70a4fd6c",
+          "christmas-tree-9c11765798",
+          "holiday-cookies-b1d498483f",
+          "party-horn-5a0a24841c",
+          "snow-globe-1ea10c33b8",
+          "winter-holiday-doodles-09a1649991",
+          "accordion-9b56ec9cc6",
+          "advent-calendar-9cd653bd2b"
+        ],
+        "background": [
+          "star-glasses-9b959fbba7"
+        ],
+        "divider": [
+          "garlands-30beb325f4",
+          "hawaii-garland-d8e6ae4401"
+        ],
+        "decorations": [
+          "air-balloon-3b70a4fd6c",
+          "christmas-tree-9c11765798",
+          "holiday-cookies-b1d498483f",
+          "party-horn-5a0a24841c",
+          "snow-globe-1ea10c33b8",
+          "winter-holiday-doodles-09a1649991",
+          "accordion-9b56ec9cc6",
+          "advent-calendar-9cd653bd2b",
+          "antlers-headband-8dccda67db",
+          "apron-f9122608e7",
+          "arctic-seal-e5c84b96df",
+          "banjo-203f0c6f20",
+          "banner-29926b3e17",
+          "bauble-3b874a4944",
+          "bauble-dd6709aa14",
+          "beatboxing-28b52ffba3",
+          "birthday-banner-f47b53dd1c",
+          "bonfire-night-1b761e9918",
+          "bouquet-2525ac6a47",
+          "bouquet-fc5261dc19",
+          "bunny-hat-b8a8028613",
+          "bunny-headband-09253c2fe4",
+          "burger-306184e121",
+          "cake-a9e7e31937"
+        ]
+      }
+    },
+    {
+      "id": "winter-wonderland",
+      "name": "Winter Wonderland",
+      "description": "Photo Album recipe using the shared eight-slot contract for Winter Wonderland.",
+      "collectionIds": [
+        "album-theme-winter-wonderland"
+      ],
+      "assetSlots": {
+        "banner": [
+          "snow-crystal-f9bb9a11f4",
+          "snow-lake-9772338b3d",
+          "snow-mountain-202a1995cd",
+          "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4",
+          "snow-globe-1ea10c33b8",
+          "snow-globe-eda02ca5c9",
+          "snow-pants-b3f7b2d82d",
+          "snow-shovel-f254b51ccf"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "snow-crystal-f9bb9a11f4",
+          "snow-lake-9772338b3d",
+          "snow-mountain-202a1995cd",
+          "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4",
+          "snow-globe-1ea10c33b8",
+          "snow-globe-eda02ca5c9",
+          "snow-pants-b3f7b2d82d",
+          "snow-shovel-f254b51ccf"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "snow-crystal-f9bb9a11f4",
+          "snow-lake-9772338b3d",
+          "snow-mountain-202a1995cd",
+          "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4",
+          "snow-globe-1ea10c33b8",
+          "snow-globe-eda02ca5c9",
+          "snow-pants-b3f7b2d82d",
+          "snow-shovel-f254b51ccf",
+          "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-a455a530c8",
+          "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-e1d4022ce4",
+          "christmas-trees-94c04fadd6",
+          "clouds-f35da9ac7e",
+          "rain-6b9b2bf92c",
+          "rain-cloud-86114946a7",
+          "rain-forest-196ab5c472",
+          "rainbow-7a5adbe585",
+          "rainbow-7fbbf74288",
+          "sun-fd8d0f82e2",
+          "vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096",
+          "winter-grass-c4212cfd1d",
+          "1-d43ae3a55c",
+          "1-dba743078e",
+          "10-6e2bd29d62",
+          "10-fb893ece5a"
+        ]
+      }
+    },
+    {
+      "id": "woodland-fungi",
+      "name": "Woodland \u0026 Fungi",
+      "description": "Photo Album recipe using the shared eight-slot contract for Woodland \u0026 Fungi.",
+      "collectionIds": [
+        "album-theme-woodland-fungi"
+      ],
+      "assetSlots": {
+        "banner": [
+          "autumn-forest-7e0183a203",
+          "bamboo-forest-bbb34f00f2",
+          "forest-river-e3b75d0379",
+          "forest-scenery-bb97623951",
+          "mangrove-forest-acef670694",
+          "rain-forest-196ab5c472",
+          "rainy-forest-2d134efca8",
+          "scary-forest-232fe9ad2c"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "autumn-forest-7e0183a203",
+          "bamboo-forest-bbb34f00f2",
+          "forest-river-e3b75d0379",
+          "forest-scenery-bb97623951",
+          "mangrove-forest-acef670694",
+          "rain-forest-196ab5c472",
+          "rainy-forest-2d134efca8",
+          "scary-forest-232fe9ad2c"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "autumn-forest-7e0183a203",
+          "bamboo-forest-bbb34f00f2",
+          "forest-river-e3b75d0379",
+          "forest-scenery-bb97623951",
+          "mangrove-forest-acef670694",
+          "rain-forest-196ab5c472",
+          "rainy-forest-2d134efca8",
+          "scary-forest-232fe9ad2c",
+          "autumn-trees-e4724a21c4",
+          "christmas-trees-94c04fadd6",
+          "oak-tree-7c78d14893",
+          "palm-fronds-f062bd49c6",
+          "palm-island-bbac7f1a72",
+          "palm-tree-ee4d43794a",
+          "palm-trees-9215ddcc31",
+          "salix-tree-a19abc763e",
+          "tree-2f99eae542",
+          "tree-canopy-19eab333e2",
+          "tree-stump-7f47892c1c",
+          "vctrly-outdoor-laptop-drawing-tablet-landscape-tree-plan-man-nom-293be726a6",
+          "1-d43ae3a55c",
+          "1-dba743078e",
+          "10-6e2bd29d62",
+          "10-fb893ece5a"
+        ]
+      }
+    },
+    {
+      "id": "woodland-nature-center",
+      "name": "Woodland \u0026 Nature Center",
+      "description": "Photo Album recipe using the shared eight-slot contract for Woodland \u0026 Nature Center.",
+      "collectionIds": [
+        "album-theme-woodland-nature-center"
+      ],
+      "assetSlots": {
+        "banner": [
+          "autumn-forest-7e0183a203",
+          "bamboo-forest-bbb34f00f2",
+          "forest-river-e3b75d0379",
+          "forest-scenery-bb97623951",
+          "mangrove-forest-acef670694",
+          "rain-forest-196ab5c472",
+          "rainy-forest-2d134efca8",
+          "scary-forest-232fe9ad2c"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "autumn-forest-7e0183a203",
+          "bamboo-forest-bbb34f00f2",
+          "forest-river-e3b75d0379",
+          "forest-scenery-bb97623951",
+          "mangrove-forest-acef670694",
+          "rain-forest-196ab5c472",
+          "rainy-forest-2d134efca8",
+          "scary-forest-232fe9ad2c"
+        ],
+        "background": [],
+        "divider": [],
+        "decorations": [
+          "autumn-forest-7e0183a203",
+          "bamboo-forest-bbb34f00f2",
+          "forest-river-e3b75d0379",
+          "forest-scenery-bb97623951",
+          "mangrove-forest-acef670694",
+          "rain-forest-196ab5c472",
+          "rainy-forest-2d134efca8",
+          "scary-forest-232fe9ad2c",
+          "vctrly-outdoor-laptop-drawing-tablet-landscape-tree-plan-man-nom-293be726a6",
+          "autumn-trees-e4724a21c4",
+          "christmas-trees-94c04fadd6",
+          "oak-tree-7c78d14893",
+          "palm-fronds-f062bd49c6",
+          "palm-island-bbac7f1a72",
+          "palm-tree-ee4d43794a",
+          "palm-trees-9215ddcc31",
+          "salix-tree-a19abc763e",
+          "tree-2f99eae542",
+          "tree-canopy-19eab333e2",
+          "tree-stump-7f47892c1c",
+          "vctrly-woman-laptop-digital-tree-outdoor-chair-b8fff256f8",
+          "1-d43ae3a55c",
+          "1-dba743078e",
+          "10-6e2bd29d62"
+        ]
+      }
+    },
+    {
+      "id": "zoo-wildlife",
+      "name": "Zoo \u0026 Wildlife",
+      "description": "Photo Album recipe using the shared eight-slot contract for Zoo \u0026 Wildlife.",
+      "collectionIds": [
+        "album-theme-zoo-wildlife"
+      ],
+      "assetSlots": {
+        "banner": [
+          "animal-book-51f09dc490",
+          "animal-feeder-20e08cf7ae",
+          "animal-trap-bee83fa43d",
+          "tiger-moth-191554866c",
+          "animal-cell-3218332792",
+          "animal-feeder-fceab76f4c",
+          "animal-testing-b306701733",
+          "cat-718959ead0"
+        ],
+        "top-trim": [],
+        "bottom-trim": [],
+        "photo-frame": [],
+        "corner-accent": [
+          "animal-book-51f09dc490",
+          "animal-feeder-20e08cf7ae",
+          "animal-trap-bee83fa43d",
+          "tiger-moth-191554866c",
+          "animal-cell-3218332792",
+          "animal-feeder-fceab76f4c",
+          "animal-testing-b306701733",
+          "cat-718959ead0"
+        ],
+        "background": [
+          "magnifying-glass-fcf780bba5"
+        ],
+        "divider": [],
+        "decorations": [
+          "animal-book-51f09dc490",
+          "animal-feeder-20e08cf7ae",
+          "animal-trap-bee83fa43d",
+          "tiger-moth-191554866c",
+          "animal-cell-3218332792",
+          "animal-feeder-fceab76f4c",
+          "animal-testing-b306701733",
+          "cat-718959ead0",
+          "civet-cat-0008b2b727",
+          "dog-3ebe6102df",
+          "lion-roaring-9261c76831",
+          "monkey-b6a454eedf",
+          "secretary-bird-f5d3a7383a",
+          "wading-bird-ed9c867f6e",
+          "wild-dog-5178f8b856",
+          "1-d43ae3a55c",
+          "1-dba743078e",
+          "10-6e2bd29d62",
+          "10-fb893ece5a",
+          "100-5d913bec9c",
+          "11-9e58189341",
+          "11-a613f34798",
+          "12-725a24dad0",
+          "12-cd9e7950cc"
+        ]
+      }
+    }
+  ]
 }

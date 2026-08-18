@@ -8,6 +8,7 @@
     "schemaVersion",
     "generator",
     "generatedAt",
+    "runtimeBaseUrl",
     "manifests"
   ],
   "properties": {
@@ -22,6 +23,10 @@
     "generatedAt": {
       "type": ["string", "null"],
       "format": "date-time"
+    },
+    "runtimeBaseUrl": {
+      "type": "string",
+      "pattern": "^https://"
     },
     "manifests": {
       "type": "object",

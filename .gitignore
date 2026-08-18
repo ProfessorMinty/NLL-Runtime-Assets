@@ -19,3 +19,7 @@ obj/
 .staging/
 .tmp/
 local/
+
+# Generated runtime payload is synchronized to Cloudflare R2, never GitHub.
+/assets/*
+!/assets/.gitkeep

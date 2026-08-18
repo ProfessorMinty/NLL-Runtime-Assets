@@ -44,15 +44,25 @@
       "additionalProperties": false,
       "required": [
         "id",
+        "runtimeId",
         "name",
         "type",
         "status",
+        "runtimeStatus",
+        "runtimeStatusReason",
+        "runtimeFormats",
+        "automaticSelection",
+        "automaticSelectionReason",
         "accessibility",
         "rights",
         "variants"
       ],
       "properties": {
         "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "runtimeId": {
           "type": "string",
           "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
         },
@@ -71,18 +81,48 @@
           "type": "string",
           "enum": ["active", "deprecated"]
         },
+        "runtimeStatus": {
+          "type": "string",
+          "enum": ["READY", "DERIVATIVE_NEEDED", "CONVERSION_FAILED"]
+        },
+        "runtimeStatusReason": { "type": "string" },
+        "runtimeFormats": { "$ref": "#/$defs/stringList" },
+        "automaticSelection": {
+          "type": "string",
+          "enum": ["ELIGIBLE", "EXCLUDE_AUTO", "REVIEW"]
+        },
+        "automaticSelectionReason": { "type": "string" },
         "tags": { "$ref": "#/$defs/stringList" },
         "themes": { "$ref": "#/$defs/stringList" },
         "subjects": { "$ref": "#/$defs/stringList" },
+        "styles": { "$ref": "#/$defs/stringList" },
         "useCases": { "$ref": "#/$defs/stringList" },
+        "derivativePath": {
+          "type": "string",
+          "pattern": "^assets/"
+        },
         "accessibility": { "$ref": "#/$defs/accessibility" },
         "rights": { "$ref": "#/$defs/rights" },
         "variants": {
           "type": "array",
-          "minItems": 1,
           "items": { "$ref": "#/$defs/variant" }
         }
-      }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": { "runtimeStatus": { "const": "READY" } },
+            "required": ["runtimeStatus"]
+          },
+          "then": {
+            "required": ["derivativePath"],
+            "properties": { "variants": { "minItems": 1 } }
+          },
+          "else": {
+            "properties": { "variants": { "maxItems": 0 } }
+          }
+        }
+      ]
     },
     "accessibility": {
       "type": "object",
@@ -119,7 +159,7 @@
       "properties": {
         "status": {
           "type": "string",
-          "enum": ["approved-runtime-use", "credit-required"]
+          "enum": ["approved-runtime-use", "credit-required", "private-library"]
         },
         "credit": {
           "type": "string",
