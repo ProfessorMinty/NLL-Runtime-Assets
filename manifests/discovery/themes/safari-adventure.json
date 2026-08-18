@@ -1,0 +1,1379 @@
+{
+  "schemaVersion": 1,
+  "theme": {
+    "id": "safari-adventure",
+    "name": "Safari Adventure",
+    "description": "Photo Album recipe using the shared eight-slot contract for Safari Adventure.",
+    "collectionIds": [
+      "album-theme-safari-adventure"
+    ]
+  },
+  "assetSlots": {
+    "banner": [
+      "animal-book-51f09dc490",
+      "animal-feeder-20e08cf7ae",
+      "animal-trap-bee83fa43d",
+      "civet-cat-0008b2b727",
+      "lion-roaring-9261c76831",
+      "monkey-b6a454eedf",
+      "secretary-bird-f5d3a7383a",
+      "tiger-moth-191554866c"
+    ],
+    "top-trim": [],
+    "bottom-trim": [],
+    "photo-frame": [
+      "hanging-frame-76be23b74d",
+      "photo-frame-970e2e989f",
+      "victorian-frame-a97e34cabe"
+    ],
+    "corner-accent": [
+      "animal-book-51f09dc490",
+      "animal-feeder-20e08cf7ae",
+      "animal-trap-bee83fa43d",
+      "civet-cat-0008b2b727",
+      "lion-roaring-9261c76831",
+      "monkey-b6a454eedf",
+      "secretary-bird-f5d3a7383a",
+      "tiger-moth-191554866c"
+    ],
+    "background": [
+      "magnifying-glass-fcf780bba5",
+      "roman-glass-135c9b02b8"
+    ],
+    "divider": [],
+    "decorations": [
+      "animal-book-51f09dc490",
+      "animal-feeder-20e08cf7ae",
+      "animal-trap-bee83fa43d",
+      "civet-cat-0008b2b727",
+      "lion-roaring-9261c76831",
+      "monkey-b6a454eedf",
+      "secretary-bird-f5d3a7383a",
+      "tiger-moth-191554866c",
+      "wild-dog-5178f8b856",
+      "adventure-map-1e43ee8ef7",
+      "african-hare-b2593ee24f",
+      "ammo-belt-f1eeeb74b4",
+      "animal-cell-3218332792",
+      "animal-feeder-fceab76f4c",
+      "animal-testing-b306701733",
+      "archery-bow-4e1c80e92d",
+      "backpack-a6c90aa9b8",
+      "binoculars-f49a57b44d",
+      "black-mamba-8c1f53304f",
+      "bullet-belt-507887af1c",
+      "bush-saw-96a0964b01",
+      "butterfly-net-5a8b04b0aa",
+      "camera-d713a6e2eb",
+      "camouflage-gaiters-aa0f101e6c"
+    ]
+  },
+  "assetCount": 29,
+  "assets": [
+    {
+      "id": "adventure-map-1e43ee8ef7",
+      "name": "Adventure Map",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/adventure-map-1e43ee8ef7/adventure-map-1e43ee8ef7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 25680
+      }
+    },
+    {
+      "id": "african-hare-b2593ee24f",
+      "name": "African Hare",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/african-hare-b2593ee24f/african-hare-b2593ee24f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14042
+      }
+    },
+    {
+      "id": "ammo-belt-f1eeeb74b4",
+      "name": "Ammo Belt",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ammo-belt-f1eeeb74b4/ammo-belt-f1eeeb74b4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 23836
+      }
+    },
+    {
+      "id": "animal-book-51f09dc490",
+      "name": "Animal Book",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "book",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "reading",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "nature",
+        "reading",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal",
+        "book"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-book-51f09dc490/animal-book-51f09dc490.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19985
+      }
+    },
+    {
+      "id": "animal-cell-3218332792",
+      "name": "Animal Cell",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "science"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-cell-3218332792/animal-cell-3218332792.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13384
+      }
+    },
+    {
+      "id": "animal-feeder-20e08cf7ae",
+      "name": "Animal Feeder",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "nature",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-feeder-20e08cf7ae/animal-feeder-20e08cf7ae.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13640
+      }
+    },
+    {
+      "id": "animal-feeder-fceab76f4c",
+      "name": "Animal Feeder",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest",
+        "nature"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-feeder-fceab76f4c/animal-feeder-fceab76f4c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9097
+      }
+    },
+    {
+      "id": "animal-testing-b306701733",
+      "name": "Animal Testing",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "science"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-testing-b306701733/animal-testing-b306701733.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19558
+      }
+    },
+    {
+      "id": "animal-trap-bee83fa43d",
+      "name": "Animal Trap",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "nature",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-trap-bee83fa43d/animal-trap-bee83fa43d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20144
+      }
+    },
+    {
+      "id": "archery-bow-4e1c80e92d",
+      "name": "Archery Bow",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/archery-bow-4e1c80e92d/archery-bow-4e1c80e92d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16629
+      }
+    },
+    {
+      "id": "backpack-a6c90aa9b8",
+      "name": "Backpack",
+      "type": "illustration",
+      "tags": [
+        "backpack",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "backpack"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/backpack-a6c90aa9b8/backpack-a6c90aa9b8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15448
+      }
+    },
+    {
+      "id": "binoculars-f49a57b44d",
+      "name": "Binoculars",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/binoculars-f49a57b44d/binoculars-f49a57b44d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13303
+      }
+    },
+    {
+      "id": "black-mamba-8c1f53304f",
+      "name": "Black Mamba",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/black-mamba-8c1f53304f/black-mamba-8c1f53304f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16311
+      }
+    },
+    {
+      "id": "bullet-belt-507887af1c",
+      "name": "Bullet Belt",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bullet-belt-507887af1c/bullet-belt-507887af1c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19957
+      }
+    },
+    {
+      "id": "bush-saw-96a0964b01",
+      "name": "Bush Saw",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bush-saw-96a0964b01/bush-saw-96a0964b01.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16464
+      }
+    },
+    {
+      "id": "butterfly-net-5a8b04b0aa",
+      "name": "Butterfly Net",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/butterfly-net-5a8b04b0aa/butterfly-net-5a8b04b0aa.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9020
+      }
+    },
+    {
+      "id": "camera-d713a6e2eb",
+      "name": "Camera",
+      "type": "illustration",
+      "tags": [
+        "camera",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "camera"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/camera-d713a6e2eb/camera-d713a6e2eb.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10368
+      }
+    },
+    {
+      "id": "camouflage-gaiters-aa0f101e6c",
+      "name": "Camouflage Gaiters",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/camouflage-gaiters-aa0f101e6c/camouflage-gaiters-aa0f101e6c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19135
+      }
+    },
+    {
+      "id": "civet-cat-0008b2b727",
+      "name": "Civet Cat",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/civet-cat-0008b2b727/civet-cat-0008b2b727.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13362
+      }
+    },
+    {
+      "id": "hanging-frame-76be23b74d",
+      "name": "Hanging Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/hanging-frame-76be23b74d/hanging-frame-76be23b74d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 3370
+      }
+    },
+    {
+      "id": "lion-roaring-9261c76831",
+      "name": "Lion Roaring",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lion-roaring-9261c76831/lion-roaring-9261c76831.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 28620
+      }
+    },
+    {
+      "id": "magnifying-glass-fcf780bba5",
+      "name": "Magnifying Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "field-trip",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "safari",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-fcf780bba5/magnifying-glass-fcf780bba5.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9240
+      }
+    },
+    {
+      "id": "monkey-b6a454eedf",
+      "name": "Monkey",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/monkey-b6a454eedf/monkey-b6a454eedf.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18707
+      }
+    },
+    {
+      "id": "photo-frame-970e2e989f",
+      "name": "Photo Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame",
+        "realistic"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "realistic"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/photo-frame-970e2e989f/photo-frame-970e2e989f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16178
+      }
+    },
+    {
+      "id": "roman-glass-135c9b02b8",
+      "name": "Roman Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "field-trip",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "museum"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/roman-glass-135c9b02b8/roman-glass-135c9b02b8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 6260
+      }
+    },
+    {
+      "id": "secretary-bird-f5d3a7383a",
+      "name": "Secretary Bird",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/secretary-bird-f5d3a7383a/secretary-bird-f5d3a7383a.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16558
+      }
+    },
+    {
+      "id": "tiger-moth-191554866c",
+      "name": "Tiger Moth",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "safari"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tiger-moth-191554866c/tiger-moth-191554866c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13728
+      }
+    },
+    {
+      "id": "victorian-frame-a97e34cabe",
+      "name": "Victorian Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/victorian-frame-a97e34cabe/victorian-frame-a97e34cabe.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9519
+      }
+    },
+    {
+      "id": "wild-dog-5178f8b856",
+      "name": "Wild Dog",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/wild-dog-5178f8b856/wild-dog-5178f8b856.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24718
+      }
+    }
+  ]
+}

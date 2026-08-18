@@ -1,0 +1,1166 @@
+{
+  "schemaVersion": 1,
+  "theme": {
+    "id": "winter-celebration",
+    "name": "Winter Celebration",
+    "description": "Photo Album recipe using the shared eight-slot contract for Winter Celebration.",
+    "collectionIds": [
+      "album-theme-winter-celebration"
+    ]
+  },
+  "assetSlots": {
+    "banner": [
+      "air-balloon-3b70a4fd6c",
+      "christmas-tree-9c11765798",
+      "holiday-cookies-b1d498483f",
+      "party-horn-5a0a24841c",
+      "snow-globe-1ea10c33b8",
+      "winter-holiday-doodles-09a1649991",
+      "accordion-9b56ec9cc6",
+      "advent-calendar-9cd653bd2b"
+    ],
+    "top-trim": [
+      "garlands-30beb325f4",
+      "hawaii-garland-d8e6ae4401"
+    ],
+    "bottom-trim": [
+      "garlands-30beb325f4",
+      "hawaii-garland-d8e6ae4401"
+    ],
+    "photo-frame": [],
+    "corner-accent": [
+      "air-balloon-3b70a4fd6c",
+      "christmas-tree-9c11765798",
+      "holiday-cookies-b1d498483f",
+      "party-horn-5a0a24841c",
+      "snow-globe-1ea10c33b8",
+      "winter-holiday-doodles-09a1649991",
+      "accordion-9b56ec9cc6",
+      "advent-calendar-9cd653bd2b"
+    ],
+    "background": [
+      "star-glasses-9b959fbba7"
+    ],
+    "divider": [
+      "garlands-30beb325f4",
+      "hawaii-garland-d8e6ae4401"
+    ],
+    "decorations": [
+      "air-balloon-3b70a4fd6c",
+      "christmas-tree-9c11765798",
+      "holiday-cookies-b1d498483f",
+      "party-horn-5a0a24841c",
+      "snow-globe-1ea10c33b8",
+      "winter-holiday-doodles-09a1649991",
+      "accordion-9b56ec9cc6",
+      "advent-calendar-9cd653bd2b",
+      "antlers-headband-8dccda67db",
+      "apron-f9122608e7",
+      "arctic-seal-e5c84b96df",
+      "banjo-203f0c6f20",
+      "banner-29926b3e17",
+      "bauble-3b874a4944",
+      "bauble-dd6709aa14",
+      "beatboxing-28b52ffba3",
+      "birthday-banner-f47b53dd1c",
+      "bonfire-night-1b761e9918",
+      "bouquet-2525ac6a47",
+      "bouquet-fc5261dc19",
+      "bunny-hat-b8a8028613",
+      "bunny-headband-09253c2fe4",
+      "burger-306184e121",
+      "cake-a9e7e31937"
+    ]
+  },
+  "assetCount": 27,
+  "assets": [
+    {
+      "id": "accordion-9b56ec9cc6",
+      "name": "Accordion",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/accordion-9b56ec9cc6/accordion-9b56ec9cc6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10890
+      }
+    },
+    {
+      "id": "advent-calendar-9cd653bd2b",
+      "name": "Advent Calendar",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/advent-calendar-9cd653bd2b/advent-calendar-9cd653bd2b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 23441
+      }
+    },
+    {
+      "id": "air-balloon-3b70a4fd6c",
+      "name": "Air Balloon",
+      "type": "illustration",
+      "tags": [
+        "balloon",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "celebration",
+        "winter"
+      ],
+      "subjects": [
+        "balloon"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/air-balloon-3b70a4fd6c/air-balloon-3b70a4fd6c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13281
+      }
+    },
+    {
+      "id": "antlers-headband-8dccda67db",
+      "name": "Antlers Headband",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/antlers-headband-8dccda67db/antlers-headband-8dccda67db.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19457
+      }
+    },
+    {
+      "id": "apron-f9122608e7",
+      "name": "Apron",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/apron-f9122608e7/apron-f9122608e7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18997
+      }
+    },
+    {
+      "id": "arctic-seal-e5c84b96df",
+      "name": "Arctic Seal",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/arctic-seal-e5c84b96df/arctic-seal-e5c84b96df.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19964
+      }
+    },
+    {
+      "id": "banjo-203f0c6f20",
+      "name": "Banjo",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/banjo-203f0c6f20/banjo-203f0c6f20.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16527
+      }
+    },
+    {
+      "id": "banner-29926b3e17",
+      "name": "Banner",
+      "type": "banner",
+      "tags": [
+        "album-banner",
+        "banner",
+        "celebration",
+        "hero-decoration",
+        "line-art"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "banner"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "album-banner",
+        "hero-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/banner/album-banner/banner-29926b3e17/banner-29926b3e17.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 5686
+      }
+    },
+    {
+      "id": "bauble-3b874a4944",
+      "name": "Bauble",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bauble-3b874a4944/bauble-3b874a4944.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 40926
+      }
+    },
+    {
+      "id": "bauble-dd6709aa14",
+      "name": "Bauble",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bauble-dd6709aa14/bauble-dd6709aa14.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 26023
+      }
+    },
+    {
+      "id": "beatboxing-28b52ffba3",
+      "name": "Beatboxing",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beatboxing-28b52ffba3/beatboxing-28b52ffba3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 21627
+      }
+    },
+    {
+      "id": "birthday-banner-f47b53dd1c",
+      "name": "Birthday Banner",
+      "type": "banner",
+      "tags": [
+        "album-banner",
+        "banner",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "banner"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "album-banner",
+        "hero-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/banner/album-banner/birthday-banner-f47b53dd1c/birthday-banner-f47b53dd1c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 31958
+      }
+    },
+    {
+      "id": "bonfire-night-1b761e9918",
+      "name": "Bonfire Night",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bonfire-night-1b761e9918/bonfire-night-1b761e9918.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 22445
+      }
+    },
+    {
+      "id": "bouquet-2525ac6a47",
+      "name": "Bouquet",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bouquet-2525ac6a47/bouquet-2525ac6a47.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 46487
+      }
+    },
+    {
+      "id": "bouquet-fc5261dc19",
+      "name": "Bouquet",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bouquet-fc5261dc19/bouquet-fc5261dc19.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 46185
+      }
+    },
+    {
+      "id": "bunny-hat-b8a8028613",
+      "name": "Bunny Hat",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bunny-hat-b8a8028613/bunny-hat-b8a8028613.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 27394
+      }
+    },
+    {
+      "id": "bunny-headband-09253c2fe4",
+      "name": "Bunny Headband",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bunny-headband-09253c2fe4/bunny-headband-09253c2fe4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9275
+      }
+    },
+    {
+      "id": "burger-306184e121",
+      "name": "Burger",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/burger-306184e121/burger-306184e121.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24954
+      }
+    },
+    {
+      "id": "cake-a9e7e31937",
+      "name": "Cake",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "food",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "food"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cake-a9e7e31937/cake-a9e7e31937.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 33584
+      }
+    },
+    {
+      "id": "christmas-tree-9c11765798",
+      "name": "Christmas Tree",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree",
+        "winter"
+      ],
+      "themes": [
+        "celebration",
+        "winter"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/christmas-tree-9c11765798/christmas-tree-9c11765798.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15593
+      }
+    },
+    {
+      "id": "garlands-30beb325f4",
+      "name": "Garlands",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14072
+      }
+    },
+    {
+      "id": "hawaii-garland-d8e6ae4401",
+      "name": "Hawaii Garland",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18153
+      }
+    },
+    {
+      "id": "holiday-cookies-b1d498483f",
+      "name": "Holiday Cookies",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/holiday-cookies-b1d498483f/holiday-cookies-b1d498483f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16085
+      }
+    },
+    {
+      "id": "party-horn-5a0a24841c",
+      "name": "Party Horn",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "celebration",
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/party-horn-5a0a24841c/party-horn-5a0a24841c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 17123
+      }
+    },
+    {
+      "id": "snow-globe-1ea10c33b8",
+      "name": "Snow Globe",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "planet",
+        "section-decoration",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "celebration",
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "planet",
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-globe-1ea10c33b8/snow-globe-1ea10c33b8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 22321
+      }
+    },
+    {
+      "id": "star-glasses-9b959fbba7",
+      "name": "Star Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "celebration",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "star"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "star"
+      ],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15437
+      }
+    },
+    {
+      "id": "winter-holiday-doodles-09a1649991",
+      "name": "Winter Holiday Doodles",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/winter-holiday-doodles-09a1649991/winter-holiday-doodles-09a1649991.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 1687824
+      }
+    }
+  ]
+}

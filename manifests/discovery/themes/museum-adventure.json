@@ -1,0 +1,1309 @@
+{
+  "schemaVersion": 1,
+  "theme": {
+    "id": "museum-adventure",
+    "name": "Museum Adventure",
+    "description": "Photo Album recipe using the shared eight-slot contract for Museum Adventure.",
+    "collectionIds": [
+      "album-theme-museum-adventure"
+    ]
+  },
+  "assetSlots": {
+    "banner": [
+      "arun-temple-eeb36101a1",
+      "aspire-tower-6f3dd49ef6",
+      "barzan-tower-d2996936f7",
+      "belem-tower-cc266ea325",
+      "blarney-castle-f7d749224d",
+      "borobudur-temple-124d4f77ce",
+      "bristol-castle-4fb0a808fb",
+      "cayan-tower-0602be779b"
+    ],
+    "top-trim": [],
+    "bottom-trim": [],
+    "photo-frame": [
+      "hanging-frame-76be23b74d",
+      "photo-frame-970e2e989f",
+      "victorian-frame-a97e34cabe"
+    ],
+    "corner-accent": [
+      "arun-temple-eeb36101a1",
+      "aspire-tower-6f3dd49ef6",
+      "barzan-tower-d2996936f7",
+      "belem-tower-cc266ea325",
+      "blarney-castle-f7d749224d",
+      "borobudur-temple-124d4f77ce",
+      "bristol-castle-4fb0a808fb",
+      "cayan-tower-0602be779b"
+    ],
+    "background": [
+      "magnifying-glass-fcf780bba5",
+      "roman-glass-135c9b02b8"
+    ],
+    "divider": [],
+    "decorations": [
+      "arun-temple-eeb36101a1",
+      "aspire-tower-6f3dd49ef6",
+      "barzan-tower-d2996936f7",
+      "belem-tower-cc266ea325",
+      "blarney-castle-f7d749224d",
+      "borobudur-temple-124d4f77ce",
+      "bristol-castle-4fb0a808fb",
+      "cayan-tower-0602be779b",
+      "cn-tower-126c5377e9",
+      "dendur-temple-15b08447e8",
+      "dublin-castle-9b8e7d9f0f",
+      "eiffel-tower-7f080c992d",
+      "freedom-tower-29294df918",
+      "galata-tower-6768f5e7c4",
+      "gliwice-tower-ea18e55ad9",
+      "hassan-tower-c11d93687d",
+      "helsinki-cathedral-d42e573f7e",
+      "hoover-tower-276df4184b",
+      "horyuji-temple-a81ffaf4f6",
+      "leaning-tower-0a2ed63a3d",
+      "malbork-castle-8241c9e268",
+      "matsumoto-castle-a432ce7edc",
+      "miami-tower-21ad8558eb",
+      "nagoya-castle-f4deea9148"
+    ]
+  },
+  "assetCount": 29,
+  "assets": [
+    {
+      "id": "arun-temple-eeb36101a1",
+      "name": "Arun Temple",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/arun-temple-eeb36101a1/arun-temple-eeb36101a1.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 513729
+      }
+    },
+    {
+      "id": "aspire-tower-6f3dd49ef6",
+      "name": "Aspire Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/aspire-tower-6f3dd49ef6/aspire-tower-6f3dd49ef6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 399479
+      }
+    },
+    {
+      "id": "barzan-tower-d2996936f7",
+      "name": "Barzan Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/barzan-tower-d2996936f7/barzan-tower-d2996936f7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 523008
+      }
+    },
+    {
+      "id": "belem-tower-cc266ea325",
+      "name": "Belem Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/belem-tower-cc266ea325/belem-tower-cc266ea325.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 570007
+      }
+    },
+    {
+      "id": "blarney-castle-f7d749224d",
+      "name": "Blarney Castle",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/blarney-castle-f7d749224d/blarney-castle-f7d749224d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 259570
+      }
+    },
+    {
+      "id": "borobudur-temple-124d4f77ce",
+      "name": "Borobudur Temple",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/borobudur-temple-124d4f77ce/borobudur-temple-124d4f77ce.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 280150
+      }
+    },
+    {
+      "id": "bristol-castle-4fb0a808fb",
+      "name": "Bristol Castle",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bristol-castle-4fb0a808fb/bristol-castle-4fb0a808fb.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 426673
+      }
+    },
+    {
+      "id": "cayan-tower-0602be779b",
+      "name": "Cayan Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cayan-tower-0602be779b/cayan-tower-0602be779b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 324249
+      }
+    },
+    {
+      "id": "cn-tower-126c5377e9",
+      "name": "CN Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cn-tower-126c5377e9/cn-tower-126c5377e9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 369757
+      }
+    },
+    {
+      "id": "dendur-temple-15b08447e8",
+      "name": "Dendur Temple",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dendur-temple-15b08447e8/dendur-temple-15b08447e8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 695711
+      }
+    },
+    {
+      "id": "dublin-castle-9b8e7d9f0f",
+      "name": "Dublin Castle",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dublin-castle-9b8e7d9f0f/dublin-castle-9b8e7d9f0f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 392418
+      }
+    },
+    {
+      "id": "eiffel-tower-7f080c992d",
+      "name": "Eiffel Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eiffel-tower-7f080c992d/eiffel-tower-7f080c992d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 152527
+      }
+    },
+    {
+      "id": "freedom-tower-29294df918",
+      "name": "Freedom Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/freedom-tower-29294df918/freedom-tower-29294df918.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 417699
+      }
+    },
+    {
+      "id": "galata-tower-6768f5e7c4",
+      "name": "Galata Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/galata-tower-6768f5e7c4/galata-tower-6768f5e7c4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 1012306
+      }
+    },
+    {
+      "id": "gliwice-tower-ea18e55ad9",
+      "name": "Gliwice Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/gliwice-tower-ea18e55ad9/gliwice-tower-ea18e55ad9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 299789
+      }
+    },
+    {
+      "id": "hanging-frame-76be23b74d",
+      "name": "Hanging Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/hanging-frame-76be23b74d/hanging-frame-76be23b74d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 3370
+      }
+    },
+    {
+      "id": "hassan-tower-c11d93687d",
+      "name": "Hassan Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hassan-tower-c11d93687d/hassan-tower-c11d93687d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 293163
+      }
+    },
+    {
+      "id": "helsinki-cathedral-d42e573f7e",
+      "name": "Helsinki Cathedral",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/helsinki-cathedral-d42e573f7e/helsinki-cathedral-d42e573f7e.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 480304
+      }
+    },
+    {
+      "id": "hoover-tower-276df4184b",
+      "name": "Hoover Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hoover-tower-276df4184b/hoover-tower-276df4184b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 367336
+      }
+    },
+    {
+      "id": "horyuji-temple-a81ffaf4f6",
+      "name": "Horyuji Temple",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/horyuji-temple-a81ffaf4f6/horyuji-temple-a81ffaf4f6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 403798
+      }
+    },
+    {
+      "id": "leaning-tower-0a2ed63a3d",
+      "name": "Leaning Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/leaning-tower-0a2ed63a3d/leaning-tower-0a2ed63a3d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 309147
+      }
+    },
+    {
+      "id": "magnifying-glass-fcf780bba5",
+      "name": "Magnifying Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "field-trip",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "safari",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-fcf780bba5/magnifying-glass-fcf780bba5.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9240
+      }
+    },
+    {
+      "id": "malbork-castle-8241c9e268",
+      "name": "Malbork Castle",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/malbork-castle-8241c9e268/malbork-castle-8241c9e268.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 337345
+      }
+    },
+    {
+      "id": "matsumoto-castle-a432ce7edc",
+      "name": "Matsumoto Castle",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/matsumoto-castle-a432ce7edc/matsumoto-castle-a432ce7edc.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 382034
+      }
+    },
+    {
+      "id": "miami-tower-21ad8558eb",
+      "name": "Miami Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/miami-tower-21ad8558eb/miami-tower-21ad8558eb.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 515692
+      }
+    },
+    {
+      "id": "nagoya-castle-f4deea9148",
+      "name": "Nagoya Castle",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/nagoya-castle-f4deea9148/nagoya-castle-f4deea9148.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 426184
+      }
+    },
+    {
+      "id": "photo-frame-970e2e989f",
+      "name": "Photo Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame",
+        "realistic"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "realistic"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/photo-frame-970e2e989f/photo-frame-970e2e989f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16178
+      }
+    },
+    {
+      "id": "roman-glass-135c9b02b8",
+      "name": "Roman Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "field-trip",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "museum"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/roman-glass-135c9b02b8/roman-glass-135c9b02b8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 6260
+      }
+    },
+    {
+      "id": "victorian-frame-a97e34cabe",
+      "name": "Victorian Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/victorian-frame-a97e34cabe/victorian-frame-a97e34cabe.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9519
+      }
+    }
+  ]
+}

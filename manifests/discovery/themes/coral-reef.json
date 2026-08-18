@@ -1,0 +1,1114 @@
+{
+  "schemaVersion": 1,
+  "theme": {
+    "id": "coral-reef",
+    "name": "Coral Reef",
+    "description": "Photo Album recipe using the shared eight-slot contract for Coral Reef.",
+    "collectionIds": [
+      "album-theme-coral-reef"
+    ]
+  },
+  "assetSlots": {
+    "banner": [
+      "coral-reef-95275e0476",
+      "coral-reef-a4dc9d5d32",
+      "coral-reef-b371bb1a75",
+      "fringing-reef-4fb12d746d",
+      "coral-bloom-57cb49d273",
+      "fish-4de6f72c3c",
+      "ocean-coral-f2325941c8",
+      "tropical-fish-fd48a7aad8"
+    ],
+    "top-trim": [],
+    "bottom-trim": [],
+    "photo-frame": [],
+    "corner-accent": [
+      "coral-reef-95275e0476",
+      "coral-reef-a4dc9d5d32",
+      "coral-reef-b371bb1a75",
+      "fringing-reef-4fb12d746d",
+      "coral-bloom-57cb49d273",
+      "fish-4de6f72c3c",
+      "ocean-coral-f2325941c8",
+      "tropical-fish-fd48a7aad8"
+    ],
+    "background": [],
+    "divider": [],
+    "decorations": [
+      "coral-reef-95275e0476",
+      "coral-reef-a4dc9d5d32",
+      "coral-reef-b371bb1a75",
+      "fringing-reef-4fb12d746d",
+      "coral-bloom-57cb49d273",
+      "fish-4de6f72c3c",
+      "ocean-coral-f2325941c8",
+      "tropical-fish-fd48a7aad8",
+      "backpack-d983ecab15",
+      "beach-7fa5e1ca3d",
+      "beach-bag-414a21cd8d",
+      "beach-ball-8c73733ae2",
+      "beach-blanket-c14bd68967",
+      "beach-bonfire-718341aa67",
+      "beach-chair-bffcfdde73",
+      "beach-cruiser-ff3e13de26",
+      "beach-driftwood-f8edecc558",
+      "beach-hut-bad27e1f60",
+      "beach-pebbles-5326835af0",
+      "beach-reading-8156280117",
+      "beach-rock-11c015c586",
+      "beach-shorts-5599527a8d",
+      "beach-sunset-9d24980213",
+      "beach-swing-103ee7e2b3"
+    ]
+  },
+  "assetCount": 24,
+  "assets": [
+    {
+      "id": "backpack-d983ecab15",
+      "name": "Backpack",
+      "type": "illustration",
+      "tags": [
+        "backpack",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [
+        "backpack"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/backpack-d983ecab15/backpack-d983ecab15.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 67367
+      }
+    },
+    {
+      "id": "beach-7fa5e1ca3d",
+      "name": "Beach",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "nature",
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-7fa5e1ca3d/beach-7fa5e1ca3d.webp",
+        "mimeType": "image/webp",
+        "bytes": 2248110,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "beach-bag-414a21cd8d",
+      "name": "Beach Bag",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-bag-414a21cd8d/beach-bag-414a21cd8d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 47427
+      }
+    },
+    {
+      "id": "beach-ball-8c73733ae2",
+      "name": "Beach Ball",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-ball-8c73733ae2/beach-ball-8c73733ae2.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 40236
+      }
+    },
+    {
+      "id": "beach-blanket-c14bd68967",
+      "name": "Beach Blanket",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-blanket-c14bd68967/beach-blanket-c14bd68967.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 31862
+      }
+    },
+    {
+      "id": "beach-bonfire-718341aa67",
+      "name": "Beach Bonfire",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-bonfire-718341aa67/beach-bonfire-718341aa67.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 77872
+      }
+    },
+    {
+      "id": "beach-chair-bffcfdde73",
+      "name": "Beach Chair",
+      "type": "illustration",
+      "tags": [
+        "chair",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "home",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "home",
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [
+        "chair"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-chair-bffcfdde73/beach-chair-bffcfdde73.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20366
+      }
+    },
+    {
+      "id": "beach-cruiser-ff3e13de26",
+      "name": "Beach Cruiser",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-cruiser-ff3e13de26/beach-cruiser-ff3e13de26.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 86409
+      }
+    },
+    {
+      "id": "beach-driftwood-f8edecc558",
+      "name": "Beach Driftwood",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-driftwood-f8edecc558/beach-driftwood-f8edecc558.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 54684
+      }
+    },
+    {
+      "id": "beach-hut-bad27e1f60",
+      "name": "Beach Hut",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-hut-bad27e1f60/beach-hut-bad27e1f60.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 30595
+      }
+    },
+    {
+      "id": "beach-pebbles-5326835af0",
+      "name": "Beach Pebbles",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-pebbles-5326835af0/beach-pebbles-5326835af0.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 182656
+      }
+    },
+    {
+      "id": "beach-reading-8156280117",
+      "name": "Beach Reading",
+      "type": "illustration",
+      "tags": [
+        "book",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "reading",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "reading",
+        "tropical"
+      ],
+      "subjects": [
+        "book"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-reading-8156280117/beach-reading-8156280117.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 67958
+      }
+    },
+    {
+      "id": "beach-rock-11c015c586",
+      "name": "Beach Rock",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-rock-11c015c586/beach-rock-11c015c586.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 109825
+      }
+    },
+    {
+      "id": "beach-shorts-5599527a8d",
+      "name": "Beach Shorts",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-shorts-5599527a8d/beach-shorts-5599527a8d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 51370
+      }
+    },
+    {
+      "id": "beach-sunset-9d24980213",
+      "name": "Beach Sunset",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "nature",
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-sunset-9d24980213/beach-sunset-9d24980213.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 121447
+      }
+    },
+    {
+      "id": "beach-swing-103ee7e2b3",
+      "name": "Beach Swing",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-swing-103ee7e2b3/beach-swing-103ee7e2b3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 52014
+      }
+    },
+    {
+      "id": "coral-bloom-57cb49d273",
+      "name": "Coral Bloom",
+      "type": "illustration",
+      "tags": [
+        "coral",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [
+        "coral"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/coral-bloom-57cb49d273/coral-bloom-57cb49d273.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 50815
+      }
+    },
+    {
+      "id": "coral-reef-95275e0476",
+      "name": "Coral Reef",
+      "type": "illustration",
+      "tags": [
+        "coral",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "ocean"
+      ],
+      "subjects": [
+        "coral"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/coral-reef-95275e0476/coral-reef-95275e0476.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15870
+      }
+    },
+    {
+      "id": "coral-reef-a4dc9d5d32",
+      "name": "Coral Reef",
+      "type": "illustration",
+      "tags": [
+        "coral",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "ocean",
+        "science"
+      ],
+      "subjects": [
+        "coral"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/coral-reef-a4dc9d5d32/coral-reef-a4dc9d5d32.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24044
+      }
+    },
+    {
+      "id": "coral-reef-b371bb1a75",
+      "name": "Coral Reef",
+      "type": "illustration",
+      "tags": [
+        "coral",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [
+        "coral"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/coral-reef-b371bb1a75/coral-reef-b371bb1a75.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 79648
+      }
+    },
+    {
+      "id": "fish-4de6f72c3c",
+      "name": "Fish",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "clay",
+        "dimensional",
+        "fish",
+        "hero-decoration",
+        "nature",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "ocean"
+      ],
+      "subjects": [
+        "fish"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fish-4de6f72c3c/fish-4de6f72c3c.webp",
+        "mimeType": "image/webp",
+        "bytes": 3485714,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "fringing-reef-4fb12d746d",
+      "name": "Fringing Reef",
+      "type": "illustration",
+      "tags": [
+        "coral",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "ocean"
+      ],
+      "subjects": [
+        "coral"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fringing-reef-4fb12d746d/fringing-reef-4fb12d746d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13473
+      }
+    },
+    {
+      "id": "ocean-coral-f2325941c8",
+      "name": "Ocean Coral",
+      "type": "illustration",
+      "tags": [
+        "coral",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [
+        "coral"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ocean-coral-f2325941c8/ocean-coral-f2325941c8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 59498
+      }
+    },
+    {
+      "id": "tropical-fish-fd48a7aad8",
+      "name": "Tropical Fish",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "fish",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [
+        "fish"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tropical-fish-fd48a7aad8/tropical-fish-fd48a7aad8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 27322
+      }
+    }
+  ]
+}

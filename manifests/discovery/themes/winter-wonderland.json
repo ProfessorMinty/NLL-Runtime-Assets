@@ -1,0 +1,1102 @@
+{
+  "schemaVersion": 1,
+  "theme": {
+    "id": "winter-wonderland",
+    "name": "Winter Wonderland",
+    "description": "Photo Album recipe using the shared eight-slot contract for Winter Wonderland.",
+    "collectionIds": [
+      "album-theme-winter-wonderland"
+    ]
+  },
+  "assetSlots": {
+    "banner": [
+      "snow-crystal-f9bb9a11f4",
+      "snow-lake-9772338b3d",
+      "snow-mountain-202a1995cd",
+      "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4",
+      "snow-globe-1ea10c33b8",
+      "snow-globe-eda02ca5c9",
+      "snow-pants-b3f7b2d82d",
+      "snow-shovel-f254b51ccf"
+    ],
+    "top-trim": [],
+    "bottom-trim": [],
+    "photo-frame": [],
+    "corner-accent": [
+      "snow-crystal-f9bb9a11f4",
+      "snow-lake-9772338b3d",
+      "snow-mountain-202a1995cd",
+      "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4",
+      "snow-globe-1ea10c33b8",
+      "snow-globe-eda02ca5c9",
+      "snow-pants-b3f7b2d82d",
+      "snow-shovel-f254b51ccf"
+    ],
+    "background": [],
+    "divider": [],
+    "decorations": [
+      "snow-crystal-f9bb9a11f4",
+      "snow-lake-9772338b3d",
+      "snow-mountain-202a1995cd",
+      "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4",
+      "snow-globe-1ea10c33b8",
+      "snow-globe-eda02ca5c9",
+      "snow-pants-b3f7b2d82d",
+      "snow-shovel-f254b51ccf",
+      "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-a455a530c8",
+      "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-e1d4022ce4",
+      "christmas-trees-94c04fadd6",
+      "clouds-f35da9ac7e",
+      "rain-6b9b2bf92c",
+      "rain-cloud-86114946a7",
+      "rain-forest-196ab5c472",
+      "rainbow-7a5adbe585",
+      "rainbow-7fbbf74288",
+      "sun-fd8d0f82e2",
+      "vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096",
+      "winter-grass-c4212cfd1d",
+      "1-d43ae3a55c",
+      "1-dba743078e",
+      "10-6e2bd29d62",
+      "10-fb893ece5a"
+    ]
+  },
+  "assetCount": 24,
+  "assets": [
+    {
+      "id": "1-d43ae3a55c",
+      "name": "1",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-d43ae3a55c/1-d43ae3a55c.webp",
+        "mimeType": "image/webp",
+        "bytes": 179082,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "1-dba743078e",
+      "name": "1",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-dba743078e/1-dba743078e.webp",
+        "mimeType": "image/webp",
+        "bytes": 105160,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "10-6e2bd29d62",
+      "name": "10",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-6e2bd29d62/10-6e2bd29d62.webp",
+        "mimeType": "image/webp",
+        "bytes": 159076,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "10-fb893ece5a",
+      "name": "10",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-fb893ece5a/10-fb893ece5a.webp",
+        "mimeType": "image/webp",
+        "bytes": 83404,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "christmas-trees-94c04fadd6",
+      "name": "Christmas Trees",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree",
+        "winter"
+      ],
+      "themes": [
+        "nature",
+        "winter"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/christmas-trees-94c04fadd6/christmas-trees-94c04fadd6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 195771
+      }
+    },
+    {
+      "id": "clouds-f35da9ac7e",
+      "name": "Clouds",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration",
+        "weather"
+      ],
+      "themes": [
+        "nature",
+        "weather"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/clouds-f35da9ac7e/clouds-f35da9ac7e.webp",
+        "mimeType": "image/webp",
+        "bytes": 1849032,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "rain-6b9b2bf92c",
+      "name": "Rain",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration",
+        "weather"
+      ],
+      "themes": [
+        "nature",
+        "weather"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rain-6b9b2bf92c/rain-6b9b2bf92c.webp",
+        "mimeType": "image/webp",
+        "bytes": 2372274,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "rain-cloud-86114946a7",
+      "name": "Rain Cloud",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "weather"
+      ],
+      "themes": [
+        "nature",
+        "weather"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rain-cloud-86114946a7/rain-cloud-86114946a7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9645
+      }
+    },
+    {
+      "id": "rain-forest-196ab5c472",
+      "name": "Rain Forest",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree",
+        "weather"
+      ],
+      "themes": [
+        "nature",
+        "weather"
+      ],
+      "subjects": [
+        "tree",
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rain-forest-196ab5c472/rain-forest-196ab5c472.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13401
+      }
+    },
+    {
+      "id": "rainbow-7a5adbe585",
+      "name": "Rainbow",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "weather"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rainbow-7a5adbe585/rainbow-7a5adbe585.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 6393
+      }
+    },
+    {
+      "id": "rainbow-7fbbf74288",
+      "name": "Rainbow",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration",
+        "weather"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rainbow-7fbbf74288/rainbow-7fbbf74288.webp",
+        "mimeType": "image/webp",
+        "bytes": 2885026,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "snow-crystal-f9bb9a11f4",
+      "name": "Snow Crystal",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "nature",
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-crystal-f9bb9a11f4/snow-crystal-f9bb9a11f4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20155
+      }
+    },
+    {
+      "id": "snow-globe-1ea10c33b8",
+      "name": "Snow Globe",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "planet",
+        "section-decoration",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "celebration",
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "planet",
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-globe-1ea10c33b8/snow-globe-1ea10c33b8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 22321
+      }
+    },
+    {
+      "id": "snow-globe-eda02ca5c9",
+      "name": "Snow Globe",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "planet",
+        "section-decoration",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "planet",
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-globe-eda02ca5c9/snow-globe-eda02ca5c9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 12494
+      }
+    },
+    {
+      "id": "snow-lake-9772338b3d",
+      "name": "Snow Lake",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "nature",
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-lake-9772338b3d/snow-lake-9772338b3d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 243889
+      }
+    },
+    {
+      "id": "snow-mountain-202a1995cd",
+      "name": "Snow Mountain",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "mountain",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "nature",
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "mountain",
+        "weather"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-mountain-202a1995cd/snow-mountain-202a1995cd.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 201561
+      }
+    },
+    {
+      "id": "snow-pants-b3f7b2d82d",
+      "name": "Snow Pants",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-pants-b3f7b2d82d/snow-pants-b3f7b2d82d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13020
+      }
+    },
+    {
+      "id": "snow-shovel-f254b51ccf",
+      "name": "Snow Shovel",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-shovel-f254b51ccf/snow-shovel-f254b51ccf.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 12407
+      }
+    },
+    {
+      "id": "sun-fd8d0f82e2",
+      "name": "Sun",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration",
+        "weather"
+      ],
+      "themes": [
+        "nature",
+        "weather"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/sun-fd8d0f82e2/sun-fd8d0f82e2.webp",
+        "mimeType": "image/webp",
+        "bytes": 1926590,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4",
+      "name": "vctrly cabin fireplace snow villa travel cozy space workspace anywhere work window landscape",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "space",
+        "travel",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "nature",
+        "space",
+        "travel",
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4/vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 229869
+      }
+    },
+    {
+      "id": "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-a455a530c8",
+      "name": "vctrly cabin fireplace snow villa travel cozy space workspace anywhere work woman pines",
+      "type": "character",
+      "tags": [
+        "hero-decoration",
+        "page-decoration",
+        "space",
+        "travel",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "space",
+        "travel",
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-a455a530c8/vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-a455a530c8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 236821
+      }
+    },
+    {
+      "id": "vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-e1d4022ce4",
+      "name": "vctrly cabin fireplace snow villa travel cozy space workspace anywhere work",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "space",
+        "travel",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "space",
+        "travel",
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-e1d4022ce4/vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-e1d4022ce4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 260226
+      }
+    },
+    {
+      "id": "vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096",
+      "name": "vctrly sofa laptop plan landscape work workspace building skycrapper cloud",
+      "type": "illustration",
+      "tags": [
+        "computer",
+        "hero-decoration",
+        "home",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "sofa",
+        "weather"
+      ],
+      "themes": [
+        "home",
+        "nature",
+        "weather"
+      ],
+      "subjects": [
+        "computer",
+        "sofa",
+        "weather"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096/vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 231933
+      }
+    },
+    {
+      "id": "winter-grass-c4212cfd1d",
+      "name": "Winter Grass",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "nature",
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/winter-grass-c4212cfd1d/winter-grass-c4212cfd1d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13687
+      }
+    }
+  ]
+}

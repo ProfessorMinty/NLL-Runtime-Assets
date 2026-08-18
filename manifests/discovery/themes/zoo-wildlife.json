@@ -1,0 +1,1155 @@
+{
+  "schemaVersion": 1,
+  "theme": {
+    "id": "zoo-wildlife",
+    "name": "Zoo & Wildlife",
+    "description": "Photo Album recipe using the shared eight-slot contract for Zoo & Wildlife.",
+    "collectionIds": [
+      "album-theme-zoo-wildlife"
+    ]
+  },
+  "assetSlots": {
+    "banner": [
+      "animal-book-51f09dc490",
+      "animal-feeder-20e08cf7ae",
+      "animal-trap-bee83fa43d",
+      "tiger-moth-191554866c",
+      "animal-cell-3218332792",
+      "animal-feeder-fceab76f4c",
+      "animal-testing-b306701733",
+      "cat-718959ead0"
+    ],
+    "top-trim": [],
+    "bottom-trim": [],
+    "photo-frame": [],
+    "corner-accent": [
+      "animal-book-51f09dc490",
+      "animal-feeder-20e08cf7ae",
+      "animal-trap-bee83fa43d",
+      "tiger-moth-191554866c",
+      "animal-cell-3218332792",
+      "animal-feeder-fceab76f4c",
+      "animal-testing-b306701733",
+      "cat-718959ead0"
+    ],
+    "background": [
+      "magnifying-glass-fcf780bba5"
+    ],
+    "divider": [],
+    "decorations": [
+      "animal-book-51f09dc490",
+      "animal-feeder-20e08cf7ae",
+      "animal-trap-bee83fa43d",
+      "tiger-moth-191554866c",
+      "animal-cell-3218332792",
+      "animal-feeder-fceab76f4c",
+      "animal-testing-b306701733",
+      "cat-718959ead0",
+      "civet-cat-0008b2b727",
+      "dog-3ebe6102df",
+      "lion-roaring-9261c76831",
+      "monkey-b6a454eedf",
+      "secretary-bird-f5d3a7383a",
+      "wading-bird-ed9c867f6e",
+      "wild-dog-5178f8b856",
+      "1-d43ae3a55c",
+      "1-dba743078e",
+      "10-6e2bd29d62",
+      "10-fb893ece5a",
+      "100-5d913bec9c",
+      "11-9e58189341",
+      "11-a613f34798",
+      "12-725a24dad0",
+      "12-cd9e7950cc"
+    ]
+  },
+  "assetCount": 25,
+  "assets": [
+    {
+      "id": "1-d43ae3a55c",
+      "name": "1",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-d43ae3a55c/1-d43ae3a55c.webp",
+        "mimeType": "image/webp",
+        "bytes": 179082,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "1-dba743078e",
+      "name": "1",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-dba743078e/1-dba743078e.webp",
+        "mimeType": "image/webp",
+        "bytes": 105160,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "10-6e2bd29d62",
+      "name": "10",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-6e2bd29d62/10-6e2bd29d62.webp",
+        "mimeType": "image/webp",
+        "bytes": 159076,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "10-fb893ece5a",
+      "name": "10",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-fb893ece5a/10-fb893ece5a.webp",
+        "mimeType": "image/webp",
+        "bytes": 83404,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "100-5d913bec9c",
+      "name": "100",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/100-5d913bec9c/100-5d913bec9c.webp",
+        "mimeType": "image/webp",
+        "bytes": 214940,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "11-9e58189341",
+      "name": "11",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/11-9e58189341/11-9e58189341.webp",
+        "mimeType": "image/webp",
+        "bytes": 152012,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "11-a613f34798",
+      "name": "11",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/11-a613f34798/11-a613f34798.webp",
+        "mimeType": "image/webp",
+        "bytes": 198942,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "12-725a24dad0",
+      "name": "12",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/12-725a24dad0/12-725a24dad0.webp",
+        "mimeType": "image/webp",
+        "bytes": 267492,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "12-cd9e7950cc",
+      "name": "12",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/12-cd9e7950cc/12-cd9e7950cc.webp",
+        "mimeType": "image/webp",
+        "bytes": 96670,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "animal-book-51f09dc490",
+      "name": "Animal Book",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "book",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "reading",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "nature",
+        "reading",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal",
+        "book"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-book-51f09dc490/animal-book-51f09dc490.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19985
+      }
+    },
+    {
+      "id": "animal-cell-3218332792",
+      "name": "Animal Cell",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "science"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-cell-3218332792/animal-cell-3218332792.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13384
+      }
+    },
+    {
+      "id": "animal-feeder-20e08cf7ae",
+      "name": "Animal Feeder",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "nature",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-feeder-20e08cf7ae/animal-feeder-20e08cf7ae.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13640
+      }
+    },
+    {
+      "id": "animal-feeder-fceab76f4c",
+      "name": "Animal Feeder",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest",
+        "nature"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-feeder-fceab76f4c/animal-feeder-fceab76f4c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9097
+      }
+    },
+    {
+      "id": "animal-testing-b306701733",
+      "name": "Animal Testing",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "science"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-testing-b306701733/animal-testing-b306701733.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19558
+      }
+    },
+    {
+      "id": "animal-trap-bee83fa43d",
+      "name": "Animal Trap",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "nature",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-trap-bee83fa43d/animal-trap-bee83fa43d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20144
+      }
+    },
+    {
+      "id": "cat-718959ead0",
+      "name": "Cat",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "animal",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cat-718959ead0/cat-718959ead0.webp",
+        "mimeType": "image/webp",
+        "bytes": 2439772,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "civet-cat-0008b2b727",
+      "name": "Civet Cat",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/civet-cat-0008b2b727/civet-cat-0008b2b727.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13362
+      }
+    },
+    {
+      "id": "dog-3ebe6102df",
+      "name": "Dog",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "animal",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dog-3ebe6102df/dog-3ebe6102df.webp",
+        "mimeType": "image/webp",
+        "bytes": 2404654,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "lion-roaring-9261c76831",
+      "name": "Lion Roaring",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lion-roaring-9261c76831/lion-roaring-9261c76831.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 28620
+      }
+    },
+    {
+      "id": "magnifying-glass-fcf780bba5",
+      "name": "Magnifying Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "field-trip",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "safari",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-fcf780bba5/magnifying-glass-fcf780bba5.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9240
+      }
+    },
+    {
+      "id": "monkey-b6a454eedf",
+      "name": "Monkey",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/monkey-b6a454eedf/monkey-b6a454eedf.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18707
+      }
+    },
+    {
+      "id": "secretary-bird-f5d3a7383a",
+      "name": "Secretary Bird",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/secretary-bird-f5d3a7383a/secretary-bird-f5d3a7383a.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16558
+      }
+    },
+    {
+      "id": "tiger-moth-191554866c",
+      "name": "Tiger Moth",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "safari"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tiger-moth-191554866c/tiger-moth-191554866c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13728
+      }
+    },
+    {
+      "id": "wading-bird-ed9c867f6e",
+      "name": "Wading Bird",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/wading-bird-ed9c867f6e/wading-bird-ed9c867f6e.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10037
+      }
+    },
+    {
+      "id": "wild-dog-5178f8b856",
+      "name": "Wild Dog",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/wild-dog-5178f8b856/wild-dog-5178f8b856.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24718
+      }
+    }
+  ]
+}

@@ -1,0 +1,1304 @@
+{
+  "schemaVersion": 1,
+  "theme": {
+    "id": "natural-history-museum",
+    "name": "Natural History Museum",
+    "description": "Photo Album recipe using the shared eight-slot contract for Natural History Museum.",
+    "collectionIds": [
+      "album-theme-natural-history-museum"
+    ]
+  },
+  "assetSlots": {
+    "banner": [
+      "animal-book-51f09dc490",
+      "animal-cell-3218332792",
+      "animal-feeder-20e08cf7ae",
+      "animal-feeder-fceab76f4c",
+      "animal-testing-b306701733",
+      "animal-trap-bee83fa43d",
+      "arun-temple-eeb36101a1",
+      "aspire-tower-6f3dd49ef6"
+    ],
+    "top-trim": [],
+    "bottom-trim": [],
+    "photo-frame": [
+      "hanging-frame-76be23b74d",
+      "photo-frame-970e2e989f",
+      "victorian-frame-a97e34cabe"
+    ],
+    "corner-accent": [
+      "animal-book-51f09dc490",
+      "animal-cell-3218332792",
+      "animal-feeder-20e08cf7ae",
+      "animal-feeder-fceab76f4c",
+      "animal-testing-b306701733",
+      "animal-trap-bee83fa43d",
+      "arun-temple-eeb36101a1",
+      "aspire-tower-6f3dd49ef6"
+    ],
+    "background": [
+      "roman-glass-135c9b02b8"
+    ],
+    "divider": [],
+    "decorations": [
+      "animal-book-51f09dc490",
+      "animal-cell-3218332792",
+      "animal-feeder-20e08cf7ae",
+      "animal-feeder-fceab76f4c",
+      "animal-testing-b306701733",
+      "animal-trap-bee83fa43d",
+      "arun-temple-eeb36101a1",
+      "aspire-tower-6f3dd49ef6",
+      "barzan-tower-d2996936f7",
+      "belem-tower-cc266ea325",
+      "blarney-castle-f7d749224d",
+      "borobudur-temple-124d4f77ce",
+      "bristol-castle-4fb0a808fb",
+      "cat-718959ead0",
+      "cayan-tower-0602be779b",
+      "cn-tower-126c5377e9",
+      "dendur-temple-15b08447e8",
+      "dog-3ebe6102df",
+      "dublin-castle-9b8e7d9f0f",
+      "eiffel-tower-7f080c992d",
+      "freedom-tower-29294df918",
+      "galata-tower-6768f5e7c4",
+      "gliwice-tower-ea18e55ad9",
+      "hassan-tower-c11d93687d"
+    ]
+  },
+  "assetCount": 28,
+  "assets": [
+    {
+      "id": "animal-book-51f09dc490",
+      "name": "Animal Book",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "book",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "reading",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "nature",
+        "reading",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal",
+        "book"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-book-51f09dc490/animal-book-51f09dc490.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19985
+      }
+    },
+    {
+      "id": "animal-cell-3218332792",
+      "name": "Animal Cell",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "science"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-cell-3218332792/animal-cell-3218332792.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13384
+      }
+    },
+    {
+      "id": "animal-feeder-20e08cf7ae",
+      "name": "Animal Feeder",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "nature",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-feeder-20e08cf7ae/animal-feeder-20e08cf7ae.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13640
+      }
+    },
+    {
+      "id": "animal-feeder-fceab76f4c",
+      "name": "Animal Feeder",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest",
+        "nature"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-feeder-fceab76f4c/animal-feeder-fceab76f4c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9097
+      }
+    },
+    {
+      "id": "animal-testing-b306701733",
+      "name": "Animal Testing",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "science"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-testing-b306701733/animal-testing-b306701733.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19558
+      }
+    },
+    {
+      "id": "animal-trap-bee83fa43d",
+      "name": "Animal Trap",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "field-trip",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "safari",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "nature",
+        "safari",
+        "travel"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-trap-bee83fa43d/animal-trap-bee83fa43d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20144
+      }
+    },
+    {
+      "id": "arun-temple-eeb36101a1",
+      "name": "Arun Temple",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/arun-temple-eeb36101a1/arun-temple-eeb36101a1.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 513729
+      }
+    },
+    {
+      "id": "aspire-tower-6f3dd49ef6",
+      "name": "Aspire Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/aspire-tower-6f3dd49ef6/aspire-tower-6f3dd49ef6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 399479
+      }
+    },
+    {
+      "id": "barzan-tower-d2996936f7",
+      "name": "Barzan Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/barzan-tower-d2996936f7/barzan-tower-d2996936f7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 523008
+      }
+    },
+    {
+      "id": "belem-tower-cc266ea325",
+      "name": "Belem Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/belem-tower-cc266ea325/belem-tower-cc266ea325.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 570007
+      }
+    },
+    {
+      "id": "blarney-castle-f7d749224d",
+      "name": "Blarney Castle",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/blarney-castle-f7d749224d/blarney-castle-f7d749224d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 259570
+      }
+    },
+    {
+      "id": "borobudur-temple-124d4f77ce",
+      "name": "Borobudur Temple",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/borobudur-temple-124d4f77ce/borobudur-temple-124d4f77ce.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 280150
+      }
+    },
+    {
+      "id": "bristol-castle-4fb0a808fb",
+      "name": "Bristol Castle",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bristol-castle-4fb0a808fb/bristol-castle-4fb0a808fb.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 426673
+      }
+    },
+    {
+      "id": "cat-718959ead0",
+      "name": "Cat",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "animal",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cat-718959ead0/cat-718959ead0.webp",
+        "mimeType": "image/webp",
+        "bytes": 2439772,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "cayan-tower-0602be779b",
+      "name": "Cayan Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cayan-tower-0602be779b/cayan-tower-0602be779b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 324249
+      }
+    },
+    {
+      "id": "cn-tower-126c5377e9",
+      "name": "CN Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cn-tower-126c5377e9/cn-tower-126c5377e9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 369757
+      }
+    },
+    {
+      "id": "dendur-temple-15b08447e8",
+      "name": "Dendur Temple",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dendur-temple-15b08447e8/dendur-temple-15b08447e8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 695711
+      }
+    },
+    {
+      "id": "dog-3ebe6102df",
+      "name": "Dog",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "animal",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dog-3ebe6102df/dog-3ebe6102df.webp",
+        "mimeType": "image/webp",
+        "bytes": 2404654,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "dublin-castle-9b8e7d9f0f",
+      "name": "Dublin Castle",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dublin-castle-9b8e7d9f0f/dublin-castle-9b8e7d9f0f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 392418
+      }
+    },
+    {
+      "id": "eiffel-tower-7f080c992d",
+      "name": "Eiffel Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eiffel-tower-7f080c992d/eiffel-tower-7f080c992d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 152527
+      }
+    },
+    {
+      "id": "freedom-tower-29294df918",
+      "name": "Freedom Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/freedom-tower-29294df918/freedom-tower-29294df918.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 417699
+      }
+    },
+    {
+      "id": "galata-tower-6768f5e7c4",
+      "name": "Galata Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/galata-tower-6768f5e7c4/galata-tower-6768f5e7c4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 1012306
+      }
+    },
+    {
+      "id": "gliwice-tower-ea18e55ad9",
+      "name": "Gliwice Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/gliwice-tower-ea18e55ad9/gliwice-tower-ea18e55ad9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 299789
+      }
+    },
+    {
+      "id": "hanging-frame-76be23b74d",
+      "name": "Hanging Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/hanging-frame-76be23b74d/hanging-frame-76be23b74d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 3370
+      }
+    },
+    {
+      "id": "hassan-tower-c11d93687d",
+      "name": "Hassan Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hassan-tower-c11d93687d/hassan-tower-c11d93687d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 293163
+      }
+    },
+    {
+      "id": "photo-frame-970e2e989f",
+      "name": "Photo Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame",
+        "realistic"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "realistic"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/photo-frame-970e2e989f/photo-frame-970e2e989f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16178
+      }
+    },
+    {
+      "id": "roman-glass-135c9b02b8",
+      "name": "Roman Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "field-trip",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "museum"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/roman-glass-135c9b02b8/roman-glass-135c9b02b8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 6260
+      }
+    },
+    {
+      "id": "victorian-frame-a97e34cabe",
+      "name": "Victorian Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/victorian-frame-a97e34cabe/victorian-frame-a97e34cabe.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9519
+      }
+    }
+  ]
+}

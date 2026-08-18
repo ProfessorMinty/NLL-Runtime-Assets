@@ -1,0 +1,1054 @@
+{
+  "schemaVersion": 1,
+  "theme": {
+    "id": "woodland-nature-center",
+    "name": "Woodland & Nature Center",
+    "description": "Photo Album recipe using the shared eight-slot contract for Woodland & Nature Center.",
+    "collectionIds": [
+      "album-theme-woodland-nature-center"
+    ]
+  },
+  "assetSlots": {
+    "banner": [
+      "autumn-forest-7e0183a203",
+      "bamboo-forest-bbb34f00f2",
+      "forest-river-e3b75d0379",
+      "forest-scenery-bb97623951",
+      "mangrove-forest-acef670694",
+      "rain-forest-196ab5c472",
+      "rainy-forest-2d134efca8",
+      "scary-forest-232fe9ad2c"
+    ],
+    "top-trim": [],
+    "bottom-trim": [],
+    "photo-frame": [],
+    "corner-accent": [
+      "autumn-forest-7e0183a203",
+      "bamboo-forest-bbb34f00f2",
+      "forest-river-e3b75d0379",
+      "forest-scenery-bb97623951",
+      "mangrove-forest-acef670694",
+      "rain-forest-196ab5c472",
+      "rainy-forest-2d134efca8",
+      "scary-forest-232fe9ad2c"
+    ],
+    "background": [],
+    "divider": [],
+    "decorations": [
+      "autumn-forest-7e0183a203",
+      "bamboo-forest-bbb34f00f2",
+      "forest-river-e3b75d0379",
+      "forest-scenery-bb97623951",
+      "mangrove-forest-acef670694",
+      "rain-forest-196ab5c472",
+      "rainy-forest-2d134efca8",
+      "scary-forest-232fe9ad2c",
+      "vctrly-outdoor-laptop-drawing-tablet-landscape-tree-plan-man-nom-293be726a6",
+      "autumn-trees-e4724a21c4",
+      "christmas-trees-94c04fadd6",
+      "oak-tree-7c78d14893",
+      "palm-fronds-f062bd49c6",
+      "palm-island-bbac7f1a72",
+      "palm-tree-ee4d43794a",
+      "palm-trees-9215ddcc31",
+      "salix-tree-a19abc763e",
+      "tree-2f99eae542",
+      "tree-canopy-19eab333e2",
+      "tree-stump-7f47892c1c",
+      "vctrly-woman-laptop-digital-tree-outdoor-chair-b8fff256f8",
+      "1-d43ae3a55c",
+      "1-dba743078e",
+      "10-6e2bd29d62"
+    ]
+  },
+  "assetCount": 24,
+  "assets": [
+    {
+      "id": "1-d43ae3a55c",
+      "name": "1",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-d43ae3a55c/1-d43ae3a55c.webp",
+        "mimeType": "image/webp",
+        "bytes": 179082,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "1-dba743078e",
+      "name": "1",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-dba743078e/1-dba743078e.webp",
+        "mimeType": "image/webp",
+        "bytes": 105160,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "10-6e2bd29d62",
+      "name": "10",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-6e2bd29d62/10-6e2bd29d62.webp",
+        "mimeType": "image/webp",
+        "bytes": 159076,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "autumn-forest-7e0183a203",
+      "name": "Autumn Forest",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "autumn",
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/autumn-forest-7e0183a203/autumn-forest-7e0183a203.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 104254
+      }
+    },
+    {
+      "id": "autumn-trees-e4724a21c4",
+      "name": "Autumn Trees",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "autumn",
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/autumn-trees-e4724a21c4/autumn-trees-e4724a21c4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 384699
+      }
+    },
+    {
+      "id": "bamboo-forest-bbb34f00f2",
+      "name": "Bamboo Forest",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bamboo-forest-bbb34f00f2/bamboo-forest-bbb34f00f2.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 123977
+      }
+    },
+    {
+      "id": "christmas-trees-94c04fadd6",
+      "name": "Christmas Trees",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree",
+        "winter"
+      ],
+      "themes": [
+        "nature",
+        "winter"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/christmas-trees-94c04fadd6/christmas-trees-94c04fadd6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 195771
+      }
+    },
+    {
+      "id": "forest-river-e3b75d0379",
+      "name": "Forest River",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/forest-river-e3b75d0379/forest-river-e3b75d0379.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 250706
+      }
+    },
+    {
+      "id": "forest-scenery-bb97623951",
+      "name": "Forest Scenery",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/forest-scenery-bb97623951/forest-scenery-bb97623951.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 171255
+      }
+    },
+    {
+      "id": "mangrove-forest-acef670694",
+      "name": "Mangrove Forest",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mangrove-forest-acef670694/mangrove-forest-acef670694.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 175563
+      }
+    },
+    {
+      "id": "oak-tree-7c78d14893",
+      "name": "Oak Tree",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oak-tree-7c78d14893/oak-tree-7c78d14893.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14913
+      }
+    },
+    {
+      "id": "palm-fronds-f062bd49c6",
+      "name": "Palm Fronds",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree",
+        "tropical"
+      ],
+      "themes": [
+        "botanical",
+        "nature",
+        "tropical"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-fronds-f062bd49c6/palm-fronds-f062bd49c6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 237774
+      }
+    },
+    {
+      "id": "palm-island-bbac7f1a72",
+      "name": "Palm Island",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree",
+        "tropical"
+      ],
+      "themes": [
+        "nature",
+        "tropical"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-island-bbac7f1a72/palm-island-bbac7f1a72.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 206993
+      }
+    },
+    {
+      "id": "palm-tree-ee4d43794a",
+      "name": "Palm tree",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration",
+        "tree",
+        "tropical"
+      ],
+      "themes": [
+        "nature",
+        "tropical"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-tree-ee4d43794a/palm-tree-ee4d43794a.webp",
+        "mimeType": "image/webp",
+        "bytes": 2119378,
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "palm-trees-9215ddcc31",
+      "name": "Palm Trees",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree",
+        "tropical"
+      ],
+      "themes": [
+        "nature",
+        "tropical"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-trees-9215ddcc31/palm-trees-9215ddcc31.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 184907
+      }
+    },
+    {
+      "id": "rain-forest-196ab5c472",
+      "name": "Rain Forest",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree",
+        "weather"
+      ],
+      "themes": [
+        "nature",
+        "weather"
+      ],
+      "subjects": [
+        "tree",
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rain-forest-196ab5c472/rain-forest-196ab5c472.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13401
+      }
+    },
+    {
+      "id": "rainy-forest-2d134efca8",
+      "name": "Rainy Forest",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rainy-forest-2d134efca8/rainy-forest-2d134efca8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 125811
+      }
+    },
+    {
+      "id": "salix-tree-a19abc763e",
+      "name": "Salix Tree",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/salix-tree-a19abc763e/salix-tree-a19abc763e.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19225
+      }
+    },
+    {
+      "id": "scary-forest-232fe9ad2c",
+      "name": "Scary Forest",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/scary-forest-232fe9ad2c/scary-forest-232fe9ad2c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 234726
+      }
+    },
+    {
+      "id": "tree-2f99eae542",
+      "name": "Tree",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tree-2f99eae542/tree-2f99eae542.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10478
+      }
+    },
+    {
+      "id": "tree-canopy-19eab333e2",
+      "name": "Tree Canopy",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tree-canopy-19eab333e2/tree-canopy-19eab333e2.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14653
+      }
+    },
+    {
+      "id": "tree-stump-7f47892c1c",
+      "name": "Tree Stump",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tree-stump-7f47892c1c/tree-stump-7f47892c1c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 8368
+      }
+    },
+    {
+      "id": "vctrly-outdoor-laptop-drawing-tablet-landscape-tree-plan-man-nom-293be726a6",
+      "name": "vctrly outdoor laptop drawing tablet landscape tree plan man nomad",
+      "type": "character",
+      "tags": [
+        "camping",
+        "computer",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "tree"
+      ],
+      "themes": [
+        "camping",
+        "nature"
+      ],
+      "subjects": [
+        "computer",
+        "tree"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-outdoor-laptop-drawing-tablet-landscape-tree-plan-man-nom-293be726a6/vctrly-outdoor-laptop-drawing-tablet-landscape-tree-plan-man-nom-293be726a6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 319697
+      }
+    },
+    {
+      "id": "vctrly-woman-laptop-digital-tree-outdoor-chair-b8fff256f8",
+      "name": "vctrly woman laptop digital tree outdoor chair",
+      "type": "character",
+      "tags": [
+        "camping",
+        "chair",
+        "computer",
+        "hero-decoration",
+        "home",
+        "page-decoration",
+        "tree"
+      ],
+      "themes": [
+        "camping",
+        "home"
+      ],
+      "subjects": [
+        "chair",
+        "computer",
+        "tree"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-woman-laptop-digital-tree-outdoor-chair-b8fff256f8/vctrly-woman-laptop-digital-tree-outdoor-chair-b8fff256f8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 249094
+      }
+    }
+  ]
+}

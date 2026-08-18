@@ -1,0 +1,3572 @@
+{
+  "schemaVersion": 1,
+  "runtimeBaseUrl": "https://cdn.nlightlabs.com/",
+  "policy": {
+    "runtimeStatus": "READY",
+    "automaticSelection": "ELIGIBLE"
+  },
+  "eligibleAssetCount": 3759,
+  "collectionCount": 171,
+  "themeCount": 50,
+  "collections": [
+    {
+      "id": "album-theme-100th-day-of-school",
+      "name": "100th Day of School",
+      "description": "Semantic candidates for the 100th Day of School Photo Album recipe.",
+      "tags": [
+        "celebration",
+        "classroom",
+        "math",
+        "school"
+      ],
+      "assetCount": 513,
+      "pageSize": 100,
+      "pageCount": 6,
+      "pages": [
+        "discovery/collections/album-theme-100th-day-of-school/page-001.json",
+        "discovery/collections/album-theme-100th-day-of-school/page-002.json",
+        "discovery/collections/album-theme-100th-day-of-school/page-003.json",
+        "discovery/collections/album-theme-100th-day-of-school/page-004.json",
+        "discovery/collections/album-theme-100th-day-of-school/page-005.json",
+        "discovery/collections/album-theme-100th-day-of-school/page-006.json"
+      ]
+    },
+    {
+      "id": "album-theme-apple-orchard",
+      "name": "Apple Orchard",
+      "description": "Semantic candidates for the Apple Orchard Photo Album recipe.",
+      "tags": [
+        "apple",
+        "autumn",
+        "garden",
+        "harvest",
+        "orchard",
+        "tree"
+      ],
+      "assetCount": 208,
+      "pageSize": 100,
+      "pageCount": 3,
+      "pages": [
+        "discovery/collections/album-theme-apple-orchard/page-001.json",
+        "discovery/collections/album-theme-apple-orchard/page-002.json",
+        "discovery/collections/album-theme-apple-orchard/page-003.json"
+      ]
+    },
+    {
+      "id": "album-theme-art-studio",
+      "name": "Art Studio",
+      "description": "Semantic candidates for the Art Studio Photo Album recipe.",
+      "tags": [
+        "art",
+        "classroom",
+        "doodle",
+        "drawing",
+        "painting"
+      ],
+      "assetCount": 2611,
+      "pageSize": 100,
+      "pageCount": 27,
+      "pages": [
+        "discovery/collections/album-theme-art-studio/page-001.json",
+        "discovery/collections/album-theme-art-studio/page-002.json",
+        "discovery/collections/album-theme-art-studio/page-003.json",
+        "discovery/collections/album-theme-art-studio/page-004.json",
+        "discovery/collections/album-theme-art-studio/page-005.json",
+        "discovery/collections/album-theme-art-studio/page-006.json",
+        "discovery/collections/album-theme-art-studio/page-007.json",
+        "discovery/collections/album-theme-art-studio/page-008.json",
+        "discovery/collections/album-theme-art-studio/page-009.json",
+        "discovery/collections/album-theme-art-studio/page-010.json",
+        "discovery/collections/album-theme-art-studio/page-011.json",
+        "discovery/collections/album-theme-art-studio/page-012.json",
+        "discovery/collections/album-theme-art-studio/page-013.json",
+        "discovery/collections/album-theme-art-studio/page-014.json",
+        "discovery/collections/album-theme-art-studio/page-015.json",
+        "discovery/collections/album-theme-art-studio/page-016.json",
+        "discovery/collections/album-theme-art-studio/page-017.json",
+        "discovery/collections/album-theme-art-studio/page-018.json",
+        "discovery/collections/album-theme-art-studio/page-019.json",
+        "discovery/collections/album-theme-art-studio/page-020.json",
+        "discovery/collections/album-theme-art-studio/page-021.json",
+        "discovery/collections/album-theme-art-studio/page-022.json",
+        "discovery/collections/album-theme-art-studio/page-023.json",
+        "discovery/collections/album-theme-art-studio/page-024.json",
+        "discovery/collections/album-theme-art-studio/page-025.json",
+        "discovery/collections/album-theme-art-studio/page-026.json",
+        "discovery/collections/album-theme-art-studio/page-027.json"
+      ]
+    },
+    {
+      "id": "album-theme-autumn-harvest",
+      "name": "Autumn Harvest",
+      "description": "Semantic candidates for the Autumn Harvest Photo Album recipe.",
+      "tags": [
+        "autumn",
+        "farming",
+        "harvest",
+        "pumpkin"
+      ],
+      "assetCount": 87,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/album-theme-autumn-harvest/page-001.json"
+      ]
+    },
+    {
+      "id": "album-theme-awards-achievement",
+      "name": "Awards & Achievement",
+      "description": "Semantic candidates for the Awards & Achievement Photo Album recipe.",
+      "tags": [
+        "achievement",
+        "award",
+        "celebration",
+        "school",
+        "star"
+      ],
+      "assetCount": 361,
+      "pageSize": 100,
+      "pageCount": 4,
+      "pages": [
+        "discovery/collections/album-theme-awards-achievement/page-001.json",
+        "discovery/collections/album-theme-awards-achievement/page-002.json",
+        "discovery/collections/album-theme-awards-achievement/page-003.json",
+        "discovery/collections/album-theme-awards-achievement/page-004.json"
+      ]
+    },
+    {
+      "id": "album-theme-back-to-school",
+      "name": "Back to School",
+      "description": "Semantic candidates for the Back to School Photo Album recipe.",
+      "tags": [
+        "classroom",
+        "education",
+        "school",
+        "stationery",
+        "student"
+      ],
+      "assetCount": 234,
+      "pageSize": 100,
+      "pageCount": 3,
+      "pages": [
+        "discovery/collections/album-theme-back-to-school/page-001.json",
+        "discovery/collections/album-theme-back-to-school/page-002.json",
+        "discovery/collections/album-theme-back-to-school/page-003.json"
+      ]
+    },
+    {
+      "id": "album-theme-birthday-friendship",
+      "name": "Birthday & Friendship",
+      "description": "Semantic candidates for the Birthday & Friendship Photo Album recipe.",
+      "tags": [
+        "balloon",
+        "birthday",
+        "celebration",
+        "friendship",
+        "party"
+      ],
+      "assetCount": 197,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/album-theme-birthday-friendship/page-001.json",
+        "discovery/collections/album-theme-birthday-friendship/page-002.json"
+      ]
+    },
+    {
+      "id": "album-theme-book-fair",
+      "name": "Book Fair",
+      "description": "Semantic candidates for the Book Fair Photo Album recipe.",
+      "tags": [
+        "book",
+        "celebration",
+        "library",
+        "reading",
+        "school"
+      ],
+      "assetCount": 656,
+      "pageSize": 100,
+      "pageCount": 7,
+      "pages": [
+        "discovery/collections/album-theme-book-fair/page-001.json",
+        "discovery/collections/album-theme-book-fair/page-002.json",
+        "discovery/collections/album-theme-book-fair/page-003.json",
+        "discovery/collections/album-theme-book-fair/page-004.json",
+        "discovery/collections/album-theme-book-fair/page-005.json",
+        "discovery/collections/album-theme-book-fair/page-006.json",
+        "discovery/collections/album-theme-book-fair/page-007.json"
+      ]
+    },
+    {
+      "id": "album-theme-botanical-garden-greenhouse",
+      "name": "Botanical Garden & Greenhouse",
+      "description": "Semantic candidates for the Botanical Garden & Greenhouse Photo Album recipe.",
+      "tags": [
+        "botanical",
+        "flower",
+        "garden",
+        "greenhouse",
+        "plant"
+      ],
+      "assetCount": 343,
+      "pageSize": 100,
+      "pageCount": 4,
+      "pages": [
+        "discovery/collections/album-theme-botanical-garden-greenhouse/page-001.json",
+        "discovery/collections/album-theme-botanical-garden-greenhouse/page-002.json",
+        "discovery/collections/album-theme-botanical-garden-greenhouse/page-003.json",
+        "discovery/collections/album-theme-botanical-garden-greenhouse/page-004.json"
+      ]
+    },
+    {
+      "id": "album-theme-butterflies-bugs",
+      "name": "Butterflies & Bugs",
+      "description": "Semantic candidates for the Butterflies & Bugs Photo Album recipe.",
+      "tags": [
+        "botanical",
+        "bug",
+        "butterfly",
+        "insect",
+        "nature"
+      ],
+      "assetCount": 560,
+      "pageSize": 100,
+      "pageCount": 6,
+      "pages": [
+        "discovery/collections/album-theme-butterflies-bugs/page-001.json",
+        "discovery/collections/album-theme-butterflies-bugs/page-002.json",
+        "discovery/collections/album-theme-butterflies-bugs/page-003.json",
+        "discovery/collections/album-theme-butterflies-bugs/page-004.json",
+        "discovery/collections/album-theme-butterflies-bugs/page-005.json",
+        "discovery/collections/album-theme-butterflies-bugs/page-006.json"
+      ]
+    },
+    {
+      "id": "album-theme-classic-classroom-memories",
+      "name": "Classic Classroom Memories",
+      "description": "Semantic candidates for the Classic Classroom Memories Photo Album recipe.",
+      "tags": [
+        "classroom",
+        "education",
+        "reading",
+        "school",
+        "stationery"
+      ],
+      "assetCount": 530,
+      "pageSize": 100,
+      "pageCount": 6,
+      "pages": [
+        "discovery/collections/album-theme-classic-classroom-memories/page-001.json",
+        "discovery/collections/album-theme-classic-classroom-memories/page-002.json",
+        "discovery/collections/album-theme-classic-classroom-memories/page-003.json",
+        "discovery/collections/album-theme-classic-classroom-memories/page-004.json",
+        "discovery/collections/album-theme-classic-classroom-memories/page-005.json",
+        "discovery/collections/album-theme-classic-classroom-memories/page-006.json"
+      ]
+    },
+    {
+      "id": "album-theme-classroom-celebration",
+      "name": "Classroom Celebration",
+      "description": "Semantic candidates for the Classroom Celebration Photo Album recipe.",
+      "tags": [
+        "celebration",
+        "classroom",
+        "party",
+        "school"
+      ],
+      "assetCount": 431,
+      "pageSize": 100,
+      "pageCount": 5,
+      "pages": [
+        "discovery/collections/album-theme-classroom-celebration/page-001.json",
+        "discovery/collections/album-theme-classroom-celebration/page-002.json",
+        "discovery/collections/album-theme-classroom-celebration/page-003.json",
+        "discovery/collections/album-theme-classroom-celebration/page-004.json",
+        "discovery/collections/album-theme-classroom-celebration/page-005.json"
+      ]
+    },
+    {
+      "id": "album-theme-community-helpers",
+      "name": "Community Helpers",
+      "description": "Semantic candidates for the Community Helpers Photo Album recipe.",
+      "tags": [
+        "character",
+        "classroom",
+        "community",
+        "school",
+        "vehicle"
+      ],
+      "assetCount": 265,
+      "pageSize": 100,
+      "pageCount": 3,
+      "pages": [
+        "discovery/collections/album-theme-community-helpers/page-001.json",
+        "discovery/collections/album-theme-community-helpers/page-002.json",
+        "discovery/collections/album-theme-community-helpers/page-003.json"
+      ]
+    },
+    {
+      "id": "album-theme-coral-reef",
+      "name": "Coral Reef",
+      "description": "Semantic candidates for the Coral Reef Photo Album recipe.",
+      "tags": [
+        "coral",
+        "fish",
+        "ocean",
+        "reef"
+      ],
+      "assetCount": 114,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/album-theme-coral-reef/page-001.json",
+        "discovery/collections/album-theme-coral-reef/page-002.json"
+      ]
+    },
+    {
+      "id": "album-theme-cultural-celebration",
+      "name": "Cultural Celebration",
+      "description": "Semantic candidates for the Cultural Celebration Photo Album recipe.",
+      "tags": [
+        "celebration",
+        "culture",
+        "festival",
+        "landmark",
+        "travel"
+      ],
+      "assetCount": 735,
+      "pageSize": 100,
+      "pageCount": 8,
+      "pages": [
+        "discovery/collections/album-theme-cultural-celebration/page-001.json",
+        "discovery/collections/album-theme-cultural-celebration/page-002.json",
+        "discovery/collections/album-theme-cultural-celebration/page-003.json",
+        "discovery/collections/album-theme-cultural-celebration/page-004.json",
+        "discovery/collections/album-theme-cultural-celebration/page-005.json",
+        "discovery/collections/album-theme-cultural-celebration/page-006.json",
+        "discovery/collections/album-theme-cultural-celebration/page-007.json",
+        "discovery/collections/album-theme-cultural-celebration/page-008.json"
+      ]
+    },
+    {
+      "id": "album-theme-dinosaurs-fossils",
+      "name": "Dinosaurs & Fossils",
+      "description": "Semantic candidates for the Dinosaurs & Fossils Photo Album recipe.",
+      "tags": [
+        "dinosaur",
+        "fossil",
+        "museum",
+        "nature"
+      ],
+      "assetCount": 866,
+      "pageSize": 100,
+      "pageCount": 9,
+      "pages": [
+        "discovery/collections/album-theme-dinosaurs-fossils/page-001.json",
+        "discovery/collections/album-theme-dinosaurs-fossils/page-002.json",
+        "discovery/collections/album-theme-dinosaurs-fossils/page-003.json",
+        "discovery/collections/album-theme-dinosaurs-fossils/page-004.json",
+        "discovery/collections/album-theme-dinosaurs-fossils/page-005.json",
+        "discovery/collections/album-theme-dinosaurs-fossils/page-006.json",
+        "discovery/collections/album-theme-dinosaurs-fossils/page-007.json",
+        "discovery/collections/album-theme-dinosaurs-fossils/page-008.json",
+        "discovery/collections/album-theme-dinosaurs-fossils/page-009.json"
+      ]
+    },
+    {
+      "id": "album-theme-discovery",
+      "name": "Discovery",
+      "description": "Semantic candidates for the Discovery Photo Album recipe.",
+      "tags": [
+        "field-trip",
+        "museum",
+        "nature",
+        "science",
+        "space"
+      ],
+      "assetCount": 1303,
+      "pageSize": 100,
+      "pageCount": 14,
+      "pages": [
+        "discovery/collections/album-theme-discovery/page-001.json",
+        "discovery/collections/album-theme-discovery/page-002.json",
+        "discovery/collections/album-theme-discovery/page-003.json",
+        "discovery/collections/album-theme-discovery/page-004.json",
+        "discovery/collections/album-theme-discovery/page-005.json",
+        "discovery/collections/album-theme-discovery/page-006.json",
+        "discovery/collections/album-theme-discovery/page-007.json",
+        "discovery/collections/album-theme-discovery/page-008.json",
+        "discovery/collections/album-theme-discovery/page-009.json",
+        "discovery/collections/album-theme-discovery/page-010.json",
+        "discovery/collections/album-theme-discovery/page-011.json",
+        "discovery/collections/album-theme-discovery/page-012.json",
+        "discovery/collections/album-theme-discovery/page-013.json",
+        "discovery/collections/album-theme-discovery/page-014.json"
+      ]
+    },
+    {
+      "id": "album-theme-end-of-year-memories",
+      "name": "End-of-Year Memories",
+      "description": "Semantic candidates for the End-of-Year Memories Photo Album recipe.",
+      "tags": [
+        "celebration",
+        "classroom",
+        "photo-frame",
+        "school",
+        "summer"
+      ],
+      "assetCount": 436,
+      "pageSize": 100,
+      "pageCount": 5,
+      "pages": [
+        "discovery/collections/album-theme-end-of-year-memories/page-001.json",
+        "discovery/collections/album-theme-end-of-year-memories/page-002.json",
+        "discovery/collections/album-theme-end-of-year-memories/page-003.json",
+        "discovery/collections/album-theme-end-of-year-memories/page-004.json",
+        "discovery/collections/album-theme-end-of-year-memories/page-005.json"
+      ]
+    },
+    {
+      "id": "album-theme-fall-festival",
+      "name": "Fall Festival",
+      "description": "Semantic candidates for the Fall Festival Photo Album recipe.",
+      "tags": [
+        "autumn",
+        "celebration",
+        "festival",
+        "harvest"
+      ],
+      "assetCount": 284,
+      "pageSize": 100,
+      "pageCount": 3,
+      "pages": [
+        "discovery/collections/album-theme-fall-festival/page-001.json",
+        "discovery/collections/album-theme-fall-festival/page-002.json",
+        "discovery/collections/album-theme-fall-festival/page-003.json"
+      ]
+    },
+    {
+      "id": "album-theme-farm-agriculture",
+      "name": "Farm & Agriculture",
+      "description": "Semantic candidates for the Farm & Agriculture Photo Album recipe.",
+      "tags": [
+        "agriculture",
+        "farm",
+        "farming",
+        "harvest",
+        "nature"
+      ],
+      "assetCount": 611,
+      "pageSize": 100,
+      "pageCount": 7,
+      "pages": [
+        "discovery/collections/album-theme-farm-agriculture/page-001.json",
+        "discovery/collections/album-theme-farm-agriculture/page-002.json",
+        "discovery/collections/album-theme-farm-agriculture/page-003.json",
+        "discovery/collections/album-theme-farm-agriculture/page-004.json",
+        "discovery/collections/album-theme-farm-agriculture/page-005.json",
+        "discovery/collections/album-theme-farm-agriculture/page-006.json",
+        "discovery/collections/album-theme-farm-agriculture/page-007.json"
+      ]
+    },
+    {
+      "id": "album-theme-field-day-sports",
+      "name": "Field Day & Sports",
+      "description": "Semantic candidates for the Field Day & Sports Photo Album recipe.",
+      "tags": [
+        "celebration",
+        "outdoor",
+        "school",
+        "sports"
+      ],
+      "assetCount": 388,
+      "pageSize": 100,
+      "pageCount": 4,
+      "pages": [
+        "discovery/collections/album-theme-field-day-sports/page-001.json",
+        "discovery/collections/album-theme-field-day-sports/page-002.json",
+        "discovery/collections/album-theme-field-day-sports/page-003.json",
+        "discovery/collections/album-theme-field-day-sports/page-004.json"
+      ]
+    },
+    {
+      "id": "album-theme-field-trip-adventure",
+      "name": "Field Trip Adventure",
+      "description": "Semantic candidates for the Field Trip Adventure Photo Album recipe.",
+      "tags": [
+        "field-trip",
+        "landmark",
+        "museum",
+        "travel"
+      ],
+      "assetCount": 613,
+      "pageSize": 100,
+      "pageCount": 7,
+      "pages": [
+        "discovery/collections/album-theme-field-trip-adventure/page-001.json",
+        "discovery/collections/album-theme-field-trip-adventure/page-002.json",
+        "discovery/collections/album-theme-field-trip-adventure/page-003.json",
+        "discovery/collections/album-theme-field-trip-adventure/page-004.json",
+        "discovery/collections/album-theme-field-trip-adventure/page-005.json",
+        "discovery/collections/album-theme-field-trip-adventure/page-006.json",
+        "discovery/collections/album-theme-field-trip-adventure/page-007.json"
+      ]
+    },
+    {
+      "id": "album-theme-history-heritage",
+      "name": "History & Heritage",
+      "description": "Semantic candidates for the History & Heritage Photo Album recipe.",
+      "tags": [
+        "heritage",
+        "history",
+        "landmark",
+        "museum",
+        "travel"
+      ],
+      "assetCount": 613,
+      "pageSize": 100,
+      "pageCount": 7,
+      "pages": [
+        "discovery/collections/album-theme-history-heritage/page-001.json",
+        "discovery/collections/album-theme-history-heritage/page-002.json",
+        "discovery/collections/album-theme-history-heritage/page-003.json",
+        "discovery/collections/album-theme-history-heritage/page-004.json",
+        "discovery/collections/album-theme-history-heritage/page-005.json",
+        "discovery/collections/album-theme-history-heritage/page-006.json",
+        "discovery/collections/album-theme-history-heritage/page-007.json"
+      ]
+    },
+    {
+      "id": "album-theme-library-reading",
+      "name": "Library & Reading",
+      "description": "Semantic candidates for the Library & Reading Photo Album recipe.",
+      "tags": [
+        "book",
+        "library",
+        "reading",
+        "school"
+      ],
+      "assetCount": 459,
+      "pageSize": 100,
+      "pageCount": 5,
+      "pages": [
+        "discovery/collections/album-theme-library-reading/page-001.json",
+        "discovery/collections/album-theme-library-reading/page-002.json",
+        "discovery/collections/album-theme-library-reading/page-003.json",
+        "discovery/collections/album-theme-library-reading/page-004.json",
+        "discovery/collections/album-theme-library-reading/page-005.json"
+      ]
+    },
+    {
+      "id": "album-theme-memory-gallery",
+      "name": "Memory Gallery",
+      "description": "Semantic candidates for the Memory Gallery Photo Album recipe.",
+      "tags": [
+        "frame",
+        "gallery",
+        "museum",
+        "photo-accent",
+        "photo-frame"
+      ],
+      "assetCount": 2623,
+      "pageSize": 100,
+      "pageCount": 27,
+      "pages": [
+        "discovery/collections/album-theme-memory-gallery/page-001.json",
+        "discovery/collections/album-theme-memory-gallery/page-002.json",
+        "discovery/collections/album-theme-memory-gallery/page-003.json",
+        "discovery/collections/album-theme-memory-gallery/page-004.json",
+        "discovery/collections/album-theme-memory-gallery/page-005.json",
+        "discovery/collections/album-theme-memory-gallery/page-006.json",
+        "discovery/collections/album-theme-memory-gallery/page-007.json",
+        "discovery/collections/album-theme-memory-gallery/page-008.json",
+        "discovery/collections/album-theme-memory-gallery/page-009.json",
+        "discovery/collections/album-theme-memory-gallery/page-010.json",
+        "discovery/collections/album-theme-memory-gallery/page-011.json",
+        "discovery/collections/album-theme-memory-gallery/page-012.json",
+        "discovery/collections/album-theme-memory-gallery/page-013.json",
+        "discovery/collections/album-theme-memory-gallery/page-014.json",
+        "discovery/collections/album-theme-memory-gallery/page-015.json",
+        "discovery/collections/album-theme-memory-gallery/page-016.json",
+        "discovery/collections/album-theme-memory-gallery/page-017.json",
+        "discovery/collections/album-theme-memory-gallery/page-018.json",
+        "discovery/collections/album-theme-memory-gallery/page-019.json",
+        "discovery/collections/album-theme-memory-gallery/page-020.json",
+        "discovery/collections/album-theme-memory-gallery/page-021.json",
+        "discovery/collections/album-theme-memory-gallery/page-022.json",
+        "discovery/collections/album-theme-memory-gallery/page-023.json",
+        "discovery/collections/album-theme-memory-gallery/page-024.json",
+        "discovery/collections/album-theme-memory-gallery/page-025.json",
+        "discovery/collections/album-theme-memory-gallery/page-026.json",
+        "discovery/collections/album-theme-memory-gallery/page-027.json"
+      ]
+    },
+    {
+      "id": "album-theme-museum-adventure",
+      "name": "Museum Adventure",
+      "description": "Semantic candidates for the Museum Adventure Photo Album recipe.",
+      "tags": [
+        "field-trip",
+        "landmark",
+        "museum",
+        "travel"
+      ],
+      "assetCount": 613,
+      "pageSize": 100,
+      "pageCount": 7,
+      "pages": [
+        "discovery/collections/album-theme-museum-adventure/page-001.json",
+        "discovery/collections/album-theme-museum-adventure/page-002.json",
+        "discovery/collections/album-theme-museum-adventure/page-003.json",
+        "discovery/collections/album-theme-museum-adventure/page-004.json",
+        "discovery/collections/album-theme-museum-adventure/page-005.json",
+        "discovery/collections/album-theme-museum-adventure/page-006.json",
+        "discovery/collections/album-theme-museum-adventure/page-007.json"
+      ]
+    },
+    {
+      "id": "album-theme-music-performance",
+      "name": "Music & Performance",
+      "description": "Semantic candidates for the Music & Performance Photo Album recipe.",
+      "tags": [
+        "celebration",
+        "instrument",
+        "music",
+        "performance"
+      ],
+      "assetCount": 232,
+      "pageSize": 100,
+      "pageCount": 3,
+      "pages": [
+        "discovery/collections/album-theme-music-performance/page-001.json",
+        "discovery/collections/album-theme-music-performance/page-002.json",
+        "discovery/collections/album-theme-music-performance/page-003.json"
+      ]
+    },
+    {
+      "id": "album-theme-natural-history-museum",
+      "name": "Natural History Museum",
+      "description": "Semantic candidates for the Natural History Museum Photo Album recipe.",
+      "tags": [
+        "animal",
+        "fossil",
+        "landmark",
+        "museum",
+        "nature"
+      ],
+      "assetCount": 884,
+      "pageSize": 100,
+      "pageCount": 9,
+      "pages": [
+        "discovery/collections/album-theme-natural-history-museum/page-001.json",
+        "discovery/collections/album-theme-natural-history-museum/page-002.json",
+        "discovery/collections/album-theme-natural-history-museum/page-003.json",
+        "discovery/collections/album-theme-natural-history-museum/page-004.json",
+        "discovery/collections/album-theme-natural-history-museum/page-005.json",
+        "discovery/collections/album-theme-natural-history-museum/page-006.json",
+        "discovery/collections/album-theme-natural-history-museum/page-007.json",
+        "discovery/collections/album-theme-natural-history-museum/page-008.json",
+        "discovery/collections/album-theme-natural-history-museum/page-009.json"
+      ]
+    },
+    {
+      "id": "album-theme-night-sky-constellations",
+      "name": "Night Sky & Constellations",
+      "description": "Semantic candidates for the Night Sky & Constellations Photo Album recipe.",
+      "tags": [
+        "constellation",
+        "moon",
+        "night",
+        "space",
+        "star"
+      ],
+      "assetCount": 124,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/album-theme-night-sky-constellations/page-001.json",
+        "discovery/collections/album-theme-night-sky-constellations/page-002.json"
+      ]
+    },
+    {
+      "id": "album-theme-ocean-aquarium",
+      "name": "Ocean & Aquarium",
+      "description": "Semantic candidates for the Ocean & Aquarium Photo Album recipe.",
+      "tags": [
+        "aquarium",
+        "coral",
+        "fish",
+        "ocean",
+        "tropical"
+      ],
+      "assetCount": 118,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/album-theme-ocean-aquarium/page-001.json",
+        "discovery/collections/album-theme-ocean-aquarium/page-002.json"
+      ]
+    },
+    {
+      "id": "album-theme-park-outdoor-adventure",
+      "name": "Park & Outdoor Adventure",
+      "description": "Semantic candidates for the Park & Outdoor Adventure Photo Album recipe.",
+      "tags": [
+        "camping",
+        "nature",
+        "outdoor",
+        "sports",
+        "tree"
+      ],
+      "assetCount": 664,
+      "pageSize": 100,
+      "pageCount": 7,
+      "pages": [
+        "discovery/collections/album-theme-park-outdoor-adventure/page-001.json",
+        "discovery/collections/album-theme-park-outdoor-adventure/page-002.json",
+        "discovery/collections/album-theme-park-outdoor-adventure/page-003.json",
+        "discovery/collections/album-theme-park-outdoor-adventure/page-004.json",
+        "discovery/collections/album-theme-park-outdoor-adventure/page-005.json",
+        "discovery/collections/album-theme-park-outdoor-adventure/page-006.json",
+        "discovery/collections/album-theme-park-outdoor-adventure/page-007.json"
+      ]
+    },
+    {
+      "id": "album-theme-plants-pollinators",
+      "name": "Plants & Pollinators",
+      "description": "Semantic candidates for the Plants & Pollinators Photo Album recipe.",
+      "tags": [
+        "bee",
+        "botanical",
+        "butterfly",
+        "flower",
+        "garden",
+        "insect",
+        "plant"
+      ],
+      "assetCount": 345,
+      "pageSize": 100,
+      "pageCount": 4,
+      "pages": [
+        "discovery/collections/album-theme-plants-pollinators/page-001.json",
+        "discovery/collections/album-theme-plants-pollinators/page-002.json",
+        "discovery/collections/album-theme-plants-pollinators/page-003.json",
+        "discovery/collections/album-theme-plants-pollinators/page-004.json"
+      ]
+    },
+    {
+      "id": "album-theme-pumpkin-patch",
+      "name": "Pumpkin Patch",
+      "description": "Semantic candidates for the Pumpkin Patch Photo Album recipe.",
+      "tags": [
+        "autumn",
+        "harvest",
+        "pumpkin",
+        "pumpkin-patch"
+      ],
+      "assetCount": 87,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/album-theme-pumpkin-patch/page-001.json"
+      ]
+    },
+    {
+      "id": "album-theme-safari-adventure",
+      "name": "Safari Adventure",
+      "description": "Semantic candidates for the Safari Adventure Photo Album recipe.",
+      "tags": [
+        "animal",
+        "animals",
+        "field-trip",
+        "nature",
+        "safari"
+      ],
+      "assetCount": 1044,
+      "pageSize": 100,
+      "pageCount": 11,
+      "pages": [
+        "discovery/collections/album-theme-safari-adventure/page-001.json",
+        "discovery/collections/album-theme-safari-adventure/page-002.json",
+        "discovery/collections/album-theme-safari-adventure/page-003.json",
+        "discovery/collections/album-theme-safari-adventure/page-004.json",
+        "discovery/collections/album-theme-safari-adventure/page-005.json",
+        "discovery/collections/album-theme-safari-adventure/page-006.json",
+        "discovery/collections/album-theme-safari-adventure/page-007.json",
+        "discovery/collections/album-theme-safari-adventure/page-008.json",
+        "discovery/collections/album-theme-safari-adventure/page-009.json",
+        "discovery/collections/album-theme-safari-adventure/page-010.json",
+        "discovery/collections/album-theme-safari-adventure/page-011.json"
+      ]
+    },
+    {
+      "id": "album-theme-school-bus-adventure",
+      "name": "School Bus Adventure",
+      "description": "Semantic candidates for the School Bus Adventure Photo Album recipe.",
+      "tags": [
+        "bus",
+        "school",
+        "transportation",
+        "vehicle"
+      ],
+      "assetCount": 282,
+      "pageSize": 100,
+      "pageCount": 3,
+      "pages": [
+        "discovery/collections/album-theme-school-bus-adventure/page-001.json",
+        "discovery/collections/album-theme-school-bus-adventure/page-002.json",
+        "discovery/collections/album-theme-school-bus-adventure/page-003.json"
+      ]
+    },
+    {
+      "id": "album-theme-school-carnival",
+      "name": "School Carnival",
+      "description": "Semantic candidates for the School Carnival Photo Album recipe.",
+      "tags": [
+        "carnival",
+        "celebration",
+        "festival",
+        "party",
+        "school"
+      ],
+      "assetCount": 356,
+      "pageSize": 100,
+      "pageCount": 4,
+      "pages": [
+        "discovery/collections/album-theme-school-carnival/page-001.json",
+        "discovery/collections/album-theme-school-carnival/page-002.json",
+        "discovery/collections/album-theme-school-carnival/page-003.json",
+        "discovery/collections/album-theme-school-carnival/page-004.json"
+      ]
+    },
+    {
+      "id": "album-theme-science-lab",
+      "name": "Science Lab",
+      "description": "Semantic candidates for the Science Lab Photo Album recipe.",
+      "tags": [
+        "biology",
+        "chemistry",
+        "laboratory",
+        "science",
+        "science-equipment"
+      ],
+      "assetCount": 173,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/album-theme-science-lab/page-001.json",
+        "discovery/collections/album-theme-science-lab/page-002.json"
+      ]
+    },
+    {
+      "id": "album-theme-science-museum",
+      "name": "Science Museum",
+      "description": "Semantic candidates for the Science Museum Photo Album recipe.",
+      "tags": [
+        "field-trip",
+        "museum",
+        "science",
+        "science-equipment"
+      ],
+      "assetCount": 673,
+      "pageSize": 100,
+      "pageCount": 7,
+      "pages": [
+        "discovery/collections/album-theme-science-museum/page-001.json",
+        "discovery/collections/album-theme-science-museum/page-002.json",
+        "discovery/collections/album-theme-science-museum/page-003.json",
+        "discovery/collections/album-theme-science-museum/page-004.json",
+        "discovery/collections/album-theme-science-museum/page-005.json",
+        "discovery/collections/album-theme-science-museum/page-006.json",
+        "discovery/collections/album-theme-science-museum/page-007.json"
+      ]
+    },
+    {
+      "id": "album-theme-space-planetarium",
+      "name": "Space & Planetarium",
+      "description": "Semantic candidates for the Space & Planetarium Photo Album recipe.",
+      "tags": [
+        "astronaut",
+        "moon",
+        "planet",
+        "rocket",
+        "space"
+      ],
+      "assetCount": 119,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/album-theme-space-planetarium/page-001.json",
+        "discovery/collections/album-theme-space-planetarium/page-002.json"
+      ]
+    },
+    {
+      "id": "album-theme-spirit-week",
+      "name": "Spirit Week",
+      "description": "Semantic candidates for the Spirit Week Photo Album recipe.",
+      "tags": [
+        "celebration",
+        "classroom",
+        "school",
+        "sports"
+      ],
+      "assetCount": 456,
+      "pageSize": 100,
+      "pageCount": 5,
+      "pages": [
+        "discovery/collections/album-theme-spirit-week/page-001.json",
+        "discovery/collections/album-theme-spirit-week/page-002.json",
+        "discovery/collections/album-theme-spirit-week/page-003.json",
+        "discovery/collections/album-theme-spirit-week/page-004.json",
+        "discovery/collections/album-theme-spirit-week/page-005.json"
+      ]
+    },
+    {
+      "id": "album-theme-spring-garden",
+      "name": "Spring Garden",
+      "description": "Semantic candidates for the Spring Garden Photo Album recipe.",
+      "tags": [
+        "botanical",
+        "flower",
+        "garden",
+        "spring"
+      ],
+      "assetCount": 343,
+      "pageSize": 100,
+      "pageCount": 4,
+      "pages": [
+        "discovery/collections/album-theme-spring-garden/page-001.json",
+        "discovery/collections/album-theme-spring-garden/page-002.json",
+        "discovery/collections/album-theme-spring-garden/page-003.json",
+        "discovery/collections/album-theme-spring-garden/page-004.json"
+      ]
+    },
+    {
+      "id": "album-theme-stem-makerspace",
+      "name": "STEM & Makerspace",
+      "description": "Semantic candidates for the STEM & Makerspace Photo Album recipe.",
+      "tags": [
+        "classroom",
+        "engineering",
+        "math",
+        "robot",
+        "science"
+      ],
+      "assetCount": 627,
+      "pageSize": 100,
+      "pageCount": 7,
+      "pages": [
+        "discovery/collections/album-theme-stem-makerspace/page-001.json",
+        "discovery/collections/album-theme-stem-makerspace/page-002.json",
+        "discovery/collections/album-theme-stem-makerspace/page-003.json",
+        "discovery/collections/album-theme-stem-makerspace/page-004.json",
+        "discovery/collections/album-theme-stem-makerspace/page-005.json",
+        "discovery/collections/album-theme-stem-makerspace/page-006.json",
+        "discovery/collections/album-theme-stem-makerspace/page-007.json"
+      ]
+    },
+    {
+      "id": "album-theme-summer-send-off",
+      "name": "Summer Send-Off",
+      "description": "Semantic candidates for the Summer Send-Off Photo Album recipe.",
+      "tags": [
+        "celebration",
+        "nature",
+        "school",
+        "summer"
+      ],
+      "assetCount": 895,
+      "pageSize": 100,
+      "pageCount": 9,
+      "pages": [
+        "discovery/collections/album-theme-summer-send-off/page-001.json",
+        "discovery/collections/album-theme-summer-send-off/page-002.json",
+        "discovery/collections/album-theme-summer-send-off/page-003.json",
+        "discovery/collections/album-theme-summer-send-off/page-004.json",
+        "discovery/collections/album-theme-summer-send-off/page-005.json",
+        "discovery/collections/album-theme-summer-send-off/page-006.json",
+        "discovery/collections/album-theme-summer-send-off/page-007.json",
+        "discovery/collections/album-theme-summer-send-off/page-008.json",
+        "discovery/collections/album-theme-summer-send-off/page-009.json"
+      ]
+    },
+    {
+      "id": "album-theme-theater-stage",
+      "name": "Theater & Stage",
+      "description": "Semantic candidates for the Theater & Stage Photo Album recipe.",
+      "tags": [
+        "celebration",
+        "music",
+        "performance",
+        "stage",
+        "theater"
+      ],
+      "assetCount": 231,
+      "pageSize": 100,
+      "pageCount": 3,
+      "pages": [
+        "discovery/collections/album-theme-theater-stage/page-001.json",
+        "discovery/collections/album-theme-theater-stage/page-002.json",
+        "discovery/collections/album-theme-theater-stage/page-003.json"
+      ]
+    },
+    {
+      "id": "album-theme-weather-earth-science",
+      "name": "Weather & Earth Science",
+      "description": "Semantic candidates for the Weather & Earth Science Photo Album recipe.",
+      "tags": [
+        "cloud",
+        "earth",
+        "nature",
+        "science",
+        "weather"
+      ],
+      "assetCount": 746,
+      "pageSize": 100,
+      "pageCount": 8,
+      "pages": [
+        "discovery/collections/album-theme-weather-earth-science/page-001.json",
+        "discovery/collections/album-theme-weather-earth-science/page-002.json",
+        "discovery/collections/album-theme-weather-earth-science/page-003.json",
+        "discovery/collections/album-theme-weather-earth-science/page-004.json",
+        "discovery/collections/album-theme-weather-earth-science/page-005.json",
+        "discovery/collections/album-theme-weather-earth-science/page-006.json",
+        "discovery/collections/album-theme-weather-earth-science/page-007.json",
+        "discovery/collections/album-theme-weather-earth-science/page-008.json"
+      ]
+    },
+    {
+      "id": "album-theme-winter-celebration",
+      "name": "Winter Celebration",
+      "description": "Semantic candidates for the Winter Celebration Photo Album recipe.",
+      "tags": [
+        "celebration",
+        "festival",
+        "holiday",
+        "winter"
+      ],
+      "assetCount": 299,
+      "pageSize": 100,
+      "pageCount": 3,
+      "pages": [
+        "discovery/collections/album-theme-winter-celebration/page-001.json",
+        "discovery/collections/album-theme-winter-celebration/page-002.json",
+        "discovery/collections/album-theme-winter-celebration/page-003.json"
+      ]
+    },
+    {
+      "id": "album-theme-winter-wonderland",
+      "name": "Winter Wonderland",
+      "description": "Semantic candidates for the Winter Wonderland Photo Album recipe.",
+      "tags": [
+        "nature",
+        "snow",
+        "weather",
+        "winter"
+      ],
+      "assetCount": 674,
+      "pageSize": 100,
+      "pageCount": 7,
+      "pages": [
+        "discovery/collections/album-theme-winter-wonderland/page-001.json",
+        "discovery/collections/album-theme-winter-wonderland/page-002.json",
+        "discovery/collections/album-theme-winter-wonderland/page-003.json",
+        "discovery/collections/album-theme-winter-wonderland/page-004.json",
+        "discovery/collections/album-theme-winter-wonderland/page-005.json",
+        "discovery/collections/album-theme-winter-wonderland/page-006.json",
+        "discovery/collections/album-theme-winter-wonderland/page-007.json"
+      ]
+    },
+    {
+      "id": "album-theme-woodland-fungi",
+      "name": "Woodland & Fungi",
+      "description": "Semantic candidates for the Woodland & Fungi Photo Album recipe.",
+      "tags": [
+        "forest",
+        "fungi",
+        "mushroom",
+        "nature",
+        "tree"
+      ],
+      "assetCount": 556,
+      "pageSize": 100,
+      "pageCount": 6,
+      "pages": [
+        "discovery/collections/album-theme-woodland-fungi/page-001.json",
+        "discovery/collections/album-theme-woodland-fungi/page-002.json",
+        "discovery/collections/album-theme-woodland-fungi/page-003.json",
+        "discovery/collections/album-theme-woodland-fungi/page-004.json",
+        "discovery/collections/album-theme-woodland-fungi/page-005.json",
+        "discovery/collections/album-theme-woodland-fungi/page-006.json"
+      ]
+    },
+    {
+      "id": "album-theme-woodland-nature-center",
+      "name": "Woodland & Nature Center",
+      "description": "Semantic candidates for the Woodland & Nature Center Photo Album recipe.",
+      "tags": [
+        "camping",
+        "forest",
+        "nature",
+        "tree",
+        "woodland"
+      ],
+      "assetCount": 637,
+      "pageSize": 100,
+      "pageCount": 7,
+      "pages": [
+        "discovery/collections/album-theme-woodland-nature-center/page-001.json",
+        "discovery/collections/album-theme-woodland-nature-center/page-002.json",
+        "discovery/collections/album-theme-woodland-nature-center/page-003.json",
+        "discovery/collections/album-theme-woodland-nature-center/page-004.json",
+        "discovery/collections/album-theme-woodland-nature-center/page-005.json",
+        "discovery/collections/album-theme-woodland-nature-center/page-006.json",
+        "discovery/collections/album-theme-woodland-nature-center/page-007.json"
+      ]
+    },
+    {
+      "id": "album-theme-zoo-wildlife",
+      "name": "Zoo & Wildlife",
+      "description": "Semantic candidates for the Zoo & Wildlife Photo Album recipe.",
+      "tags": [
+        "animal",
+        "animals",
+        "nature",
+        "safari",
+        "zoo"
+      ],
+      "assetCount": 645,
+      "pageSize": 100,
+      "pageCount": 7,
+      "pages": [
+        "discovery/collections/album-theme-zoo-wildlife/page-001.json",
+        "discovery/collections/album-theme-zoo-wildlife/page-002.json",
+        "discovery/collections/album-theme-zoo-wildlife/page-003.json",
+        "discovery/collections/album-theme-zoo-wildlife/page-004.json",
+        "discovery/collections/album-theme-zoo-wildlife/page-005.json",
+        "discovery/collections/album-theme-zoo-wildlife/page-006.json",
+        "discovery/collections/album-theme-zoo-wildlife/page-007.json"
+      ]
+    },
+    {
+      "id": "style-3d",
+      "name": "style: 3d",
+      "description": "Assets classified by style as 3d.",
+      "tags": [
+        "style",
+        "3d"
+      ],
+      "assetCount": 463,
+      "pageSize": 100,
+      "pageCount": 5,
+      "pages": [
+        "discovery/collections/style-3d/page-001.json",
+        "discovery/collections/style-3d/page-002.json",
+        "discovery/collections/style-3d/page-003.json",
+        "discovery/collections/style-3d/page-004.json",
+        "discovery/collections/style-3d/page-005.json"
+      ]
+    },
+    {
+      "id": "style-clay",
+      "name": "style: clay",
+      "description": "Assets classified by style as clay.",
+      "tags": [
+        "style",
+        "clay"
+      ],
+      "assetCount": 84,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/style-clay/page-001.json"
+      ]
+    },
+    {
+      "id": "style-dimensional",
+      "name": "style: dimensional",
+      "description": "Assets classified by style as dimensional.",
+      "tags": [
+        "style",
+        "dimensional"
+      ],
+      "assetCount": 463,
+      "pageSize": 100,
+      "pageCount": 5,
+      "pages": [
+        "discovery/collections/style-dimensional/page-001.json",
+        "discovery/collections/style-dimensional/page-002.json",
+        "discovery/collections/style-dimensional/page-003.json",
+        "discovery/collections/style-dimensional/page-004.json",
+        "discovery/collections/style-dimensional/page-005.json"
+      ]
+    },
+    {
+      "id": "style-doodle",
+      "name": "style: doodle",
+      "description": "Assets classified by style as doodle.",
+      "tags": [
+        "style",
+        "doodle"
+      ],
+      "assetCount": 1487,
+      "pageSize": 100,
+      "pageCount": 15,
+      "pages": [
+        "discovery/collections/style-doodle/page-001.json",
+        "discovery/collections/style-doodle/page-002.json",
+        "discovery/collections/style-doodle/page-003.json",
+        "discovery/collections/style-doodle/page-004.json",
+        "discovery/collections/style-doodle/page-005.json",
+        "discovery/collections/style-doodle/page-006.json",
+        "discovery/collections/style-doodle/page-007.json",
+        "discovery/collections/style-doodle/page-008.json",
+        "discovery/collections/style-doodle/page-009.json",
+        "discovery/collections/style-doodle/page-010.json",
+        "discovery/collections/style-doodle/page-011.json",
+        "discovery/collections/style-doodle/page-012.json",
+        "discovery/collections/style-doodle/page-013.json",
+        "discovery/collections/style-doodle/page-014.json",
+        "discovery/collections/style-doodle/page-015.json"
+      ]
+    },
+    {
+      "id": "style-geometric",
+      "name": "style: geometric",
+      "description": "Assets classified by style as geometric.",
+      "tags": [
+        "style",
+        "geometric"
+      ],
+      "assetCount": 524,
+      "pageSize": 100,
+      "pageCount": 6,
+      "pages": [
+        "discovery/collections/style-geometric/page-001.json",
+        "discovery/collections/style-geometric/page-002.json",
+        "discovery/collections/style-geometric/page-003.json",
+        "discovery/collections/style-geometric/page-004.json",
+        "discovery/collections/style-geometric/page-005.json",
+        "discovery/collections/style-geometric/page-006.json"
+      ]
+    },
+    {
+      "id": "style-glossy",
+      "name": "style: glossy",
+      "description": "Assets classified by style as glossy.",
+      "tags": [
+        "style",
+        "glossy"
+      ],
+      "assetCount": 141,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/style-glossy/page-001.json",
+        "discovery/collections/style-glossy/page-002.json"
+      ]
+    },
+    {
+      "id": "style-hand-drawn",
+      "name": "style: hand-drawn",
+      "description": "Assets classified by style as hand-drawn.",
+      "tags": [
+        "style",
+        "hand-drawn"
+      ],
+      "assetCount": 1487,
+      "pageSize": 100,
+      "pageCount": 15,
+      "pages": [
+        "discovery/collections/style-hand-drawn/page-001.json",
+        "discovery/collections/style-hand-drawn/page-002.json",
+        "discovery/collections/style-hand-drawn/page-003.json",
+        "discovery/collections/style-hand-drawn/page-004.json",
+        "discovery/collections/style-hand-drawn/page-005.json",
+        "discovery/collections/style-hand-drawn/page-006.json",
+        "discovery/collections/style-hand-drawn/page-007.json",
+        "discovery/collections/style-hand-drawn/page-008.json",
+        "discovery/collections/style-hand-drawn/page-009.json",
+        "discovery/collections/style-hand-drawn/page-010.json",
+        "discovery/collections/style-hand-drawn/page-011.json",
+        "discovery/collections/style-hand-drawn/page-012.json",
+        "discovery/collections/style-hand-drawn/page-013.json",
+        "discovery/collections/style-hand-drawn/page-014.json",
+        "discovery/collections/style-hand-drawn/page-015.json"
+      ]
+    },
+    {
+      "id": "style-line-art",
+      "name": "style: line-art",
+      "description": "Assets classified by style as line-art.",
+      "tags": [
+        "style",
+        "line-art"
+      ],
+      "assetCount": 2548,
+      "pageSize": 100,
+      "pageCount": 26,
+      "pages": [
+        "discovery/collections/style-line-art/page-001.json",
+        "discovery/collections/style-line-art/page-002.json",
+        "discovery/collections/style-line-art/page-003.json",
+        "discovery/collections/style-line-art/page-004.json",
+        "discovery/collections/style-line-art/page-005.json",
+        "discovery/collections/style-line-art/page-006.json",
+        "discovery/collections/style-line-art/page-007.json",
+        "discovery/collections/style-line-art/page-008.json",
+        "discovery/collections/style-line-art/page-009.json",
+        "discovery/collections/style-line-art/page-010.json",
+        "discovery/collections/style-line-art/page-011.json",
+        "discovery/collections/style-line-art/page-012.json",
+        "discovery/collections/style-line-art/page-013.json",
+        "discovery/collections/style-line-art/page-014.json",
+        "discovery/collections/style-line-art/page-015.json",
+        "discovery/collections/style-line-art/page-016.json",
+        "discovery/collections/style-line-art/page-017.json",
+        "discovery/collections/style-line-art/page-018.json",
+        "discovery/collections/style-line-art/page-019.json",
+        "discovery/collections/style-line-art/page-020.json",
+        "discovery/collections/style-line-art/page-021.json",
+        "discovery/collections/style-line-art/page-022.json",
+        "discovery/collections/style-line-art/page-023.json",
+        "discovery/collections/style-line-art/page-024.json",
+        "discovery/collections/style-line-art/page-025.json",
+        "discovery/collections/style-line-art/page-026.json"
+      ]
+    },
+    {
+      "id": "style-paper",
+      "name": "style: paper",
+      "description": "Assets classified by style as paper.",
+      "tags": [
+        "style",
+        "paper"
+      ],
+      "assetCount": 20,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/style-paper/page-001.json"
+      ]
+    },
+    {
+      "id": "style-plasticine",
+      "name": "style: plasticine",
+      "description": "Assets classified by style as plasticine.",
+      "tags": [
+        "style",
+        "plasticine"
+      ],
+      "assetCount": 84,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/style-plasticine/page-001.json"
+      ]
+    },
+    {
+      "id": "style-realistic",
+      "name": "style: realistic",
+      "description": "Assets classified by style as realistic.",
+      "tags": [
+        "style",
+        "realistic"
+      ],
+      "assetCount": 3,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/style-realistic/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-airplane",
+      "name": "subject: airplane",
+      "description": "Assets classified by subject as airplane.",
+      "tags": [
+        "subject",
+        "airplane"
+      ],
+      "assetCount": 3,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-airplane/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-animal",
+      "name": "subject: animal",
+      "description": "Assets classified by subject as animal.",
+      "tags": [
+        "subject",
+        "animal"
+      ],
+      "assetCount": 27,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-animal/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-arrow",
+      "name": "subject: arrow",
+      "description": "Assets classified by subject as arrow.",
+      "tags": [
+        "subject",
+        "arrow"
+      ],
+      "assetCount": 97,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-arrow/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-astronaut",
+      "name": "subject: astronaut",
+      "description": "Assets classified by subject as astronaut.",
+      "tags": [
+        "subject",
+        "astronaut"
+      ],
+      "assetCount": 5,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-astronaut/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-backpack",
+      "name": "subject: backpack",
+      "description": "Assets classified by subject as backpack.",
+      "tags": [
+        "subject",
+        "backpack"
+      ],
+      "assetCount": 4,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-backpack/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-balloon",
+      "name": "subject: balloon",
+      "description": "Assets classified by subject as balloon.",
+      "tags": [
+        "subject",
+        "balloon"
+      ],
+      "assetCount": 6,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-balloon/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-banner",
+      "name": "subject: banner",
+      "description": "Assets classified by subject as banner.",
+      "tags": [
+        "subject",
+        "banner"
+      ],
+      "assetCount": 3,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-banner/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-bicycle",
+      "name": "subject: bicycle",
+      "description": "Assets classified by subject as bicycle.",
+      "tags": [
+        "subject",
+        "bicycle"
+      ],
+      "assetCount": 3,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-bicycle/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-boat",
+      "name": "subject: boat",
+      "description": "Assets classified by subject as boat.",
+      "tags": [
+        "subject",
+        "boat"
+      ],
+      "assetCount": 10,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-boat/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-book",
+      "name": "subject: book",
+      "description": "Assets classified by subject as book.",
+      "tags": [
+        "subject",
+        "book"
+      ],
+      "assetCount": 183,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/subject-book/page-001.json",
+        "discovery/collections/subject-book/page-002.json"
+      ]
+    },
+    {
+      "id": "subject-camera",
+      "name": "subject: camera",
+      "description": "Assets classified by subject as camera.",
+      "tags": [
+        "subject",
+        "camera"
+      ],
+      "assetCount": 12,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-camera/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-car",
+      "name": "subject: car",
+      "description": "Assets classified by subject as car.",
+      "tags": [
+        "subject",
+        "car"
+      ],
+      "assetCount": 14,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-car/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-chair",
+      "name": "subject: chair",
+      "description": "Assets classified by subject as chair.",
+      "tags": [
+        "subject",
+        "chair"
+      ],
+      "assetCount": 24,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-chair/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-computer",
+      "name": "subject: computer",
+      "description": "Assets classified by subject as computer.",
+      "tags": [
+        "subject",
+        "computer"
+      ],
+      "assetCount": 50,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-computer/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-coral",
+      "name": "subject: coral",
+      "description": "Assets classified by subject as coral.",
+      "tags": [
+        "subject",
+        "coral"
+      ],
+      "assetCount": 6,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-coral/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-fish",
+      "name": "subject: fish",
+      "description": "Assets classified by subject as fish.",
+      "tags": [
+        "subject",
+        "fish"
+      ],
+      "assetCount": 3,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-fish/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-flower",
+      "name": "subject: flower",
+      "description": "Assets classified by subject as flower.",
+      "tags": [
+        "subject",
+        "flower"
+      ],
+      "assetCount": 71,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-flower/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-food",
+      "name": "subject: food",
+      "description": "Assets classified by subject as food.",
+      "tags": [
+        "subject",
+        "food"
+      ],
+      "assetCount": 30,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-food/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-frame",
+      "name": "subject: frame",
+      "description": "Assets classified by subject as frame.",
+      "tags": [
+        "subject",
+        "frame"
+      ],
+      "assetCount": 5,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-frame/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-instrument",
+      "name": "subject: instrument",
+      "description": "Assets classified by subject as instrument.",
+      "tags": [
+        "subject",
+        "instrument"
+      ],
+      "assetCount": 25,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-instrument/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-lamp",
+      "name": "subject: lamp",
+      "description": "Assets classified by subject as lamp.",
+      "tags": [
+        "subject",
+        "lamp"
+      ],
+      "assetCount": 18,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-lamp/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-landmark",
+      "name": "subject: landmark",
+      "description": "Assets classified by subject as landmark.",
+      "tags": [
+        "subject",
+        "landmark"
+      ],
+      "assetCount": 39,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-landmark/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-leaf",
+      "name": "subject: leaf",
+      "description": "Assets classified by subject as leaf.",
+      "tags": [
+        "subject",
+        "leaf"
+      ],
+      "assetCount": 21,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-leaf/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-math-symbol",
+      "name": "subject: math-symbol",
+      "description": "Assets classified by subject as math-symbol.",
+      "tags": [
+        "subject",
+        "math-symbol"
+      ],
+      "assetCount": 31,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-math-symbol/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-microscope",
+      "name": "subject: microscope",
+      "description": "Assets classified by subject as microscope.",
+      "tags": [
+        "subject",
+        "microscope"
+      ],
+      "assetCount": 4,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-microscope/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-moon",
+      "name": "subject: moon",
+      "description": "Assets classified by subject as moon.",
+      "tags": [
+        "subject",
+        "moon"
+      ],
+      "assetCount": 12,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-moon/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-mountain",
+      "name": "subject: mountain",
+      "description": "Assets classified by subject as mountain.",
+      "tags": [
+        "subject",
+        "mountain"
+      ],
+      "assetCount": 22,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-mountain/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-museum",
+      "name": "subject: museum",
+      "description": "Assets classified by subject as museum.",
+      "tags": [
+        "subject",
+        "museum"
+      ],
+      "assetCount": 4,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-museum/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-pencil",
+      "name": "subject: pencil",
+      "description": "Assets classified by subject as pencil.",
+      "tags": [
+        "subject",
+        "pencil"
+      ],
+      "assetCount": 14,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-pencil/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-phone",
+      "name": "subject: phone",
+      "description": "Assets classified by subject as phone.",
+      "tags": [
+        "subject",
+        "phone"
+      ],
+      "assetCount": 4,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-phone/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-planet",
+      "name": "subject: planet",
+      "description": "Assets classified by subject as planet.",
+      "tags": [
+        "subject",
+        "planet"
+      ],
+      "assetCount": 16,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-planet/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-plant",
+      "name": "subject: plant",
+      "description": "Assets classified by subject as plant.",
+      "tags": [
+        "subject",
+        "plant"
+      ],
+      "assetCount": 45,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-plant/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-pumpkin",
+      "name": "subject: pumpkin",
+      "description": "Assets classified by subject as pumpkin.",
+      "tags": [
+        "subject",
+        "pumpkin"
+      ],
+      "assetCount": 1,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-pumpkin/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-robot",
+      "name": "subject: robot",
+      "description": "Assets classified by subject as robot.",
+      "tags": [
+        "subject",
+        "robot"
+      ],
+      "assetCount": 32,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-robot/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-rocket",
+      "name": "subject: rocket",
+      "description": "Assets classified by subject as rocket.",
+      "tags": [
+        "subject",
+        "rocket"
+      ],
+      "assetCount": 14,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-rocket/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-satellite",
+      "name": "subject: satellite",
+      "description": "Assets classified by subject as satellite.",
+      "tags": [
+        "subject",
+        "satellite"
+      ],
+      "assetCount": 8,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-satellite/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-school",
+      "name": "subject: school",
+      "description": "Assets classified by subject as school.",
+      "tags": [
+        "subject",
+        "school"
+      ],
+      "assetCount": 38,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-school/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-science-equipment",
+      "name": "subject: science-equipment",
+      "description": "Assets classified by subject as science-equipment.",
+      "tags": [
+        "subject",
+        "science-equipment"
+      ],
+      "assetCount": 11,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-science-equipment/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-shape",
+      "name": "subject: shape",
+      "description": "Assets classified by subject as shape.",
+      "tags": [
+        "subject",
+        "shape"
+      ],
+      "assetCount": 185,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/subject-shape/page-001.json",
+        "discovery/collections/subject-shape/page-002.json"
+      ]
+    },
+    {
+      "id": "subject-shell",
+      "name": "subject: shell",
+      "description": "Assets classified by subject as shell.",
+      "tags": [
+        "subject",
+        "shell"
+      ],
+      "assetCount": 4,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-shell/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-sofa",
+      "name": "subject: sofa",
+      "description": "Assets classified by subject as sofa.",
+      "tags": [
+        "subject",
+        "sofa"
+      ],
+      "assetCount": 11,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-sofa/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-sports",
+      "name": "subject: sports",
+      "description": "Assets classified by subject as sports.",
+      "tags": [
+        "subject",
+        "sports"
+      ],
+      "assetCount": 14,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-sports/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-star",
+      "name": "subject: star",
+      "description": "Assets classified by subject as star.",
+      "tags": [
+        "subject",
+        "star"
+      ],
+      "assetCount": 9,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-star/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-table",
+      "name": "subject: table",
+      "description": "Assets classified by subject as table.",
+      "tags": [
+        "subject",
+        "table"
+      ],
+      "assetCount": 38,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-table/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-tent",
+      "name": "subject: tent",
+      "description": "Assets classified by subject as tent.",
+      "tags": [
+        "subject",
+        "tent"
+      ],
+      "assetCount": 12,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-tent/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-toy",
+      "name": "subject: toy",
+      "description": "Assets classified by subject as toy.",
+      "tags": [
+        "subject",
+        "toy"
+      ],
+      "assetCount": 41,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-toy/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-train",
+      "name": "subject: train",
+      "description": "Assets classified by subject as train.",
+      "tags": [
+        "subject",
+        "train"
+      ],
+      "assetCount": 4,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-train/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-tree",
+      "name": "subject: tree",
+      "description": "Assets classified by subject as tree.",
+      "tags": [
+        "subject",
+        "tree"
+      ],
+      "assetCount": 35,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-tree/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-truck",
+      "name": "subject: truck",
+      "description": "Assets classified by subject as truck.",
+      "tags": [
+        "subject",
+        "truck"
+      ],
+      "assetCount": 8,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-truck/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-vine",
+      "name": "subject: vine",
+      "description": "Assets classified by subject as vine.",
+      "tags": [
+        "subject",
+        "vine"
+      ],
+      "assetCount": 7,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-vine/page-001.json"
+      ]
+    },
+    {
+      "id": "subject-weather",
+      "name": "subject: weather",
+      "description": "Assets classified by subject as weather.",
+      "tags": [
+        "subject",
+        "weather"
+      ],
+      "assetCount": 32,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/subject-weather/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-autumn",
+      "name": "theme: autumn",
+      "description": "Assets classified by theme as autumn.",
+      "tags": [
+        "theme",
+        "autumn"
+      ],
+      "assetCount": 10,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-autumn/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-botanical",
+      "name": "theme: botanical",
+      "description": "Assets classified by theme as botanical.",
+      "tags": [
+        "theme",
+        "botanical"
+      ],
+      "assetCount": 285,
+      "pageSize": 100,
+      "pageCount": 3,
+      "pages": [
+        "discovery/collections/theme-botanical/page-001.json",
+        "discovery/collections/theme-botanical/page-002.json",
+        "discovery/collections/theme-botanical/page-003.json"
+      ]
+    },
+    {
+      "id": "theme-business",
+      "name": "theme: business",
+      "description": "Assets classified by theme as business.",
+      "tags": [
+        "theme",
+        "business"
+      ],
+      "assetCount": 58,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-business/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-camping",
+      "name": "theme: camping",
+      "description": "Assets classified by theme as camping.",
+      "tags": [
+        "theme",
+        "camping"
+      ],
+      "assetCount": 85,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-camping/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-celebration",
+      "name": "theme: celebration",
+      "description": "Assets classified by theme as celebration.",
+      "tags": [
+        "theme",
+        "celebration"
+      ],
+      "assetCount": 197,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/theme-celebration/page-001.json",
+        "discovery/collections/theme-celebration/page-002.json"
+      ]
+    },
+    {
+      "id": "theme-classroom",
+      "name": "theme: classroom",
+      "description": "Assets classified by theme as classroom.",
+      "tags": [
+        "theme",
+        "classroom"
+      ],
+      "assetCount": 234,
+      "pageSize": 100,
+      "pageCount": 3,
+      "pages": [
+        "discovery/collections/theme-classroom/page-001.json",
+        "discovery/collections/theme-classroom/page-002.json",
+        "discovery/collections/theme-classroom/page-003.json"
+      ]
+    },
+    {
+      "id": "theme-ecology",
+      "name": "theme: ecology",
+      "description": "Assets classified by theme as ecology.",
+      "tags": [
+        "theme",
+        "ecology"
+      ],
+      "assetCount": 21,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-ecology/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-engineering",
+      "name": "theme: engineering",
+      "description": "Assets classified by theme as engineering.",
+      "tags": [
+        "theme",
+        "engineering"
+      ],
+      "assetCount": 120,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/theme-engineering/page-001.json",
+        "discovery/collections/theme-engineering/page-002.json"
+      ]
+    },
+    {
+      "id": "theme-farming",
+      "name": "theme: farming",
+      "description": "Assets classified by theme as farming.",
+      "tags": [
+        "theme",
+        "farming"
+      ],
+      "assetCount": 77,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-farming/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-field-trip",
+      "name": "theme: field-trip",
+      "description": "Assets classified by theme as field-trip.",
+      "tags": [
+        "theme",
+        "field-trip"
+      ],
+      "assetCount": 498,
+      "pageSize": 100,
+      "pageCount": 5,
+      "pages": [
+        "discovery/collections/theme-field-trip/page-001.json",
+        "discovery/collections/theme-field-trip/page-002.json",
+        "discovery/collections/theme-field-trip/page-003.json",
+        "discovery/collections/theme-field-trip/page-004.json",
+        "discovery/collections/theme-field-trip/page-005.json"
+      ]
+    },
+    {
+      "id": "theme-garden",
+      "name": "theme: garden",
+      "description": "Assets classified by theme as garden.",
+      "tags": [
+        "theme",
+        "garden"
+      ],
+      "assetCount": 87,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-garden/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-harvest",
+      "name": "theme: harvest",
+      "description": "Assets classified by theme as harvest.",
+      "tags": [
+        "theme",
+        "harvest"
+      ],
+      "assetCount": 78,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-harvest/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-home",
+      "name": "theme: home",
+      "description": "Assets classified by theme as home.",
+      "tags": [
+        "theme",
+        "home"
+      ],
+      "assetCount": 119,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/theme-home/page-001.json",
+        "discovery/collections/theme-home/page-002.json"
+      ]
+    },
+    {
+      "id": "theme-library",
+      "name": "theme: library",
+      "description": "Assets classified by theme as library.",
+      "tags": [
+        "theme",
+        "library"
+      ],
+      "assetCount": 83,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-library/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-math",
+      "name": "theme: math",
+      "description": "Assets classified by theme as math.",
+      "tags": [
+        "theme",
+        "math"
+      ],
+      "assetCount": 97,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-math/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-museum",
+      "name": "theme: museum",
+      "description": "Assets classified by theme as museum.",
+      "tags": [
+        "theme",
+        "museum"
+      ],
+      "assetCount": 327,
+      "pageSize": 100,
+      "pageCount": 4,
+      "pages": [
+        "discovery/collections/theme-museum/page-001.json",
+        "discovery/collections/theme-museum/page-002.json",
+        "discovery/collections/theme-museum/page-003.json",
+        "discovery/collections/theme-museum/page-004.json"
+      ]
+    },
+    {
+      "id": "theme-music",
+      "name": "theme: music",
+      "description": "Assets classified by theme as music.",
+      "tags": [
+        "theme",
+        "music"
+      ],
+      "assetCount": 40,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-music/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-nature",
+      "name": "theme: nature",
+      "description": "Assets classified by theme as nature.",
+      "tags": [
+        "theme",
+        "nature"
+      ],
+      "assetCount": 540,
+      "pageSize": 100,
+      "pageCount": 6,
+      "pages": [
+        "discovery/collections/theme-nature/page-001.json",
+        "discovery/collections/theme-nature/page-002.json",
+        "discovery/collections/theme-nature/page-003.json",
+        "discovery/collections/theme-nature/page-004.json",
+        "discovery/collections/theme-nature/page-005.json",
+        "discovery/collections/theme-nature/page-006.json"
+      ]
+    },
+    {
+      "id": "theme-ocean",
+      "name": "theme: ocean",
+      "description": "Assets classified by theme as ocean.",
+      "tags": [
+        "theme",
+        "ocean"
+      ],
+      "assetCount": 114,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/theme-ocean/page-001.json",
+        "discovery/collections/theme-ocean/page-002.json"
+      ]
+    },
+    {
+      "id": "theme-pumpkin-patch",
+      "name": "theme: pumpkin-patch",
+      "description": "Assets classified by theme as pumpkin-patch.",
+      "tags": [
+        "theme",
+        "pumpkin-patch"
+      ],
+      "assetCount": 1,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-pumpkin-patch/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-reading",
+      "name": "theme: reading",
+      "description": "Assets classified by theme as reading.",
+      "tags": [
+        "theme",
+        "reading"
+      ],
+      "assetCount": 324,
+      "pageSize": 100,
+      "pageCount": 4,
+      "pages": [
+        "discovery/collections/theme-reading/page-001.json",
+        "discovery/collections/theme-reading/page-002.json",
+        "discovery/collections/theme-reading/page-003.json",
+        "discovery/collections/theme-reading/page-004.json"
+      ]
+    },
+    {
+      "id": "theme-safari",
+      "name": "theme: safari",
+      "description": "Assets classified by theme as safari.",
+      "tags": [
+        "theme",
+        "safari"
+      ],
+      "assetCount": 98,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-safari/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-school",
+      "name": "theme: school",
+      "description": "Assets classified by theme as school.",
+      "tags": [
+        "theme",
+        "school"
+      ],
+      "assetCount": 159,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/theme-school/page-001.json",
+        "discovery/collections/theme-school/page-002.json"
+      ]
+    },
+    {
+      "id": "theme-science",
+      "name": "theme: science",
+      "description": "Assets classified by theme as science.",
+      "tags": [
+        "theme",
+        "science"
+      ],
+      "assetCount": 170,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/theme-science/page-001.json",
+        "discovery/collections/theme-science/page-002.json"
+      ]
+    },
+    {
+      "id": "theme-space",
+      "name": "theme: space",
+      "description": "Assets classified by theme as space.",
+      "tags": [
+        "theme",
+        "space"
+      ],
+      "assetCount": 106,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/theme-space/page-001.json",
+        "discovery/collections/theme-space/page-002.json"
+      ]
+    },
+    {
+      "id": "theme-sports",
+      "name": "theme: sports",
+      "description": "Assets classified by theme as sports.",
+      "tags": [
+        "theme",
+        "sports"
+      ],
+      "assetCount": 26,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-sports/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-spring",
+      "name": "theme: spring",
+      "description": "Assets classified by theme as spring.",
+      "tags": [
+        "theme",
+        "spring"
+      ],
+      "assetCount": 6,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-spring/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-transportation",
+      "name": "theme: transportation",
+      "description": "Assets classified by theme as transportation.",
+      "tags": [
+        "theme",
+        "transportation"
+      ],
+      "assetCount": 123,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/theme-transportation/page-001.json",
+        "discovery/collections/theme-transportation/page-002.json"
+      ]
+    },
+    {
+      "id": "theme-travel",
+      "name": "theme: travel",
+      "description": "Assets classified by theme as travel.",
+      "tags": [
+        "theme",
+        "travel"
+      ],
+      "assetCount": 536,
+      "pageSize": 100,
+      "pageCount": 6,
+      "pages": [
+        "discovery/collections/theme-travel/page-001.json",
+        "discovery/collections/theme-travel/page-002.json",
+        "discovery/collections/theme-travel/page-003.json",
+        "discovery/collections/theme-travel/page-004.json",
+        "discovery/collections/theme-travel/page-005.json",
+        "discovery/collections/theme-travel/page-006.json"
+      ]
+    },
+    {
+      "id": "theme-tropical",
+      "name": "theme: tropical",
+      "description": "Assets classified by theme as tropical.",
+      "tags": [
+        "theme",
+        "tropical"
+      ],
+      "assetCount": 113,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/theme-tropical/page-001.json",
+        "discovery/collections/theme-tropical/page-002.json"
+      ]
+    },
+    {
+      "id": "theme-weather",
+      "name": "theme: weather",
+      "description": "Assets classified by theme as weather.",
+      "tags": [
+        "theme",
+        "weather"
+      ],
+      "assetCount": 48,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/theme-weather/page-001.json"
+      ]
+    },
+    {
+      "id": "theme-winter",
+      "name": "theme: winter",
+      "description": "Assets classified by theme as winter.",
+      "tags": [
+        "theme",
+        "winter"
+      ],
+      "assetCount": 108,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/theme-winter/page-001.json",
+        "discovery/collections/theme-winter/page-002.json"
+      ]
+    },
+    {
+      "id": "type-background",
+      "name": "type: background",
+      "description": "Assets classified by type as background.",
+      "tags": [
+        "type",
+        "background"
+      ],
+      "assetCount": 0,
+      "pageSize": 100,
+      "pageCount": 0,
+      "pages": []
+    },
+    {
+      "id": "type-banner",
+      "name": "type: banner",
+      "description": "Assets classified by type as banner.",
+      "tags": [
+        "type",
+        "banner"
+      ],
+      "assetCount": 2,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/type-banner/page-001.json"
+      ]
+    },
+    {
+      "id": "type-character",
+      "name": "type: character",
+      "description": "Assets classified by type as character.",
+      "tags": [
+        "type",
+        "character"
+      ],
+      "assetCount": 58,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/type-character/page-001.json"
+      ]
+    },
+    {
+      "id": "type-decorative-element",
+      "name": "type: decorative-element",
+      "description": "Assets classified by type as decorative-element.",
+      "tags": [
+        "type",
+        "decorative-element"
+      ],
+      "assetCount": 114,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/type-decorative-element/page-001.json",
+        "discovery/collections/type-decorative-element/page-002.json"
+      ]
+    },
+    {
+      "id": "type-divider",
+      "name": "type: divider",
+      "description": "Assets classified by type as divider.",
+      "tags": [
+        "type",
+        "divider"
+      ],
+      "assetCount": 1,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/type-divider/page-001.json"
+      ]
+    },
+    {
+      "id": "type-frame",
+      "name": "type: frame",
+      "description": "Assets classified by type as frame.",
+      "tags": [
+        "type",
+        "frame"
+      ],
+      "assetCount": 5,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/type-frame/page-001.json"
+      ]
+    },
+    {
+      "id": "type-icon",
+      "name": "type: icon",
+      "description": "Assets classified by type as icon.",
+      "tags": [
+        "type",
+        "icon"
+      ],
+      "assetCount": 725,
+      "pageSize": 100,
+      "pageCount": 8,
+      "pages": [
+        "discovery/collections/type-icon/page-001.json",
+        "discovery/collections/type-icon/page-002.json",
+        "discovery/collections/type-icon/page-003.json",
+        "discovery/collections/type-icon/page-004.json",
+        "discovery/collections/type-icon/page-005.json",
+        "discovery/collections/type-icon/page-006.json",
+        "discovery/collections/type-icon/page-007.json",
+        "discovery/collections/type-icon/page-008.json"
+      ]
+    },
+    {
+      "id": "type-illustration",
+      "name": "type: illustration",
+      "description": "Assets classified by type as illustration.",
+      "tags": [
+        "type",
+        "illustration"
+      ],
+      "assetCount": 2372,
+      "pageSize": 100,
+      "pageCount": 24,
+      "pages": [
+        "discovery/collections/type-illustration/page-001.json",
+        "discovery/collections/type-illustration/page-002.json",
+        "discovery/collections/type-illustration/page-003.json",
+        "discovery/collections/type-illustration/page-004.json",
+        "discovery/collections/type-illustration/page-005.json",
+        "discovery/collections/type-illustration/page-006.json",
+        "discovery/collections/type-illustration/page-007.json",
+        "discovery/collections/type-illustration/page-008.json",
+        "discovery/collections/type-illustration/page-009.json",
+        "discovery/collections/type-illustration/page-010.json",
+        "discovery/collections/type-illustration/page-011.json",
+        "discovery/collections/type-illustration/page-012.json",
+        "discovery/collections/type-illustration/page-013.json",
+        "discovery/collections/type-illustration/page-014.json",
+        "discovery/collections/type-illustration/page-015.json",
+        "discovery/collections/type-illustration/page-016.json",
+        "discovery/collections/type-illustration/page-017.json",
+        "discovery/collections/type-illustration/page-018.json",
+        "discovery/collections/type-illustration/page-019.json",
+        "discovery/collections/type-illustration/page-020.json",
+        "discovery/collections/type-illustration/page-021.json",
+        "discovery/collections/type-illustration/page-022.json",
+        "discovery/collections/type-illustration/page-023.json",
+        "discovery/collections/type-illustration/page-024.json"
+      ]
+    },
+    {
+      "id": "type-pattern",
+      "name": "type: pattern",
+      "description": "Assets classified by type as pattern.",
+      "tags": [
+        "type",
+        "pattern"
+      ],
+      "assetCount": 220,
+      "pageSize": 100,
+      "pageCount": 3,
+      "pages": [
+        "discovery/collections/type-pattern/page-001.json",
+        "discovery/collections/type-pattern/page-002.json",
+        "discovery/collections/type-pattern/page-003.json"
+      ]
+    },
+    {
+      "id": "type-prop",
+      "name": "type: prop",
+      "description": "Assets classified by type as prop.",
+      "tags": [
+        "type",
+        "prop"
+      ],
+      "assetCount": 62,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/type-prop/page-001.json"
+      ]
+    },
+    {
+      "id": "type-texture",
+      "name": "type: texture",
+      "description": "Assets classified by type as texture.",
+      "tags": [
+        "type",
+        "texture"
+      ],
+      "assetCount": 198,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/type-texture/page-001.json",
+        "discovery/collections/type-texture/page-002.json"
+      ]
+    },
+    {
+      "id": "type-trim",
+      "name": "type: trim",
+      "description": "Assets classified by type as trim.",
+      "tags": [
+        "type",
+        "trim"
+      ],
+      "assetCount": 2,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/type-trim/page-001.json"
+      ]
+    },
+    {
+      "id": "use-case-album-banner",
+      "name": "use-case: album-banner",
+      "description": "Assets classified by use-case as album-banner.",
+      "tags": [
+        "use-case",
+        "album-banner"
+      ],
+      "assetCount": 2,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/use-case-album-banner/page-001.json"
+      ]
+    },
+    {
+      "id": "use-case-album-trim",
+      "name": "use-case: album-trim",
+      "description": "Assets classified by use-case as album-trim.",
+      "tags": [
+        "use-case",
+        "album-trim"
+      ],
+      "assetCount": 2,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/use-case-album-trim/page-001.json"
+      ]
+    },
+    {
+      "id": "use-case-background",
+      "name": "use-case: background",
+      "description": "Assets classified by use-case as background.",
+      "tags": [
+        "use-case",
+        "background"
+      ],
+      "assetCount": 418,
+      "pageSize": 100,
+      "pageCount": 5,
+      "pages": [
+        "discovery/collections/use-case-background/page-001.json",
+        "discovery/collections/use-case-background/page-002.json",
+        "discovery/collections/use-case-background/page-003.json",
+        "discovery/collections/use-case-background/page-004.json",
+        "discovery/collections/use-case-background/page-005.json"
+      ]
+    },
+    {
+      "id": "use-case-card-decoration",
+      "name": "use-case: card-decoration",
+      "description": "Assets classified by use-case as card-decoration.",
+      "tags": [
+        "use-case",
+        "card-decoration"
+      ],
+      "assetCount": 5,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/use-case-card-decoration/page-001.json"
+      ]
+    },
+    {
+      "id": "use-case-corner-accent",
+      "name": "use-case: corner-accent",
+      "description": "Assets classified by use-case as corner-accent.",
+      "tags": [
+        "use-case",
+        "corner-accent"
+      ],
+      "assetCount": 119,
+      "pageSize": 100,
+      "pageCount": 2,
+      "pages": [
+        "discovery/collections/use-case-corner-accent/page-001.json",
+        "discovery/collections/use-case-corner-accent/page-002.json"
+      ]
+    },
+    {
+      "id": "use-case-hero-decoration",
+      "name": "use-case: hero-decoration",
+      "description": "Assets classified by use-case as hero-decoration.",
+      "tags": [
+        "use-case",
+        "hero-decoration"
+      ],
+      "assetCount": 2546,
+      "pageSize": 100,
+      "pageCount": 26,
+      "pages": [
+        "discovery/collections/use-case-hero-decoration/page-001.json",
+        "discovery/collections/use-case-hero-decoration/page-002.json",
+        "discovery/collections/use-case-hero-decoration/page-003.json",
+        "discovery/collections/use-case-hero-decoration/page-004.json",
+        "discovery/collections/use-case-hero-decoration/page-005.json",
+        "discovery/collections/use-case-hero-decoration/page-006.json",
+        "discovery/collections/use-case-hero-decoration/page-007.json",
+        "discovery/collections/use-case-hero-decoration/page-008.json",
+        "discovery/collections/use-case-hero-decoration/page-009.json",
+        "discovery/collections/use-case-hero-decoration/page-010.json",
+        "discovery/collections/use-case-hero-decoration/page-011.json",
+        "discovery/collections/use-case-hero-decoration/page-012.json",
+        "discovery/collections/use-case-hero-decoration/page-013.json",
+        "discovery/collections/use-case-hero-decoration/page-014.json",
+        "discovery/collections/use-case-hero-decoration/page-015.json",
+        "discovery/collections/use-case-hero-decoration/page-016.json",
+        "discovery/collections/use-case-hero-decoration/page-017.json",
+        "discovery/collections/use-case-hero-decoration/page-018.json",
+        "discovery/collections/use-case-hero-decoration/page-019.json",
+        "discovery/collections/use-case-hero-decoration/page-020.json",
+        "discovery/collections/use-case-hero-decoration/page-021.json",
+        "discovery/collections/use-case-hero-decoration/page-022.json",
+        "discovery/collections/use-case-hero-decoration/page-023.json",
+        "discovery/collections/use-case-hero-decoration/page-024.json",
+        "discovery/collections/use-case-hero-decoration/page-025.json",
+        "discovery/collections/use-case-hero-decoration/page-026.json"
+      ]
+    },
+    {
+      "id": "use-case-hero-prop",
+      "name": "use-case: hero-prop",
+      "description": "Assets classified by use-case as hero-prop.",
+      "tags": [
+        "use-case",
+        "hero-prop"
+      ],
+      "assetCount": 62,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/use-case-hero-prop/page-001.json"
+      ]
+    },
+    {
+      "id": "use-case-icon",
+      "name": "use-case: icon",
+      "description": "Assets classified by use-case as icon.",
+      "tags": [
+        "use-case",
+        "icon"
+      ],
+      "assetCount": 725,
+      "pageSize": 100,
+      "pageCount": 8,
+      "pages": [
+        "discovery/collections/use-case-icon/page-001.json",
+        "discovery/collections/use-case-icon/page-002.json",
+        "discovery/collections/use-case-icon/page-003.json",
+        "discovery/collections/use-case-icon/page-004.json",
+        "discovery/collections/use-case-icon/page-005.json",
+        "discovery/collections/use-case-icon/page-006.json",
+        "discovery/collections/use-case-icon/page-007.json",
+        "discovery/collections/use-case-icon/page-008.json"
+      ]
+    },
+    {
+      "id": "use-case-navigation-decoration",
+      "name": "use-case: navigation-decoration",
+      "description": "Assets classified by use-case as navigation-decoration.",
+      "tags": [
+        "use-case",
+        "navigation-decoration"
+      ],
+      "assetCount": 725,
+      "pageSize": 100,
+      "pageCount": 8,
+      "pages": [
+        "discovery/collections/use-case-navigation-decoration/page-001.json",
+        "discovery/collections/use-case-navigation-decoration/page-002.json",
+        "discovery/collections/use-case-navigation-decoration/page-003.json",
+        "discovery/collections/use-case-navigation-decoration/page-004.json",
+        "discovery/collections/use-case-navigation-decoration/page-005.json",
+        "discovery/collections/use-case-navigation-decoration/page-006.json",
+        "discovery/collections/use-case-navigation-decoration/page-007.json",
+        "discovery/collections/use-case-navigation-decoration/page-008.json"
+      ]
+    },
+    {
+      "id": "use-case-page-decoration",
+      "name": "use-case: page-decoration",
+      "description": "Assets classified by use-case as page-decoration.",
+      "tags": [
+        "use-case",
+        "page-decoration"
+      ],
+      "assetCount": 2547,
+      "pageSize": 100,
+      "pageCount": 26,
+      "pages": [
+        "discovery/collections/use-case-page-decoration/page-001.json",
+        "discovery/collections/use-case-page-decoration/page-002.json",
+        "discovery/collections/use-case-page-decoration/page-003.json",
+        "discovery/collections/use-case-page-decoration/page-004.json",
+        "discovery/collections/use-case-page-decoration/page-005.json",
+        "discovery/collections/use-case-page-decoration/page-006.json",
+        "discovery/collections/use-case-page-decoration/page-007.json",
+        "discovery/collections/use-case-page-decoration/page-008.json",
+        "discovery/collections/use-case-page-decoration/page-009.json",
+        "discovery/collections/use-case-page-decoration/page-010.json",
+        "discovery/collections/use-case-page-decoration/page-011.json",
+        "discovery/collections/use-case-page-decoration/page-012.json",
+        "discovery/collections/use-case-page-decoration/page-013.json",
+        "discovery/collections/use-case-page-decoration/page-014.json",
+        "discovery/collections/use-case-page-decoration/page-015.json",
+        "discovery/collections/use-case-page-decoration/page-016.json",
+        "discovery/collections/use-case-page-decoration/page-017.json",
+        "discovery/collections/use-case-page-decoration/page-018.json",
+        "discovery/collections/use-case-page-decoration/page-019.json",
+        "discovery/collections/use-case-page-decoration/page-020.json",
+        "discovery/collections/use-case-page-decoration/page-021.json",
+        "discovery/collections/use-case-page-decoration/page-022.json",
+        "discovery/collections/use-case-page-decoration/page-023.json",
+        "discovery/collections/use-case-page-decoration/page-024.json",
+        "discovery/collections/use-case-page-decoration/page-025.json",
+        "discovery/collections/use-case-page-decoration/page-026.json"
+      ]
+    },
+    {
+      "id": "use-case-page-prop",
+      "name": "use-case: page-prop",
+      "description": "Assets classified by use-case as page-prop.",
+      "tags": [
+        "use-case",
+        "page-prop"
+      ],
+      "assetCount": 62,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/use-case-page-prop/page-001.json"
+      ]
+    },
+    {
+      "id": "use-case-photo-accent",
+      "name": "use-case: photo-accent",
+      "description": "Assets classified by use-case as photo-accent.",
+      "tags": [
+        "use-case",
+        "photo-accent"
+      ],
+      "assetCount": 2548,
+      "pageSize": 100,
+      "pageCount": 26,
+      "pages": [
+        "discovery/collections/use-case-photo-accent/page-001.json",
+        "discovery/collections/use-case-photo-accent/page-002.json",
+        "discovery/collections/use-case-photo-accent/page-003.json",
+        "discovery/collections/use-case-photo-accent/page-004.json",
+        "discovery/collections/use-case-photo-accent/page-005.json",
+        "discovery/collections/use-case-photo-accent/page-006.json",
+        "discovery/collections/use-case-photo-accent/page-007.json",
+        "discovery/collections/use-case-photo-accent/page-008.json",
+        "discovery/collections/use-case-photo-accent/page-009.json",
+        "discovery/collections/use-case-photo-accent/page-010.json",
+        "discovery/collections/use-case-photo-accent/page-011.json",
+        "discovery/collections/use-case-photo-accent/page-012.json",
+        "discovery/collections/use-case-photo-accent/page-013.json",
+        "discovery/collections/use-case-photo-accent/page-014.json",
+        "discovery/collections/use-case-photo-accent/page-015.json",
+        "discovery/collections/use-case-photo-accent/page-016.json",
+        "discovery/collections/use-case-photo-accent/page-017.json",
+        "discovery/collections/use-case-photo-accent/page-018.json",
+        "discovery/collections/use-case-photo-accent/page-019.json",
+        "discovery/collections/use-case-photo-accent/page-020.json",
+        "discovery/collections/use-case-photo-accent/page-021.json",
+        "discovery/collections/use-case-photo-accent/page-022.json",
+        "discovery/collections/use-case-photo-accent/page-023.json",
+        "discovery/collections/use-case-photo-accent/page-024.json",
+        "discovery/collections/use-case-photo-accent/page-025.json",
+        "discovery/collections/use-case-photo-accent/page-026.json"
+      ]
+    },
+    {
+      "id": "use-case-photo-frame",
+      "name": "use-case: photo-frame",
+      "description": "Assets classified by use-case as photo-frame.",
+      "tags": [
+        "use-case",
+        "photo-frame"
+      ],
+      "assetCount": 5,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/use-case-photo-frame/page-001.json"
+      ]
+    },
+    {
+      "id": "use-case-section-decoration",
+      "name": "use-case: section-decoration",
+      "description": "Assets classified by use-case as section-decoration.",
+      "tags": [
+        "use-case",
+        "section-decoration"
+      ],
+      "assetCount": 2486,
+      "pageSize": 100,
+      "pageCount": 25,
+      "pages": [
+        "discovery/collections/use-case-section-decoration/page-001.json",
+        "discovery/collections/use-case-section-decoration/page-002.json",
+        "discovery/collections/use-case-section-decoration/page-003.json",
+        "discovery/collections/use-case-section-decoration/page-004.json",
+        "discovery/collections/use-case-section-decoration/page-005.json",
+        "discovery/collections/use-case-section-decoration/page-006.json",
+        "discovery/collections/use-case-section-decoration/page-007.json",
+        "discovery/collections/use-case-section-decoration/page-008.json",
+        "discovery/collections/use-case-section-decoration/page-009.json",
+        "discovery/collections/use-case-section-decoration/page-010.json",
+        "discovery/collections/use-case-section-decoration/page-011.json",
+        "discovery/collections/use-case-section-decoration/page-012.json",
+        "discovery/collections/use-case-section-decoration/page-013.json",
+        "discovery/collections/use-case-section-decoration/page-014.json",
+        "discovery/collections/use-case-section-decoration/page-015.json",
+        "discovery/collections/use-case-section-decoration/page-016.json",
+        "discovery/collections/use-case-section-decoration/page-017.json",
+        "discovery/collections/use-case-section-decoration/page-018.json",
+        "discovery/collections/use-case-section-decoration/page-019.json",
+        "discovery/collections/use-case-section-decoration/page-020.json",
+        "discovery/collections/use-case-section-decoration/page-021.json",
+        "discovery/collections/use-case-section-decoration/page-022.json",
+        "discovery/collections/use-case-section-decoration/page-023.json",
+        "discovery/collections/use-case-section-decoration/page-024.json",
+        "discovery/collections/use-case-section-decoration/page-025.json"
+      ]
+    },
+    {
+      "id": "use-case-section-divider",
+      "name": "use-case: section-divider",
+      "description": "Assets classified by use-case as section-divider.",
+      "tags": [
+        "use-case",
+        "section-divider"
+      ],
+      "assetCount": 3,
+      "pageSize": 100,
+      "pageCount": 1,
+      "pages": [
+        "discovery/collections/use-case-section-divider/page-001.json"
+      ]
+    }
+  ],
+  "themes": [
+    {
+      "id": "100th-day-of-school",
+      "name": "100th Day of School",
+      "description": "Photo Album recipe using the shared eight-slot contract for 100th Day of School.",
+      "assetCount": 32,
+      "path": "discovery/themes/100th-day-of-school.json"
+    },
+    {
+      "id": "apple-orchard",
+      "name": "Apple Orchard",
+      "description": "Photo Album recipe using the shared eight-slot contract for Apple Orchard.",
+      "assetCount": 24,
+      "path": "discovery/themes/apple-orchard.json"
+    },
+    {
+      "id": "art-studio",
+      "name": "Art Studio",
+      "description": "Photo Album recipe using the shared eight-slot contract for Art Studio.",
+      "assetCount": 39,
+      "path": "discovery/themes/art-studio.json"
+    },
+    {
+      "id": "autumn-harvest",
+      "name": "Autumn Harvest",
+      "description": "Photo Album recipe using the shared eight-slot contract for Autumn Harvest.",
+      "assetCount": 24,
+      "path": "discovery/themes/autumn-harvest.json"
+    },
+    {
+      "id": "awards-achievement",
+      "name": "Awards & Achievement",
+      "description": "Photo Album recipe using the shared eight-slot contract for Awards & Achievement.",
+      "assetCount": 29,
+      "path": "discovery/themes/awards-achievement.json"
+    },
+    {
+      "id": "back-to-school",
+      "name": "Back to School",
+      "description": "Photo Album recipe using the shared eight-slot contract for Back to School.",
+      "assetCount": 33,
+      "path": "discovery/themes/back-to-school.json"
+    },
+    {
+      "id": "birthday-friendship",
+      "name": "Birthday & Friendship",
+      "description": "Photo Album recipe using the shared eight-slot contract for Birthday & Friendship.",
+      "assetCount": 27,
+      "path": "discovery/themes/birthday-friendship.json"
+    },
+    {
+      "id": "book-fair",
+      "name": "Book Fair",
+      "description": "Photo Album recipe using the shared eight-slot contract for Book Fair.",
+      "assetCount": 31,
+      "path": "discovery/themes/book-fair.json"
+    },
+    {
+      "id": "botanical-garden-greenhouse",
+      "name": "Botanical Garden & Greenhouse",
+      "description": "Photo Album recipe using the shared eight-slot contract for Botanical Garden & Greenhouse.",
+      "assetCount": 24,
+      "path": "discovery/themes/botanical-garden-greenhouse.json"
+    },
+    {
+      "id": "butterflies-bugs",
+      "name": "Butterflies & Bugs",
+      "description": "Photo Album recipe using the shared eight-slot contract for Butterflies & Bugs.",
+      "assetCount": 24,
+      "path": "discovery/themes/butterflies-bugs.json"
+    },
+    {
+      "id": "classic-classroom-memories",
+      "name": "Classic Classroom Memories",
+      "description": "Photo Album recipe using the shared eight-slot contract for Classic Classroom Memories.",
+      "assetCount": 30,
+      "path": "discovery/themes/classic-classroom-memories.json"
+    },
+    {
+      "id": "classroom-celebration",
+      "name": "Classroom Celebration",
+      "description": "Photo Album recipe using the shared eight-slot contract for Classroom Celebration.",
+      "assetCount": 31,
+      "path": "discovery/themes/classroom-celebration.json"
+    },
+    {
+      "id": "community-helpers",
+      "name": "Community Helpers",
+      "description": "Photo Album recipe using the shared eight-slot contract for Community Helpers.",
+      "assetCount": 35,
+      "path": "discovery/themes/community-helpers.json"
+    },
+    {
+      "id": "coral-reef",
+      "name": "Coral Reef",
+      "description": "Photo Album recipe using the shared eight-slot contract for Coral Reef.",
+      "assetCount": 24,
+      "path": "discovery/themes/coral-reef.json"
+    },
+    {
+      "id": "cultural-celebration",
+      "name": "Cultural Celebration",
+      "description": "Photo Album recipe using the shared eight-slot contract for Cultural Celebration.",
+      "assetCount": 28,
+      "path": "discovery/themes/cultural-celebration.json"
+    },
+    {
+      "id": "dinosaurs-fossils",
+      "name": "Dinosaurs & Fossils",
+      "description": "Photo Album recipe using the shared eight-slot contract for Dinosaurs & Fossils.",
+      "assetCount": 28,
+      "path": "discovery/themes/dinosaurs-fossils.json"
+    },
+    {
+      "id": "discovery",
+      "name": "Discovery",
+      "description": "Photo Album recipe using the shared eight-slot contract for Discovery.",
+      "assetCount": 29,
+      "path": "discovery/themes/discovery.json"
+    },
+    {
+      "id": "end-of-year-memories",
+      "name": "End-of-Year Memories",
+      "description": "Photo Album recipe using the shared eight-slot contract for End-of-Year Memories.",
+      "assetCount": 36,
+      "path": "discovery/themes/end-of-year-memories.json"
+    },
+    {
+      "id": "fall-festival",
+      "name": "Fall Festival",
+      "description": "Photo Album recipe using the shared eight-slot contract for Fall Festival.",
+      "assetCount": 27,
+      "path": "discovery/themes/fall-festival.json"
+    },
+    {
+      "id": "farm-agriculture",
+      "name": "Farm & Agriculture",
+      "description": "Photo Album recipe using the shared eight-slot contract for Farm & Agriculture.",
+      "assetCount": 24,
+      "path": "discovery/themes/farm-agriculture.json"
+    },
+    {
+      "id": "field-day-sports",
+      "name": "Field Day & Sports",
+      "description": "Photo Album recipe using the shared eight-slot contract for Field Day & Sports.",
+      "assetCount": 29,
+      "path": "discovery/themes/field-day-sports.json"
+    },
+    {
+      "id": "field-trip-adventure",
+      "name": "Field Trip Adventure",
+      "description": "Photo Album recipe using the shared eight-slot contract for Field Trip Adventure.",
+      "assetCount": 29,
+      "path": "discovery/themes/field-trip-adventure.json"
+    },
+    {
+      "id": "history-heritage",
+      "name": "History & Heritage",
+      "description": "Photo Album recipe using the shared eight-slot contract for History & Heritage.",
+      "assetCount": 29,
+      "path": "discovery/themes/history-heritage.json"
+    },
+    {
+      "id": "library-reading",
+      "name": "Library & Reading",
+      "description": "Photo Album recipe using the shared eight-slot contract for Library & Reading.",
+      "assetCount": 28,
+      "path": "discovery/themes/library-reading.json"
+    },
+    {
+      "id": "memory-gallery",
+      "name": "Memory Gallery",
+      "description": "Photo Album recipe using the shared eight-slot contract for Memory Gallery.",
+      "assetCount": 30,
+      "path": "discovery/themes/memory-gallery.json"
+    },
+    {
+      "id": "museum-adventure",
+      "name": "Museum Adventure",
+      "description": "Photo Album recipe using the shared eight-slot contract for Museum Adventure.",
+      "assetCount": 29,
+      "path": "discovery/themes/museum-adventure.json"
+    },
+    {
+      "id": "music-performance",
+      "name": "Music & Performance",
+      "description": "Photo Album recipe using the shared eight-slot contract for Music & Performance.",
+      "assetCount": 27,
+      "path": "discovery/themes/music-performance.json"
+    },
+    {
+      "id": "natural-history-museum",
+      "name": "Natural History Museum",
+      "description": "Photo Album recipe using the shared eight-slot contract for Natural History Museum.",
+      "assetCount": 28,
+      "path": "discovery/themes/natural-history-museum.json"
+    },
+    {
+      "id": "night-sky-constellations",
+      "name": "Night Sky & Constellations",
+      "description": "Photo Album recipe using the shared eight-slot contract for Night Sky & Constellations.",
+      "assetCount": 25,
+      "path": "discovery/themes/night-sky-constellations.json"
+    },
+    {
+      "id": "ocean-aquarium",
+      "name": "Ocean & Aquarium",
+      "description": "Photo Album recipe using the shared eight-slot contract for Ocean & Aquarium.",
+      "assetCount": 24,
+      "path": "discovery/themes/ocean-aquarium.json"
+    },
+    {
+      "id": "park-outdoor-adventure",
+      "name": "Park & Outdoor Adventure",
+      "description": "Photo Album recipe using the shared eight-slot contract for Park & Outdoor Adventure.",
+      "assetCount": 24,
+      "path": "discovery/themes/park-outdoor-adventure.json"
+    },
+    {
+      "id": "plants-pollinators",
+      "name": "Plants & Pollinators",
+      "description": "Photo Album recipe using the shared eight-slot contract for Plants & Pollinators.",
+      "assetCount": 24,
+      "path": "discovery/themes/plants-pollinators.json"
+    },
+    {
+      "id": "pumpkin-patch",
+      "name": "Pumpkin Patch",
+      "description": "Photo Album recipe using the shared eight-slot contract for Pumpkin Patch.",
+      "assetCount": 24,
+      "path": "discovery/themes/pumpkin-patch.json"
+    },
+    {
+      "id": "safari-adventure",
+      "name": "Safari Adventure",
+      "description": "Photo Album recipe using the shared eight-slot contract for Safari Adventure.",
+      "assetCount": 29,
+      "path": "discovery/themes/safari-adventure.json"
+    },
+    {
+      "id": "school-bus-adventure",
+      "name": "School Bus Adventure",
+      "description": "Photo Album recipe using the shared eight-slot contract for School Bus Adventure.",
+      "assetCount": 26,
+      "path": "discovery/themes/school-bus-adventure.json"
+    },
+    {
+      "id": "school-carnival",
+      "name": "School Carnival",
+      "description": "Photo Album recipe using the shared eight-slot contract for School Carnival.",
+      "assetCount": 29,
+      "path": "discovery/themes/school-carnival.json"
+    },
+    {
+      "id": "science-lab",
+      "name": "Science Lab",
+      "description": "Photo Album recipe using the shared eight-slot contract for Science Lab.",
+      "assetCount": 24,
+      "path": "discovery/themes/science-lab.json"
+    },
+    {
+      "id": "science-museum",
+      "name": "Science Museum",
+      "description": "Photo Album recipe using the shared eight-slot contract for Science Museum.",
+      "assetCount": 29,
+      "path": "discovery/themes/science-museum.json"
+    },
+    {
+      "id": "space-planetarium",
+      "name": "Space & Planetarium",
+      "description": "Photo Album recipe using the shared eight-slot contract for Space & Planetarium.",
+      "assetCount": 24,
+      "path": "discovery/themes/space-planetarium.json"
+    },
+    {
+      "id": "spirit-week",
+      "name": "Spirit Week",
+      "description": "Photo Album recipe using the shared eight-slot contract for Spirit Week.",
+      "assetCount": 31,
+      "path": "discovery/themes/spirit-week.json"
+    },
+    {
+      "id": "spring-garden",
+      "name": "Spring Garden",
+      "description": "Photo Album recipe using the shared eight-slot contract for Spring Garden.",
+      "assetCount": 24,
+      "path": "discovery/themes/spring-garden.json"
+    },
+    {
+      "id": "stem-makerspace",
+      "name": "STEM & Makerspace",
+      "description": "Photo Album recipe using the shared eight-slot contract for STEM & Makerspace.",
+      "assetCount": 31,
+      "path": "discovery/themes/stem-makerspace.json"
+    },
+    {
+      "id": "summer-send-off",
+      "name": "Summer Send-Off",
+      "description": "Photo Album recipe using the shared eight-slot contract for Summer Send-Off.",
+      "assetCount": 29,
+      "path": "discovery/themes/summer-send-off.json"
+    },
+    {
+      "id": "theater-stage",
+      "name": "Theater & Stage",
+      "description": "Photo Album recipe using the shared eight-slot contract for Theater & Stage.",
+      "assetCount": 27,
+      "path": "discovery/themes/theater-stage.json"
+    },
+    {
+      "id": "weather-earth-science",
+      "name": "Weather & Earth Science",
+      "description": "Photo Album recipe using the shared eight-slot contract for Weather & Earth Science.",
+      "assetCount": 24,
+      "path": "discovery/themes/weather-earth-science.json"
+    },
+    {
+      "id": "winter-celebration",
+      "name": "Winter Celebration",
+      "description": "Photo Album recipe using the shared eight-slot contract for Winter Celebration.",
+      "assetCount": 27,
+      "path": "discovery/themes/winter-celebration.json"
+    },
+    {
+      "id": "winter-wonderland",
+      "name": "Winter Wonderland",
+      "description": "Photo Album recipe using the shared eight-slot contract for Winter Wonderland.",
+      "assetCount": 24,
+      "path": "discovery/themes/winter-wonderland.json"
+    },
+    {
+      "id": "woodland-fungi",
+      "name": "Woodland & Fungi",
+      "description": "Photo Album recipe using the shared eight-slot contract for Woodland & Fungi.",
+      "assetCount": 24,
+      "path": "discovery/themes/woodland-fungi.json"
+    },
+    {
+      "id": "woodland-nature-center",
+      "name": "Woodland & Nature Center",
+      "description": "Photo Album recipe using the shared eight-slot contract for Woodland & Nature Center.",
+      "assetCount": 24,
+      "path": "discovery/themes/woodland-nature-center.json"
+    },
+    {
+      "id": "zoo-wildlife",
+      "name": "Zoo & Wildlife",
+      "description": "Photo Album recipe using the shared eight-slot contract for Zoo & Wildlife.",
+      "assetCount": 25,
+      "path": "discovery/themes/zoo-wildlife.json"
+    }
+  ]
+}
