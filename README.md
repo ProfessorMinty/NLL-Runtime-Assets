@@ -18,6 +18,8 @@ Potential consumers include:
 
 Applications should reference **stable asset IDs** from generated manifests rather than depending on private source paths, vendor package layouts, or acquisition filenames.
 
+The next release format adds immutable `assetVersion` identities and content-addressed `objectKey` values while retaining frozen legacy paths. See [`docs/IMMUTABLE_IDENTITY_CONTRACT.md`](docs/IMMUTABLE_IDENTITY_CONTRACT.md). The schemas are additive contract authority only; the current release pointer is unchanged until a later reviewed cutover.
+
 ## Repository boundary
 
 This repository MAY contain:
