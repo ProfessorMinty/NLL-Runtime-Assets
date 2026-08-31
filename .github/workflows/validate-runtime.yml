@@ -25,5 +25,17 @@ jobs:
       - name: Install validation dependency
         run: python -m pip install -r requirements-ci.txt
 
-      - name: Validate runtime package
-        run: python tools/validate_runtime.py
+      - name: Validate immutable identity contracts
+        run: python tools/validate_identity_contracts.py
+
+      - name: Validate public runtime semantics
+        run: python tools/validate_runtime_semantics.py
+
+      - name: Require deterministic discovery output
+        run: python tools/generate_discovery.py --check
+
+      - name: Validate discovery consistency
+        run: python tools/validate_discovery.py
+
+      - name: Run contract regression tests
+        run: python -m unittest discover -s tests -v
