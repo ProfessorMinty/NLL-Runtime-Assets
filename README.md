@@ -58,6 +58,8 @@ This repository is a **generated publishing target**, not the canonical vault.
 
 Generated runtime files should not be manually edited when they can be reproduced by NL Asset Control.
 
+Public CI validates manifest semantics and deterministic discovery without requiring the ignored runtime binaries. The private publisher environment separately validates every derivative byte. See [`docs/VALIDATION_AND_DISCOVERY.md`](docs/VALIDATION_AND_DISCOVERY.md).
+
 ## Runtime model
 
 A published asset has a stable identity independent of its physical filename or source package.
