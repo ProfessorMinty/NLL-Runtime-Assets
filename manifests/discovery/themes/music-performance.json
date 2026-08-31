@@ -6,6 +6,10 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Music & Performance.",
     "collectionIds": [
       "album-theme-music-performance"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "photo-frame"
     ]
   },
   "assetSlots": {
@@ -75,288 +79,6 @@
   "assetCount": 27,
   "assets": [
     {
-      "id": "accordion-9b56ec9cc6",
-      "name": "Accordion",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/accordion-9b56ec9cc6/accordion-9b56ec9cc6.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10890
-      }
-    },
-    {
-      "id": "acoustic-guitar-f4cb06bb9e",
-      "name": "Acoustic Guitar",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "instrument",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [
-        "instrument"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/acoustic-guitar-f4cb06bb9e/acoustic-guitar-f4cb06bb9e.webp",
-        "mimeType": "image/webp",
-        "bytes": 733828,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "air-balloon-3b70a4fd6c",
-      "name": "Air Balloon",
-      "type": "illustration",
-      "tags": [
-        "balloon",
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "winter"
-      ],
-      "themes": [
-        "celebration",
-        "winter"
-      ],
-      "subjects": [
-        "balloon"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/air-balloon-3b70a4fd6c/air-balloon-3b70a4fd6c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13281
-      }
-    },
-    {
-      "id": "angklung-d4fa6b7a1b",
-      "name": "Angklung",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/angklung-d4fa6b7a1b/angklung-d4fa6b7a1b.webp",
-        "mimeType": "image/webp",
-        "bytes": 890466,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "banjo-203f0c6f20",
-      "name": "Banjo",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/banjo-203f0c6f20/banjo-203f0c6f20.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 16527
-      }
-    },
-    {
-      "id": "bass-guitar-503b664bc9",
-      "name": "Bass Guitar",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "instrument",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [
-        "instrument"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/bass-guitar-503b664bc9/bass-guitar-503b664bc9.webp",
-        "mimeType": "image/webp",
-        "bytes": 659354,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "double-neck-guitar-2a388771de",
-      "name": "Double Neck Guitar",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "instrument",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [
-        "instrument"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/double-neck-guitar-2a388771de/double-neck-guitar-2a388771de.webp",
-        "mimeType": "image/webp",
-        "bytes": 912742,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
       "id": "drum-ced23384e3",
       "name": "Drum",
       "type": "illustration",
@@ -398,47 +120,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/drum-ced23384e3/drum-ced23384e3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16286
-      }
-    },
-    {
-      "id": "drum-set-50b8bbadae",
-      "name": "Drum Set",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "instrument",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [
-        "instrument"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/drum-set-50b8bbadae/drum-set-50b8bbadae.webp",
-        "mimeType": "image/webp",
-        "bytes": 1273914,
-        "width": 2048,
-        "height": 2048
+        "bytes": 16286,
+        "sha256": "d0318d26c7ab49cc4c90106c21b2fea5e221989f132237eebf46e9c2383a46da"
       }
     },
     {
@@ -483,125 +166,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/drum-set-acf7ecb66f/drum-set-acf7ecb66f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15566
-      }
-    },
-    {
-      "id": "electric-guitar-c385988719",
-      "name": "Electric Guitar",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "instrument",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [
-        "instrument"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/electric-guitar-c385988719/electric-guitar-c385988719.webp",
-        "mimeType": "image/webp",
-        "bytes": 677852,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "garlands-30beb325f4",
-      "name": "Garlands",
-      "type": "trim",
-      "tags": [
-        "album-trim",
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "album-trim",
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14072
-      }
-    },
-    {
-      "id": "grand-piano-da5fdb4006",
-      "name": "Grand Piano",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "instrument",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [
-        "instrument"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/grand-piano-da5fdb4006/grand-piano-da5fdb4006.webp",
-        "mimeType": "image/webp",
-        "bytes": 872216,
-        "width": 2048,
-        "height": 2048
+        "bytes": 15566,
+        "sha256": "bc7f359f30c62309ad8c7ab5878eb9f4fdbedb2cca9133004fd2a500dc529b6c"
       }
     },
     {
@@ -646,7 +212,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/guitar-140656f0f8/guitar-140656f0f8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11569
+        "bytes": 11569,
+        "sha256": "5b3a73cc4df48f21e681e24186a6ed914930df9feb69f288a24ebc928498bea7"
       }
     },
     {
@@ -691,6 +258,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/guitar-b9f863ed9a/guitar-b9f863ed9a.webp",
         "mimeType": "image/webp",
         "bytes": 1491162,
+        "sha256": "8abdebf55cfd1a6e07d90fa2622bd9f53a4e61171a514ccc05097c9e8cf7ab9f",
         "width": 2048,
         "height": 2048
       }
@@ -735,41 +303,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/guitar-strumming-9c5ee943e2/guitar-strumming-9c5ee943e2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 20669
-      }
-    },
-    {
-      "id": "hawaii-garland-d8e6ae4401",
-      "name": "Hawaii Garland",
-      "type": "trim",
-      "tags": [
-        "album-trim",
-        "celebration",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "album-trim",
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 18153
+        "bytes": 20669,
+        "sha256": "07ca54932d90f5eab03cb60faba514827ad5a4d4da31a7816fb492307b2cb16a"
       }
     },
     {
@@ -811,7 +346,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/music-speakers-b9ba2cb533/music-speakers-b9ba2cb533.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 17337
+        "bytes": 17337,
+        "sha256": "c0730fc5090d047b5849334e08e82a425fbb052e1f073b21f2a30bad15605722"
       }
     },
     {
@@ -854,87 +390,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/piano-0ae1abbaa6/piano-0ae1abbaa6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 20584
-      }
-    },
-    {
-      "id": "piano-7b3cc09b05",
-      "name": "Piano",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "instrument",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [
-        "instrument"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/piano-7b3cc09b05/piano-7b3cc09b05.webp",
-        "mimeType": "image/webp",
-        "bytes": 834434,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "saxophone-470dedb7b5",
-      "name": "Saxophone",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "instrument",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [
-        "instrument"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/saxophone-470dedb7b5/saxophone-470dedb7b5.webp",
-        "mimeType": "image/webp",
-        "bytes": 863450,
-        "width": 2048,
-        "height": 2048
+        "bytes": 20584,
+        "sha256": "d86dbd048cd2675ad586e7853019f8db0a05c5a9768fe0cef4dd38c5a327c538"
       }
     },
     {
@@ -977,12 +434,87 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/saxophone-f9c6142328/saxophone-f9c6142328.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14723
+        "bytes": 14723,
+        "sha256": "d8f6a1d4c21e805cf6594a13eaf34bc3fe2b333b9c45e7099bfba9573af475e5"
       }
     },
     {
-      "id": "snare-drum-7298236030",
-      "name": "Snare Drum",
+      "id": "garlands-30beb325f4",
+      "name": "Garlands",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14072,
+        "sha256": "6418a359ebb52f7d19d958ecdaf66ea7ba7a5705bc38a27481f82166c34552a7"
+      }
+    },
+    {
+      "id": "hawaii-garland-d8e6ae4401",
+      "name": "Hawaii Garland",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18153,
+        "sha256": "d084667b84f26058c182714912bba775ef456aa93d7156b110aae8c6657d6e56"
+      }
+    },
+    {
+      "id": "acoustic-guitar-f4cb06bb9e",
+      "name": "Acoustic Guitar",
       "type": "prop",
       "tags": [
         "3d",
@@ -1013,9 +545,174 @@
       ],
       "preferredVariant": {
         "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/snare-drum-7298236030/snare-drum-7298236030.webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/acoustic-guitar-f4cb06bb9e/acoustic-guitar-f4cb06bb9e.webp",
         "mimeType": "image/webp",
-        "bytes": 835864,
+        "bytes": 733828,
+        "sha256": "17f825e021db82e0bc2996382bd95008e81182726ea98f1d9f34d6a53ccac94f",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "bass-guitar-503b664bc9",
+      "name": "Bass Guitar",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "instrument",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [
+        "instrument"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/bass-guitar-503b664bc9/bass-guitar-503b664bc9.webp",
+        "mimeType": "image/webp",
+        "bytes": 659354,
+        "sha256": "302c13f503df13881f56560e734ffdf95846e46fa2c00d6d44933e2edd7f0f70",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "double-neck-guitar-2a388771de",
+      "name": "Double Neck Guitar",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "instrument",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [
+        "instrument"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/double-neck-guitar-2a388771de/double-neck-guitar-2a388771de.webp",
+        "mimeType": "image/webp",
+        "bytes": 912742,
+        "sha256": "a2d013285ef5be01df076d8edee6e8d2afbf92681afb59ff299f3e7d0252023a",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "drum-set-50b8bbadae",
+      "name": "Drum Set",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "instrument",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [
+        "instrument"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/drum-set-50b8bbadae/drum-set-50b8bbadae.webp",
+        "mimeType": "image/webp",
+        "bytes": 1273914,
+        "sha256": "8cb519fa9ed629a7e01f112846ac1ae23d3dc21443c4aa77aec7e5200e739620",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "electric-guitar-c385988719",
+      "name": "Electric Guitar",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "instrument",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [
+        "instrument"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/electric-guitar-c385988719/electric-guitar-c385988719.webp",
+        "mimeType": "image/webp",
+        "bytes": 677852,
+        "sha256": "a6f7f60ef0d69b692629c32a8451482c15df82860cf6d2b4a86eaccee6d963c0",
         "width": 2048,
         "height": 2048
       }
@@ -1056,7 +753,172 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15437
+        "bytes": 15437,
+        "sha256": "13038d429551fed51fe5b18d62f680f9c66ba12ebd379fcf5067909fc75a3174"
+      }
+    },
+    {
+      "id": "grand-piano-da5fdb4006",
+      "name": "Grand Piano",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "instrument",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [
+        "instrument"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/grand-piano-da5fdb4006/grand-piano-da5fdb4006.webp",
+        "mimeType": "image/webp",
+        "bytes": 872216,
+        "sha256": "0df3062aff524f8f07d6c94d25c8a5c79ec574fdae73c63e03b5dc2418283a69",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "piano-7b3cc09b05",
+      "name": "Piano",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "instrument",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [
+        "instrument"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/piano-7b3cc09b05/piano-7b3cc09b05.webp",
+        "mimeType": "image/webp",
+        "bytes": 834434,
+        "sha256": "c5ad65a064db4f0371c98f9a0d6da3447baf185fa1134ed587e5df31aa21131e",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "saxophone-470dedb7b5",
+      "name": "Saxophone",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "instrument",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [
+        "instrument"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/saxophone-470dedb7b5/saxophone-470dedb7b5.webp",
+        "mimeType": "image/webp",
+        "bytes": 863450,
+        "sha256": "987d441846088cd7ead0126e80caaac44aae8c9cc62dada6679cc459304ab56e",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "snare-drum-7298236030",
+      "name": "Snare Drum",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "instrument",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [
+        "instrument"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/snare-drum-7298236030/snare-drum-7298236030.webp",
+        "mimeType": "image/webp",
+        "bytes": 835864,
+        "sha256": "1c1b92700283eb818d3d9335e5dfb6e83af1fb9361faf7f79e424289f3550fba",
+        "width": 2048,
+        "height": 2048
       }
     },
     {
@@ -1095,6 +957,7 @@
         "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/trumpet-7b080e32f5/trumpet-7b080e32f5.webp",
         "mimeType": "image/webp",
         "bytes": 912276,
+        "sha256": "dbed910977bb059e409dde006a3bb5dfb03447b3b4858cf4f979b6bc07ea8935",
         "width": 2048,
         "height": 2048
       }
@@ -1139,7 +1002,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/trumpet-fc1b9b3e02/trumpet-fc1b9b3e02.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 19115
+        "bytes": 19115,
+        "sha256": "c6b4dc7ca9b32d55f65e4e4c89ec17458930a78490a1a94e0663986cf94b3af0"
       }
     },
     {
@@ -1178,8 +1042,175 @@
         "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/violin-db5ba8fa75/violin-db5ba8fa75.webp",
         "mimeType": "image/webp",
         "bytes": 823754,
+        "sha256": "43fff4ab878d7466ddbe36817888ff183e205eac2c626dad316f2f53dd5908e7",
         "width": 2048,
         "height": 2048
+      }
+    },
+    {
+      "id": "accordion-9b56ec9cc6",
+      "name": "Accordion",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/accordion-9b56ec9cc6/accordion-9b56ec9cc6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10890,
+        "sha256": "e9a06d2a3448665577502198fc3bc7fc56206f46bb6757453227ee66d89f9c58"
+      }
+    },
+    {
+      "id": "air-balloon-3b70a4fd6c",
+      "name": "Air Balloon",
+      "type": "illustration",
+      "tags": [
+        "balloon",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "celebration",
+        "winter"
+      ],
+      "subjects": [
+        "balloon"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/air-balloon-3b70a4fd6c/air-balloon-3b70a4fd6c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13281,
+        "sha256": "d046177f694a448192599a90d28a1970dd2fa25afd460b1771e7a8f43e18b410"
+      }
+    },
+    {
+      "id": "angklung-d4fa6b7a1b",
+      "name": "Angklung",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/angklung-d4fa6b7a1b/angklung-d4fa6b7a1b.webp",
+        "mimeType": "image/webp",
+        "bytes": 890466,
+        "sha256": "bf9296f2a4a87a622f5ec6b3bd3b06efd3463c3579088a537beddf2dd62f5a77",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "banjo-203f0c6f20",
+      "name": "Banjo",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/banjo-203f0c6f20/banjo-203f0c6f20.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16527,
+        "sha256": "492ea0986049f42674991432811d06bb1bc5ee80515b95295f10710f8ddd9de3"
       }
     }
   ]

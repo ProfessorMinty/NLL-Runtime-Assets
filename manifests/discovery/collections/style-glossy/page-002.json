@@ -6,9 +6,83 @@
   },
   "page": 2,
   "pageSize": 100,
-  "assetCount": 41,
-  "totalAssetCount": 141,
+  "assetCount": 43,
+  "totalAssetCount": 143,
   "assets": [
+    {
+      "id": "magnifying-glass-1ec65aa24b",
+      "name": "Magnifying Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "classroom",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "themes": [
+        "classroom"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-1ec65aa24b/magnifying-glass-1ec65aa24b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 17888,
+        "sha256": "ff8062f5dec0fd684152afffa8450dbc4aa254849dae195299811a7726988f28"
+      }
+    },
+    {
+      "id": "magnifying-glass-c334982113",
+      "name": "Magnifying Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "math"
+      ],
+      "themes": [
+        "math"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-c334982113/magnifying-glass-c334982113.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9567,
+        "sha256": "a79f5a06d64c8678b1823679163d85b82abf6c3fe68b74bda256df47c0909664"
+      }
+    },
     {
       "id": "magnifying-glass-fcf780bba5",
       "name": "Magnifying Glass",
@@ -46,7 +120,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-fcf780bba5/magnifying-glass-fcf780bba5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9240
+        "bytes": 9240,
+        "sha256": "69d850eee48691987da41910d49b37e5bacfa465946bbf1cbade33077ea639f9"
       }
     },
     {
@@ -78,6 +153,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/opalescent-718fca7d5b/opalescent-718fca7d5b.webp",
         "mimeType": "image/webp",
         "bytes": 2506698,
+        "sha256": "fe68387b0a56b1e6aeca8858eca1613da4ce4ad71396e0b59cfa1c4cd8cdd23b",
         "width": 2048,
         "height": 2048
       }
@@ -111,6 +187,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/opalescent-838c3835ae/opalescent-838c3835ae.webp",
         "mimeType": "image/webp",
         "bytes": 3509498,
+        "sha256": "95527cafd054dc63daf5180d1b8db06e0610b1cc9c69dd2208996e08e1b0b9ba",
         "width": 2048,
         "height": 2048
       }
@@ -144,6 +221,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/prism-67c8a47d03/prism-67c8a47d03.webp",
         "mimeType": "image/webp",
         "bytes": 2431256,
+        "sha256": "2c164d66ee9d94ff7352a4e7d54a47ca127c073d824580cf8323239a04c2891e",
         "width": 2048,
         "height": 2048
       }
@@ -177,6 +255,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/prism-7fb52c5822/prism-7fb52c5822.webp",
         "mimeType": "image/webp",
         "bytes": 2523420,
+        "sha256": "45dec82137d3c2989936264bc69c89d6afef30039a656918b552d72648a10ef1",
         "width": 2048,
         "height": 2048
       }
@@ -210,6 +289,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/prismatic-4f59075bb5/prismatic-4f59075bb5.webp",
         "mimeType": "image/webp",
         "bytes": 2373224,
+        "sha256": "d2747b4895d89e288cc89a0717ca5c718a2a91e35b02caa0f89ddef8e99e3d11",
         "width": 2048,
         "height": 2048
       }
@@ -243,6 +323,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/prismatic-fcb2446940/prismatic-fcb2446940.webp",
         "mimeType": "image/webp",
         "bytes": 2020116,
+        "sha256": "0102063f65b133f186e57e7a88e7c6bff095b68bebc8b2415b88f39fb17ca0b7",
         "width": 2048,
         "height": 2048
       }
@@ -276,6 +357,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/prismatica-18dc3f7643/prismatica-18dc3f7643.webp",
         "mimeType": "image/webp",
         "bytes": 2112692,
+        "sha256": "273ed3943d85bc7741a2a7257e95d6f56b99b40a5063b86eaa994e0f718aa73e",
         "width": 2048,
         "height": 2048
       }
@@ -309,6 +391,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/prismatica-76324f89a0/prismatica-76324f89a0.webp",
         "mimeType": "image/webp",
         "bytes": 3329666,
+        "sha256": "082388c1b5e77a0c28e8777256b4c4ed5787fc190151aeba6dbcae271dde2675",
         "width": 2048,
         "height": 2048
       }
@@ -342,6 +425,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/radience-2ac91adf23/radience-2ac91adf23.webp",
         "mimeType": "image/webp",
         "bytes": 2685706,
+        "sha256": "29a762809864c34283a0458a8661dbce538e57d86e390828b902347cb8261bbd",
         "width": 2048,
         "height": 2048
       }
@@ -375,6 +459,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/radience-2dc0f7b42e/radience-2dc0f7b42e.webp",
         "mimeType": "image/webp",
         "bytes": 2302704,
+        "sha256": "3eb8a69b765bbc27f49ea15076b2917c37ceb76bc6ac5dd793ab0ed612af6c30",
         "width": 2048,
         "height": 2048
       }
@@ -417,7 +502,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-2b7920a060/reading-glasses-2b7920a060.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13238
+        "bytes": 13238,
+        "sha256": "dbe2695795176fb822da1309248ae7aa892bde5a3614698b66badecfb6a5133f"
       }
     },
     {
@@ -460,7 +546,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-bfd1553f94/reading-glasses-bfd1553f94.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14181
+        "bytes": 14181,
+        "sha256": "0ac06b1f2fcdf27f81aaa71118d5cf5c9544b2169d59b4920354d1564adf83a4"
       }
     },
     {
@@ -495,7 +582,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-e7e89285b2/reading-glasses-e7e89285b2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 38287
+        "bytes": 38287,
+        "sha256": "d6f27bcff3862ee792a93e53bac2c52bc3b7b5876cbb950df3f4ffd4b341fa08"
       }
     },
     {
@@ -528,6 +616,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/readme-d76b74774c/readme-d76b74774c.webp",
         "mimeType": "image/webp",
         "bytes": 28832,
+        "sha256": "753e70d0fff1774eae4463165aaed7821c68d6c7fab5a68688a6270d83e46f59",
         "width": 1552,
         "height": 1000
       }
@@ -561,6 +650,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/reflective-419a1ec000/reflective-419a1ec000.webp",
         "mimeType": "image/webp",
         "bytes": 2378182,
+        "sha256": "2a1bc472cad82f21537abc91231ca41f6bbe07a0572000f3cb503c02d92ac37a",
         "width": 2048,
         "height": 2048
       }
@@ -594,6 +684,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/reflective-d381aa696d/reflective-d381aa696d.webp",
         "mimeType": "image/webp",
         "bytes": 1566994,
+        "sha256": "24a8be40da7ce8e93ea2936ce19349e7eb39dbf618dd2d9c96a4b46bd5e08acd",
         "width": 2048,
         "height": 2048
       }
@@ -627,6 +718,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/refraction-18f4070c18/refraction-18f4070c18.webp",
         "mimeType": "image/webp",
         "bytes": 2372664,
+        "sha256": "7bcd847295378586af471aad5a5ef2381aef2095a87dbfc2ef2fe27474ebad42",
         "width": 2048,
         "height": 2048
       }
@@ -660,6 +752,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/refraction-bda8bd0841/refraction-bda8bd0841.webp",
         "mimeType": "image/webp",
         "bytes": 3266340,
+        "sha256": "0b739feabbe64f4f5710c3b6dc58db43dd0b8f7a2a4dc74311b41d1466544294",
         "width": 2048,
         "height": 2048
       }
@@ -699,7 +792,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/roman-glass-135c9b02b8/roman-glass-135c9b02b8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6260
+        "bytes": 6260,
+        "sha256": "6d2f5970348932f57275a3c16d14fb64c3cb4b0e51acb0bd2080b6324f804f0a"
       }
     },
     {
@@ -735,7 +829,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/safety-glasses-13ceb31c87/safety-glasses-13ceb31c87.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8627
+        "bytes": 8627,
+        "sha256": "eb9b1f4166c94a4c4c31f9b0af98fb034b4753268e157789e8b63dd909c2620b"
       }
     },
     {
@@ -767,6 +862,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/scintilla-5e2324dad5/scintilla-5e2324dad5.webp",
         "mimeType": "image/webp",
         "bytes": 2450840,
+        "sha256": "b87209c85d4ab5f6424ccc36442314a5f41e1978b748e7b697f32e72448a979f",
         "width": 2048,
         "height": 2048
       }
@@ -800,6 +896,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/scintilla-ca796759e8/scintilla-ca796759e8.webp",
         "mimeType": "image/webp",
         "bytes": 2708978,
+        "sha256": "40643fc76304f3b20bf097596969ee52f7c6bba319387c0db9917e1a527091dc",
         "width": 2048,
         "height": 2048
       }
@@ -833,6 +930,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/shard-4f941915c0/shard-4f941915c0.webp",
         "mimeType": "image/webp",
         "bytes": 2991840,
+        "sha256": "80b07abd314b98473ac08d72001c8af53b51bbb7201ef310f280137a12d1da5d",
         "width": 2048,
         "height": 2048
       }
@@ -866,6 +964,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/shard-572fe3c855/shard-572fe3c855.webp",
         "mimeType": "image/webp",
         "bytes": 3006010,
+        "sha256": "9e6d1e5b076f12f3e7e3b66b237c8e6ce6eeacb942da42c410d702ad86bfd9e3",
         "width": 2048,
         "height": 2048
       }
@@ -899,6 +998,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/sheen-386734e281/sheen-386734e281.webp",
         "mimeType": "image/webp",
         "bytes": 2721706,
+        "sha256": "7bfadfa74073e989fbb06afe391fdaacbc9c7a534fb0298202456eabf4b18775",
         "width": 2048,
         "height": 2048
       }
@@ -932,6 +1032,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/sheen-cb915f0655/sheen-cb915f0655.webp",
         "mimeType": "image/webp",
         "bytes": 3287034,
+        "sha256": "9d271b32758366569cb27574b1e06bc6b6cb0bad3ab358e6bd1c68e7b3c24b3a",
         "width": 2048,
         "height": 2048
       }
@@ -965,6 +1066,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/shimmer-4be1be5110/shimmer-4be1be5110.webp",
         "mimeType": "image/webp",
         "bytes": 3384566,
+        "sha256": "b5263fe70485ebae2a3a443165f9172ec6a55834507fcf7d05cf27df6a26eeb5",
         "width": 2048,
         "height": 2048
       }
@@ -998,6 +1100,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/shimmer-dfd075b2b1/shimmer-dfd075b2b1.webp",
         "mimeType": "image/webp",
         "bytes": 3341152,
+        "sha256": "ee48f68d243bbd0c76cbe3fc44d64ea2a13596a403acadc4301300f8ac8a1fda",
         "width": 2048,
         "height": 2048
       }
@@ -1047,7 +1150,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-crystal-f9bb9a11f4/snow-crystal-f9bb9a11f4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 20155
+        "bytes": 20155,
+        "sha256": "b44c2543eb31aca44f801f25491dccb2c3d3d2e61d15382802a696a93d87879e"
       }
     },
     {
@@ -1079,6 +1183,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/sparkle-5cd26834fd/sparkle-5cd26834fd.webp",
         "mimeType": "image/webp",
         "bytes": 2793178,
+        "sha256": "882ea031b498c38be408f15bd1b0b82450fa69f65cc069ad4c07ec9328d1d58d",
         "width": 2048,
         "height": 2048
       }
@@ -1112,6 +1217,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/sparkle-a0c1bd6e50/sparkle-a0c1bd6e50.webp",
         "mimeType": "image/webp",
         "bytes": 1952050,
+        "sha256": "90f82192956aff82740fe34897f3e7f15c06726ca42e1b52bd11f2254d55a9d7",
         "width": 2048,
         "height": 2048
       }
@@ -1145,6 +1251,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/splinter-47ccd87fcc/splinter-47ccd87fcc.webp",
         "mimeType": "image/webp",
         "bytes": 2223356,
+        "sha256": "4a5a8c20e430477b3a296c50eb205f82a4e49c686cbe33a8d8833d71f9d75fd6",
         "width": 2048,
         "height": 2048
       }
@@ -1178,6 +1285,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/splinter-aed781117b/splinter-aed781117b.webp",
         "mimeType": "image/webp",
         "bytes": 2826730,
+        "sha256": "0ad3396587ff6bec75a3e8f9f16e084e0a65d2f9c0d60db18746fa25746808e2",
         "width": 2048,
         "height": 2048
       }
@@ -1218,7 +1326,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15437
+        "bytes": 15437,
+        "sha256": "13038d429551fed51fe5b18d62f680f9c66ba12ebd379fcf5067909fc75a3174"
       }
     },
     {
@@ -1250,6 +1359,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/translucent-1fd3966301/translucent-1fd3966301.webp",
         "mimeType": "image/webp",
         "bytes": 2412116,
+        "sha256": "1788a0df87261132f59c356980a805823c71782cd8a67d0ea4477e17481ba5c3",
         "width": 2048,
         "height": 2048
       }
@@ -1283,6 +1393,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/translucent-4469af6be2/translucent-4469af6be2.webp",
         "mimeType": "image/webp",
         "bytes": 2328796,
+        "sha256": "294d3779b8d4d9487f763db70e986d5fbb14bed6ccd5d7746ee42780dfa38ebe",
         "width": 2048,
         "height": 2048
       }
@@ -1316,6 +1427,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/transparency-4080b0e585/transparency-4080b0e585.webp",
         "mimeType": "image/webp",
         "bytes": 3062750,
+        "sha256": "91e3cc92a9e6b740b6556a32ecd971a2306526864bdee6d64594351984be94c7",
         "width": 2048,
         "height": 2048
       }
@@ -1349,6 +1461,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/transparency-720ed8a56e/transparency-720ed8a56e.webp",
         "mimeType": "image/webp",
         "bytes": 4545052,
+        "sha256": "ae64fe6bd85b236da76cbe0860c48567a85f03e2596f7ed6a043fcf83aeff6b2",
         "width": 2048,
         "height": 2048
       }
@@ -1382,6 +1495,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/twinkle-c71c6abc89/twinkle-c71c6abc89.webp",
         "mimeType": "image/webp",
         "bytes": 2454370,
+        "sha256": "f138912953f599770039e8c649a2e0c1daf13132dec790500e78b2e157da70c5",
         "width": 2048,
         "height": 2048
       }
@@ -1415,6 +1529,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/twinkle-cf380611a0/twinkle-cf380611a0.webp",
         "mimeType": "image/webp",
         "bytes": 2101158,
+        "sha256": "9e2219a4445ced4422e4e5e5ce1265a05c4487627067512cbb9928d49c69e3c4",
         "width": 2048,
         "height": 2048
       }

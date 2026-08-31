@@ -6,6 +6,14 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Science Lab.",
     "collectionIds": [
       "album-theme-science-lab"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "top-trim",
+      "bottom-trim",
+      "photo-frame",
+      "background",
+      "divider"
     ]
   },
   "assetSlots": {
@@ -64,424 +72,6 @@
   "assetCount": 24,
   "assets": [
     {
-      "id": "acoustic-wave-8656118c70",
-      "name": "Acoustic Wave",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/acoustic-wave-8656118c70/acoustic-wave-8656118c70.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 9465
-      }
-    },
-    {
-      "id": "ai-robot-0538a5cb59",
-      "name": "AI Robot",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "robot",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [
-        "robot"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ai-robot-0538a5cb59/ai-robot-0538a5cb59.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 21078
-      }
-    },
-    {
-      "id": "amoeba-22011c07ba",
-      "name": "Amoeba",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/amoeba-22011c07ba/amoeba-22011c07ba.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17253
-      }
-    },
-    {
-      "id": "anemia-3b6e2241bd",
-      "name": "Anemia",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/anemia-3b6e2241bd/anemia-3b6e2241bd.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 12059
-      }
-    },
-    {
-      "id": "animal-cell-3218332792",
-      "name": "Animal Cell",
-      "type": "illustration",
-      "tags": [
-        "animal",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature",
-        "science"
-      ],
-      "subjects": [
-        "animal"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-cell-3218332792/animal-cell-3218332792.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13384
-      }
-    },
-    {
-      "id": "animal-testing-b306701733",
-      "name": "Animal Testing",
-      "type": "illustration",
-      "tags": [
-        "animal",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature",
-        "science"
-      ],
-      "subjects": [
-        "animal"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-testing-b306701733/animal-testing-b306701733.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 19558
-      }
-    },
-    {
-      "id": "astronaut-173c730311",
-      "name": "Astronaut",
-      "type": "illustration",
-      "tags": [
-        "astronaut",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration",
-        "space"
-      ],
-      "themes": [
-        "science",
-        "space"
-      ],
-      "subjects": [
-        "astronaut"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/astronaut-173c730311/astronaut-173c730311.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15587
-      }
-    },
-    {
-      "id": "atom-structure-548c0a746f",
-      "name": "Atom Structure",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/atom-structure-548c0a746f/atom-structure-548c0a746f.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15403
-      }
-    },
-    {
-      "id": "attraction-39e93636b2",
-      "name": "Attraction",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/attraction-39e93636b2/attraction-39e93636b2.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 18036
-      }
-    },
-    {
-      "id": "bacteria-b596d025b6",
-      "name": "Bacteria",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bacteria-b596d025b6/bacteria-b596d025b6.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11542
-      }
-    },
-    {
       "id": "biology-doodles-19693719f3",
       "name": "Biology Doodles",
       "type": "illustration",
@@ -518,7 +108,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/biology-doodles-19693719f3/biology-doodles-19693719f3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 901459
+        "bytes": 901459,
+        "sha256": "6bfbe2f283dbba6dc0f51d5e3a4eb959d2ff7916de161fc88819bdb0a1d7fc88"
       }
     },
     {
@@ -558,7 +149,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/biology-lecture-01170f9b54/biology-lecture-01170f9b54.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9423
+        "bytes": 9423,
+        "sha256": "e417f645bf8b00f8b9752e0d338e15b06a577d4b0223399180cf529e5b5d932f"
       }
     },
     {
@@ -600,7 +192,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/biology-teacher-8475f4d3e5/biology-teacher-8475f4d3e5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16187
+        "bytes": 16187,
+        "sha256": "451e2776eeaf6f33e8c9d4c546ebf517176f27ea21580a8b19be7edae0daed35"
       }
     },
     {
@@ -647,7 +240,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/science-book-5e7fb437b6/science-book-5e7fb437b6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11132
+        "bytes": 11132,
+        "sha256": "5deebe791327137dd561dc3f68c2285eee8c272b689d94ec47dcda73690d0d86"
       }
     },
     {
@@ -690,7 +284,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/science-doodles-6fd34df3c3/science-doodles-6fd34df3c3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 1294134
+        "bytes": 1294134,
+        "sha256": "6b60de8648769593e18be5aeb67e79849c64f04b26e6a98e5ce6c2c990011131"
       }
     },
     {
@@ -733,7 +328,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/science-experiment-8d23fa16b1/science-experiment-8d23fa16b1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 21511
+        "bytes": 21511,
+        "sha256": "ff4eebdb9c3f3330c0676953c3e59e7cccedf7adba97657192cc37e919911e6f"
       }
     },
     {
@@ -776,47 +372,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/science-innovation-4ad49445ef/science-innovation-4ad49445ef.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 7785
-      }
-    },
-    {
-      "id": "science-laboratory-68909b8d3c",
-      "name": "Science laboratory",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "page-prop",
-        "photo-accent",
-        "science",
-        "science-equipment"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [
-        "science-equipment"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/science-laboratory-68909b8d3c/science-laboratory-68909b8d3c.webp",
-        "mimeType": "image/webp",
-        "bytes": 866986,
-        "width": 2048,
-        "height": 2048
+        "bytes": 7785,
+        "sha256": "afe83a280a351f38786bc4c1617c9f7aad8264cb1b2daf48d990e2a4be2805f4"
       }
     },
     {
@@ -859,7 +416,49 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/science-lecture-a95896888f/science-lecture-a95896888f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11246
+        "bytes": 11246,
+        "sha256": "d7d3c236c294fe08a67185023a4e6681526a7f56b3d0f8d5b7f82355a419bfa4"
+      }
+    },
+    {
+      "id": "science-laboratory-68909b8d3c",
+      "name": "Science laboratory",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "page-prop",
+        "photo-accent",
+        "science",
+        "science-equipment"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [
+        "science-equipment"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/science-laboratory-68909b8d3c/science-laboratory-68909b8d3c.webp",
+        "mimeType": "image/webp",
+        "bytes": 866986,
+        "sha256": "6d07d11736aa9b053360d52fcd8998ac06ebd87c9dece1362b3725d5a703edea",
+        "width": 2048,
+        "height": 2048
       }
     },
     {
@@ -902,7 +501,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/space-telescope-cd7c92ea9b/space-telescope-cd7c92ea9b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16480
+        "bytes": 16480,
+        "sha256": "acae01efb1152eff1ade6987049e9d5be9fc1dc54f77f1c44787a5e0d62b6fc6"
       }
     },
     {
@@ -947,7 +547,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/telescope-45792a1b40/telescope-45792a1b40.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 22831
+        "bytes": 22831,
+        "sha256": "c4734e98d3774d6ae40ef5649f82845e820bf860e90133e0a1f85d4f87c14819"
       }
     },
     {
@@ -990,7 +591,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/telescope-9aaa11f2b1/telescope-9aaa11f2b1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 27140
+        "bytes": 27140,
+        "sha256": "a7cd977efb38044cfa5788fe062511589e9796266499dc490b5738bfe5f0d433"
       }
     },
     {
@@ -1035,7 +637,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/test-tubes-2072a26ac8/test-tubes-2072a26ac8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9833
+        "bytes": 9833,
+        "sha256": "94360d50594380f08578887758b55790e8de2dd726e3fe8b8ea2175bc04d5237"
       }
     },
     {
@@ -1078,7 +681,436 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/test-tubes-8f53b2b55f/test-tubes-8f53b2b55f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 17180
+        "bytes": 17180,
+        "sha256": "0b10c110ad60957a560a71cac0c28ec6035edf3f1ca2abb5766328dc43d8ac3d"
+      }
+    },
+    {
+      "id": "acoustic-wave-8656118c70",
+      "name": "Acoustic Wave",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/acoustic-wave-8656118c70/acoustic-wave-8656118c70.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9465,
+        "sha256": "bf1d05e964cccf32157395bef493e771bdbbd732a78d3def5482ca18c7cd5d4d"
+      }
+    },
+    {
+      "id": "ai-robot-0538a5cb59",
+      "name": "AI Robot",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "robot",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [
+        "robot"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ai-robot-0538a5cb59/ai-robot-0538a5cb59.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 21078,
+        "sha256": "32e73c7966dca571e52c7b4a09c8d90f1355be94c35e1de1df618bd6398a5da3"
+      }
+    },
+    {
+      "id": "amoeba-22011c07ba",
+      "name": "Amoeba",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/amoeba-22011c07ba/amoeba-22011c07ba.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 17253,
+        "sha256": "47f0537ee7ce5afccadd95c5e663e4bcdc2f5116eea53bea410cf335228f88b8"
+      }
+    },
+    {
+      "id": "anemia-3b6e2241bd",
+      "name": "Anemia",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/anemia-3b6e2241bd/anemia-3b6e2241bd.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 12059,
+        "sha256": "f23409f3df11dbc93a4944e2476f9e2619e1797b83de31052362eae17d56351d"
+      }
+    },
+    {
+      "id": "animal-cell-3218332792",
+      "name": "Animal Cell",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "science"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-cell-3218332792/animal-cell-3218332792.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13384,
+        "sha256": "3a61d44d2f2774edc70674741668a6ab523afd215516dc5ed2547fba1f2c672a"
+      }
+    },
+    {
+      "id": "animal-testing-b306701733",
+      "name": "Animal Testing",
+      "type": "illustration",
+      "tags": [
+        "animal",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "science"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-testing-b306701733/animal-testing-b306701733.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19558,
+        "sha256": "cfdb0ff3602e816f53d28d6f13469d30ed567c7a075f98c17495f37dfb65d2d5"
+      }
+    },
+    {
+      "id": "astronaut-173c730311",
+      "name": "Astronaut",
+      "type": "illustration",
+      "tags": [
+        "astronaut",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration",
+        "space"
+      ],
+      "themes": [
+        "science",
+        "space"
+      ],
+      "subjects": [
+        "astronaut"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/astronaut-173c730311/astronaut-173c730311.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15587,
+        "sha256": "e4669f60b4a54fee40186aa59e873de1fbf46f967a95793a3d5c1a1a777e9c26"
+      }
+    },
+    {
+      "id": "atom-structure-548c0a746f",
+      "name": "Atom Structure",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/atom-structure-548c0a746f/atom-structure-548c0a746f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15403,
+        "sha256": "1ead601e10f37efd854fd0ff80328aab0f37f78694ff9f119eba3876413a7397"
+      }
+    },
+    {
+      "id": "attraction-39e93636b2",
+      "name": "Attraction",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/attraction-39e93636b2/attraction-39e93636b2.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18036,
+        "sha256": "d1e3e9eb3ac1e110cb0fbee1aebdfb056f5fa05a40f5932e6e6685413416ab05"
+      }
+    },
+    {
+      "id": "bacteria-b596d025b6",
+      "name": "Bacteria",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bacteria-b596d025b6/bacteria-b596d025b6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 11542,
+        "sha256": "2a327f5e3b6c29e1a078bcc0bce11188e3c7f3bda13dcf9826a65c2342e26f5c"
       }
     }
   ]

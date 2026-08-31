@@ -6,8 +6,8 @@
   },
   "page": 1,
   "pageSize": 100,
-  "assetCount": 14,
-  "totalAssetCount": 14,
+  "assetCount": 15,
+  "totalAssetCount": 15,
   "assets": [
     {
       "id": "car-d30b39433a",
@@ -53,7 +53,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/car-d30b39433a/car-d30b39433a.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 74904
+        "bytes": 74904,
+        "sha256": "8e529f8e93bb4ab5575523ea0fe6a5fe4a75e7a2e6f26e60dbe0b6c3f644670a"
       }
     },
     {
@@ -96,6 +97,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/car-e187056ee5/car-e187056ee5.webp",
         "mimeType": "image/webp",
         "bytes": 330950,
+        "sha256": "ea00f4540bd608292a530a54bc300d45d111eafff156c18e80dd914b4745279e",
         "width": 1840,
         "height": 1380
       }
@@ -140,6 +142,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/car-nobg-3b59ed531d/car-nobg-3b59ed531d.webp",
         "mimeType": "image/webp",
         "bytes": 369010,
+        "sha256": "61ed744f956454162c73a7965b9efa84578f521e3d8deda13b8937bda4dfd7e1",
         "width": 1840,
         "height": 1380
       }
@@ -182,7 +185,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/car-race-18adee6ad6/car-race-18adee6ad6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 68258
+        "bytes": 68258,
+        "sha256": "251d97ef9c8372ffcbd05bc0323e705167010425122f30d5f11b00ce282c35f4"
       }
     },
     {
@@ -223,7 +227,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/driving-car-f20e9405e8/driving-car-f20e9405e8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 38015
+        "bytes": 38015,
+        "sha256": "53b714e038fcc65a278d92260dbfb7d7556ac19995a230b1ab7d796a082dfdcf"
       }
     },
     {
@@ -268,7 +273,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/futuristic-car-7c796204de/futuristic-car-7c796204de.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 25644
+        "bytes": 25644,
+        "sha256": "9a9c58873ed03bb97e57f4b6d13d6b6495b1ebc87e73669140b3d8b966be9232"
       }
     },
     {
@@ -309,7 +315,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/golf-car-a0d30f173f/golf-car-a0d30f173f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 47409
+        "bytes": 47409,
+        "sha256": "fd0a8d781cd5b4d71af1049be4d1cd6888d8f57177c033318298fc0ed54a538d"
       }
     },
     {
@@ -350,7 +357,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mini-car-004017a0da/mini-car-004017a0da.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 43553
+        "bytes": 43553,
+        "sha256": "57b384bf8075ab197738e1f77b5272590e464f919df58dbbe5e1ee868f7a74af"
       }
     },
     {
@@ -391,7 +399,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/refueling-car-c84273331c/refueling-car-c84273331c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 53480
+        "bytes": 53480,
+        "sha256": "9a10f53b6128256f1cd50704b0b43e202931b91d7e19135d7814122dbcd1c3e5"
       }
     },
     {
@@ -432,7 +441,57 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/repairing-car-151536daa4/repairing-car-151536daa4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 35148
+        "bytes": 35148,
+        "sha256": "4ba6ed5c37d632bd9671c1b9392c16712d2851ab06ab998630160365a7df6e85"
+      }
+    },
+    {
+      "id": "snow-car-d598edcf5f",
+      "name": "Snow Car",
+      "type": "illustration",
+      "tags": [
+        "car",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "transportation",
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "car",
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-car-d598edcf5f/snow-car-d598edcf5f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10266,
+        "sha256": "9d496c30716126fa059f27f734b5a386cd5477f9b9a67dd42dc32e4ca5a62966"
       }
     },
     {
@@ -473,7 +532,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/taxi-driver-1fbe25d201/taxi-driver-1fbe25d201.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 37380
+        "bytes": 37380,
+        "sha256": "af93e717ded697f22e9e71a79d5559e290e76ba3606360d98f43a6f08a86f15b"
       }
     },
     {
@@ -514,7 +574,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vintage-car-e4f377e9c4/vintage-car-e4f377e9c4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 45404
+        "bytes": 45404,
+        "sha256": "610cbb2068e222432060d7109e0adb501b18f5b96f41f3764bee04f5ce97a990"
       }
     },
     {
@@ -555,7 +616,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/washing-car-c103e5a3b7/washing-car-c103e5a3b7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 43897
+        "bytes": 43897,
+        "sha256": "c5087945439e4dfd960ec08da9bb6995153d6b309d1b8d12225b8f9a6a523ab8"
       }
     },
     {
@@ -600,7 +662,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/wedding-car-f37a0c1dbc/wedding-car-f37a0c1dbc.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 33466
+        "bytes": 33466,
+        "sha256": "b86bf9c1910180993aeebbc0b2f6eb115a32c6c9e27f84d1eec57aaac61fabd6"
       }
     }
   ]

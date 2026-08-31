@@ -6,6 +6,13 @@
     "description": "Photo Album recipe using the shared eight-slot contract for School Bus Adventure.",
     "collectionIds": [
       "album-theme-school-bus-adventure"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "top-trim",
+      "bottom-trim",
+      "photo-frame",
+      "divider"
     ]
   },
   "assetSlots": {
@@ -13,11 +20,11 @@
       "bus-conductor-e255d18bd2",
       "rescue-vehicle-c2578e3a44",
       "school-bus-e63acd13ca",
+      "snow-vehicle-a5c39e233f",
       "space-vehicle-f5d2ee5972",
       "vehicle-illustrations-fc2d30e1b3",
       "1-cdc7cc554b",
-      "10-43e91bf114",
-      "11-6ebc0ba4a2"
+      "10-43e91bf114"
     ],
     "top-trim": [],
     "bottom-trim": [],
@@ -26,11 +33,11 @@
       "bus-conductor-e255d18bd2",
       "rescue-vehicle-c2578e3a44",
       "school-bus-e63acd13ca",
+      "snow-vehicle-a5c39e233f",
       "space-vehicle-f5d2ee5972",
       "vehicle-illustrations-fc2d30e1b3",
       "1-cdc7cc554b",
-      "10-43e91bf114",
-      "11-6ebc0ba4a2"
+      "10-43e91bf114"
     ],
     "background": [
       "glass-magnifying-3d-icon-9b6f6791c1",
@@ -41,6 +48,7 @@
       "bus-conductor-e255d18bd2",
       "rescue-vehicle-c2578e3a44",
       "school-bus-e63acd13ca",
+      "snow-vehicle-a5c39e233f",
       "space-vehicle-f5d2ee5972",
       "vehicle-illustrations-fc2d30e1b3",
       "1-cdc7cc554b",
@@ -60,753 +68,11 @@
       "22-a5ca09b001",
       "23-0deea6126a",
       "24-60d507f2f8",
-      "25-2391d30983",
-      "26-8fe5d66d34"
+      "25-2391d30983"
     ]
   },
   "assetCount": 26,
   "assets": [
-    {
-      "id": "1-cdc7cc554b",
-      "name": "1",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-cdc7cc554b/1-cdc7cc554b.webp",
-        "mimeType": "image/webp",
-        "bytes": 79168,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "10-43e91bf114",
-      "name": "10",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-43e91bf114/10-43e91bf114.webp",
-        "mimeType": "image/webp",
-        "bytes": 84456,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "11-6ebc0ba4a2",
-      "name": "11",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/11-6ebc0ba4a2/11-6ebc0ba4a2.webp",
-        "mimeType": "image/webp",
-        "bytes": 60908,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "12-548f1f5d69",
-      "name": "12",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/12-548f1f5d69/12-548f1f5d69.webp",
-        "mimeType": "image/webp",
-        "bytes": 81852,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "13-adc194496c",
-      "name": "13",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/13-adc194496c/13-adc194496c.webp",
-        "mimeType": "image/webp",
-        "bytes": 81492,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "14-ca6c4537d4",
-      "name": "14",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/14-ca6c4537d4/14-ca6c4537d4.webp",
-        "mimeType": "image/webp",
-        "bytes": 62670,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "15-c02c579fe2",
-      "name": "15",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/15-c02c579fe2/15-c02c579fe2.webp",
-        "mimeType": "image/webp",
-        "bytes": 78290,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "16-8654860068",
-      "name": "16",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/16-8654860068/16-8654860068.webp",
-        "mimeType": "image/webp",
-        "bytes": 79208,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "17-3fbe7a6d73",
-      "name": "17",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/17-3fbe7a6d73/17-3fbe7a6d73.webp",
-        "mimeType": "image/webp",
-        "bytes": 99540,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "18-8e5f067587",
-      "name": "18",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/18-8e5f067587/18-8e5f067587.webp",
-        "mimeType": "image/webp",
-        "bytes": 68788,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "19-72097312d2",
-      "name": "19",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/19-72097312d2/19-72097312d2.webp",
-        "mimeType": "image/webp",
-        "bytes": 69696,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "2-914f7d26bc",
-      "name": "2",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/2-914f7d26bc/2-914f7d26bc.webp",
-        "mimeType": "image/webp",
-        "bytes": 84914,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "20-e68ff98165",
-      "name": "20",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/20-e68ff98165/20-e68ff98165.webp",
-        "mimeType": "image/webp",
-        "bytes": 74510,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "21-a0d01581e7",
-      "name": "21",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/21-a0d01581e7/21-a0d01581e7.webp",
-        "mimeType": "image/webp",
-        "bytes": 95204,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "22-a5ca09b001",
-      "name": "22",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/22-a5ca09b001/22-a5ca09b001.webp",
-        "mimeType": "image/webp",
-        "bytes": 71282,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "23-0deea6126a",
-      "name": "23",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/23-0deea6126a/23-0deea6126a.webp",
-        "mimeType": "image/webp",
-        "bytes": 67372,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "24-60d507f2f8",
-      "name": "24",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/24-60d507f2f8/24-60d507f2f8.webp",
-        "mimeType": "image/webp",
-        "bytes": 73220,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "25-2391d30983",
-      "name": "25",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/25-2391d30983/25-2391d30983.webp",
-        "mimeType": "image/webp",
-        "bytes": 79500,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "26-8fe5d66d34",
-      "name": "26",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/26-8fe5d66d34/26-8fe5d66d34.webp",
-        "mimeType": "image/webp",
-        "bytes": 91954,
-        "width": 2048,
-        "height": 2048
-      }
-    },
     {
       "id": "bus-conductor-e255d18bd2",
       "name": "Bus conductor",
@@ -842,87 +108,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bus-conductor-e255d18bd2/bus-conductor-e255d18bd2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 55982
-      }
-    },
-    {
-      "id": "glass-magnifying-3d-icon-9b6f6791c1",
-      "name": "Glass Magnifying 3D Icon",
-      "type": "texture",
-      "tags": [
-        "3d",
-        "background",
-        "classroom",
-        "dimensional",
-        "glossy",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "3d",
-        "dimensional",
-        "glossy"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
-        "mimeType": "image/webp",
-        "bytes": 569212,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "reading-glasses-bfd1553f94",
-      "name": "Reading Glasses",
-      "type": "texture",
-      "tags": [
-        "background",
-        "book",
-        "classroom",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art",
-        "reading",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book"
-      ],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-bfd1553f94/reading-glasses-bfd1553f94.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14181
+        "bytes": 55982,
+        "sha256": "4f0671d1859021d95e2125171e0cf923935ca3ff48df98f7946398decaad5fe0"
       }
     },
     {
@@ -968,7 +155,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rescue-vehicle-c2578e3a44/rescue-vehicle-c2578e3a44.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13912
+        "bytes": 13912,
+        "sha256": "30fc4bb83d21f89b78f7fa31756bd696b7df7c38e34b1e0f5e14531d3dc67772"
       }
     },
     {
@@ -1012,7 +200,57 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/school-bus-e63acd13ca/school-bus-e63acd13ca.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 24093
+        "bytes": 24093,
+        "sha256": "6d26d9994d060c7d76f97aad8dc6303553eb3b71d5778586e24783bb5e2f4513"
+      }
+    },
+    {
+      "id": "snow-vehicle-a5c39e233f",
+      "name": "Snow Vehicle",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "transportation",
+        "travel",
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-vehicle-a5c39e233f/snow-vehicle-a5c39e233f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 11789,
+        "sha256": "643030f91050bc163cb197916f1aec591db1a2df54b13029fcadb38df2bef294"
       }
     },
     {
@@ -1056,7 +294,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/space-vehicle-f5d2ee5972/space-vehicle-f5d2ee5972.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 24138
+        "bytes": 24138,
+        "sha256": "ba7457cab24600c419f96f985ea530a542324459ff4c3b40a4234c70a766680d"
       }
     },
     {
@@ -1091,7 +330,810 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vehicle-illustrations-fc2d30e1b3/vehicle-illustrations-fc2d30e1b3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 2435959
+        "bytes": 2435959,
+        "sha256": "9cf8c651c3d82fb923fe78aeb5cfb5e7cade65126db09dc514a6835a27c26c4f"
+      }
+    },
+    {
+      "id": "1-cdc7cc554b",
+      "name": "1",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-cdc7cc554b/1-cdc7cc554b.webp",
+        "mimeType": "image/webp",
+        "bytes": 79168,
+        "sha256": "25ef5f25ccde35ee241ad167680633379aff4ef8341e62d97dcb43733896c975",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "10-43e91bf114",
+      "name": "10",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-43e91bf114/10-43e91bf114.webp",
+        "mimeType": "image/webp",
+        "bytes": 84456,
+        "sha256": "49ed8e4bd9a6c4b78e3edd959a11b40d67ebc716ad97c8c8f7a16d13051e308c",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "glass-magnifying-3d-icon-9b6f6791c1",
+      "name": "Glass Magnifying 3D Icon",
+      "type": "texture",
+      "tags": [
+        "3d",
+        "background",
+        "classroom",
+        "dimensional",
+        "glossy",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional",
+        "glossy"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
+        "mimeType": "image/webp",
+        "bytes": 569212,
+        "sha256": "a5ba5acc2b4ba0426252dd17133769c735c98870fb8143473999b791680e62f8",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "reading-glasses-bfd1553f94",
+      "name": "Reading Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "book",
+        "classroom",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "reading",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book"
+      ],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-bfd1553f94/reading-glasses-bfd1553f94.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14181,
+        "sha256": "0ac06b1f2fcdf27f81aaa71118d5cf5c9544b2169d59b4920354d1564adf83a4"
+      }
+    },
+    {
+      "id": "11-6ebc0ba4a2",
+      "name": "11",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/11-6ebc0ba4a2/11-6ebc0ba4a2.webp",
+        "mimeType": "image/webp",
+        "bytes": 60908,
+        "sha256": "9b534a5b371025dd790df98a9ae3330f651c9e3c82a81684af4de6379fa376f7",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "12-548f1f5d69",
+      "name": "12",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/12-548f1f5d69/12-548f1f5d69.webp",
+        "mimeType": "image/webp",
+        "bytes": 81852,
+        "sha256": "0286e58208f8be56c7d1fbea6a96b899e8ac6cd7ede997156b4989b8d90fb94f",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "13-adc194496c",
+      "name": "13",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/13-adc194496c/13-adc194496c.webp",
+        "mimeType": "image/webp",
+        "bytes": 81492,
+        "sha256": "8b5d7f7a1b5c56c027f83eb8b9e72961575272b6caf74b1f91acbb2b17eafc10",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "14-ca6c4537d4",
+      "name": "14",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/14-ca6c4537d4/14-ca6c4537d4.webp",
+        "mimeType": "image/webp",
+        "bytes": 62670,
+        "sha256": "03e24eb7ede978e7b86c5b90f2e4e7ecf1e5377d30aaecbeb8c05053780de24e",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "15-c02c579fe2",
+      "name": "15",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/15-c02c579fe2/15-c02c579fe2.webp",
+        "mimeType": "image/webp",
+        "bytes": 78290,
+        "sha256": "c5f043e90715052be84666fa72caeabd1ae933e3737a4d4e0b8b1f18f5a25424",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "16-8654860068",
+      "name": "16",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/16-8654860068/16-8654860068.webp",
+        "mimeType": "image/webp",
+        "bytes": 79208,
+        "sha256": "b49da4e4c98accc3888b0fc81d40aa3affd13ddc83e4f61b279562e2f7900135",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "17-3fbe7a6d73",
+      "name": "17",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/17-3fbe7a6d73/17-3fbe7a6d73.webp",
+        "mimeType": "image/webp",
+        "bytes": 99540,
+        "sha256": "992f1d63a1b9e9b2e02206ccac37674a84b66235bec06700b30b758fdb497695",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "18-8e5f067587",
+      "name": "18",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/18-8e5f067587/18-8e5f067587.webp",
+        "mimeType": "image/webp",
+        "bytes": 68788,
+        "sha256": "b2facd6811d25e1349f55db18b2ea65a4dbf435a4d3b4d2ce75c8ec04c59c4e0",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "19-72097312d2",
+      "name": "19",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/19-72097312d2/19-72097312d2.webp",
+        "mimeType": "image/webp",
+        "bytes": 69696,
+        "sha256": "46cb0e8f1e549500864e482cfbcf4c4f6521c50958ce0690aed141ca835673a1",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "2-914f7d26bc",
+      "name": "2",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/2-914f7d26bc/2-914f7d26bc.webp",
+        "mimeType": "image/webp",
+        "bytes": 84914,
+        "sha256": "d7344a0af02cfcb62e264483e08bb32c0f62438c1a1ab1ec48ca13284d9135fd",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "20-e68ff98165",
+      "name": "20",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/20-e68ff98165/20-e68ff98165.webp",
+        "mimeType": "image/webp",
+        "bytes": 74510,
+        "sha256": "ed563abdee51cf8b7a1d359e1be17f619a612cffbd113caa35d036b332a9512c",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "21-a0d01581e7",
+      "name": "21",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/21-a0d01581e7/21-a0d01581e7.webp",
+        "mimeType": "image/webp",
+        "bytes": 95204,
+        "sha256": "a2ce979441243ead8452bed5eaab21a5b6197cd09cd1e4e251f35280ff1b067b",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "22-a5ca09b001",
+      "name": "22",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/22-a5ca09b001/22-a5ca09b001.webp",
+        "mimeType": "image/webp",
+        "bytes": 71282,
+        "sha256": "bb762657a52b09e48b3c1c200ac162ec3cdfed0a2f9b4e1f442ecdd09cc808f3",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "23-0deea6126a",
+      "name": "23",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/23-0deea6126a/23-0deea6126a.webp",
+        "mimeType": "image/webp",
+        "bytes": 67372,
+        "sha256": "74965eb201b533577ec3c9cb2b43586ffcc6762fc07b3fbeea6dc1dc73401ffa",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "24-60d507f2f8",
+      "name": "24",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/24-60d507f2f8/24-60d507f2f8.webp",
+        "mimeType": "image/webp",
+        "bytes": 73220,
+        "sha256": "95a164d5ca761b3f194afdffa24905ef37ad4b8aa95765316c443130566250ce",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "25-2391d30983",
+      "name": "25",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/25-2391d30983/25-2391d30983.webp",
+        "mimeType": "image/webp",
+        "bytes": 79500,
+        "sha256": "ab91aebd2de7c9c761a1569720c5ea52c3c567a083a8227005cd5fb25c73cb69",
+        "width": 2048,
+        "height": 2048
       }
     }
   ]

@@ -6,6 +6,12 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Memory Gallery.",
     "collectionIds": [
       "album-theme-memory-gallery"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "top-trim",
+      "bottom-trim",
+      "divider"
     ]
   },
   "assetSlots": {
@@ -72,6 +78,78 @@
   "assetCount": 30,
   "assets": [
     {
+      "id": "vctrly-studio-work-creative-creativity-art-productions-artist-dr-cd0f04bdad",
+      "name": "vctrly studio work creative creativity art productions artist draw painting paint gallery",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "museum"
+      ],
+      "subjects": [
+        "museum"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-studio-work-creative-creativity-art-productions-artist-dr-cd0f04bdad/vctrly-studio-work-creative-creativity-art-productions-artist-dr-cd0f04bdad.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 81853,
+        "sha256": "92f33a7afc9ca4f7cb79f0ad2dc2c5bbcd71500dd184c0394b73b7434e22a3e2"
+      }
+    },
+    {
+      "id": "vctrly-studio-work-creative-creativity-art-productions-draw-arti-800a0b3f0f",
+      "name": "vctrly studio work creative creativity art productions draw artist painting paint gallery",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "museum"
+      ],
+      "subjects": [
+        "museum"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-studio-work-creative-creativity-art-productions-draw-arti-800a0b3f0f/vctrly-studio-work-creative-creativity-art-productions-draw-arti-800a0b3f0f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 88269,
+        "sha256": "67202df0a494435e1011f80b97f984bea5791e1ca6e4bc2d9b3b33b777760b5c"
+      }
+    },
+    {
       "id": "1-020ea324e1",
       "name": "1",
       "type": "illustration",
@@ -108,6 +186,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-020ea324e1/1-020ea324e1.webp",
         "mimeType": "image/webp",
         "bytes": 351154,
+        "sha256": "e50cadeea673253931c3c7aecbaf726f5cb41dcc542cbab4c029cacca6f33a3c",
         "width": 2048,
         "height": 2048
       }
@@ -149,6 +228,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-c725475bb1/10-c725475bb1.webp",
         "mimeType": "image/webp",
         "bytes": 296192,
+        "sha256": "b18983db1220be02d6cf0bcf1fd085779f4c800c19bcf6fa28aabeff335c6b57",
         "width": 2048,
         "height": 2048
       }
@@ -190,6 +270,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/100-f506bc2cb7/100-f506bc2cb7.webp",
         "mimeType": "image/webp",
         "bytes": 251472,
+        "sha256": "c78da1993b56704b6c64c9207d881cc38820c88f2bd269f0144d4ae049208a5b",
         "width": 2048,
         "height": 2048
       }
@@ -231,6 +312,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/101-c2fb9718c5/101-c2fb9718c5.webp",
         "mimeType": "image/webp",
         "bytes": 309796,
+        "sha256": "6f209e6bc7e7cfec2b25a524a9afab96e3b078679437e0301483fa08b066f136",
         "width": 2048,
         "height": 2048
       }
@@ -272,6 +354,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/102-82b4c9d8af/102-82b4c9d8af.webp",
         "mimeType": "image/webp",
         "bytes": 239066,
+        "sha256": "bfcc9ad3aa479d4736cfc0dd46a8916912a4721c426576d83eee31bd097c053e",
         "width": 2048,
         "height": 2048
       }
@@ -313,662 +396,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/103-e9ec1a72d1/103-e9ec1a72d1.webp",
         "mimeType": "image/webp",
         "bytes": 281924,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "104-ebc71ac0ed",
-      "name": "104",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/104-ebc71ac0ed/104-ebc71ac0ed.webp",
-        "mimeType": "image/webp",
-        "bytes": 287858,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "105-86dbd58765",
-      "name": "105",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/105-86dbd58765/105-86dbd58765.webp",
-        "mimeType": "image/webp",
-        "bytes": 299760,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "106-17eda768a8",
-      "name": "106",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/106-17eda768a8/106-17eda768a8.webp",
-        "mimeType": "image/webp",
-        "bytes": 316934,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "107-016d9fc068",
-      "name": "107",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/107-016d9fc068/107-016d9fc068.webp",
-        "mimeType": "image/webp",
-        "bytes": 258736,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "108-a5668f1c81",
-      "name": "108",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/108-a5668f1c81/108-a5668f1c81.webp",
-        "mimeType": "image/webp",
-        "bytes": 209648,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "109-ca0e708cbf",
-      "name": "109",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/109-ca0e708cbf/109-ca0e708cbf.webp",
-        "mimeType": "image/webp",
-        "bytes": 315138,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "11-cf3bc66f62",
-      "name": "11",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/11-cf3bc66f62/11-cf3bc66f62.webp",
-        "mimeType": "image/webp",
-        "bytes": 332226,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "110-3c91617f52",
-      "name": "110",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/110-3c91617f52/110-3c91617f52.webp",
-        "mimeType": "image/webp",
-        "bytes": 247662,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "111-5394356790",
-      "name": "111",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/111-5394356790/111-5394356790.webp",
-        "mimeType": "image/webp",
-        "bytes": 223722,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "112-6b4b750597",
-      "name": "112",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/112-6b4b750597/112-6b4b750597.webp",
-        "mimeType": "image/webp",
-        "bytes": 291810,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "113-05c8af9a74",
-      "name": "113",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/113-05c8af9a74/113-05c8af9a74.webp",
-        "mimeType": "image/webp",
-        "bytes": 257610,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "114-012fdc6af8",
-      "name": "114",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/114-012fdc6af8/114-012fdc6af8.webp",
-        "mimeType": "image/webp",
-        "bytes": 319936,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "115-e2eb28b86d",
-      "name": "115",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/115-e2eb28b86d/115-e2eb28b86d.webp",
-        "mimeType": "image/webp",
-        "bytes": 369754,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "116-dec9296fc7",
-      "name": "116",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/116-dec9296fc7/116-dec9296fc7.webp",
-        "mimeType": "image/webp",
-        "bytes": 311800,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "117-fc2da83654",
-      "name": "117",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/117-fc2da83654/117-fc2da83654.webp",
-        "mimeType": "image/webp",
-        "bytes": 294020,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "118-22f10554ef",
-      "name": "118",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/118-22f10554ef/118-22f10554ef.webp",
-        "mimeType": "image/webp",
-        "bytes": 359292,
+        "sha256": "05798b4eed5f9b5881d5a1951bf9037d3fdd44ca1b0f31543b53787942365ae5",
         "width": 2048,
         "height": 2048
       }
@@ -1011,46 +439,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/hanging-frame-76be23b74d/hanging-frame-76be23b74d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 3370
-      }
-    },
-    {
-      "id": "modular-frame-a8a36becbf",
-      "name": "Modular Frame",
-      "type": "frame",
-      "tags": [
-        "card-decoration",
-        "doodle",
-        "engineering",
-        "frame",
-        "hand-drawn",
-        "line-art",
-        "photo-frame"
-      ],
-      "themes": [
-        "engineering"
-      ],
-      "subjects": [
-        "frame"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "card-decoration",
-        "photo-frame"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/modular-frame-a8a36becbf/modular-frame-a8a36becbf.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 7146
+        "bytes": 3370,
+        "sha256": "fb0824e47a459bb479ed30d3968e28e6cf24dad1789f1b551fb0c41db92af725"
       }
     },
     {
@@ -1093,150 +483,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/photo-frame-970e2e989f/photo-frame-970e2e989f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16178
-      }
-    },
-    {
-      "id": "roman-glass-135c9b02b8",
-      "name": "Roman Glass",
-      "type": "texture",
-      "tags": [
-        "background",
-        "doodle",
-        "field-trip",
-        "glossy",
-        "hand-drawn",
-        "line-art",
-        "museum"
-      ],
-      "themes": [
-        "field-trip",
-        "museum"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/roman-glass-135c9b02b8/roman-glass-135c9b02b8.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 6260
-      }
-    },
-    {
-      "id": "vctrly-studio-work-creative-creativity-art-productions-artist-dr-cd0f04bdad",
-      "name": "vctrly studio work creative creativity art productions artist draw painting paint gallery",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "museum"
-      ],
-      "subjects": [
-        "museum"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-studio-work-creative-creativity-art-productions-artist-dr-cd0f04bdad/vctrly-studio-work-creative-creativity-art-productions-artist-dr-cd0f04bdad.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 81853
-      }
-    },
-    {
-      "id": "vctrly-studio-work-creative-creativity-art-productions-draw-arti-800a0b3f0f",
-      "name": "vctrly studio work creative creativity art productions draw artist painting paint gallery",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "museum"
-      ],
-      "subjects": [
-        "museum"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-studio-work-creative-creativity-art-productions-draw-arti-800a0b3f0f/vctrly-studio-work-creative-creativity-art-productions-draw-arti-800a0b3f0f.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 88269
-      }
-    },
-    {
-      "id": "vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305",
-      "name": "vctrly work life balance healthy financial freedom time desk desktop coffee tea frame",
-      "type": "frame",
-      "tags": [
-        "card-decoration",
-        "computer",
-        "food",
-        "frame",
-        "photo-frame",
-        "table"
-      ],
-      "themes": [],
-      "subjects": [
-        "computer",
-        "food",
-        "frame",
-        "table"
-      ],
-      "styles": [],
-      "useCases": [
-        "card-decoration",
-        "photo-frame"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305/vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 211588
+        "bytes": 16178,
+        "sha256": "e9cc5ea2a3dc448b08c0126f2a7a6904275b6213e4aca074ecc85b310e793b8f"
       }
     },
     {
@@ -1277,7 +525,795 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/victorian-frame-a97e34cabe/victorian-frame-a97e34cabe.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9519
+        "bytes": 9519,
+        "sha256": "d8b22383c5645f109171a435204641a9f88991eb699eb1c71ff271e093b20d40"
+      }
+    },
+    {
+      "id": "modular-frame-a8a36becbf",
+      "name": "Modular Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "engineering",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "photo-frame"
+      ],
+      "themes": [
+        "engineering"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/modular-frame-a8a36becbf/modular-frame-a8a36becbf.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 7146,
+        "sha256": "49e43ddec8cc07b6e04bf92e61d4aa5ad93772980be0494f4eedf79019cde83d"
+      }
+    },
+    {
+      "id": "vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305",
+      "name": "vctrly work life balance healthy financial freedom time desk desktop coffee tea frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "computer",
+        "food",
+        "frame",
+        "photo-frame",
+        "table"
+      ],
+      "themes": [],
+      "subjects": [
+        "computer",
+        "food",
+        "frame",
+        "table"
+      ],
+      "styles": [],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305/vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 211588,
+        "sha256": "3cef3cc53ca289453d7fec393b86793941f0ae5e8eff2a675110900535caf97c"
+      }
+    },
+    {
+      "id": "roman-glass-135c9b02b8",
+      "name": "Roman Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "field-trip",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "museum"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/roman-glass-135c9b02b8/roman-glass-135c9b02b8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 6260,
+        "sha256": "6d2f5970348932f57275a3c16d14fb64c3cb4b0e51acb0bd2080b6324f804f0a"
+      }
+    },
+    {
+      "id": "104-ebc71ac0ed",
+      "name": "104",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/104-ebc71ac0ed/104-ebc71ac0ed.webp",
+        "mimeType": "image/webp",
+        "bytes": 287858,
+        "sha256": "0f6914760f613e0a8f3cdcefa930590e96147e14419cea2fa30986adbfca6891",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "105-86dbd58765",
+      "name": "105",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/105-86dbd58765/105-86dbd58765.webp",
+        "mimeType": "image/webp",
+        "bytes": 299760,
+        "sha256": "00c6f44d047ac0e0dd7608c70a93868359ca9fd5985ecd3e22ffc8ee22e5d877",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "106-17eda768a8",
+      "name": "106",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/106-17eda768a8/106-17eda768a8.webp",
+        "mimeType": "image/webp",
+        "bytes": 316934,
+        "sha256": "f83061c99029f0cf8b21c041049cb1d11e9093e4ae2a5746e46ce63e270c4d93",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "107-016d9fc068",
+      "name": "107",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/107-016d9fc068/107-016d9fc068.webp",
+        "mimeType": "image/webp",
+        "bytes": 258736,
+        "sha256": "9b0396f351d6aae06d835e8473467d9807fab100529f06abba356d47a802c525",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "108-a5668f1c81",
+      "name": "108",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/108-a5668f1c81/108-a5668f1c81.webp",
+        "mimeType": "image/webp",
+        "bytes": 209648,
+        "sha256": "97fb9133de3489ff6c625e778dadec262524b8da91b7ada18c905db60c2e6efc",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "109-ca0e708cbf",
+      "name": "109",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/109-ca0e708cbf/109-ca0e708cbf.webp",
+        "mimeType": "image/webp",
+        "bytes": 315138,
+        "sha256": "b9d9da428960f64bb8d385633cd8945626116cab4876e07d32a172a0cd160b0d",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "11-cf3bc66f62",
+      "name": "11",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/11-cf3bc66f62/11-cf3bc66f62.webp",
+        "mimeType": "image/webp",
+        "bytes": 332226,
+        "sha256": "49fb67a5e0bed8010cbf210165b3a9d06b4145f86ec4ae4ba6f9bc2dd4e62300",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "110-3c91617f52",
+      "name": "110",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/110-3c91617f52/110-3c91617f52.webp",
+        "mimeType": "image/webp",
+        "bytes": 247662,
+        "sha256": "4f83e7f589e3c144e2c44ccfa93efededcdffe6e5a21ad49e0f3ea973e283745",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "111-5394356790",
+      "name": "111",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/111-5394356790/111-5394356790.webp",
+        "mimeType": "image/webp",
+        "bytes": 223722,
+        "sha256": "c2dda28ba9fb9e457fe962e7d6c7f1c6ef195c75d53cc0fc0f4d0455a3fead64",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "112-6b4b750597",
+      "name": "112",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/112-6b4b750597/112-6b4b750597.webp",
+        "mimeType": "image/webp",
+        "bytes": 291810,
+        "sha256": "3e08aadaaf57221873c9ff71e6c2d805a96aa4077dc1157c2438d7bcac56b726",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "113-05c8af9a74",
+      "name": "113",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/113-05c8af9a74/113-05c8af9a74.webp",
+        "mimeType": "image/webp",
+        "bytes": 257610,
+        "sha256": "dce93f9679bafed5c9b0e352ef385a88f9ebab4a676784a16a64f21a73226b33",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "114-012fdc6af8",
+      "name": "114",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/114-012fdc6af8/114-012fdc6af8.webp",
+        "mimeType": "image/webp",
+        "bytes": 319936,
+        "sha256": "83fc1fe894d46eb61c86e9f47232b58c54ba69f8e8f6503436c055bf012a8202",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "115-e2eb28b86d",
+      "name": "115",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/115-e2eb28b86d/115-e2eb28b86d.webp",
+        "mimeType": "image/webp",
+        "bytes": 369754,
+        "sha256": "7dc8f9dca0348affaaec9db26e9ff5a926036ae69278ed0c1691e295a1105a9a",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "116-dec9296fc7",
+      "name": "116",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/116-dec9296fc7/116-dec9296fc7.webp",
+        "mimeType": "image/webp",
+        "bytes": 311800,
+        "sha256": "5fd9ccd2f014e86bf6e08f53b9373fe4873ff973c4d99c1badd4c05679adb38e",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "117-fc2da83654",
+      "name": "117",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/117-fc2da83654/117-fc2da83654.webp",
+        "mimeType": "image/webp",
+        "bytes": 294020,
+        "sha256": "98d0de95b7eb123847a2d48ead13fe71d186d1c1ba6eeb2bb2866d09d569cc5b",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "118-22f10554ef",
+      "name": "118",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/118-22f10554ef/118-22f10554ef.webp",
+        "mimeType": "image/webp",
+        "bytes": 359292,
+        "sha256": "fd0a6e75203af0ce327b2ca1215adea329e8c6f37e4bd6817c4bb4d7b677d762",
+        "width": 2048,
+        "height": 2048
       }
     }
   ]

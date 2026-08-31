@@ -6,9 +6,119 @@
   },
   "page": 5,
   "pageSize": 100,
-  "assetCount": 18,
-  "totalAssetCount": 418,
+  "assetCount": 21,
+  "totalAssetCount": 421,
   "assets": [
+    {
+      "id": "roman-glass-135c9b02b8",
+      "name": "Roman Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "field-trip",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "museum"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/roman-glass-135c9b02b8/roman-glass-135c9b02b8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 6260,
+        "sha256": "6d2f5970348932f57275a3c16d14fb64c3cb4b0e51acb0bd2080b6324f804f0a"
+      }
+    },
+    {
+      "id": "safety-glasses-13ceb31c87",
+      "name": "Safety Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "engineering",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "themes": [
+        "engineering"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/safety-glasses-13ceb31c87/safety-glasses-13ceb31c87.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 8627,
+        "sha256": "eb9b1f4166c94a4c4c31f9b0af98fb034b4753268e157789e8b63dd909c2620b"
+      }
+    },
+    {
+      "id": "scintilla-5e2324dad5",
+      "name": "Scintilla",
+      "type": "texture",
+      "tags": [
+        "background",
+        "geometric",
+        "glossy",
+        "shape"
+      ],
+      "themes": [],
+      "subjects": [
+        "shape"
+      ],
+      "styles": [
+        "geometric",
+        "glossy"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/scintilla-5e2324dad5/scintilla-5e2324dad5.webp",
+        "mimeType": "image/webp",
+        "bytes": 2450840,
+        "sha256": "b87209c85d4ab5f6424ccc36442314a5f41e1978b748e7b697f32e72448a979f",
+        "width": 2048,
+        "height": 2048
+      }
+    },
     {
       "id": "scintilla-ca796759e8",
       "name": "Scintilla",
@@ -38,6 +148,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/scintilla-ca796759e8/scintilla-ca796759e8.webp",
         "mimeType": "image/webp",
         "bytes": 2708978,
+        "sha256": "40643fc76304f3b20bf097596969ee52f7c6bba319387c0db9917e1a527091dc",
         "width": 2048,
         "height": 2048
       }
@@ -71,6 +182,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/shard-4f941915c0/shard-4f941915c0.webp",
         "mimeType": "image/webp",
         "bytes": 2991840,
+        "sha256": "80b07abd314b98473ac08d72001c8af53b51bbb7201ef310f280137a12d1da5d",
         "width": 2048,
         "height": 2048
       }
@@ -104,6 +216,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/shard-572fe3c855/shard-572fe3c855.webp",
         "mimeType": "image/webp",
         "bytes": 3006010,
+        "sha256": "9e6d1e5b076f12f3e7e3b66b237c8e6ce6eeacb942da42c410d702ad86bfd9e3",
         "width": 2048,
         "height": 2048
       }
@@ -137,6 +250,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/sheen-386734e281/sheen-386734e281.webp",
         "mimeType": "image/webp",
         "bytes": 2721706,
+        "sha256": "7bfadfa74073e989fbb06afe391fdaacbc9c7a534fb0298202456eabf4b18775",
         "width": 2048,
         "height": 2048
       }
@@ -170,6 +284,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/sheen-cb915f0655/sheen-cb915f0655.webp",
         "mimeType": "image/webp",
         "bytes": 3287034,
+        "sha256": "9d271b32758366569cb27574b1e06bc6b6cb0bad3ab358e6bd1c68e7b3c24b3a",
         "width": 2048,
         "height": 2048
       }
@@ -203,6 +318,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/shimmer-4be1be5110/shimmer-4be1be5110.webp",
         "mimeType": "image/webp",
         "bytes": 3384566,
+        "sha256": "b5263fe70485ebae2a3a443165f9172ec6a55834507fcf7d05cf27df6a26eeb5",
         "width": 2048,
         "height": 2048
       }
@@ -236,6 +352,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/shimmer-dfd075b2b1/shimmer-dfd075b2b1.webp",
         "mimeType": "image/webp",
         "bytes": 3341152,
+        "sha256": "ee48f68d243bbd0c76cbe3fc44d64ea2a13596a403acadc4301300f8ac8a1fda",
         "width": 2048,
         "height": 2048
       }
@@ -269,6 +386,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/sparkle-5cd26834fd/sparkle-5cd26834fd.webp",
         "mimeType": "image/webp",
         "bytes": 2793178,
+        "sha256": "882ea031b498c38be408f15bd1b0b82450fa69f65cc069ad4c07ec9328d1d58d",
         "width": 2048,
         "height": 2048
       }
@@ -302,6 +420,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/sparkle-a0c1bd6e50/sparkle-a0c1bd6e50.webp",
         "mimeType": "image/webp",
         "bytes": 1952050,
+        "sha256": "90f82192956aff82740fe34897f3e7f15c06726ca42e1b52bd11f2254d55a9d7",
         "width": 2048,
         "height": 2048
       }
@@ -335,6 +454,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/splinter-47ccd87fcc/splinter-47ccd87fcc.webp",
         "mimeType": "image/webp",
         "bytes": 2223356,
+        "sha256": "4a5a8c20e430477b3a296c50eb205f82a4e49c686cbe33a8d8833d71f9d75fd6",
         "width": 2048,
         "height": 2048
       }
@@ -368,6 +488,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/splinter-aed781117b/splinter-aed781117b.webp",
         "mimeType": "image/webp",
         "bytes": 2826730,
+        "sha256": "0ad3396587ff6bec75a3e8f9f16e084e0a65d2f9c0d60db18746fa25746808e2",
         "width": 2048,
         "height": 2048
       }
@@ -408,7 +529,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15437
+        "bytes": 15437,
+        "sha256": "13038d429551fed51fe5b18d62f680f9c66ba12ebd379fcf5067909fc75a3174"
       }
     },
     {
@@ -440,6 +562,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/translucent-1fd3966301/translucent-1fd3966301.webp",
         "mimeType": "image/webp",
         "bytes": 2412116,
+        "sha256": "1788a0df87261132f59c356980a805823c71782cd8a67d0ea4477e17481ba5c3",
         "width": 2048,
         "height": 2048
       }
@@ -473,6 +596,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/translucent-4469af6be2/translucent-4469af6be2.webp",
         "mimeType": "image/webp",
         "bytes": 2328796,
+        "sha256": "294d3779b8d4d9487f763db70e986d5fbb14bed6ccd5d7746ee42780dfa38ebe",
         "width": 2048,
         "height": 2048
       }
@@ -506,6 +630,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/transparency-4080b0e585/transparency-4080b0e585.webp",
         "mimeType": "image/webp",
         "bytes": 3062750,
+        "sha256": "91e3cc92a9e6b740b6556a32ecd971a2306526864bdee6d64594351984be94c7",
         "width": 2048,
         "height": 2048
       }
@@ -539,6 +664,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/transparency-720ed8a56e/transparency-720ed8a56e.webp",
         "mimeType": "image/webp",
         "bytes": 4545052,
+        "sha256": "ae64fe6bd85b236da76cbe0860c48567a85f03e2596f7ed6a043fcf83aeff6b2",
         "width": 2048,
         "height": 2048
       }
@@ -572,6 +698,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/twinkle-c71c6abc89/twinkle-c71c6abc89.webp",
         "mimeType": "image/webp",
         "bytes": 2454370,
+        "sha256": "f138912953f599770039e8c649a2e0c1daf13132dec790500e78b2e157da70c5",
         "width": 2048,
         "height": 2048
       }
@@ -605,6 +732,7 @@
         "url": "https://cdn.nlightlabs.com/assets/texture/background/twinkle-cf380611a0/twinkle-cf380611a0.webp",
         "mimeType": "image/webp",
         "bytes": 2101158,
+        "sha256": "9e2219a4445ced4422e4e5e5ce1265a05c4487627067512cbb9928d49c69e3c4",
         "width": 2048,
         "height": 2048
       }

@@ -6,8 +6,8 @@
   },
   "page": 1,
   "pageSize": 100,
-  "assetCount": 3,
-  "totalAssetCount": 3,
+  "assetCount": 4,
+  "totalAssetCount": 4,
   "assets": [
     {
       "id": "banner-29926b3e17",
@@ -41,7 +41,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/banner/album-banner/banner-29926b3e17/banner-29926b3e17.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 5686
+        "bytes": 5686,
+        "sha256": "157535d7825353f917955ea139ea36a4917fa3c9aa79847e6bc067bbb0b0d3ec"
       }
     },
     {
@@ -80,7 +81,48 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/banner/album-banner/birthday-banner-f47b53dd1c/birthday-banner-f47b53dd1c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 31958
+        "bytes": 31958,
+        "sha256": "29b776965dffceae4381b0db1c00c05a03bda36f4edf3d355e93882dabdc969d"
+      }
+    },
+    {
+      "id": "plaid-ribbon-d725841633",
+      "name": "Plaid Ribbon",
+      "type": "illustration",
+      "tags": [
+        "banner",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [
+        "banner"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plaid-ribbon-d725841633/plaid-ribbon-d725841633.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 175467,
+        "sha256": "e1f791114c5c6edd657386a0ba46b8a375b84eee463be78d6e3cb7954b080238"
       }
     },
     {
@@ -123,7 +165,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ribbon-bow-5c8b0ea4c8/ribbon-bow-5c8b0ea4c8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10469
+        "bytes": 10469,
+        "sha256": "28851d82cb50f8fb0f9d29e9944d93ef339d690b5d943e7a77d43881cccc607a"
       }
     }
   ]

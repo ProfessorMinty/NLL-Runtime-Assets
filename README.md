@@ -18,6 +18,8 @@ Potential consumers include:
 
 Applications should reference **stable asset IDs** from generated manifests rather than depending on private source paths, vendor package layouts, or acquisition filenames.
 
+The next release format adds immutable `assetVersion` identities and content-addressed `objectKey` values while retaining frozen legacy paths. See [`docs/IMMUTABLE_IDENTITY_CONTRACT.md`](docs/IMMUTABLE_IDENTITY_CONTRACT.md). The schemas are additive contract authority only; the current release pointer is unchanged until a later reviewed cutover.
+
 ## Repository boundary
 
 This repository MAY contain:
@@ -55,6 +57,8 @@ The private library owns acquisitions, source masters, provenance, curation meta
 This repository is a **generated publishing target**, not the canonical vault.
 
 Generated runtime files should not be manually edited when they can be reproduced by NL Asset Control.
+
+Public CI validates manifest semantics and deterministic discovery without requiring the ignored runtime binaries. The private publisher environment separately validates every derivative byte. See [`docs/VALIDATION_AND_DISCOVERY.md`](docs/VALIDATION_AND_DISCOVERY.md).
 
 ## Runtime model
 

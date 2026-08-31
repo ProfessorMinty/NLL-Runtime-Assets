@@ -6,7 +6,9 @@
     "description": "Photo Album recipe using the shared eight-slot contract for STEM & Makerspace.",
     "collectionIds": [
       "album-theme-stem-makerspace"
-    ]
+    ],
+    "suggestionStatus": "COMPLETE",
+    "missingSlots": []
   },
   "assetSlots": {
     "banner": [
@@ -78,6 +80,54 @@
   "assetCount": 31,
   "assets": [
     {
+      "id": "education-robot-76ee96f5be",
+      "name": "Education Robot",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "math",
+        "page-decoration",
+        "photo-accent",
+        "robot",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "math",
+        "school"
+      ],
+      "subjects": [
+        "robot"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/education-robot-76ee96f5be/education-robot-76ee96f5be.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10818,
+        "sha256": "63e7fe6cc5ab1935c3a4448ecfb594473da1fa50bd1464b47b5e390ad1a882d2"
+      }
+    },
+    {
       "id": "abacus-390866ad8b",
       "name": "Abacus",
       "type": "illustration",
@@ -119,7 +169,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/abacus-390866ad8b/abacus-390866ad8b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10237
+        "bytes": 10237,
+        "sha256": "0467923a829f5bdc960e8ba95e94548d2db94fd821107bede893e7e9510757e9"
       }
     },
     {
@@ -162,7 +213,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ai-robot-0538a5cb59/ai-robot-0538a5cb59.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 21078
+        "bytes": 21078,
+        "sha256": "32e73c7966dca571e52c7b4a09c8d90f1355be94c35e1de1df618bd6398a5da3"
       }
     },
     {
@@ -205,7 +257,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bio-robot-e415a2e3ce/bio-robot-e415a2e3ce.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 22524
+        "bytes": 22524,
+        "sha256": "af57d1cfeb0769069e95aec95de16be74a6e09c777e9696e0c92d058168845f0"
       }
     },
     {
@@ -247,7 +300,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/biology-teacher-8475f4d3e5/biology-teacher-8475f4d3e5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16187
+        "bytes": 16187,
+        "sha256": "451e2776eeaf6f33e8c9d4c546ebf517176f27ea21580a8b19be7edae0daed35"
       }
     },
     {
@@ -289,7 +343,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/bright-student-21b47c333b/bright-student-21b47c333b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13653
+        "bytes": 13653,
+        "sha256": "0712afdc21e87d733552cb6e95b7b881b6859c282159dc0fb41932c39ee25328"
       }
     },
     {
@@ -334,7 +389,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/calculator-13bb09b755/calculator-13bb09b755.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 20243
+        "bytes": 20243,
+        "sha256": "e1c3f06ff88412c3b81a04946cb1fedbc66bf0fd84ca0e0680e8f7cac871995c"
       }
     },
     {
@@ -381,146 +437,21 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/calculator-a1af26ef9e/calculator-a1af26ef9e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16947
+        "bytes": 16947,
+        "sha256": "88d7cfa53bcf1542a9a2edaba5be5679ff2c32b4e61f12bd236f448c71ac06f6"
       }
     },
     {
-      "id": "class-teacher-5e440e7527",
-      "name": "Class Teacher",
-      "type": "character",
+      "id": "scale-divider-5bf5fad325",
+      "name": "Scale Divider",
+      "type": "divider",
       "tags": [
         "classroom",
         "doodle",
         "hand-drawn",
-        "hero-decoration",
         "line-art",
-        "math",
         "page-decoration",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "math",
-        "school"
-      ],
-      "subjects": [
-        "school"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/class-teacher-5e440e7527/class-teacher-5e440e7527.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13981
-      }
-    },
-    {
-      "id": "education-robot-76ee96f5be",
-      "name": "Education Robot",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "math",
-        "page-decoration",
-        "photo-accent",
-        "robot",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "math",
-        "school"
-      ],
-      "subjects": [
-        "robot"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/education-robot-76ee96f5be/education-robot-76ee96f5be.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10818
-      }
-    },
-    {
-      "id": "glass-magnifying-3d-icon-9b6f6791c1",
-      "name": "Glass Magnifying 3D Icon",
-      "type": "texture",
-      "tags": [
-        "3d",
-        "background",
-        "classroom",
-        "dimensional",
-        "glossy",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "3d",
-        "dimensional",
-        "glossy"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
-        "mimeType": "image/webp",
-        "bytes": 569212,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "magnifying-glass-1ec65aa24b",
-      "name": "Magnifying Glass",
-      "type": "texture",
-      "tags": [
-        "background",
-        "classroom",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
+        "section-divider"
       ],
       "themes": [
         "classroom"
@@ -528,12 +459,12 @@
       "subjects": [],
       "styles": [
         "doodle",
-        "glossy",
         "hand-drawn",
         "line-art"
       ],
       "useCases": [
-        "background"
+        "page-decoration",
+        "section-divider"
       ],
       "availableFormats": [
         "svg",
@@ -541,35 +472,39 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-1ec65aa24b/magnifying-glass-1ec65aa24b.svg",
+        "url": "https://cdn.nlightlabs.com/assets/divider/page-decoration/scale-divider-5bf5fad325/scale-divider-5bf5fad325.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 17888
+        "bytes": 10011,
+        "sha256": "d2dbf96b14b33a86d4924607ac0cf54e5b785d15433928da97e643e174932c03"
       }
     },
     {
-      "id": "magnifying-glass-c334982113",
-      "name": "Magnifying Glass",
-      "type": "texture",
+      "id": "modular-frame-a8a36becbf",
+      "name": "Modular Frame",
+      "type": "frame",
       "tags": [
-        "background",
+        "card-decoration",
         "doodle",
-        "glossy",
+        "engineering",
+        "frame",
         "hand-drawn",
         "line-art",
-        "math"
+        "photo-frame"
       ],
       "themes": [
-        "math"
+        "engineering"
       ],
-      "subjects": [],
+      "subjects": [
+        "frame"
+      ],
       "styles": [
         "doodle",
-        "glossy",
         "hand-drawn",
         "line-art"
       ],
       "useCases": [
-        "background"
+        "card-decoration",
+        "photo-frame"
       ],
       "availableFormats": [
         "svg",
@@ -577,9 +512,10 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-c334982113/magnifying-glass-c334982113.svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/modular-frame-a8a36becbf/modular-frame-a8a36becbf.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9567
+        "bytes": 7146,
+        "sha256": "49e43ddec8cc07b6e04bf92e61d4aa5ad93772980be0494f4eedf79019cde83d"
       }
     },
     {
@@ -624,51 +560,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/math-robot-dffa8d4a95/math-robot-dffa8d4a95.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12594
-      }
-    },
-    {
-      "id": "math-teacher-8f136f6303",
-      "name": "Math Teacher",
-      "type": "character",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "math",
-        "math-symbol",
-        "page-decoration",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "math",
-        "school"
-      ],
-      "subjects": [
-        "math-symbol",
-        "school"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/math-teacher-8f136f6303/math-teacher-8f136f6303.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11655
+        "bytes": 12594,
+        "sha256": "ca80a17b4487d9ba01bfec2c1f34491143734012341aac49d7beb2209247852d"
       }
     },
     {
@@ -715,36 +608,72 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/microscope-5993ce3a67/microscope-5993ce3a67.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13571
+        "bytes": 13571,
+        "sha256": "5436035c87d3d4d0c5cdcba9ab75e10450faceef2e10bc88dd9de1d890f496d3"
       }
     },
     {
-      "id": "modular-frame-a8a36becbf",
-      "name": "Modular Frame",
-      "type": "frame",
+      "id": "glass-magnifying-3d-icon-9b6f6791c1",
+      "name": "Glass Magnifying 3D Icon",
+      "type": "texture",
       "tags": [
-        "card-decoration",
-        "doodle",
-        "engineering",
-        "frame",
-        "hand-drawn",
-        "line-art",
-        "photo-frame"
+        "3d",
+        "background",
+        "classroom",
+        "dimensional",
+        "glossy",
+        "school"
       ],
       "themes": [
-        "engineering"
+        "classroom",
+        "school"
       ],
-      "subjects": [
-        "frame"
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional",
+        "glossy"
       ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
+        "mimeType": "image/webp",
+        "bytes": 569212,
+        "sha256": "a5ba5acc2b4ba0426252dd17133769c735c98870fb8143473999b791680e62f8",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "magnifying-glass-1ec65aa24b",
+      "name": "Magnifying Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "classroom",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "themes": [
+        "classroom"
+      ],
+      "subjects": [],
       "styles": [
         "doodle",
+        "glossy",
         "hand-drawn",
         "line-art"
       ],
       "useCases": [
-        "card-decoration",
-        "photo-frame"
+        "background"
       ],
       "availableFormats": [
         "svg",
@@ -752,9 +681,47 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/modular-frame-a8a36becbf/modular-frame-a8a36becbf.svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-1ec65aa24b/magnifying-glass-1ec65aa24b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 7146
+        "bytes": 17888,
+        "sha256": "ff8062f5dec0fd684152afffa8450dbc4aa254849dae195299811a7726988f28"
+      }
+    },
+    {
+      "id": "magnifying-glass-c334982113",
+      "name": "Magnifying Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "math"
+      ],
+      "themes": [
+        "math"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-c334982113/magnifying-glass-c334982113.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9567,
+        "sha256": "a79f5a06d64c8678b1823679163d85b82abf6c3fe68b74bda256df47c0909664"
       }
     },
     {
@@ -797,7 +764,133 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-bfd1553f94/reading-glasses-bfd1553f94.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14181
+        "bytes": 14181,
+        "sha256": "0ac06b1f2fcdf27f81aaa71118d5cf5c9544b2169d59b4920354d1564adf83a4"
+      }
+    },
+    {
+      "id": "safety-glasses-13ceb31c87",
+      "name": "Safety Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "engineering",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "themes": [
+        "engineering"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/safety-glasses-13ceb31c87/safety-glasses-13ceb31c87.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 8627,
+        "sha256": "eb9b1f4166c94a4c4c31f9b0af98fb034b4753268e157789e8b63dd909c2620b"
+      }
+    },
+    {
+      "id": "class-teacher-5e440e7527",
+      "name": "Class Teacher",
+      "type": "character",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "math",
+        "page-decoration",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "math",
+        "school"
+      ],
+      "subjects": [
+        "school"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/class-teacher-5e440e7527/class-teacher-5e440e7527.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13981,
+        "sha256": "24b21b92255718924ba36fcacba518dff97291ba0bbd4bb4edaf83c1b6f70b1b"
+      }
+    },
+    {
+      "id": "math-teacher-8f136f6303",
+      "name": "Math Teacher",
+      "type": "character",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "math",
+        "math-symbol",
+        "page-decoration",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "math",
+        "school"
+      ],
+      "subjects": [
+        "math-symbol",
+        "school"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/math-teacher-8f136f6303/math-teacher-8f136f6303.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 11655,
+        "sha256": "711b269921398bb3d7c8fe0ff1064eceb50030742457e3fe19b69e4a220d60fe"
       }
     },
     {
@@ -842,7 +935,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/robotics-3eae3ffccf/robotics-3eae3ffccf.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 22493
+        "bytes": 22493,
+        "sha256": "4ae67ec71fa47fd5682327e202efd9a37fea38d93833a69123d44b98842c6c64"
       }
     },
     {
@@ -884,79 +978,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/sad-student-4c17677bb2/sad-student-4c17677bb2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12406
-      }
-    },
-    {
-      "id": "safety-glasses-13ceb31c87",
-      "name": "Safety Glasses",
-      "type": "texture",
-      "tags": [
-        "background",
-        "doodle",
-        "engineering",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "themes": [
-        "engineering"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/safety-glasses-13ceb31c87/safety-glasses-13ceb31c87.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 8627
-      }
-    },
-    {
-      "id": "scale-divider-5bf5fad325",
-      "name": "Scale Divider",
-      "type": "divider",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "classroom"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/divider/page-decoration/scale-divider-5bf5fad325/scale-divider-5bf5fad325.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10011
+        "bytes": 12406,
+        "sha256": "cf221aefa7c36006bed205eef8a8551019723c39501c5a661d79a2542a6925da"
       }
     },
     {
@@ -1001,7 +1024,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/scientific-calculator-1ec4439c3e/scientific-calculator-1ec4439c3e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 22342
+        "bytes": 22342,
+        "sha256": "f2c8b8df779c4d427abc24f91e9f9f6618620527f355e2cbb37789be2e78bd08"
       }
     },
     {
@@ -1046,7 +1070,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/stationery-pouch-0b326b746a/stationery-pouch-0b326b746a.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12577
+        "bytes": 12577,
+        "sha256": "16a51fe8f94209fe1cfbbbd6d4aee80288fc2a51ccdf35bd471371c9a93027f5"
       }
     },
     {
@@ -1088,7 +1113,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-degree-03e8e43def/student-degree-03e8e43def.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15541
+        "bytes": 15541,
+        "sha256": "0124f879b76b8b86377220e046fa1250097a21e5d83a496f1808e2a14fa2b0f6"
       }
     },
     {
@@ -1130,7 +1156,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-solving-10b9a7e51b/student-solving-10b9a7e51b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12038
+        "bytes": 12038,
+        "sha256": "ad066b87f104d810ec54fe9ae94267931d9d44e04c3657eed96e1f3789cc7f77"
       }
     },
     {
@@ -1172,7 +1199,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-trophy-a101d5e4b5/student-trophy-a101d5e4b5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 18146
+        "bytes": 18146,
+        "sha256": "3a830876f04da5c37a066b644edb5c1c406eee33c2a94fdc94a891934201f20d"
       }
     },
     {
@@ -1214,7 +1242,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/teacher-7a20a835d2/teacher-7a20a835d2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16706
+        "bytes": 16706,
+        "sha256": "e31ecf5fc8cc75f9fd63c18c2b94de0fca8f05815ad70985dc344fefbf43cdfd"
       }
     },
     {
@@ -1259,7 +1288,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/telescope-45792a1b40/telescope-45792a1b40.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 22831
+        "bytes": 22831,
+        "sha256": "c4734e98d3774d6ae40ef5649f82845e820bf860e90133e0a1f85d4f87c14819"
       }
     },
     {
@@ -1304,7 +1334,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/test-tubes-2072a26ac8/test-tubes-2072a26ac8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9833
+        "bytes": 9833,
+        "sha256": "94360d50594380f08578887758b55790e8de2dd726e3fe8b8ea2175bc04d5237"
       }
     },
     {
@@ -1345,7 +1376,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-programmer-code-coding-laptop-application-web-developer-l-e7e1ce7936/vctrly-programmer-code-coding-laptop-application-web-developer-l-e7e1ce7936.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 87318
+        "bytes": 87318,
+        "sha256": "6e8bafbcc508a7f9e0263cc066f8d1329c3f3e021b61cbcd4c81ce98eedcfb6b"
       }
     },
     {
@@ -1386,7 +1418,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d/vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 157293
+        "bytes": 157293,
+        "sha256": "ef2d81ab80dba3d108a06ac24cbb9b02bcfda6ac3b388d57ccc6a4b44fc567e4"
       }
     }
   ]

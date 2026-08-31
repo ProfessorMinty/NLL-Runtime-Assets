@@ -6,6 +6,14 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Weather & Earth Science.",
     "collectionIds": [
       "album-theme-weather-earth-science"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "top-trim",
+      "bottom-trim",
+      "photo-frame",
+      "background",
+      "divider"
     ]
   },
   "assetSlots": {
@@ -64,24 +72,30 @@
   "assetCount": 24,
   "assets": [
     {
-      "id": "1-d43ae3a55c",
-      "name": "1",
+      "id": "rain-cloud-86114946a7",
+      "name": "Rain Cloud",
       "type": "illustration",
       "tags": [
-        "botanical",
+        "doodle",
+        "hand-drawn",
         "hero-decoration",
         "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
-        "section-decoration"
+        "section-decoration",
+        "weather"
       ],
       "themes": [
-        "botanical",
-        "nature"
+        "nature",
+        "weather"
       ],
-      "subjects": [],
+      "subjects": [
+        "weather"
+      ],
       "styles": [
+        "doodle",
+        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -91,36 +105,43 @@
         "section-decoration"
       ],
       "availableFormats": [
+        "svg",
         "webp"
       ],
       "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-d43ae3a55c/1-d43ae3a55c.webp",
-        "mimeType": "image/webp",
-        "bytes": 179082,
-        "width": 2048,
-        "height": 2048
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rain-cloud-86114946a7/rain-cloud-86114946a7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9645,
+        "sha256": "7f89e36d5c3ea7dad0a2f98925fcc59836413f10ac642196dccc3901aec47ece"
       }
     },
     {
-      "id": "1-dba743078e",
-      "name": "1",
+      "id": "vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096",
+      "name": "vctrly sofa laptop plan landscape work workspace building skycrapper cloud",
       "type": "illustration",
       "tags": [
+        "computer",
         "hero-decoration",
-        "line-art",
+        "home",
         "nature",
         "page-decoration",
         "photo-accent",
-        "section-decoration"
+        "section-decoration",
+        "sofa",
+        "weather"
       ],
       "themes": [
-        "nature"
+        "home",
+        "nature",
+        "weather"
       ],
-      "subjects": [],
-      "styles": [
-        "line-art"
+      "subjects": [
+        "computer",
+        "sofa",
+        "weather"
       ],
+      "styles": [],
       "useCases": [
         "hero-decoration",
         "page-decoration",
@@ -128,130 +149,15 @@
         "section-decoration"
       ],
       "availableFormats": [
+        "svg",
         "webp"
       ],
       "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-dba743078e/1-dba743078e.webp",
-        "mimeType": "image/webp",
-        "bytes": 105160,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "10-6e2bd29d62",
-      "name": "10",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-6e2bd29d62/10-6e2bd29d62.webp",
-        "mimeType": "image/webp",
-        "bytes": 159076,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "10-fb893ece5a",
-      "name": "10",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-fb893ece5a/10-fb893ece5a.webp",
-        "mimeType": "image/webp",
-        "bytes": 83404,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "100-5d913bec9c",
-      "name": "100",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/100-5d913bec9c/100-5d913bec9c.webp",
-        "mimeType": "image/webp",
-        "bytes": 214940,
-        "width": 2048,
-        "height": 2048
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096/vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 231933,
+        "sha256": "7f6ee8896dbe321957eec7e86272f6f377505518623d7173c1d79bd7467df581"
       }
     },
     {
@@ -296,7 +202,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-cell-3218332792/animal-cell-3218332792.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13384
+        "bytes": 13384,
+        "sha256": "3a61d44d2f2774edc70674741668a6ab523afd215516dc5ed2547fba1f2c672a"
       }
     },
     {
@@ -341,7 +248,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-testing-b306701733/animal-testing-b306701733.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 19558
+        "bytes": 19558,
+        "sha256": "cfdb0ff3602e816f53d28d6f13469d30ed567c7a075f98c17495f37dfb65d2d5"
       }
     },
     {
@@ -387,6 +295,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/clouds-f35da9ac7e/clouds-f35da9ac7e.webp",
         "mimeType": "image/webp",
         "bytes": 1849032,
+        "sha256": "5be2af0fc85c854956bae39f39ada4e6a41c7ef3368f809d19eb3fb9d8367c8c",
         "width": 2048,
         "height": 2048
       }
@@ -431,7 +340,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/earth-globe-f896e461dd/earth-globe-f896e461dd.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8506
+        "bytes": 8506,
+        "sha256": "fba9148c47e1ebccad0138eb466307c5add22cf01aec671c0a4178e5f587069d"
       }
     },
     {
@@ -478,7 +388,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/flower-reproductive-79815e7140/flower-reproductive-79815e7140.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11984
+        "bytes": 11984,
+        "sha256": "4d29d09db0cf6995484cc9a0d869a182d41797c3b8b590a74a535312416b3f3a"
       }
     },
     {
@@ -525,7 +436,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-reproduction-d8591fada2/plant-reproduction-d8591fada2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 22552
+        "bytes": 22552,
+        "sha256": "ee4d0739aab8f27818b7ec3b93af7d90206243de4efaca4249b1707b2f509073"
       }
     },
     {
@@ -572,7 +484,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-testing-bfc6364e85/plant-testing-bfc6364e85.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14890
+        "bytes": 14890,
+        "sha256": "8334fd38750b72e1ca6f746b6414dc31dbd672ddb49ff14976f538a3156b7ded"
       }
     },
     {
@@ -619,7 +532,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-tissue-a3e5424b4b/plant-tissue-a3e5424b4b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10161
+        "bytes": 10161,
+        "sha256": "43fcaa49cb748791ccef4298204ca711049f34349718c35f86487e27c74a04cf"
       }
     },
     {
@@ -665,52 +579,9 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rain-6b9b2bf92c/rain-6b9b2bf92c.webp",
         "mimeType": "image/webp",
         "bytes": 2372274,
+        "sha256": "58585f30ac4b912d6ba4d02e5faeb1d7d1a1f1d57134240fd9c73f97598f46e2",
         "width": 2048,
         "height": 2048
-      }
-    },
-    {
-      "id": "rain-cloud-86114946a7",
-      "name": "Rain Cloud",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "weather"
-      ],
-      "themes": [
-        "nature",
-        "weather"
-      ],
-      "subjects": [
-        "weather"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rain-cloud-86114946a7/rain-cloud-86114946a7.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 9645
       }
     },
     {
@@ -756,7 +627,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rain-forest-196ab5c472/rain-forest-196ab5c472.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13401
+        "bytes": 13401,
+        "sha256": "7e41fe396e028634b316957b5728eb60dd237dfff30ea42a204d3e98e6308833"
       }
     },
     {
@@ -799,7 +671,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rainbow-7a5adbe585/rainbow-7a5adbe585.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6393
+        "bytes": 6393,
+        "sha256": "30e8436d3d9194aef9639ca94c3231c0e11f071cb3f0a40d7a0d5a24fa173e80"
       }
     },
     {
@@ -844,6 +717,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rainbow-7fbbf74288/rainbow-7fbbf74288.webp",
         "mimeType": "image/webp",
         "bytes": 2885026,
+        "sha256": "a9d48654d44d9b6d8c1763dc4cb1bc5c846330bc3bd285901b0166f2d538f6d2",
         "width": 2048,
         "height": 2048
       }
@@ -893,7 +767,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-crystal-f9bb9a11f4/snow-crystal-f9bb9a11f4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 20155
+        "bytes": 20155,
+        "sha256": "b44c2543eb31aca44f801f25491dccb2c3d3d2e61d15382802a696a93d87879e"
       }
     },
     {
@@ -935,7 +810,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-lake-9772338b3d/snow-lake-9772338b3d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 243889
+        "bytes": 243889,
+        "sha256": "fbe85fa069a43fb20cbd492d57a092af6a13b08a3bf283c0e1e9780a5fde772a"
       }
     },
     {
@@ -979,7 +855,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-mountain-202a1995cd/snow-mountain-202a1995cd.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 201561
+        "bytes": 201561,
+        "sha256": "e164989ae2485c229c4489cb725b3d366c286033290772a944d28ef920b17c0c"
       }
     },
     {
@@ -1025,6 +902,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/sun-fd8d0f82e2/sun-fd8d0f82e2.webp",
         "mimeType": "image/webp",
         "bytes": 1926590,
+        "sha256": "4b57e29b57eadc842117a236cc3d850931620517324ebcca8f0be08d48eb8d05",
         "width": 2048,
         "height": 2048
       }
@@ -1069,35 +947,31 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4/vctrly-cabin-fireplace-snow-villa-travel-cozy-space-workspace-an-7faada53c4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 229869
+        "bytes": 229869,
+        "sha256": "8f742bcaad465cc6d0c0864270fe6a6257a6f29744dde137ee7007f6b8a64971"
       }
     },
     {
-      "id": "vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096",
-      "name": "vctrly sofa laptop plan landscape work workspace building skycrapper cloud",
+      "id": "1-d43ae3a55c",
+      "name": "1",
       "type": "illustration",
       "tags": [
-        "computer",
+        "botanical",
         "hero-decoration",
-        "home",
+        "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
-        "section-decoration",
-        "sofa",
-        "weather"
+        "section-decoration"
       ],
       "themes": [
-        "home",
-        "nature",
-        "weather"
+        "botanical",
+        "nature"
       ],
-      "subjects": [
-        "computer",
-        "sofa",
-        "weather"
+      "subjects": [],
+      "styles": [
+        "line-art"
       ],
-      "styles": [],
       "useCases": [
         "hero-decoration",
         "page-decoration",
@@ -1105,14 +979,172 @@
         "section-decoration"
       ],
       "availableFormats": [
-        "svg",
         "webp"
       ],
       "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096/vctrly-sofa-laptop-plan-landscape-work-workspace-building-skycra-90cb73d096.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 231933
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-d43ae3a55c/1-d43ae3a55c.webp",
+        "mimeType": "image/webp",
+        "bytes": 179082,
+        "sha256": "ed827f050477187fefe696ae89df3b214565c52b27a1ad50be2c73aedfae3efb",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "1-dba743078e",
+      "name": "1",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-dba743078e/1-dba743078e.webp",
+        "mimeType": "image/webp",
+        "bytes": 105160,
+        "sha256": "39df70ea8c3ea64e74183ac518487e6da8cae86175d171e26d055592033e5784",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "10-6e2bd29d62",
+      "name": "10",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-6e2bd29d62/10-6e2bd29d62.webp",
+        "mimeType": "image/webp",
+        "bytes": 159076,
+        "sha256": "0e32d0d33253e912c40adb384fb6e5d18a96311537488784296b050d9c0aac3c",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "10-fb893ece5a",
+      "name": "10",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-fb893ece5a/10-fb893ece5a.webp",
+        "mimeType": "image/webp",
+        "bytes": 83404,
+        "sha256": "2866317843cb5d4ab5199d3d0ca626586055044e30cef56a246697e74d6d9134",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "100-5d913bec9c",
+      "name": "100",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/100-5d913bec9c/100-5d913bec9c.webp",
+        "mimeType": "image/webp",
+        "bytes": 214940,
+        "sha256": "6965369cd56c40a6ffd8137369956e62acc13853dd4067832f692523c89d4f9d",
+        "width": 2048,
+        "height": 2048
       }
     }
   ]

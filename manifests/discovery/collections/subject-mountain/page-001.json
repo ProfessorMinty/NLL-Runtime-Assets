@@ -6,8 +6,8 @@
   },
   "page": 1,
   "pageSize": 100,
-  "assetCount": 22,
-  "totalAssetCount": 22,
+  "assetCount": 24,
+  "totalAssetCount": 24,
   "assets": [
     {
       "id": "bunker-hill-849ad53c6e",
@@ -49,7 +49,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bunker-hill-849ad53c6e/bunker-hill-849ad53c6e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 193084
+        "bytes": 193084,
+        "sha256": "a5e7643f014bb49b38197019d18e3de415e90de011419aeab408eb00a7049d9d"
       }
     },
     {
@@ -92,7 +93,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/calton-hill-73b6b88ac4/calton-hill-73b6b88ac4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 365273
+        "bytes": 365273,
+        "sha256": "63019d04500541819ae75c11404445751ece7d41d3242b0e73a3ffb58b760506"
       }
     },
     {
@@ -131,7 +133,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hill-landscape-8cb2b0d9ba/hill-landscape-8cb2b0d9ba.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 212335
+        "bytes": 212335,
+        "sha256": "f02f3ce1291ff50880c349cbad21459f7fe9f89fc777e36cf5657af6a45d01cb"
       }
     },
     {
@@ -174,6 +177,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-9ce06a74f9/mountain-9ce06a74f9.webp",
         "mimeType": "image/webp",
         "bytes": 747488,
+        "sha256": "455f22760bfd99e0ebfd7adebd7198cd4ab1d9f2a4c9b5b67d14984eed060b54",
         "width": 1840,
         "height": 1380
       }
@@ -214,7 +218,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-alpenglow-16d28c4976/mountain-alpenglow-16d28c4976.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 238611
+        "bytes": 238611,
+        "sha256": "6feafe4790c001d5b506c382b6693a7dfb92cf0ffaadfaf3024eff060d65d05c"
       }
     },
     {
@@ -253,7 +258,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-lake-9faf9ed724/mountain-lake-9faf9ed724.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 223812
+        "bytes": 223812,
+        "sha256": "ce6c142f2a25959d33f9a70eed8857b80cf144085d8be9745a37258b5d392ce4"
       }
     },
     {
@@ -292,7 +298,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-loch-f16d5e4bb0/mountain-loch-f16d5e4bb0.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 201642
+        "bytes": 201642,
+        "sha256": "15a1a74eebf851cc7fafa52ee03a4457f780459b7830dc25ab6e531c89e3141c"
       }
     },
     {
@@ -335,6 +342,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-nobg-fcf012ebc3/mountain-nobg-fcf012ebc3.webp",
         "mimeType": "image/webp",
         "bytes": 760492,
+        "sha256": "0840dd01c67e252cd1aeacc6d2b7ef7a412d9260e3c3b0c0ebf91b40dcf9f112",
         "width": 1840,
         "height": 1380
       }
@@ -379,7 +387,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-peak-bdc5c1df14/mountain-peak-bdc5c1df14.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6837
+        "bytes": 6837,
+        "sha256": "d309a2ff43a12fffdab8d4757f7c8e25bcf7d66d89fbced7cda55e8480f947c5"
       }
     },
     {
@@ -418,7 +427,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-reflection-6053a613ca/mountain-reflection-6053a613ca.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 398012
+        "bytes": 398012,
+        "sha256": "66fe438c3cf3376f07a1a09694f4cc6179fb2aead208e3bc495e252049e65832"
       }
     },
     {
@@ -457,7 +467,50 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-river-ed6676f07b/mountain-river-ed6676f07b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 209483
+        "bytes": 209483,
+        "sha256": "11b0196d3faae05eae04b074caee7c00f708e0ab9a833ec3076c1b7f44d4753e"
+      }
+    },
+    {
+      "id": "mountain-scenery-0cf3ed85f3",
+      "name": "Mountain Scenery",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "mountain",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "nature"
+      ],
+      "subjects": [
+        "mountain"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-scenery-0cf3ed85f3/mountain-scenery-0cf3ed85f3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 190584,
+        "sha256": "e2fccf58373081729145bf3fec7c1e350201816338c1325911e62215585f5a48"
       }
     },
     {
@@ -496,7 +549,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-scenery-a908681d58/mountain-scenery-a908681d58.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 176311
+        "bytes": 176311,
+        "sha256": "196c20f0374763f1f1b455d2c7c3f2e4fb1497722cc7ffb53080b70a57013468"
       }
     },
     {
@@ -535,7 +589,52 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-snowfall-ceed202ebf/mountain-snowfall-ceed202ebf.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 123798
+        "bytes": 123798,
+        "sha256": "99c7578ab1cc338a7e5f648d82f7bdcfe8a72a08de25e047caa82d2792311b17"
+      }
+    },
+    {
+      "id": "mountain-travel-9263ec6e79",
+      "name": "Mountain Travel",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "mountain",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "autumn",
+        "nature",
+        "travel"
+      ],
+      "subjects": [
+        "mountain"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-travel-9263ec6e79/mountain-travel-9263ec6e79.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 251240,
+        "sha256": "e239cfbd7cb9a9dcee96bd2b95cce9ecd35311f7b716fa53b5d73897343f5571"
       }
     },
     {
@@ -574,7 +673,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-view-06c590dfe1/mountain-view-06c590dfe1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 214477
+        "bytes": 214477,
+        "sha256": "14c5b47c8fc71ea82accc01cc778d5b67ff71855e22f0e9902eaa650f0e7ccaf"
       }
     },
     {
@@ -613,7 +713,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-waterfall-780ac5d519/mountain-waterfall-780ac5d519.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 162505
+        "bytes": 162505,
+        "sha256": "4bcb68d924ab5c9bdc1418ea282b47b361b6f9d9f8b6ff4d204c98501f976640"
       }
     },
     {
@@ -652,7 +753,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountains-6bc2c2454c/mountains-6bc2c2454c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 154745
+        "bytes": 154745,
+        "sha256": "d34b7218438a9db2a326b177a1050d204720e3a2b5437b8dff2deecfce2cb82b"
       }
     },
     {
@@ -696,7 +798,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-mountain-202a1995cd/snow-mountain-202a1995cd.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 201561
+        "bytes": 201561,
+        "sha256": "e164989ae2485c229c4489cb725b3d366c286033290772a944d28ef920b17c0c"
       }
     },
     {
@@ -739,6 +842,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/three-mountains-3bb6287835/three-mountains-3bb6287835.webp",
         "mimeType": "image/webp",
         "bytes": 1336212,
+        "sha256": "0b42d3c58dc2e84f3a2d8c3f426feddbe10d94b5288bc721254f24c09783f872",
         "width": 1840,
         "height": 1380
       }
@@ -783,6 +887,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/three-mountains-nobg-be3025b0df/three-mountains-nobg-be3025b0df.webp",
         "mimeType": "image/webp",
         "bytes": 1351898,
+        "sha256": "c4196c3862f5fda9d386b3a22bb27123d6c68553acd87ef50f64e680f09d8ca8",
         "width": 1840,
         "height": 1380
       }
@@ -824,6 +929,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/twin-peaks-e2f7902b3f/twin-peaks-e2f7902b3f.webp",
         "mimeType": "image/webp",
         "bytes": 1379074,
+        "sha256": "0ac4bee795151b46af57ba1b04628e03b243a7a3732d1481fee00de2e94cbc6b",
         "width": 1840,
         "height": 1380
       }
@@ -865,6 +971,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/twin-peaks-nobg-21b2203330/twin-peaks-nobg-21b2203330.webp",
         "mimeType": "image/webp",
         "bytes": 1393638,
+        "sha256": "337a95587e3a52e3007839383309ffcaa334e1d2316475b763eadde4d05c1034",
         "width": 1840,
         "height": 1380
       }
@@ -898,7 +1005,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-work-mountain-anywhere-workspace-man-cozy-relax-chill-lan-8747934a9d/vctrly-work-mountain-anywhere-workspace-man-cozy-relax-chill-lan-8747934a9d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 222699
+        "bytes": 222699,
+        "sha256": "a1463df0e50e154d2257be379ba682da91baf91e350d9770a53fb6494b2ddc1b"
       }
     }
   ]

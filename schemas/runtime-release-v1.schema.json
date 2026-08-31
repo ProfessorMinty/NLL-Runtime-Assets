@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/ProfessorMinty/NLL-Runtime-Assets/main/schemas/runtime-release-v1.schema.json",
+  "title": "Northern Lights Runtime Release V1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion", "releaseId", "predecessorReleaseId", "gitCommit",
+    "manifestSha256", "objectSha256", "candidateIdentity",
+    "publisherIdentity", "rollbackReceiptIdentity", "createdAt"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "releaseId": { "type": "string", "pattern": "^runtime-[0-9]{4}\\.[0-9]{2}\\.[0-9]{2}\\.[1-9][0-9]*$" },
+    "predecessorReleaseId": { "type": "string" },
+    "gitCommit": { "type": "string", "pattern": "^[a-f0-9]{40}$" },
+    "manifestSha256": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": { "type": "string", "pattern": "^[A-Fa-f0-9]{64}$" }
+    },
+    "objectSha256": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[A-Fa-f0-9]{64}$" },
+      "uniqueItems": true
+    },
+    "candidateIdentity": { "type": "string", "pattern": "^sha256:[a-f0-9]{64}$" },
+    "publisherIdentity": { "type": "string", "minLength": 1 },
+    "rollbackReceiptIdentity": { "type": "string", "pattern": "^sha256:[a-f0-9]{64}$" },
+    "createdAt": { "type": "string", "format": "date-time" }
+  }
+}
