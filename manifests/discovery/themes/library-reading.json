@@ -6,6 +6,13 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Library & Reading.",
     "collectionIds": [
       "album-theme-library-reading"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "top-trim",
+      "bottom-trim",
+      "photo-frame",
+      "divider"
     ]
   },
   "assetSlots": {
@@ -110,7 +117,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/banned-book-4046d87ae1/banned-book-4046d87ae1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12036
+        "bytes": 12036,
+        "sha256": "e2a37b154f3136d8bc87bd64d4069e048cfaf98224b88e9d54935e7ff425eac4"
       }
     },
     {
@@ -155,7 +163,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/book-clock-a12aaa4cb3/book-clock-a12aaa4cb3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16296
+        "bytes": 16296,
+        "sha256": "b6e9dc4742404d09ba3b833dd9f5352ccaefc15ecf4bc35c038d80ef695431e9"
       }
     },
     {
@@ -200,7 +209,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/book-coasters-69160c3e4b/book-coasters-69160c3e4b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6637
+        "bytes": 6637,
+        "sha256": "10b9ef0e9c95bf5165aa5f4d5a4eb137024d3833bb1a9fef397e239b33fa45c4"
       }
     },
     {
@@ -245,7 +255,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/book-delivery-d0acd300d9/book-delivery-d0acd300d9.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6510
+        "bytes": 6510,
+        "sha256": "6b1720617092e069d343fdd8a755aab9e887124b30b387dea6bae2715e10cbd0"
       }
     },
     {
@@ -290,7 +301,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/book-display-cd32e0a04c/book-display-cd32e0a04c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 5041
+        "bytes": 5041,
+        "sha256": "0c01eff5908c5eee3d20f7f5bf994f298ab3f6fa80a70c7080eb44d27acf4df5"
       }
     },
     {
@@ -335,7 +347,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/book-magnifier-3a852096ea/book-magnifier-3a852096ea.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10233
+        "bytes": 10233,
+        "sha256": "d3e63e02b22f8ecc9a3b57223bdd582d1fb26c19a4c6ca663defeb24dbd55af7"
       }
     },
     {
@@ -380,7 +393,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/book-permits-4f8b07850b/book-permits-4f8b07850b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 5547
+        "bytes": 5547,
+        "sha256": "491a189ba85e275c815b9f1545596f71b499daae01ad629cb55ccf99799e8dd0"
       }
     },
     {
@@ -425,7 +439,168 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/book-return-e6a790b56f/book-return-e6a790b56f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 18289
+        "bytes": 18289,
+        "sha256": "471ba38b76fe60da48932484a97163e6adf144d2af28a044b596cfc572914ccb"
+      }
+    },
+    {
+      "id": "reading-glasses-2b7920a060",
+      "name": "Reading Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "book",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "library",
+        "line-art",
+        "reading"
+      ],
+      "themes": [
+        "library",
+        "reading"
+      ],
+      "subjects": [
+        "book"
+      ],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-2b7920a060/reading-glasses-2b7920a060.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13238,
+        "sha256": "dbe2695795176fb822da1309248ae7aa892bde5a3614698b66badecfb6a5133f"
+      }
+    },
+    {
+      "id": "reading-glasses-bfd1553f94",
+      "name": "Reading Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "book",
+        "classroom",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "reading",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book"
+      ],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-bfd1553f94/reading-glasses-bfd1553f94.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14181,
+        "sha256": "0ac06b1f2fcdf27f81aaa71118d5cf5c9544b2169d59b4920354d1564adf83a4"
+      }
+    },
+    {
+      "id": "reading-glasses-e7e89285b2",
+      "name": "Reading Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "book",
+        "glossy",
+        "line-art",
+        "reading"
+      ],
+      "themes": [
+        "reading"
+      ],
+      "subjects": [
+        "book"
+      ],
+      "styles": [
+        "glossy",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-e7e89285b2/reading-glasses-e7e89285b2.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 38287,
+        "sha256": "d6f27bcff3862ee792a93e53bac2c52bc3b7b5876cbb950df3f4ffd4b341fa08"
+      }
+    },
+    {
+      "id": "glass-magnifying-3d-icon-9b6f6791c1",
+      "name": "Glass Magnifying 3D Icon",
+      "type": "texture",
+      "tags": [
+        "3d",
+        "background",
+        "classroom",
+        "dimensional",
+        "glossy",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional",
+        "glossy"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
+        "mimeType": "image/webp",
+        "bytes": 569212,
+        "sha256": "a5ba5acc2b4ba0426252dd17133769c735c98870fb8143473999b791680e62f8",
+        "width": 2048,
+        "height": 2048
       }
     },
     {
@@ -470,7 +645,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/book-shelf-703f5a9741/book-shelf-703f5a9741.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 7137
+        "bytes": 7137,
+        "sha256": "8945a52210e8001477456d468c9846fb1379d87b354b84b03045e5c21c462f94"
       }
     },
     {
@@ -515,7 +691,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/book-stack-1568806f1a/book-stack-1568806f1a.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6384
+        "bytes": 6384,
+        "sha256": "682ac160950ef3dbb786ed538f4d2072f1597f0242264dec400bcdfd4d62a8c8"
       }
     },
     {
@@ -560,7 +737,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/book-stand-02aa8ccccb/book-stand-02aa8ccccb.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11388
+        "bytes": 11388,
+        "sha256": "b21af4c2de9c971715f3c6a8fa2608565d7a2343f77438d305fcc34706569f6b"
       }
     },
     {
@@ -605,7 +783,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/book-umbrella-acb0452029/book-umbrella-acb0452029.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 18542
+        "bytes": 18542,
+        "sha256": "4b727b877dff2b4ad69ff6be1eccd1d5fd1973f9f41987958903aed43984de22"
       }
     },
     {
@@ -652,7 +831,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/books-717a709a7f/books-717a709a7f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12606
+        "bytes": 12606,
+        "sha256": "c8c24e8ce967c0c4953e03a90c655fda4b73d62e22dab8a115b2c20afa7de9bb"
       }
     },
     {
@@ -697,7 +877,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/braille-book-7e45672aee/braille-book-7e45672aee.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11463
+        "bytes": 11463,
+        "sha256": "52072a3718c9966630a614af4031087ac2f0948670d23c08694aced57e2c8a94"
       }
     },
     {
@@ -744,7 +925,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/buy-books-deb7f4df67/buy-books-deb7f4df67.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14343
+        "bytes": 14343,
+        "sha256": "cfafa8928585fa24235875b64e07172a10db32331188d38b176798721c3f2f7f"
       }
     },
     {
@@ -789,7 +971,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/censored-book-ae1c89be9d/censored-book-ae1c89be9d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14930
+        "bytes": 14930,
+        "sha256": "7e3bb6ce53abc6f583ce8514be2f2187dd8da3f33456e59c81319c1131967287"
       }
     },
     {
@@ -834,7 +1017,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fantasy-book-da9f51b3ae/fantasy-book-da9f51b3ae.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16466
+        "bytes": 16466,
+        "sha256": "ae46211678cafba30488b46a0f2e4dfaaa98405eb7a681fd6592e98917c75609"
       }
     },
     {
@@ -881,44 +1065,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fitness-books-b66f96f53c/fitness-books-b66f96f53c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9055
-      }
-    },
-    {
-      "id": "glass-magnifying-3d-icon-9b6f6791c1",
-      "name": "Glass Magnifying 3D Icon",
-      "type": "texture",
-      "tags": [
-        "3d",
-        "background",
-        "classroom",
-        "dimensional",
-        "glossy",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "3d",
-        "dimensional",
-        "glossy"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
-        "mimeType": "image/webp",
-        "bytes": 569212,
-        "width": 2048,
-        "height": 2048
+        "bytes": 9055,
+        "sha256": "2c5a62ba851e70f2eae35af58e394b5e2c81c93e66d2eb9cda9777587bd942e2"
       }
     },
     {
@@ -963,7 +1111,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/graduation-book-e75f7f8f56/graduation-book-e75f7f8f56.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13498
+        "bytes": 13498,
+        "sha256": "3453d3da1f585515553e565acb25c6e051e0e33aee042dca78740674e5ae6cf0"
       }
     },
     {
@@ -1008,7 +1157,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/historic-book-27b9d807f6/historic-book-27b9d807f6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10056
+        "bytes": 10056,
+        "sha256": "ee4a9c84d3f15b988098a2c76acde52f4e51a75f9afb8018bdd813f9afd048a2"
       }
     },
     {
@@ -1053,7 +1203,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/interesting-book-b932915f14/interesting-book-b932915f14.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10543
+        "bytes": 10543,
+        "sha256": "b9cfd44c2a73246e93c7c8e6de25766c75323b0ab43fecb31b436cc6d76d3083"
       }
     },
     {
@@ -1098,7 +1249,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/key-book-5bf77ce077/key-book-5bf77ce077.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12723
+        "bytes": 12723,
+        "sha256": "43c046bbe9d090c3ed89463c3cefcaabe0d0c7924629fbd15345e2b8578b7f34"
       }
     },
     {
@@ -1143,7 +1295,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/law-book-fc28587c2d/law-book-fc28587c2d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11203
+        "bytes": 11203,
+        "sha256": "c6f0bbfac8a7b2bda094429e3faae9e7cc44bad45130705644d5175f34a6991f"
       }
     },
     {
@@ -1188,126 +1341,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/library-badge-11aefe3966/library-badge-11aefe3966.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8101
-      }
-    },
-    {
-      "id": "reading-glasses-2b7920a060",
-      "name": "Reading Glasses",
-      "type": "texture",
-      "tags": [
-        "background",
-        "book",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "library",
-        "line-art",
-        "reading"
-      ],
-      "themes": [
-        "library",
-        "reading"
-      ],
-      "subjects": [
-        "book"
-      ],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-2b7920a060/reading-glasses-2b7920a060.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13238
-      }
-    },
-    {
-      "id": "reading-glasses-bfd1553f94",
-      "name": "Reading Glasses",
-      "type": "texture",
-      "tags": [
-        "background",
-        "book",
-        "classroom",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art",
-        "reading",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book"
-      ],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-bfd1553f94/reading-glasses-bfd1553f94.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14181
-      }
-    },
-    {
-      "id": "reading-glasses-e7e89285b2",
-      "name": "Reading Glasses",
-      "type": "texture",
-      "tags": [
-        "background",
-        "book",
-        "glossy",
-        "line-art",
-        "reading"
-      ],
-      "themes": [
-        "reading"
-      ],
-      "subjects": [
-        "book"
-      ],
-      "styles": [
-        "glossy",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-e7e89285b2/reading-glasses-e7e89285b2.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 38287
+        "bytes": 8101,
+        "sha256": "abf27a02879a2f361cbeaba110c8a4a5f884b3d78d17e8d330f4859dc563259e"
       }
     }
   ]

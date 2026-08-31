@@ -6,6 +6,10 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Theater & Stage.",
     "collectionIds": [
       "album-theme-theater-stage"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "photo-frame"
     ]
   },
   "assetSlots": {
@@ -75,805 +79,6 @@
   "assetCount": 27,
   "assets": [
     {
-      "id": "accordion-9b56ec9cc6",
-      "name": "Accordion",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/accordion-9b56ec9cc6/accordion-9b56ec9cc6.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10890
-      }
-    },
-    {
-      "id": "acoustic-guitar-f4cb06bb9e",
-      "name": "Acoustic Guitar",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "instrument",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [
-        "instrument"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/acoustic-guitar-f4cb06bb9e/acoustic-guitar-f4cb06bb9e.webp",
-        "mimeType": "image/webp",
-        "bytes": 733828,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "air-balloon-3b70a4fd6c",
-      "name": "Air Balloon",
-      "type": "illustration",
-      "tags": [
-        "balloon",
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "winter"
-      ],
-      "themes": [
-        "celebration",
-        "winter"
-      ],
-      "subjects": [
-        "balloon"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/air-balloon-3b70a4fd6c/air-balloon-3b70a4fd6c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13281
-      }
-    },
-    {
-      "id": "angklung-d4fa6b7a1b",
-      "name": "Angklung",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/angklung-d4fa6b7a1b/angklung-d4fa6b7a1b.webp",
-        "mimeType": "image/webp",
-        "bytes": 890466,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "banjo-203f0c6f20",
-      "name": "Banjo",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/banjo-203f0c6f20/banjo-203f0c6f20.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 16527
-      }
-    },
-    {
-      "id": "banjo-8dc77cc757",
-      "name": "Banjo",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/banjo-8dc77cc757/banjo-8dc77cc757.webp",
-        "mimeType": "image/webp",
-        "bytes": 684856,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "banner-29926b3e17",
-      "name": "Banner",
-      "type": "banner",
-      "tags": [
-        "album-banner",
-        "banner",
-        "celebration",
-        "hero-decoration",
-        "line-art"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [
-        "banner"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "album-banner",
-        "hero-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/banner/album-banner/banner-29926b3e17/banner-29926b3e17.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5686
-      }
-    },
-    {
-      "id": "bass-guitar-503b664bc9",
-      "name": "Bass Guitar",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "instrument",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [
-        "instrument"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/bass-guitar-503b664bc9/bass-guitar-503b664bc9.webp",
-        "mimeType": "image/webp",
-        "bytes": 659354,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "bauble-dd6709aa14",
-      "name": "Bauble",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bauble-dd6709aa14/bauble-dd6709aa14.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 26023
-      }
-    },
-    {
-      "id": "beatboxing-28b52ffba3",
-      "name": "Beatboxing",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beatboxing-28b52ffba3/beatboxing-28b52ffba3.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 21627
-      }
-    },
-    {
-      "id": "birthday-banner-f47b53dd1c",
-      "name": "Birthday Banner",
-      "type": "banner",
-      "tags": [
-        "album-banner",
-        "banner",
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [
-        "banner"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "album-banner",
-        "hero-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/banner/album-banner/birthday-banner-f47b53dd1c/birthday-banner-f47b53dd1c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 31958
-      }
-    },
-    {
-      "id": "bongo-b44cff980c",
-      "name": "Bongo",
-      "type": "prop",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "music",
-        "page-prop",
-        "photo-accent"
-      ],
-      "themes": [
-        "music"
-      ],
-      "subjects": [],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/bongo-b44cff980c/bongo-b44cff980c.webp",
-        "mimeType": "image/webp",
-        "bytes": 924602,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "bouquet-2525ac6a47",
-      "name": "Bouquet",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bouquet-2525ac6a47/bouquet-2525ac6a47.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 46487
-      }
-    },
-    {
-      "id": "bunny-hat-b8a8028613",
-      "name": "Bunny Hat",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bunny-hat-b8a8028613/bunny-hat-b8a8028613.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 27394
-      }
-    },
-    {
-      "id": "bunny-headband-09253c2fe4",
-      "name": "Bunny Headband",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bunny-headband-09253c2fe4/bunny-headband-09253c2fe4.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 9275
-      }
-    },
-    {
-      "id": "burger-306184e121",
-      "name": "Burger",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/burger-306184e121/burger-306184e121.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 24954
-      }
-    },
-    {
-      "id": "cake-a9e7e31937",
-      "name": "Cake",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "food",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [
-        "food"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cake-a9e7e31937/cake-a9e7e31937.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 33584
-      }
-    },
-    {
-      "id": "cake-slice-b47113d6cc",
-      "name": "Cake Slice",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "food",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [
-        "food"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cake-slice-b47113d6cc/cake-slice-b47113d6cc.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17523
-      }
-    },
-    {
-      "id": "camera-f29a3b0ec9",
-      "name": "Camera",
-      "type": "illustration",
-      "tags": [
-        "camera",
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [
-        "camera"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/camera-f29a3b0ec9/camera-f29a3b0ec9.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 20527
-      }
-    },
-    {
-      "id": "candy-cane-762024e873",
-      "name": "Candy Cane",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/candy-cane-762024e873/candy-cane-762024e873.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10548
-      }
-    },
-    {
       "id": "drum-ced23384e3",
       "name": "Drum",
       "type": "illustration",
@@ -915,7 +120,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/drum-ced23384e3/drum-ced23384e3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16286
+        "bytes": 16286,
+        "sha256": "d0318d26c7ab49cc4c90106c21b2fea5e221989f132237eebf46e9c2383a46da"
       }
     },
     {
@@ -960,45 +166,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/drum-set-acf7ecb66f/drum-set-acf7ecb66f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15566
-      }
-    },
-    {
-      "id": "garlands-30beb325f4",
-      "name": "Garlands",
-      "type": "trim",
-      "tags": [
-        "album-trim",
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "album-trim",
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14072
+        "bytes": 15566,
+        "sha256": "bc7f359f30c62309ad8c7ab5878eb9f4fdbedb2cca9133004fd2a500dc529b6c"
       }
     },
     {
@@ -1043,41 +212,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/guitar-140656f0f8/guitar-140656f0f8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11569
-      }
-    },
-    {
-      "id": "hawaii-garland-d8e6ae4401",
-      "name": "Hawaii Garland",
-      "type": "trim",
-      "tags": [
-        "album-trim",
-        "celebration",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "album-trim",
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 18153
+        "bytes": 11569,
+        "sha256": "5b3a73cc4df48f21e681e24186a6ed914930df9feb69f288a24ebc928498bea7"
       }
     },
     {
@@ -1119,7 +255,325 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/music-speakers-b9ba2cb533/music-speakers-b9ba2cb533.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 17337
+        "bytes": 17337,
+        "sha256": "c0730fc5090d047b5849334e08e82a425fbb052e1f073b21f2a30bad15605722"
+      }
+    },
+    {
+      "id": "accordion-9b56ec9cc6",
+      "name": "Accordion",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/accordion-9b56ec9cc6/accordion-9b56ec9cc6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10890,
+        "sha256": "e9a06d2a3448665577502198fc3bc7fc56206f46bb6757453227ee66d89f9c58"
+      }
+    },
+    {
+      "id": "air-balloon-3b70a4fd6c",
+      "name": "Air Balloon",
+      "type": "illustration",
+      "tags": [
+        "balloon",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "celebration",
+        "winter"
+      ],
+      "subjects": [
+        "balloon"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/air-balloon-3b70a4fd6c/air-balloon-3b70a4fd6c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13281,
+        "sha256": "d046177f694a448192599a90d28a1970dd2fa25afd460b1771e7a8f43e18b410"
+      }
+    },
+    {
+      "id": "banjo-203f0c6f20",
+      "name": "Banjo",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/banjo-203f0c6f20/banjo-203f0c6f20.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16527,
+        "sha256": "492ea0986049f42674991432811d06bb1bc5ee80515b95295f10710f8ddd9de3"
+      }
+    },
+    {
+      "id": "banner-29926b3e17",
+      "name": "Banner",
+      "type": "banner",
+      "tags": [
+        "album-banner",
+        "banner",
+        "celebration",
+        "hero-decoration",
+        "line-art"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "banner"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "album-banner",
+        "hero-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/banner/album-banner/banner-29926b3e17/banner-29926b3e17.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 5686,
+        "sha256": "157535d7825353f917955ea139ea36a4917fa3c9aa79847e6bc067bbb0b0d3ec"
+      }
+    },
+    {
+      "id": "garlands-30beb325f4",
+      "name": "Garlands",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14072,
+        "sha256": "6418a359ebb52f7d19d958ecdaf66ea7ba7a5705bc38a27481f82166c34552a7"
+      }
+    },
+    {
+      "id": "hawaii-garland-d8e6ae4401",
+      "name": "Hawaii Garland",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18153,
+        "sha256": "d084667b84f26058c182714912bba775ef456aa93d7156b110aae8c6657d6e56"
+      }
+    },
+    {
+      "id": "acoustic-guitar-f4cb06bb9e",
+      "name": "Acoustic Guitar",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "instrument",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [
+        "instrument"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/acoustic-guitar-f4cb06bb9e/acoustic-guitar-f4cb06bb9e.webp",
+        "mimeType": "image/webp",
+        "bytes": 733828,
+        "sha256": "17f825e021db82e0bc2996382bd95008e81182726ea98f1d9f34d6a53ccac94f",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "angklung-d4fa6b7a1b",
+      "name": "Angklung",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/angklung-d4fa6b7a1b/angklung-d4fa6b7a1b.webp",
+        "mimeType": "image/webp",
+        "bytes": 890466,
+        "sha256": "bf9296f2a4a87a622f5ec6b3bd3b06efd3463c3579088a537beddf2dd62f5a77",
+        "width": 2048,
+        "height": 2048
       }
     },
     {
@@ -1158,7 +612,584 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15437
+        "bytes": 15437,
+        "sha256": "13038d429551fed51fe5b18d62f680f9c66ba12ebd379fcf5067909fc75a3174"
+      }
+    },
+    {
+      "id": "banjo-8dc77cc757",
+      "name": "Banjo",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/banjo-8dc77cc757/banjo-8dc77cc757.webp",
+        "mimeType": "image/webp",
+        "bytes": 684856,
+        "sha256": "e0b665c38d75f8106a70e9741c2adc6bf0699008cd71b6ce3d9ec8f8c37bb9fc",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "bass-guitar-503b664bc9",
+      "name": "Bass Guitar",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "instrument",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [
+        "instrument"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/bass-guitar-503b664bc9/bass-guitar-503b664bc9.webp",
+        "mimeType": "image/webp",
+        "bytes": 659354,
+        "sha256": "302c13f503df13881f56560e734ffdf95846e46fa2c00d6d44933e2edd7f0f70",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "bauble-dd6709aa14",
+      "name": "Bauble",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bauble-dd6709aa14/bauble-dd6709aa14.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 26023,
+        "sha256": "f419763e8e30001f1d9f3c3920fa517d11f7922177c1745fe3aade4195fadff5"
+      }
+    },
+    {
+      "id": "beatboxing-28b52ffba3",
+      "name": "Beatboxing",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beatboxing-28b52ffba3/beatboxing-28b52ffba3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 21627,
+        "sha256": "5fe3571cc8dace3b66be3badf2e3f30b7410199f97015c758e3a58c77637a554"
+      }
+    },
+    {
+      "id": "birthday-banner-f47b53dd1c",
+      "name": "Birthday Banner",
+      "type": "banner",
+      "tags": [
+        "album-banner",
+        "banner",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "banner"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "album-banner",
+        "hero-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/banner/album-banner/birthday-banner-f47b53dd1c/birthday-banner-f47b53dd1c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 31958,
+        "sha256": "29b776965dffceae4381b0db1c00c05a03bda36f4edf3d355e93882dabdc969d"
+      }
+    },
+    {
+      "id": "bongo-b44cff980c",
+      "name": "Bongo",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/bongo-b44cff980c/bongo-b44cff980c.webp",
+        "mimeType": "image/webp",
+        "bytes": 924602,
+        "sha256": "8a72c40310fb2a119361df1e0da765a78fbe24a5c3da9f53cfd9bd30bb0cf2ef",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "bouquet-2525ac6a47",
+      "name": "Bouquet",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bouquet-2525ac6a47/bouquet-2525ac6a47.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 46487,
+        "sha256": "9c912bc0a9794852e802c267d85af98c9c4b46e396385781a039663fd21f93f8"
+      }
+    },
+    {
+      "id": "bunny-hat-b8a8028613",
+      "name": "Bunny Hat",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bunny-hat-b8a8028613/bunny-hat-b8a8028613.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 27394,
+        "sha256": "e5d12a726d5edbd415c71c460032fdb211ad6f643601ab3ae10600046bd8540b"
+      }
+    },
+    {
+      "id": "bunny-headband-09253c2fe4",
+      "name": "Bunny Headband",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bunny-headband-09253c2fe4/bunny-headband-09253c2fe4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9275,
+        "sha256": "650b569911ea32a598aef6d2a3ecc376eb9e0f87088f2d861ae145f2c0bca155"
+      }
+    },
+    {
+      "id": "burger-306184e121",
+      "name": "Burger",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/burger-306184e121/burger-306184e121.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24954,
+        "sha256": "6e4bf745fb5094aa3d496240fd074f0c57e9a1030de24903ad811ee0af3796a2"
+      }
+    },
+    {
+      "id": "cake-a9e7e31937",
+      "name": "Cake",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "food",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "food"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cake-a9e7e31937/cake-a9e7e31937.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 33584,
+        "sha256": "5bcd5916efa992534b4437440ba45a7e9c3ad5563c161909268714efc611dd21"
+      }
+    },
+    {
+      "id": "cake-slice-b47113d6cc",
+      "name": "Cake Slice",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "food",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "food"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cake-slice-b47113d6cc/cake-slice-b47113d6cc.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 17523,
+        "sha256": "4d085213650e9ca5e430f5aa6b40fcb16346015a8b3a98554a70a17641f21d24"
+      }
+    },
+    {
+      "id": "camera-f29a3b0ec9",
+      "name": "Camera",
+      "type": "illustration",
+      "tags": [
+        "camera",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "camera"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/camera-f29a3b0ec9/camera-f29a3b0ec9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20527,
+        "sha256": "cf88f1a7d2c86b7b20a49b1de144b744f548a0f6f0d0902a8d762e8f59d11b91"
+      }
+    },
+    {
+      "id": "candy-cane-762024e873",
+      "name": "Candy Cane",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/candy-cane-762024e873/candy-cane-762024e873.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10548,
+        "sha256": "88e19c9d40e68c16207e038ba0d05da423e9ef7c9be400363f5e234757c511c8"
       }
     }
   ]

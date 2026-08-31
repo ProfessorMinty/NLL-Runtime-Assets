@@ -7,11 +7,173 @@
   "page": 5,
   "pageSize": 100,
   "assetCount": 100,
-  "totalAssetCount": 674,
+  "totalAssetCount": 966,
   "assets": [
     {
-      "id": "jungle-c369b79b8e",
-      "name": "Jungle",
+      "id": "christmas-tree-9c11765798",
+      "name": "Christmas Tree",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree",
+        "winter"
+      ],
+      "themes": [
+        "celebration",
+        "winter"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/christmas-tree-9c11765798/christmas-tree-9c11765798.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15593,
+        "sha256": "b9c0a966799f3bd596df90c958b49b788b239900cc17ade751fe1325de6ad6a9"
+      }
+    },
+    {
+      "id": "christmas-tree-a6ac5192b0",
+      "name": "Christmas Tree",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "tree",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/christmas-tree-a6ac5192b0/christmas-tree-a6ac5192b0.webp",
+        "mimeType": "image/webp",
+        "bytes": 582056,
+        "sha256": "494c3430a19809f539bdefbdd5d680bdb74813cce945e1aadec6fa768bb94ee4",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "christmas-tree-caf4be18a3",
+      "name": "Christmas Tree",
+      "type": "icon",
+      "tags": [
+        "celebration",
+        "icon",
+        "line-art",
+        "navigation-decoration",
+        "tree",
+        "winter"
+      ],
+      "themes": [
+        "celebration",
+        "winter"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/christmas-tree-caf4be18a3/christmas-tree-caf4be18a3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 7299,
+        "sha256": "5bcc6817ccee660c6a8ebb70ec5917e7807c5366ec37871a5f7d84d0c622fd3d"
+      }
+    },
+    {
+      "id": "christmas-tree-lights-69687c7c17",
+      "name": "Christmas Tree Lights",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "tree",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/christmas-tree-lights-69687c7c17/christmas-tree-lights-69687c7c17.webp",
+        "mimeType": "image/webp",
+        "bytes": 546860,
+        "sha256": "bb78662dfeabf8743edede57b23cf51ec3303586d3ffac1f6cd388f088ea6fef",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "christmas-trees-94c04fadd6",
+      "name": "Christmas Trees",
       "type": "illustration",
       "tags": [
         "hero-decoration",
@@ -19,12 +181,17 @@
         "nature",
         "page-decoration",
         "photo-accent",
-        "section-decoration"
+        "section-decoration",
+        "tree",
+        "winter"
       ],
       "themes": [
-        "nature"
+        "nature",
+        "winter"
       ],
-      "subjects": [],
+      "subjects": [
+        "tree"
+      ],
       "styles": [
         "line-art"
       ],
@@ -40,14 +207,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jungle-c369b79b8e/jungle-c369b79b8e.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/christmas-trees-94c04fadd6/christmas-trees-94c04fadd6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 178199
+        "bytes": 195771,
+        "sha256": "6f58da093d5d86d59845f1687c0fc68bb301df12915b60dbcd6992c8beacf03c"
       }
     },
     {
-      "id": "kwanzaa-candles-fc716e1865",
-      "name": "Kwanzaa Candles",
+      "id": "christmas-wreath-2e2dfb4987",
+      "name": "Christmas Wreath",
       "type": "illustration",
       "tags": [
         "doodle",
@@ -80,25 +248,26 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/kwanzaa-candles-fc716e1865/kwanzaa-candles-fc716e1865.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/christmas-wreath-2e2dfb4987/christmas-wreath-2e2dfb4987.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 21016
+        "bytes": 43171,
+        "sha256": "f4d794c6a4b12861a0fa75c78dad15d0c807d629751e00820e6bb43b7189120c"
       }
     },
     {
-      "id": "lake-cabin-dcfdb8b158",
-      "name": "Lake Cabin",
+      "id": "christmas-wreath-5f05925cb3",
+      "name": "Christmas Wreath",
       "type": "illustration",
       "tags": [
         "hero-decoration",
         "line-art",
-        "nature",
         "page-decoration",
         "photo-accent",
-        "section-decoration"
+        "section-decoration",
+        "winter"
       ],
       "themes": [
-        "nature"
+        "winter"
       ],
       "subjects": [],
       "styles": [
@@ -116,50 +285,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lake-cabin-dcfdb8b158/lake-cabin-dcfdb8b158.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/christmas-wreath-5f05925cb3/christmas-wreath-5f05925cb3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 119779
+        "bytes": 124039,
+        "sha256": "9ba699ec4280131184453c7747dc32f51697c67ee0f8defc6f96fbfdb723efa2"
       }
     },
     {
-      "id": "lake-landscape-9e9bf8b85f",
-      "name": "Lake Landscape",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lake-landscape-9e9bf8b85f/lake-landscape-9e9bf8b85f.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 318964
-      }
-    },
-    {
-      "id": "lavender-bouquet-0c11f5dc6d",
-      "name": "Lavender Bouquet",
+      "id": "chrysanthemum-52104b5e54",
+      "name": "Chrysanthemum",
       "type": "illustration",
       "tags": [
         "botanical",
@@ -190,20 +324,902 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lavender-bouquet-0c11f5dc6d/lavender-bouquet-0c11f5dc6d.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/chrysanthemum-52104b5e54/chrysanthemum-52104b5e54.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 507409
+        "bytes": 235649,
+        "sha256": "914e9d45a6fea5b16dc91db741d4c3735b61bb4c86e6da818ee798c3ead8eacc"
       }
     },
     {
-      "id": "lavender-flower-2947f788c8",
-      "name": "Lavender Flower",
+      "id": "chrysanthemum-flower-8ed279c0cf",
+      "name": "Chrysanthemum Flower",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "flower",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "flower"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/chrysanthemum-flower-8ed279c0cf/chrysanthemum-flower-8ed279c0cf.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 347043,
+        "sha256": "be20869f6b8e2884f56a0d22dda2d5cfce882068ae22180c2dc13d0b73fbb748"
+      }
+    },
+    {
+      "id": "church-0c894a97d9",
+      "name": "Church",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/church-0c894a97d9/church-0c894a97d9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 6028,
+        "sha256": "3244d5c8c9a3c0dcb8730bf1713380a4d836919ca7043f4214424af8d38aec96"
+      }
+    },
+    {
+      "id": "cinnamon-sticks-58287be025",
+      "name": "Cinnamon Sticks",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cinnamon-sticks-58287be025/cinnamon-sticks-58287be025.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 63167,
+        "sha256": "c5d62df4017a5eb85f8d0c3d5a07e003e2242ff12070ca90cd36821568cfe524"
+      }
+    },
+    {
+      "id": "citrus-blossom-18fc81ccf6",
+      "name": "Citrus Blossom",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "flower",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "spring"
+      ],
+      "themes": [
+        "botanical",
+        "nature",
+        "spring"
+      ],
+      "subjects": [
+        "flower"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/citrus-blossom-18fc81ccf6/citrus-blossom-18fc81ccf6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 218405,
+        "sha256": "4c08d39bf48ed01b6404ffb61724fb997aeee048ae6282e7a718e7c3543ad044"
+      }
+    },
+    {
+      "id": "clematis-flowers-756b8d2441",
+      "name": "Clematis Flowers",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "flower",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "flower"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/clematis-flowers-756b8d2441/clematis-flowers-756b8d2441.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 466983,
+        "sha256": "f2d496e9aa9c7d3b9c3af024bcb4ab292f1de109cd701bdfba68f856d1f31c9e"
+      }
+    },
+    {
+      "id": "clematis-vines-3f50002f31",
+      "name": "Clematis Vines",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "vine"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "vine"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/clematis-vines-3f50002f31/clematis-vines-3f50002f31.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 489630,
+        "sha256": "306de1fc3d493e7532e5a4d764388c27f6f5dff1a0cb98d1b4d73f0732bd0894"
+      }
+    },
+    {
+      "id": "cliff-1529219a9e",
+      "name": "Cliff",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cliff-1529219a9e/cliff-1529219a9e.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 11613,
+        "sha256": "250ab03156e64ad52eeaff832a57bcbe6d3d25335728a84ea548a081546e1a5a"
+      }
+    },
+    {
+      "id": "climbing-gear-2c2b45c6a9",
+      "name": "Climbing Gear",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/climbing-gear-2c2b45c6a9/climbing-gear-2c2b45c6a9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9601,
+        "sha256": "e43969dc0366cae2acb9cea2d5247d3c6b42c0fd466cb42b31104e56696affa3"
+      }
+    },
+    {
+      "id": "cloud-7085373e2c",
+      "name": "Cloud",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/cloud-7085373e2c/cloud-7085373e2c.webp",
+        "mimeType": "image/webp",
+        "bytes": 163794,
+        "sha256": "4f2532f088b16517a8e73ffdcc2597127b27541bc6cd182c4c2036a882913cd6",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "clouds-f35da9ac7e",
+      "name": "Clouds",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration",
+        "weather"
+      ],
+      "themes": [
+        "nature",
+        "weather"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/clouds-f35da9ac7e/clouds-f35da9ac7e.webp",
+        "mimeType": "image/webp",
+        "bytes": 1849032,
+        "sha256": "5be2af0fc85c854956bae39f39ada4e6a41c7ef3368f809d19eb3fb9d8367c8c",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "cloudy-lightning-19a249f4d0",
+      "name": "Cloudy + Lightning",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/cloudy-lightning-19a249f4d0/cloudy-lightning-19a249f4d0.webp",
+        "mimeType": "image/webp",
+        "bytes": 223054,
+        "sha256": "4e9a29a6c982a66070d69ce76d8512ff3987d6f3adec6290984e0b1b03ed9612",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "cloudy-rainy-4edf10ae0b",
+      "name": "Cloudy + Rainy",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/cloudy-rainy-4edf10ae0b/cloudy-rainy-4edf10ae0b.webp",
+        "mimeType": "image/webp",
+        "bytes": 224208,
+        "sha256": "a2c64e74f695cb5fffac67e313511a0b70ebca3bb00d5230a57173d92ae87519",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "cloudy-rainy-storm-8b9f803197",
+      "name": "Cloudy + Rainy Storm",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/cloudy-rainy-storm-8b9f803197/cloudy-rainy-storm-8b9f803197.webp",
+        "mimeType": "image/webp",
+        "bytes": 244722,
+        "sha256": "35d9e9997a161980ef572a48934f785303e362154bae2a16efc168d8e37d6b0b",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "cloudy-snowy-f4774949d6",
+      "name": "Cloudy + Snowy",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/cloudy-snowy-f4774949d6/cloudy-snowy-f4774949d6.webp",
+        "mimeType": "image/webp",
+        "bytes": 425496,
+        "sha256": "575928b138608e0fa19fe99357583dada015fcbb30d7e3f43514922e5b138146",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "cocoa-mug-d429ad2553",
+      "name": "Cocoa Mug",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cocoa-mug-d429ad2553/cocoa-mug-d429ad2553.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 65439,
+        "sha256": "74909f8fbb50b3954fa0d2b974bd07c2922b15c87a5e572f7a728186d52185e3"
+      }
+    },
+    {
+      "id": "coconut-beach-e1025b2cc2",
+      "name": "Coconut Beach",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "nature",
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/coconut-beach-e1025b2cc2/coconut-beach-e1025b2cc2.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 163642,
+        "sha256": "8597b28541b553735a2664f4402d0895aaf55331a144e401777a96feec93b712"
+      }
+    },
+    {
+      "id": "cold-fc4b5df742",
+      "name": "Cold",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cold-fc4b5df742/cold-fc4b5df742.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 11261,
+        "sha256": "1af3a8be5a4376704611fc16648b37aff81b87e49533112709290cb1355c7a71"
+      }
+    },
+    {
+      "id": "cold-thermometer-01-7f38d6c4bd",
+      "name": "Cold Thermometer 01",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/cold-thermometer-01-7f38d6c4bd/cold-thermometer-01-7f38d6c4bd.webp",
+        "mimeType": "image/webp",
+        "bytes": 425826,
+        "sha256": "c3a45403d6679bfe160d7b03a004966824671dde22f807125860d5c83d299ffb",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "cold-thermometer-02-1ea5d11e4f",
+      "name": "Cold Thermometer 02",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/cold-thermometer-02-1ea5d11e4f/cold-thermometer-02-1ea5d11e4f.webp",
+        "mimeType": "image/webp",
+        "bytes": 595828,
+        "sha256": "f4d3d1248bbd3d4ba668ba77a351c581b57195b18b00127cf7c551ca0ed88c3a",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "comet-38b122fd66",
+      "name": "Comet",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/comet-38b122fd66/comet-38b122fd66.webp",
+        "mimeType": "image/webp",
+        "bytes": 2291566,
+        "sha256": "2069a02808099b3573f113ee8afe94aaa3beb7058868e2b55d3153ece0739334",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "cookie-3f549a42ab",
+      "name": "Cookie",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cookie-3f549a42ab/cookie-3f549a42ab.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 137593,
+        "sha256": "e0e63fbafb08d02e89dcf3872e8d7e121545c3ea0889d1befce075eb9dc8e43b"
+      }
+    },
+    {
+      "id": "coral-reef-95275e0476",
+      "name": "Coral Reef",
+      "type": "illustration",
+      "tags": [
+        "coral",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature",
+        "ocean"
+      ],
+      "subjects": [
+        "coral"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/coral-reef-95275e0476/coral-reef-95275e0476.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15870,
+        "sha256": "2e51d7ace3864d2cb777a56e75f641975db94a8ffad331abaf0e6e192c8385e8"
+      }
+    },
+    {
+      "id": "corn-plant-a56f1031a5",
+      "name": "Corn Plant",
       "type": "illustration",
       "tags": [
         "botanical",
         "doodle",
         "farming",
-        "flower",
         "hand-drawn",
         "harvest",
         "hero-decoration",
@@ -211,12 +1227,379 @@
         "nature",
         "page-decoration",
         "photo-accent",
+        "plant",
         "section-decoration"
       ],
       "themes": [
         "botanical",
         "farming",
         "harvest",
+        "nature"
+      ],
+      "subjects": [
+        "plant"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/corn-plant-a56f1031a5/corn-plant-a56f1031a5.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15483,
+        "sha256": "5f7c3007d9b4a61be46c9e4c10a3e237e7e9072cd03769bce5777189e0e4be16"
+      }
+    },
+    {
+      "id": "cotton-plant-e145012729",
+      "name": "Cotton Plant",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plant",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "plant"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cotton-plant-e145012729/cotton-plant-e145012729.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 459944,
+        "sha256": "5b62ed7753edb3fae8b09e764f9bce8e92440a1064fa9e2adb3d7a325362ed26"
+      }
+    },
+    {
+      "id": "countryside-3e52516fc3",
+      "name": "Countryside",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/countryside-3e52516fc3/countryside-3e52516fc3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 155756,
+        "sha256": "60def0b20200901300f64bccef099e63cc774fa5e0275e9d05631aa294e771e5"
+      }
+    },
+    {
+      "id": "cozy-cabin-612ce4a863",
+      "name": "Cozy Cabin",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cozy-cabin-612ce4a863/cozy-cabin-612ce4a863.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 142528,
+        "sha256": "86ffd1adb8955096d9f4078b4f3d73028d957f1d89fd382ce6b389d349e94371"
+      }
+    },
+    {
+      "id": "cozy-fireplace-e0dcca1b46",
+      "name": "Cozy Fireplace",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cozy-fireplace-e0dcca1b46/cozy-fireplace-e0dcca1b46.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20756,
+        "sha256": "8d048f03c255bd9156233aefe8e49cab35878aa28e5e8e5ef5450e43143cc34f"
+      }
+    },
+    {
+      "id": "cozy-mittens-a1cefa1286",
+      "name": "Cozy Mittens",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cozy-mittens-a1cefa1286/cozy-mittens-a1cefa1286.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 28645,
+        "sha256": "dfe5c318490729211cbce0ba8a4b4beb84b36222a4b2c2308a2230c5d561b05a"
+      }
+    },
+    {
+      "id": "cozy-reading-422a4a9372",
+      "name": "Cozy Reading",
+      "type": "illustration",
+      "tags": [
+        "book",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "reading",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "reading",
+        "winter"
+      ],
+      "subjects": [
+        "book"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cozy-reading-422a4a9372/cozy-reading-422a4a9372.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 23473,
+        "sha256": "665887fb7a5559f33d4b818283ecb8c91a16cd9e75e09d458e70e8593450b9b2"
+      }
+    },
+    {
+      "id": "cranberry-garland-b719dd1f5b",
+      "name": "Cranberry Garland",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "line-art",
+        "page-decoration",
+        "section-divider",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/cranberry-garland-b719dd1f5b/cranberry-garland-b719dd1f5b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 118086,
+        "sha256": "87e1a629349ccc65e527a3dcf54ffb9462f4f4bd37d68fba7ef492904bf35dd5"
+      }
+    },
+    {
+      "id": "cranberry-sauce-6c9ff7c505",
+      "name": "Cranberry Sauce",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cranberry-sauce-6c9ff7c505/cranberry-sauce-6c9ff7c505.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24304,
+        "sha256": "da88468043a2fbfdef3decefe02d565c95e74a726fee0ac1ddd1051d9ba5c932"
+      }
+    },
+    {
+      "id": "crocus-flower-61f8803cdf",
+      "name": "Crocus Flower",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "doodle",
+        "flower",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
         "nature"
       ],
       "subjects": [
@@ -239,14 +1622,96 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lavender-flower-2947f788c8/lavender-flower-2947f788c8.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/crocus-flower-61f8803cdf/crocus-flower-61f8803cdf.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 28134
+        "bytes": 12245,
+        "sha256": "9a7861f0c8f032fc5c318b951828a375c67f83496350bd151c335b413250af39"
       }
     },
     {
-      "id": "lavender-stem-0f088f40bb",
-      "name": "Lavender Stem",
+      "id": "crocus-flowers-24ff956d32",
+      "name": "Crocus Flowers",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "flower",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "flower"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/crocus-flowers-24ff956d32/crocus-flowers-24ff956d32.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 512478,
+        "sha256": "26ecd0a006d42e0a2e24ac96487802dffcf024b11b9c4e3be4d678934d0bd6d5"
+      }
+    },
+    {
+      "id": "crystal-goblet-eaae091cd5",
+      "name": "Crystal Goblet",
+      "type": "illustration",
+      "tags": [
+        "glossy",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "glossy",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/crystal-goblet-eaae091cd5/crystal-goblet-eaae091cd5.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 98234,
+        "sha256": "27c02fa7b89833a6237fa5dba1abf35cfb1252245fc029c87652f3e8c7d6f03f"
+      }
+    },
+    {
+      "id": "dahlia-8c572af0fb",
+      "name": "Dahlia",
       "type": "illustration",
       "tags": [
         "botanical",
@@ -277,62 +1742,20 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lavender-stem-0f088f40bb/lavender-stem-0f088f40bb.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dahlia-8c572af0fb/dahlia-8c572af0fb.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 180606
+        "bytes": 446099,
+        "sha256": "b6c495be9694615950b6a79ad4daa4c290672053da2b8295fea777f74f7d0b02"
       }
     },
     {
-      "id": "leaf-0a0327177c",
-      "name": "Leaf",
+      "id": "dandelion-081ff464d1",
+      "name": "Dandelion",
       "type": "illustration",
       "tags": [
-        "botanical",
-        "hero-decoration",
-        "leaf",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "leaf"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/leaf-0a0327177c/leaf-0a0327177c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 1491589
-      }
-    },
-    {
-      "id": "leaf-pile-dead65cf4d",
-      "name": "Leaf Pile",
-      "type": "illustration",
-      "tags": [
-        "botanical",
         "doodle",
         "hand-drawn",
         "hero-decoration",
-        "leaf",
         "line-art",
         "nature",
         "page-decoration",
@@ -340,12 +1763,9 @@
         "section-decoration"
       ],
       "themes": [
-        "botanical",
         "nature"
       ],
-      "subjects": [
-        "leaf"
-      ],
+      "subjects": [],
       "styles": [
         "doodle",
         "hand-drawn",
@@ -363,14 +1783,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/leaf-pile-dead65cf4d/leaf-pile-dead65cf4d.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dandelion-081ff464d1/dandelion-081ff464d1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15049
+        "bytes": 9907,
+        "sha256": "67cac71f13c62c7d833f59d54ea99244b2853cf94cf46969d2628458432d00fd"
       }
     },
     {
-      "id": "leave-047e8ff890",
-      "name": "Leave",
+      "id": "dandelion-c83e532699",
+      "name": "Dandelion",
       "type": "illustration",
       "tags": [
         "botanical",
@@ -401,23 +1822,24 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/leave-047e8ff890/leave-047e8ff890.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dandelion-c83e532699/dandelion-c83e532699.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 488204
+        "bytes": 541799,
+        "sha256": "2f7aa5067c3e3198bad282e5da3add7692d6a895f37b0527afa447dfa111550e"
       }
     },
     {
-      "id": "leaves-wreath-2edd8e40da",
-      "name": "Leaves Wreath",
+      "id": "dandelion-plant-1be7c30d1d",
+      "name": "Dandelion Plant",
       "type": "illustration",
       "tags": [
         "botanical",
         "hero-decoration",
-        "leaf",
         "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
+        "plant",
         "section-decoration"
       ],
       "themes": [
@@ -425,7 +1847,7 @@
         "nature"
       ],
       "subjects": [
-        "leaf"
+        "plant"
       ],
       "styles": [
         "line-art"
@@ -442,14 +1864,957 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/leaves-wreath-2edd8e40da/leaves-wreath-2edd8e40da.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dandelion-plant-1be7c30d1d/dandelion-plant-1be7c30d1d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 382074
+        "bytes": 440335,
+        "sha256": "72caf78ebbdfe1126e947c9e19378396c486b80a2f73ac932ac63a92660d8f72"
       }
     },
     {
-      "id": "lemon-tea-f9f05e845f",
-      "name": "Lemon Tea",
+      "id": "dark-cloud-f3a33f5396",
+      "name": "Dark Cloud",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/dark-cloud-f3a33f5396/dark-cloud-f3a33f5396.webp",
+        "mimeType": "image/webp",
+        "bytes": 387090,
+        "sha256": "978c84d3505ab5706e45204c2ee7b947fa1862138281fba2d77ad1e4af962030",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "dark-cloudy-lightning-a818cd272e",
+      "name": "Dark Cloudy + Lightning",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/dark-cloudy-lightning-a818cd272e/dark-cloudy-lightning-a818cd272e.webp",
+        "mimeType": "image/webp",
+        "bytes": 486398,
+        "sha256": "0e94f4642c97190acd88c1a35b1b8d8947952d8d3952f10aa9745f3dc554d533",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "dark-cloudy-moon-4b77504d53",
+      "name": "Dark Cloudy + Moon",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "moon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [
+        "moon"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/dark-cloudy-moon-4b77504d53/dark-cloudy-moon-4b77504d53.webp",
+        "mimeType": "image/webp",
+        "bytes": 540852,
+        "sha256": "ab17715fc5d835d1b4524919f2cc672d3721c8c78e7557c5bdd59c85b2f22375",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "dark-cloudy-rainy-b40901db8d",
+      "name": "Dark Cloudy Rainy",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/dark-cloudy-rainy-b40901db8d/dark-cloudy-rainy-b40901db8d.webp",
+        "mimeType": "image/webp",
+        "bytes": 544628,
+        "sha256": "174b4d196d04358ad346200744bbcc814dfb3a2097420ed436f5b0cb95747ee9",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "dark-cloudy-rainy-night-b27fbcb73c",
+      "name": "Dark Cloudy Rainy Night",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/dark-cloudy-rainy-night-b27fbcb73c/dark-cloudy-rainy-night-b27fbcb73c.webp",
+        "mimeType": "image/webp",
+        "bytes": 540428,
+        "sha256": "57dc2d648384aa986773de402563a8e726e6bed2e833ba1b09abf77a29fea619",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "dark-cloudy-rainy-storm-65e16e098a",
+      "name": "Dark Cloudy + Rainy Storm",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/dark-cloudy-rainy-storm-65e16e098a/dark-cloudy-rainy-storm-65e16e098a.webp",
+        "mimeType": "image/webp",
+        "bytes": 570848,
+        "sha256": "7bd2a96e49c48d3cc46e33e9c5c0075fa7fb7bfaaeb298d452f55f032c23d2e5",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "dark-cloudy-snowy-b7c20c5fd5",
+      "name": "Dark Cloudy + Snowy",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/dark-cloudy-snowy-b7c20c5fd5/dark-cloudy-snowy-b7c20c5fd5.webp",
+        "mimeType": "image/webp",
+        "bytes": 687944,
+        "sha256": "fbe872a5776559a1b2d00770ae3ab9becae642f329fb47b57c8c079e8503c20b",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "dark-moon-59e7fedf08",
+      "name": "Dark Moon",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "moon",
+        "navigation-decoration",
+        "weather"
+      ],
+      "themes": [
+        "weather"
+      ],
+      "subjects": [
+        "moon"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/dark-moon-59e7fedf08/dark-moon-59e7fedf08.webp",
+        "mimeType": "image/webp",
+        "bytes": 405766,
+        "sha256": "446e088a41ea5e0d9763e562d9538f04c788f6f824ea592107788d15dbeb070e",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "decorating-tree-149d997511",
+      "name": "Decorating Tree",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/decorating-tree-149d997511/decorating-tree-149d997511.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 23732,
+        "sha256": "902808741d2efdc19a7d584de7602ccace1fc1d67368ad80a4b52c03cf112882"
+      }
+    },
+    {
+      "id": "decorative-balls-13c769e1fe",
+      "name": "Decorative Balls",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/decorative-balls-13c769e1fe/decorative-balls-13c769e1fe.webp",
+        "mimeType": "image/webp",
+        "bytes": 565036,
+        "sha256": "4243e34c378912401567f48ff08e18e1576a53d2aa859a4f8c0ceff0a24157f9",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "decorative-light-e6cb51e40c",
+      "name": "Decorative Light",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/decorative-light-e6cb51e40c/decorative-light-e6cb51e40c.webp",
+        "mimeType": "image/webp",
+        "bytes": 281478,
+        "sha256": "bc021024cef24b0ef2cf8aa7ffe5b2c25cec0aa4c36de90663de7ad21505d3bd",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "decorative-ornaments-4f46cdf3bc",
+      "name": "Decorative Ornaments",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/decorative-ornaments-4f46cdf3bc/decorative-ornaments-4f46cdf3bc.webp",
+        "mimeType": "image/webp",
+        "bytes": 412360,
+        "sha256": "e64bca7b29ee46f779c3eed50e3438ba69531389675cc19226ffbf2b959d2b2f",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "decorative-plant-3044d33694",
+      "name": "Decorative Plant",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "doodle",
+        "garden",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plant",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "garden",
+        "nature"
+      ],
+      "subjects": [
+        "plant"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/decorative-plant-3044d33694/decorative-plant-3044d33694.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15453,
+        "sha256": "7cda2e8bc4bef7a245fe0ff2c10d8c72e562ed056fd440833e688d13c465b8d4"
+      }
+    },
+    {
+      "id": "deer-cdcc3a1c5c",
+      "name": "Deer",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/deer-cdcc3a1c5c/deer-cdcc3a1c5c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 32712,
+        "sha256": "b769097505c47af4b01e4afa8f8ca84e08fc430b655bedf9c53179cdbd912819"
+      }
+    },
+    {
+      "id": "desert-c5829265bb",
+      "name": "Desert",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/desert-c5829265bb/desert-c5829265bb.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 141290,
+        "sha256": "88b3f08c9a177a130190b5b08cba5e8d2d896d9374e551e45478622845efd2e0"
+      }
+    },
+    {
+      "id": "desert-oasis-ee9f2635cc",
+      "name": "Desert Oasis",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/desert-oasis-ee9f2635cc/desert-oasis-ee9f2635cc.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 129958,
+        "sha256": "522b424a76a5d43810b34101d4ee1405085fc889b7bdadeb128099956e48f191"
+      }
+    },
+    {
+      "id": "desert-sunset-3b4d880ac0",
+      "name": "Desert Sunset",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/desert-sunset-3b4d880ac0/desert-sunset-3b4d880ac0.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 192752,
+        "sha256": "5d387c9a53b6afe236e0a18047cf8fd5eeda238437a7d477ed396dd2eef9b1ae"
+      }
+    },
+    {
+      "id": "desert-view-a5bd1d6f83",
+      "name": "Desert View",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/desert-view-a5bd1d6f83/desert-view-a5bd1d6f83.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 191520,
+        "sha256": "2c77bf10e2f898e3bdbd7602fd58b78073dfe7d1b24d715d7b0cbd71d274027b"
+      }
+    },
+    {
+      "id": "dill-stem-3219142d37",
+      "name": "Dill Stem",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dill-stem-3219142d37/dill-stem-3219142d37.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 615393,
+        "sha256": "b75674fa3195df3bcb033ed4f889d57f3ed4afbfafb03ecd74902a9c2908d14f"
+      }
+    },
+    {
+      "id": "dog-3ebe6102df",
+      "name": "Dog",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "animal",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "animal"
+      ],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dog-3ebe6102df/dog-3ebe6102df.webp",
+        "mimeType": "image/webp",
+        "bytes": 2404654,
+        "sha256": "bc47a4291d36b1625555157095bb0023bd6ca8f2512e720102e472b2a25dbfa3",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "door-decoration-88249c0029",
+      "name": "Door Decoration",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/door-decoration-88249c0029/door-decoration-88249c0029.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 23947,
+        "sha256": "f0f360e8dcc0b00786599a1445909975d358912f309089d983645a8bf05272cd"
+      }
+    },
+    {
+      "id": "dragonfly-8cc78db057",
+      "name": "Dragonfly",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dragonfly-8cc78db057/dragonfly-8cc78db057.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10983,
+        "sha256": "e3179d4ecfd033dceea11de2597b4bd27b109b8dbf0d03f087af094f844535fe"
+      }
+    },
+    {
+      "id": "dried-flower-89e7edada8",
+      "name": "Dried Flower",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "botanical",
+        "doodle",
+        "flower",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "flower"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dried-flower-89e7edada8/dried-flower-89e7edada8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 23461,
+        "sha256": "eec0d035aed905339da78ac3a48654f70e693284f7ce84f90b553bb365b67f37"
+      }
+    },
+    {
+      "id": "dried-land-c50c3585f1",
+      "name": "Dried Land",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dried-land-c50c3585f1/dried-land-c50c3585f1.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 172643,
+        "sha256": "ce2629132764157b756e02a065f95bac2e8981a0ad680838d77d28449838b51d"
+      }
+    },
+    {
+      "id": "drinking-coffee-bf66d90820",
+      "name": "Drinking Coffee",
       "type": "illustration",
       "tags": [
         "doodle",
@@ -485,1414 +2850,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lemon-tea-f9f05e845f/lemon-tea-f9f05e845f.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/drinking-coffee-bf66d90820/drinking-coffee-bf66d90820.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9582
+        "bytes": 20363,
+        "sha256": "2ba438644cbf9c54bdfec69c14c78cae5b89f198d1dd90b291991823a27fb839"
       }
     },
     {
-      "id": "lighthouse-f7f79d3c6f",
-      "name": "Lighthouse",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lighthouse-f7f79d3c6f/lighthouse-f7f79d3c6f.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 129158
-      }
-    },
-    {
-      "id": "lily-716f96b1f3",
-      "name": "Lily",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lily-716f96b1f3/lily-716f96b1f3.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 279624
-      }
-    },
-    {
-      "id": "lily-flower-3404674aff",
-      "name": "Lily Flower",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "flower",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "flower"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lily-flower-3404674aff/lily-flower-3404674aff.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 217348
-      }
-    },
-    {
-      "id": "lily-flower-826c9e53c8",
-      "name": "Lily Flower",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "flower",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "flower"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lily-flower-826c9e53c8/lily-flower-826c9e53c8.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 8805
-      }
-    },
-    {
-      "id": "lily-pads-2ddbac18f0",
-      "name": "Lily Pads",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lily-pads-2ddbac18f0/lily-pads-2ddbac18f0.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 216753
-      }
-    },
-    {
-      "id": "log-fire-fc6832b132",
-      "name": "Log Fire",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "winter"
-      ],
-      "themes": [
-        "winter"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/log-fire-fc6832b132/log-fire-fc6832b132.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 16655
-      }
-    },
-    {
-      "id": "lotus-flowers-b9ec4fad94",
-      "name": "Lotus Flowers",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "flower",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "flower"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lotus-flowers-b9ec4fad94/lotus-flowers-b9ec4fad94.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 312124
-      }
-    },
-    {
-      "id": "lotus-pond-cd4f1630f0",
-      "name": "Lotus Pond",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lotus-pond-cd4f1630f0/lotus-pond-cd4f1630f0.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 12920
-      }
-    },
-    {
-      "id": "magnolia-leaves-be2b42228a",
-      "name": "Magnolia Leaves",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "leaf",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "leaf"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/magnolia-leaves-be2b42228a/magnolia-leaves-be2b42228a.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 279861
-      }
-    },
-    {
-      "id": "mangrove-forest-acef670694",
-      "name": "Mangrove Forest",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tree"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "tree"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mangrove-forest-acef670694/mangrove-forest-acef670694.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 175563
-      }
-    },
-    {
-      "id": "maple-leaf-66679b92e3",
-      "name": "Maple Leaf",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "leaf",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "leaf"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/maple-leaf-66679b92e3/maple-leaf-66679b92e3.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 307629
-      }
-    },
-    {
-      "id": "marigold-bud-06c312a5a8",
-      "name": "Marigold Bud",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/marigold-bud-06c312a5a8/marigold-bud-06c312a5a8.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 584266
-      }
-    },
-    {
-      "id": "marigold-buds-2d85bb27f7",
-      "name": "Marigold Buds",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/marigold-buds-2d85bb27f7/marigold-buds-2d85bb27f7.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 544509
-      }
-    },
-    {
-      "id": "melting-glacier-6d882ff861",
-      "name": "Melting Glacier",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/melting-glacier-6d882ff861/melting-glacier-6d882ff861.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11536
-      }
-    },
-    {
-      "id": "melting-iceberg-23445c4297",
-      "name": "Melting Iceberg",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/melting-iceberg-23445c4297/melting-iceberg-23445c4297.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 139144
-      }
-    },
-    {
-      "id": "mint-plant-5fe14595ac",
-      "name": "Mint Plant",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mint-plant-5fe14595ac/mint-plant-5fe14595ac.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 19704
-      }
-    },
-    {
-      "id": "mistletoe-1672113b9c",
-      "name": "Mistletoe",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "winter"
-      ],
-      "themes": [
-        "winter"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mistletoe-1672113b9c/mistletoe-1672113b9c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 25174
-      }
-    },
-    {
-      "id": "moon-0dcc89f6aa",
-      "name": "Moon",
-      "type": "icon",
-      "tags": [
-        "3d",
-        "dimensional",
-        "icon",
-        "moon",
-        "navigation-decoration",
-        "weather"
-      ],
-      "themes": [
-        "weather"
-      ],
-      "subjects": [
-        "moon"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "icon",
-        "navigation-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/icon/icon/moon-0dcc89f6aa/moon-0dcc89f6aa.webp",
-        "mimeType": "image/webp",
-        "bytes": 453950,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "moon-42b7f5e308",
-      "name": "Moon",
-      "type": "illustration",
-      "tags": [
-        "3d",
-        "clay",
-        "dimensional",
-        "hero-decoration",
-        "moon",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plasticine",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "moon"
-      ],
-      "styles": [
-        "3d",
-        "clay",
-        "dimensional",
-        "plasticine"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/moon-42b7f5e308/moon-42b7f5e308.webp",
-        "mimeType": "image/webp",
-        "bytes": 2028080,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "moon-stars-a1f5255f57",
-      "name": "Moon + Stars",
-      "type": "icon",
-      "tags": [
-        "3d",
-        "dimensional",
-        "icon",
-        "moon",
-        "navigation-decoration",
-        "star",
-        "weather"
-      ],
-      "themes": [
-        "weather"
-      ],
-      "subjects": [
-        "moon",
-        "star"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "icon",
-        "navigation-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/icon/icon/moon-stars-a1f5255f57/moon-stars-a1f5255f57.webp",
-        "mimeType": "image/webp",
-        "bytes": 403954,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "morning-glory-6de10a0d3b",
-      "name": "Morning Glory",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/morning-glory-6de10a0d3b/morning-glory-6de10a0d3b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 293314
-      }
-    },
-    {
-      "id": "moss-rock-35f2e23da6",
-      "name": "Moss Rock",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/moss-rock-35f2e23da6/moss-rock-35f2e23da6.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10823
-      }
-    },
-    {
-      "id": "mountain-9ce06a74f9",
-      "name": "Mountain",
-      "type": "illustration",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-decoration",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "toy"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain",
-        "toy"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-9ce06a74f9/mountain-9ce06a74f9.webp",
-        "mimeType": "image/webp",
-        "bytes": 747488,
-        "width": 1840,
-        "height": 1380
-      }
-    },
-    {
-      "id": "mountain-alpenglow-16d28c4976",
-      "name": "Mountain Alpenglow",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-alpenglow-16d28c4976/mountain-alpenglow-16d28c4976.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 238611
-      }
-    },
-    {
-      "id": "mountain-lake-9faf9ed724",
-      "name": "Mountain Lake",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-lake-9faf9ed724/mountain-lake-9faf9ed724.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 223812
-      }
-    },
-    {
-      "id": "mountain-loch-f16d5e4bb0",
-      "name": "Mountain Loch",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-loch-f16d5e4bb0/mountain-loch-f16d5e4bb0.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 201642
-      }
-    },
-    {
-      "id": "mountain-nobg-fcf012ebc3",
-      "name": "Mountain nobg",
-      "type": "illustration",
-      "tags": [
-        "3d",
-        "dimensional",
-        "hero-decoration",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "toy"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain",
-        "toy"
-      ],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-nobg-fcf012ebc3/mountain-nobg-fcf012ebc3.webp",
-        "mimeType": "image/webp",
-        "bytes": 760492,
-        "width": 1840,
-        "height": 1380
-      }
-    },
-    {
-      "id": "mountain-peak-bdc5c1df14",
-      "name": "Mountain Peak",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-peak-bdc5c1df14/mountain-peak-bdc5c1df14.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 6837
-      }
-    },
-    {
-      "id": "mountain-reflection-6053a613ca",
-      "name": "Mountain Reflection",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-reflection-6053a613ca/mountain-reflection-6053a613ca.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 398012
-      }
-    },
-    {
-      "id": "mountain-river-ed6676f07b",
-      "name": "Mountain River",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-river-ed6676f07b/mountain-river-ed6676f07b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 209483
-      }
-    },
-    {
-      "id": "mountain-scenery-a908681d58",
-      "name": "Mountain Scenery",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-scenery-a908681d58/mountain-scenery-a908681d58.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 176311
-      }
-    },
-    {
-      "id": "mountain-snowfall-ceed202ebf",
-      "name": "Mountain Snowfall",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-snowfall-ceed202ebf/mountain-snowfall-ceed202ebf.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 123798
-      }
-    },
-    {
-      "id": "mountain-view-06c590dfe1",
-      "name": "Mountain View",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-view-06c590dfe1/mountain-view-06c590dfe1.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 214477
-      }
-    },
-    {
-      "id": "mountain-waterfall-780ac5d519",
-      "name": "Mountain Waterfall",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-waterfall-780ac5d519/mountain-waterfall-780ac5d519.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 162505
-      }
-    },
-    {
-      "id": "mountains-6bc2c2454c",
-      "name": "Mountains",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "mountain",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "mountain"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountains-6bc2c2454c/mountains-6bc2c2454c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 154745
-      }
-    },
-    {
-      "id": "mushrooms-d9549e0535",
-      "name": "Mushrooms",
+      "id": "drops-957a8b8694",
+      "name": "Drops",
       "type": "illustration",
       "tags": [
         "3d",
@@ -1926,19 +2892,21 @@
       ],
       "preferredVariant": {
         "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mushrooms-d9549e0535/mushrooms-d9549e0535.webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/drops-957a8b8694/drops-957a8b8694.webp",
         "mimeType": "image/webp",
-        "bytes": 2070224,
+        "bytes": 1895918,
+        "sha256": "e7065d090827a8be80ca039a81564caf7fe435fb97074164d47fae19ecb5f6a3",
         "width": 2048,
         "height": 2048
       }
     },
     {
-      "id": "narcissus-e0aa56c77b",
-      "name": "Narcissus",
+      "id": "drought-land-23f9d108e3",
+      "name": "Drought Land",
       "type": "illustration",
       "tags": [
-        "botanical",
+        "doodle",
+        "hand-drawn",
         "hero-decoration",
         "line-art",
         "nature",
@@ -1947,11 +2915,12 @@
         "section-decoration"
       ],
       "themes": [
-        "botanical",
         "nature"
       ],
       "subjects": [],
       "styles": [
+        "doodle",
+        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -1966,33 +2935,33 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/narcissus-e0aa56c77b/narcissus-e0aa56c77b.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/drought-land-23f9d108e3/drought-land-23f9d108e3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 412921
+        "bytes": 8619,
+        "sha256": "27b4bf012441dde4343a071dc114e4b6513f4fa75e0b1b189ee0df939764b644"
       }
     },
     {
-      "id": "narcissus-flower-9aae51cca4",
-      "name": "Narcissus Flower",
+      "id": "dumplings-cedec932b4",
+      "name": "Dumplings",
       "type": "illustration",
       "tags": [
-        "botanical",
-        "flower",
+        "doodle",
+        "hand-drawn",
         "hero-decoration",
         "line-art",
-        "nature",
         "page-decoration",
         "photo-accent",
-        "section-decoration"
+        "section-decoration",
+        "winter"
       ],
       "themes": [
-        "botanical",
-        "nature"
+        "winter"
       ],
-      "subjects": [
-        "flower"
-      ],
+      "subjects": [],
       "styles": [
+        "doodle",
+        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -2007,22 +2976,108 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/narcissus-flower-9aae51cca4/narcissus-flower-9aae51cca4.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dumplings-cedec932b4/dumplings-cedec932b4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 193581
+        "bytes": 15012,
+        "sha256": "3e4d1c0d8bb1c93e1ac3e922e04532a38d40fed1454ac8831eca0c15967b2180"
       }
     },
     {
-      "id": "nature-203ecb144c",
-      "name": "Nature",
-      "type": "icon",
+      "id": "earmuffs-ad5b0d0ae1",
+      "name": "Earmuffs",
+      "type": "illustration",
       "tags": [
-        "3d",
-        "dimensional",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/earmuffs-ad5b0d0ae1/earmuffs-ad5b0d0ae1.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 36563,
+        "sha256": "e32b085c381b46cd1e940cd693d8c78168deb63949432c5b7819e7b668ea8020"
+      }
+    },
+    {
+      "id": "earmuffs-af25b7e2b6",
+      "name": "Earmuffs",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/earmuffs-af25b7e2b6/earmuffs-af25b7e2b6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15063,
+        "sha256": "af9299b8d56f1eb6c57fa50d69f79626843fdd0d8e29ebd4425bb0ecbc719e55"
+      }
+    },
+    {
+      "id": "eco-bag-69cc06ab96",
+      "name": "Eco Bag",
+      "type": "illustration",
+      "tags": [
+        "doodle",
         "ecology",
-        "icon",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
         "nature",
-        "navigation-decoration"
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
       ],
       "themes": [
         "ecology",
@@ -2030,1264 +3085,877 @@
       ],
       "subjects": [],
       "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eco-bag-69cc06ab96/eco-bag-69cc06ab96.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 7811,
+        "sha256": "993c5847e327de0b0101b676f31fcbe8c714deedc61c67ef6fe501aec12b4203"
+      }
+    },
+    {
+      "id": "elf-character-58aee82346",
+      "name": "Elf Character",
+      "type": "character",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/elf-character-58aee82346/elf-character-58aee82346.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20640,
+        "sha256": "18beb92a852178461bbd7af2c36acca86be51251e0bf729b80bd76853c4b047c"
+      }
+    },
+    {
+      "id": "elf-hat-ccb5a2fc45",
+      "name": "Elf Hat",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/elf-hat-ccb5a2fc45/elf-hat-ccb5a2fc45.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 34049,
+        "sha256": "9b800063b2b6eda080228bd573b9b8b0d26c1c77c51e28cbd827d85db03bbed4"
+      }
+    },
+    {
+      "id": "elf-shoes-31736f954e",
+      "name": "Elf Shoes",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/elf-shoes-31736f954e/elf-shoes-31736f954e.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 32422,
+        "sha256": "1368a056f9e574f4d63e8c080794c6a4ed60687bb18c8b5ecb6b6c35fedad4ef"
+      }
+    },
+    {
+      "id": "enjoying-coffee-a08b971fc5",
+      "name": "Enjoying Coffee",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "food",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [
+        "food"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/enjoying-coffee-a08b971fc5/enjoying-coffee-a08b971fc5.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 23623,
+        "sha256": "84c27ef155334ff59309dcceface4f1cb18184000562395a30b8b80ce76559e0"
+      }
+    },
+    {
+      "id": "enjoying-winter-f0dae6b039",
+      "name": "Enjoying Winter",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/enjoying-winter-f0dae6b039/enjoying-winter-f0dae6b039.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13473,
+        "sha256": "d9df5420092c777e8866d91054951d19adc6151f5eaf7211f9788a680bb2928b"
+      }
+    },
+    {
+      "id": "eucalyptus-6bf43567be",
+      "name": "Eucalyptus",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eucalyptus-6bf43567be/eucalyptus-6bf43567be.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 304146,
+        "sha256": "d9ce435174757e4804eddf1539ea6bd7eeddbb65bb2a146a2879c3dec532ccab"
+      }
+    },
+    {
+      "id": "eucalyptus-leaves-f5c3ae9ae3",
+      "name": "Eucalyptus Leaves",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "leaf",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "leaf"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eucalyptus-leaves-f5c3ae9ae3/eucalyptus-leaves-f5c3ae9ae3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 233364,
+        "sha256": "fa6209f7c3d2bb428f1f01ea0fd2d5ddd6de4d2c343f372129d7093e625b8490"
+      }
+    },
+    {
+      "id": "eucalyptus-plant-485ac165f5",
+      "name": "Eucalyptus Plant",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plant",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "plant"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eucalyptus-plant-485ac165f5/eucalyptus-plant-485ac165f5.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 267288,
+        "sha256": "435e3822f3c016f90aa7c08edc6d9013ec06497ee11a1df4f6b03cf556e64eb8"
+      }
+    },
+    {
+      "id": "evening-landscape-7db0b5c340",
+      "name": "Evening Landscape",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/evening-landscape-7db0b5c340/evening-landscape-7db0b5c340.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 145608,
+        "sha256": "56d078988b07a619329c5126e8eb186444003deb1862b4a95ef9014f4ee75b23"
+      }
+    },
+    {
+      "id": "evening-scenery-7b262a795f",
+      "name": "Evening Scenery",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/evening-scenery-7b262a795f/evening-scenery-7b262a795f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 245494,
+        "sha256": "5b25f52b8484403c4f83ada16e5882ce2b75b9ad370298b3c0dffecc28c0f819"
+      }
+    },
+    {
+      "id": "evergreen-branch-014a5b6f1f",
+      "name": "Evergreen Branch",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/evergreen-branch-014a5b6f1f/evergreen-branch-014a5b6f1f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24597,
+        "sha256": "9597b29f94202a16cdcc2d57c192c6f03918cbd7b451c1113748e513562013b2"
+      }
+    },
+    {
+      "id": "fall-landscape-5b6a32f427",
+      "name": "Fall Landscape",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fall-landscape-5b6a32f427/fall-landscape-5b6a32f427.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 237938,
+        "sha256": "a8c4771913316571952e3d452ae52d0be0a229511cba55ef0a0cd82caa8ca600"
+      }
+    },
+    {
+      "id": "farmer-a82c373a20",
+      "name": "Farmer",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farmer-a82c373a20/farmer-a82c373a20.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14826,
+        "sha256": "f7f461ca0a1ca1531b74aa9b63481e2875bb1acf99a34d662ff20e1ffffe99c8"
+      }
+    },
+    {
+      "id": "farmland-eea4e0402b",
+      "name": "Farmland",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farmland-eea4e0402b/farmland-eea4e0402b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 98851,
+        "sha256": "e2b888bbd7146df8ce0437891d6386c4be9cace0f74762a5c0561e24ddc7e62c"
+      }
+    },
+    {
+      "id": "feather-leaf-870f1f3c10",
+      "name": "Feather Leaf",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "leaf",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "leaf"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/feather-leaf-870f1f3c10/feather-leaf-870f1f3c10.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9491,
+        "sha256": "bc45fc4c4827983f764f3d354aeefe4ff72550276e80e21c9a0313b986abf686"
+      }
+    },
+    {
+      "id": "fern-frond-535a3c46d3",
+      "name": "Fern Frond",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fern-frond-535a3c46d3/fern-frond-535a3c46d3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 456950,
+        "sha256": "3b490a7b271d55fa15dab24dcdce803239bbf9d78765d9113cacfe97e6be2006"
+      }
+    },
+    {
+      "id": "fern-leaves-3ec4af6afa",
+      "name": "Fern Leaves",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "leaf",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "leaf"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fern-leaves-3ec4af6afa/fern-leaves-3ec4af6afa.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 859726,
+        "sha256": "572946a5e580340a81aed73c4543200bfbc05f9a133ec335c9526b84d8e6190d"
+      }
+    },
+    {
+      "id": "festive-cookies-053f5afadd",
+      "name": "Festive Cookies",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/festive-cookies-053f5afadd/festive-cookies-053f5afadd.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16934,
+        "sha256": "2fb5e5b6a9a7bae77b3b4ea4bd41d7e2d5dd1d492deb2c13999fd2ee2f850493"
+      }
+    },
+    {
+      "id": "fields-b292c214da",
+      "name": "Fields",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fields-b292c214da/fields-b292c214da.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 243423,
+        "sha256": "302ab8e1700b36777a6cd203c589db5b0b276df99a0f3582b47bdb2e79dd076f"
+      }
+    },
+    {
+      "id": "fire-6b37693865",
+      "name": "fire",
+      "type": "texture",
+      "tags": [
+        "3d",
+        "background",
+        "dimensional",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
         "3d",
         "dimensional"
       ],
       "useCases": [
-        "icon",
-        "navigation-decoration"
-      ],
-      "availableFormats": [
-        "glb",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/icon/icon/nature-203ecb144c/nature-203ecb144c.webp",
-        "mimeType": "image/webp",
-        "bytes": 506504,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "nature-doodles-a463967a96",
-      "name": "Nature Doodles",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/nature-doodles-a463967a96/nature-doodles-a463967a96.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 699770
-      }
-    },
-    {
-      "id": "nature-landscapes-illustrations-025a95c6b8",
-      "name": "Nature Landscapes Illustrations",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/nature-landscapes-illustrations-025a95c6b8/nature-landscapes-illustrations-025a95c6b8.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13381333
-      }
-    },
-    {
-      "id": "nature-spirit-cf586450d0",
-      "name": "Nature Spirit",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/nature-spirit-cf586450d0/nature-spirit-cf586450d0.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 29095
-      }
-    },
-    {
-      "id": "north-pole-23e618af4c",
-      "name": "North Pole",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "winter"
-      ],
-      "themes": [
-        "winter"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/north-pole-23e618af4c/north-pole-23e618af4c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 16491
-      }
-    },
-    {
-      "id": "nutcracker-soldier-22f52efec3",
-      "name": "Nutcracker Soldier",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "winter"
-      ],
-      "themes": [
-        "winter"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/nutcracker-soldier-22f52efec3/nutcracker-soldier-22f52efec3.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 40892
-      }
-    },
-    {
-      "id": "oak-branches-1a5971fdd2",
-      "name": "Oak Branches",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oak-branches-1a5971fdd2/oak-branches-1a5971fdd2.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 427857
-      }
-    },
-    {
-      "id": "oak-foliage-9b52109478",
-      "name": "Oak Foliage",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "leaf",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "leaf"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oak-foliage-9b52109478/oak-foliage-9b52109478.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 1321514
-      }
-    },
-    {
-      "id": "oak-leaves-92e1d0e19c",
-      "name": "Oak Leaves",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "leaf",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "leaf"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oak-leaves-92e1d0e19c/oak-leaves-92e1d0e19c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 344841
-      }
-    },
-    {
-      "id": "oak-tree-7c78d14893",
-      "name": "Oak Tree",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tree"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [
-        "tree"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oak-tree-7c78d14893/oak-tree-7c78d14893.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14913
-      }
-    },
-    {
-      "id": "orchid-flower-bd8de25f94",
-      "name": "Orchid Flower",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "flower",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "flower"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/orchid-flower-bd8de25f94/orchid-flower-bd8de25f94.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 232401
-      }
-    },
-    {
-      "id": "origano-stem-d913171d09",
-      "name": "Origano Stem",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/origano-stem-d913171d09/origano-stem-d913171d09.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 252075
-      }
-    },
-    {
-      "id": "ozone-layer-fde76e40c1",
-      "name": "Ozone Layer",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ozone-layer-fde76e40c1/ozone-layer-fde76e40c1.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13729
-      }
-    },
-    {
-      "id": "pagoda-view-f87894cbb6",
-      "name": "Pagoda View",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pagoda-view-f87894cbb6/pagoda-view-f87894cbb6.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 186736
-      }
-    },
-    {
-      "id": "palm-fronds-f062bd49c6",
-      "name": "Palm Fronds",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tree",
-        "tropical"
-      ],
-      "themes": [
-        "botanical",
-        "nature",
-        "tropical"
-      ],
-      "subjects": [
-        "tree"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-fronds-f062bd49c6/palm-fronds-f062bd49c6.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 237774
-      }
-    },
-    {
-      "id": "palm-island-bbac7f1a72",
-      "name": "Palm Island",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tree",
-        "tropical"
-      ],
-      "themes": [
-        "nature",
-        "tropical"
-      ],
-      "subjects": [
-        "tree"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-island-bbac7f1a72/palm-island-bbac7f1a72.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 206993
-      }
-    },
-    {
-      "id": "palm-tree-ee4d43794a",
-      "name": "Palm tree",
-      "type": "illustration",
-      "tags": [
-        "3d",
-        "clay",
-        "dimensional",
-        "hero-decoration",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plasticine",
-        "section-decoration",
-        "tree",
-        "tropical"
-      ],
-      "themes": [
-        "nature",
-        "tropical"
-      ],
-      "subjects": [
-        "tree"
-      ],
-      "styles": [
-        "3d",
-        "clay",
-        "dimensional",
-        "plasticine"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
+        "background"
       ],
       "availableFormats": [
         "webp"
       ],
       "preferredVariant": {
         "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-tree-ee4d43794a/palm-tree-ee4d43794a.webp",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/fire-6b37693865/fire-6b37693865.webp",
         "mimeType": "image/webp",
-        "bytes": 2119378,
-        "width": 2048,
-        "height": 2048
+        "bytes": 47996,
+        "sha256": "f671509adae33903918d3506f361117ca6219d8492bcb5ee337dfa459dd8f6b7",
+        "width": 212,
+        "height": 500
       }
     },
     {
-      "id": "palm-trees-9215ddcc31",
-      "name": "Palm Trees",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tree",
-        "tropical"
-      ],
-      "themes": [
-        "nature",
-        "tropical"
-      ],
-      "subjects": [
-        "tree"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-trees-9215ddcc31/palm-trees-9215ddcc31.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 184907
-      }
-    },
-    {
-      "id": "pampas-grass-737cb7e638",
-      "name": "Pampas Grass",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pampas-grass-737cb7e638/pampas-grass-737cb7e638.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17806
-      }
-    },
-    {
-      "id": "paradise-plant-f090b6624a",
-      "name": "Paradise Plant",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/paradise-plant-f090b6624a/paradise-plant-f090b6624a.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 355639
-      }
-    },
-    {
-      "id": "parsley-9c97958c2b",
-      "name": "Parsley",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/parsley-9c97958c2b/parsley-9c97958c2b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 269067
-      }
-    },
-    {
-      "id": "party-horn-5a0a24841c",
-      "name": "Party Horn",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "winter"
-      ],
-      "themes": [
-        "celebration",
-        "winter"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/party-horn-5a0a24841c/party-horn-5a0a24841c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17123
-      }
-    },
-    {
-      "id": "pebble-stones-f4b4009786",
-      "name": "Pebble Stones",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pebble-stones-f4b4009786/pebble-stones-f4b4009786.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 7492
-      }
-    },
-    {
-      "id": "penguin-1d0d0f8580",
-      "name": "Penguin",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "winter"
-      ],
-      "themes": [
-        "winter"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/penguin-1d0d0f8580/penguin-1d0d0f8580.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 56616
-      }
-    },
-    {
-      "id": "peony-120b50c047",
-      "name": "Peony",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/peony-120b50c047/peony-120b50c047.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 709560
-      }
-    },
-    {
-      "id": "peony-stem-e5fadcc4b1",
-      "name": "Peony Stem",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/peony-stem-e5fadcc4b1/peony-stem-e5fadcc4b1.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 326759
-      }
-    },
-    {
-      "id": "peppermint-mocha-b351078acc",
-      "name": "Peppermint Mocha",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "winter"
-      ],
-      "themes": [
-        "winter"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/peppermint-mocha-b351078acc/peppermint-mocha-b351078acc.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 26690
-      }
-    },
-    {
-      "id": "pine-branch-708dddbd21",
-      "name": "Pine Branch",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pine-branch-708dddbd21/pine-branch-708dddbd21.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 340948
-      }
-    },
-    {
-      "id": "pine-forrest-718c9b94ba",
-      "name": "Pine Forrest",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pine-forrest-718c9b94ba/pine-forrest-718c9b94ba.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 421803
-      }
-    },
-    {
-      "id": "pine-tree-a7527d244e",
-      "name": "Pine Tree",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tree",
-        "winter"
-      ],
-      "themes": [
-        "winter"
-      ],
-      "subjects": [
-        "tree"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pine-tree-a7527d244e/pine-tree-a7527d244e.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 43257
-      }
-    },
-    {
-      "id": "plant-2869ce6913",
-      "name": "Plant",
-      "type": "illustration",
+      "id": "fire-mask-edbefad2ed",
+      "name": "fire mask",
+      "type": "texture",
       "tags": [
         "3d",
-        "botanical",
-        "clay",
+        "background",
         "dimensional",
-        "hero-decoration",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "plasticine",
-        "section-decoration"
+        "winter"
       ],
       "themes": [
-        "botanical",
-        "nature"
+        "winter"
       ],
-      "subjects": [
-        "plant"
-      ],
+      "subjects": [],
       "styles": [
         "3d",
-        "clay",
-        "dimensional",
-        "plasticine"
+        "dimensional"
       ],
       "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
+        "background"
       ],
       "availableFormats": [
         "webp"
       ],
       "preferredVariant": {
         "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-2869ce6913/plant-2869ce6913.webp",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/fire-mask-edbefad2ed/fire-mask-edbefad2ed.webp",
         "mimeType": "image/webp",
-        "bytes": 1882594,
-        "width": 2048,
-        "height": 2048
+        "bytes": 24486,
+        "sha256": "05526936aa43ab62106971d3c21f16cec578186a52db430f391eab1d49b683a2",
+        "width": 212,
+        "height": 500
       }
     },
     {
-      "id": "plant-book-fab5d43a23",
-      "name": "Plant Book",
+      "id": "fireplace-319ccc1961",
+      "name": "Fireplace",
       "type": "illustration",
       "tags": [
-        "book",
-        "botanical",
-        "doodle",
-        "hand-drawn",
         "hero-decoration",
-        "library",
         "line-art",
-        "nature",
         "page-decoration",
         "photo-accent",
-        "plant",
-        "reading",
-        "section-decoration"
+        "section-decoration",
+        "winter"
       ],
       "themes": [
-        "botanical",
-        "library",
-        "nature",
-        "reading"
+        "winter"
       ],
-      "subjects": [
-        "book",
-        "plant"
-      ],
+      "subjects": [],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -3302,626 +3970,17 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-book-fab5d43a23/plant-book-fab5d43a23.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fireplace-319ccc1961/fireplace-319ccc1961.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9786
+        "bytes": 95942,
+        "sha256": "52c4ce7f0efe898994e195440bcc834a89df6f00e612ed386b9590aeeee2c7b8"
       }
     },
     {
-      "id": "plant-caddy-e098930793",
-      "name": "Plant Caddy",
+      "id": "fireplace-ee51224abf",
+      "name": "Fireplace",
       "type": "illustration",
       "tags": [
-        "botanical",
-        "doodle",
-        "garden",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-caddy-e098930793/plant-caddy-e098930793.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15557
-      }
-    },
-    {
-      "id": "plant-cloche-16632c2bc0",
-      "name": "Plant Cloche",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "garden",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-cloche-16632c2bc0/plant-cloche-16632c2bc0.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10483
-      }
-    },
-    {
-      "id": "plant-dome-ee93351b23",
-      "name": "Plant Dome",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "garden",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-dome-ee93351b23/plant-dome-ee93351b23.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 8430
-      }
-    },
-    {
-      "id": "plant-reproduction-d8591fada2",
-      "name": "Plant Reproduction",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature",
-        "science"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-reproduction-d8591fada2/plant-reproduction-d8591fada2.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 22552
-      }
-    },
-    {
-      "id": "plant-roots-a06fd36a82",
-      "name": "Plant Roots",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-roots-a06fd36a82/plant-roots-a06fd36a82.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17039
-      }
-    },
-    {
-      "id": "plant-shelf-b5883afcaf",
-      "name": "Plant Shelf",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "garden",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-shelf-b5883afcaf/plant-shelf-b5883afcaf.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 8096
-      }
-    },
-    {
-      "id": "plant-stand-31ba3b47c3",
-      "name": "Plant Stand",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "garden",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-stand-31ba3b47c3/plant-stand-31ba3b47c3.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 6494
-      }
-    },
-    {
-      "id": "plant-study-46fdcc09df",
-      "name": "Plant Study",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "classroom",
-        "nature",
-        "school"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-study-46fdcc09df/plant-study-46fdcc09df.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15637
-      }
-    },
-    {
-      "id": "plant-testing-bfc6364e85",
-      "name": "Plant Testing",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature",
-        "science"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-testing-bfc6364e85/plant-testing-bfc6364e85.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14890
-      }
-    },
-    {
-      "id": "plant-tissue-a3e5424b4b",
-      "name": "Plant Tissue",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature",
-        "science"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-tissue-a3e5424b4b/plant-tissue-a3e5424b4b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10161
-      }
-    },
-    {
-      "id": "plant-tray-43549e7638",
-      "name": "Plant Tray",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "garden",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-tray-43549e7638/plant-tray-43549e7638.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11869
-      }
-    },
-    {
-      "id": "plant-trellis-9cfbeab81a",
-      "name": "Plant Trellis",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "garden",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-trellis-9cfbeab81a/plant-trellis-9cfbeab81a.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11493
-      }
-    },
-    {
-      "id": "planting-flower-6be28b584a",
-      "name": "Planting Flower",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "flower",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "flower"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/planting-flower-6be28b584a/planting-flower-6be28b584a.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 22300
-      }
-    },
-    {
-      "id": "polar-bear-3dede004f4",
-      "name": "Polar Bear",
-      "type": "illustration",
-      "tags": [
-        "animal",
         "doodle",
         "hand-drawn",
         "hero-decoration",
@@ -3934,133 +3993,8 @@
       "themes": [
         "winter"
       ],
-      "subjects": [
-        "animal"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/polar-bear-3dede004f4/polar-bear-3dede004f4.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 43351
-      }
-    },
-    {
-      "id": "poppy-fields-6cf08eee9c",
-      "name": "Poppy Fields",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
       "subjects": [],
       "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/poppy-fields-6cf08eee9c/poppy-fields-6cf08eee9c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 447211
-      }
-    },
-    {
-      "id": "poppy-pod-982053bba7",
-      "name": "Poppy Pod",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/poppy-pod-982053bba7/poppy-pod-982053bba7.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 218682
-      }
-    },
-    {
-      "id": "potted-plant-7d05008c37",
-      "name": "Potted Plant",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "garden",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
         "doodle",
         "hand-drawn",
         "line-art"
@@ -4077,50 +4011,10 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/potted-plant-7d05008c37/potted-plant-7d05008c37.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fireplace-ee51224abf/fireplace-ee51224abf.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9790
-      }
-    },
-    {
-      "id": "potted-plant-c5d8437911",
-      "name": "Potted Plant",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/potted-plant-c5d8437911/potted-plant-c5d8437911.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 215787
+        "bytes": 6876,
+        "sha256": "d183ba65bdf29be982b422cdadbf638402b94603f9ae222d6a2a7c97284ddae7"
       }
     }
   ]

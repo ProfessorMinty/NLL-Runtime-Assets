@@ -6,129 +6,95 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Pumpkin Patch.",
     "collectionIds": [
       "album-theme-pumpkin-patch"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "top-trim",
+      "bottom-trim",
+      "photo-frame",
+      "background",
+      "divider"
     ]
   },
   "assetSlots": {
     "banner": [
-      "almond-bowl-bfb39ca0ce",
-      "animal-feeder-fceab76f4c",
-      "automatic-feeder-a7fa3ffa81",
-      "autumn-cottage-837a7383bd",
-      "autumn-forest-7e0183a203",
-      "autumn-splendor-94a8692f6e",
-      "autumn-trees-e4724a21c4",
-      "bale-grabber-8490471370"
+      "baking-pumpkin-877b756e5c",
+      "craving-pumpkin-b6b338356f",
+      "harvest-pumpkins-bdf3ba435b",
+      "holding-a-pumpkin-cad9fd094c",
+      "pumpkin-8b98cd594e",
+      "pumpkin-cart-06a73b8406",
+      "pumpkin-cart-65a5784293",
+      "pumpkin-cart-e7070f8c3d"
     ],
     "top-trim": [],
     "bottom-trim": [],
     "photo-frame": [],
     "corner-accent": [
-      "almond-bowl-bfb39ca0ce",
-      "animal-feeder-fceab76f4c",
-      "automatic-feeder-a7fa3ffa81",
-      "autumn-cottage-837a7383bd",
-      "autumn-forest-7e0183a203",
-      "autumn-splendor-94a8692f6e",
-      "autumn-trees-e4724a21c4",
-      "bale-grabber-8490471370"
+      "baking-pumpkin-877b756e5c",
+      "craving-pumpkin-b6b338356f",
+      "harvest-pumpkins-bdf3ba435b",
+      "holding-a-pumpkin-cad9fd094c",
+      "pumpkin-8b98cd594e",
+      "pumpkin-cart-06a73b8406",
+      "pumpkin-cart-65a5784293",
+      "pumpkin-cart-e7070f8c3d"
     ],
     "background": [],
     "divider": [],
     "decorations": [
-      "almond-bowl-bfb39ca0ce",
-      "animal-feeder-fceab76f4c",
-      "automatic-feeder-a7fa3ffa81",
-      "autumn-cottage-837a7383bd",
-      "autumn-forest-7e0183a203",
-      "autumn-splendor-94a8692f6e",
-      "autumn-trees-e4724a21c4",
-      "bale-grabber-8490471370",
-      "barn-273f8af229",
-      "bell-b45739e887",
-      "birdhouse-b2a7830faa",
-      "blooming-flowers-9cc5b9a46b",
-      "cabbage-edbd0d1612",
-      "carrot-box-5542924338",
-      "cattle-farm-f76626211b",
-      "cattle-prodder-b6c45fe679",
-      "corn-plant-a56f1031a5",
-      "cow-10815fc4e2",
-      "door-229f828fb4",
-      "drilling-machine-fd049a3231",
-      "dumper-305ea38b11",
-      "egg-collector-f7db41045e",
-      "egg-incubator-c649fdbd77",
-      "egg-tray-deec8a412e"
+      "baking-pumpkin-877b756e5c",
+      "craving-pumpkin-b6b338356f",
+      "harvest-pumpkins-bdf3ba435b",
+      "holding-a-pumpkin-cad9fd094c",
+      "pumpkin-8b98cd594e",
+      "pumpkin-cart-06a73b8406",
+      "pumpkin-cart-65a5784293",
+      "pumpkin-cart-e7070f8c3d",
+      "pumpkin-carving-3d57098a25",
+      "pumpkin-f5915b6481",
+      "pumpkin-latte-54d47311ef",
+      "pumpkin-pie-4e1f58fbd6",
+      "pumpkin-pie-eac02a5360",
+      "spooky-pumpkins-2a8f1b50fd",
+      "gourd-centerpiece-4bdb188d06",
+      "harvest-basket-bcdea75037",
+      "harvest-fruits-2bf3d25715",
+      "1-3215a5c2b4",
+      "10-e134a5203d",
+      "11-0eaa009739",
+      "12-6931637962",
+      "13-80b6f185fc",
+      "14-871dfb5591",
+      "15-a34cdd71b0"
     ]
   },
   "assetCount": 24,
   "assets": [
     {
-      "id": "almond-bowl-bfb39ca0ce",
-      "name": "Almond Bowl",
+      "id": "baking-pumpkin-877b756e5c",
+      "name": "Baking Pumpkin",
       "type": "illustration",
       "tags": [
+        "autumn",
         "doodle",
-        "farming",
         "hand-drawn",
         "harvest",
         "hero-decoration",
         "line-art",
         "page-decoration",
         "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
         "section-decoration"
       ],
       "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/almond-bowl-bfb39ca0ce/almond-bowl-bfb39ca0ce.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 19961
-      }
-    },
-    {
-      "id": "animal-feeder-fceab76f4c",
-      "name": "Animal Feeder",
-      "type": "illustration",
-      "tags": [
-        "animal",
-        "doodle",
-        "farming",
-        "hand-drawn",
+        "autumn",
         "harvest",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest",
-        "nature"
+        "pumpkin-patch"
       ],
       "subjects": [
-        "animal"
+        "pumpkin"
       ],
       "styles": [
         "doodle",
@@ -147,113 +113,40 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-feeder-fceab76f4c/animal-feeder-fceab76f4c.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/baking-pumpkin-877b756e5c/baking-pumpkin-877b756e5c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9097
+        "bytes": 12562,
+        "sha256": "6c13c5d215c0a0012d33596d5f7511dde44822f4ca995aada98b386142b30834"
       }
     },
     {
-      "id": "automatic-feeder-a7fa3ffa81",
-      "name": "Automatic Feeder",
+      "id": "craving-pumpkin-b6b338356f",
+      "name": "Craving Pumpkin",
       "type": "illustration",
       "tags": [
+        "autumn",
         "doodle",
-        "farming",
         "hand-drawn",
         "harvest",
         "hero-decoration",
         "line-art",
         "page-decoration",
         "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/automatic-feeder-a7fa3ffa81/automatic-feeder-a7fa3ffa81.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5073
-      }
-    },
-    {
-      "id": "autumn-cottage-837a7383bd",
-      "name": "Autumn Cottage",
-      "type": "illustration",
-      "tags": [
-        "autumn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
         "section-decoration"
       ],
       "themes": [
         "autumn",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/autumn-cottage-837a7383bd/autumn-cottage-837a7383bd.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 150831
-      }
-    },
-    {
-      "id": "autumn-forest-7e0183a203",
-      "name": "Autumn Forest",
-      "type": "illustration",
-      "tags": [
-        "autumn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tree"
-      ],
-      "themes": [
-        "autumn",
-        "nature"
+        "harvest",
+        "pumpkin-patch"
       ],
       "subjects": [
-        "tree"
+        "pumpkin"
       ],
       "styles": [
+        "doodle",
+        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -268,69 +161,36 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/autumn-forest-7e0183a203/autumn-forest-7e0183a203.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/craving-pumpkin-b6b338356f/craving-pumpkin-b6b338356f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 104254
+        "bytes": 20329,
+        "sha256": "0bd976df5acd8b1889a4d0c4fab7eab330d300615024a10f026a31136b83d864"
       }
     },
     {
-      "id": "autumn-splendor-94a8692f6e",
-      "name": "Autumn Splendor",
+      "id": "harvest-pumpkins-bdf3ba435b",
+      "name": "Harvest Pumpkins",
       "type": "illustration",
       "tags": [
         "autumn",
+        "farming",
+        "harvest",
         "hero-decoration",
         "line-art",
-        "nature",
         "page-decoration",
         "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
         "section-decoration"
       ],
       "themes": [
         "autumn",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/autumn-splendor-94a8692f6e/autumn-splendor-94a8692f6e.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 186922
-      }
-    },
-    {
-      "id": "autumn-trees-e4724a21c4",
-      "name": "Autumn Trees",
-      "type": "illustration",
-      "tags": [
-        "autumn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tree"
-      ],
-      "themes": [
-        "autumn",
-        "nature"
+        "farming",
+        "harvest",
+        "pumpkin-patch"
       ],
       "subjects": [
-        "tree"
+        "pumpkin"
       ],
       "styles": [
         "line-art"
@@ -347,205 +207,36 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/autumn-trees-e4724a21c4/autumn-trees-e4724a21c4.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/harvest-pumpkins-bdf3ba435b/harvest-pumpkins-bdf3ba435b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 384699
+        "bytes": 239223,
+        "sha256": "0c11799ea7639b2f6add6493cbe642a38f813c79b0b9a5edd47232ce2e484fc2"
       }
     },
     {
-      "id": "bale-grabber-8490471370",
-      "name": "Bale Grabber",
+      "id": "holding-a-pumpkin-cad9fd094c",
+      "name": "Holding A Pumpkin",
       "type": "illustration",
       "tags": [
+        "autumn",
         "doodle",
-        "farming",
         "hand-drawn",
         "harvest",
         "hero-decoration",
         "line-art",
         "page-decoration",
         "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
         "section-decoration"
       ],
       "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bale-grabber-8490471370/bale-grabber-8490471370.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 20462
-      }
-    },
-    {
-      "id": "barn-273f8af229",
-      "name": "Barn",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
+        "autumn",
         "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/barn-273f8af229/barn-273f8af229.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 6500
-      }
-    },
-    {
-      "id": "bell-b45739e887",
-      "name": "Bell",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bell-b45739e887/bell-b45739e887.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5953
-      }
-    },
-    {
-      "id": "birdhouse-b2a7830faa",
-      "name": "Birdhouse",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/birdhouse-b2a7830faa/birdhouse-b2a7830faa.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5933
-      }
-    },
-    {
-      "id": "blooming-flowers-9cc5b9a46b",
-      "name": "Blooming Flowers",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "farming",
-        "flower",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "farming",
-        "harvest",
-        "nature"
+        "pumpkin-patch"
       ],
       "subjects": [
-        "flower"
+        "pumpkin"
       ],
       "styles": [
         "doodle",
@@ -564,203 +255,36 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/blooming-flowers-9cc5b9a46b/blooming-flowers-9cc5b9a46b.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/holding-a-pumpkin-cad9fd094c/holding-a-pumpkin-cad9fd094c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 21356
+        "bytes": 15112,
+        "sha256": "9eed8ff3c905aef1381718eb383a9275bdc8e76ae9debf606bdb41677a257ecf"
       }
     },
     {
-      "id": "cabbage-edbd0d1612",
-      "name": "Cabbage",
+      "id": "pumpkin-8b98cd594e",
+      "name": "Pumpkin",
       "type": "illustration",
       "tags": [
+        "autumn",
         "doodle",
-        "farming",
         "hand-drawn",
         "harvest",
         "hero-decoration",
         "line-art",
         "page-decoration",
         "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
         "section-decoration"
       ],
       "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cabbage-edbd0d1612/cabbage-edbd0d1612.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14488
-      }
-    },
-    {
-      "id": "carrot-box-5542924338",
-      "name": "Carrot Box",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
+        "autumn",
         "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/carrot-box-5542924338/carrot-box-5542924338.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 20072
-      }
-    },
-    {
-      "id": "cattle-farm-f76626211b",
-      "name": "Cattle Farm",
-      "type": "illustration",
-      "tags": [
-        "farming",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cattle-farm-f76626211b/cattle-farm-f76626211b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 303070
-      }
-    },
-    {
-      "id": "cattle-prodder-b6c45fe679",
-      "name": "Cattle Prodder",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cattle-prodder-b6c45fe679/cattle-prodder-b6c45fe679.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5399
-      }
-    },
-    {
-      "id": "corn-plant-a56f1031a5",
-      "name": "Corn Plant",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "farming",
-        "harvest",
-        "nature"
+        "pumpkin-patch"
       ],
       "subjects": [
-        "plant"
+        "pumpkin"
       ],
       "styles": [
         "doodle",
@@ -779,16 +303,484 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/corn-plant-a56f1031a5/corn-plant-a56f1031a5.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pumpkin-8b98cd594e/pumpkin-8b98cd594e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15483
+        "bytes": 60825,
+        "sha256": "4726028109204d3c8515a6c6b8f74233d5360c0a40807c79ac4535c854f416e5"
       }
     },
     {
-      "id": "cow-10815fc4e2",
-      "name": "Cow",
+      "id": "pumpkin-cart-06a73b8406",
+      "name": "Pumpkin Cart",
       "type": "illustration",
       "tags": [
+        "autumn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "harvest",
+        "pumpkin-patch"
+      ],
+      "subjects": [
+        "pumpkin"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pumpkin-cart-06a73b8406/pumpkin-cart-06a73b8406.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 206962,
+        "sha256": "f08a8ec66ad59131b25e91440c4ab08a02deec3c6c8ce8743b8ea5d874fdd2c7"
+      }
+    },
+    {
+      "id": "pumpkin-cart-65a5784293",
+      "name": "Pumpkin Cart",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "doodle",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "harvest",
+        "pumpkin-patch"
+      ],
+      "subjects": [
+        "pumpkin"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pumpkin-cart-65a5784293/pumpkin-cart-65a5784293.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 57710,
+        "sha256": "1f308e9b4d16ee8a93f77316bf984946b3053c5467ed826e1df697312aa5c2be"
+      }
+    },
+    {
+      "id": "pumpkin-cart-e7070f8c3d",
+      "name": "Pumpkin Cart",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "doodle",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "harvest",
+        "pumpkin-patch"
+      ],
+      "subjects": [
+        "pumpkin"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pumpkin-cart-e7070f8c3d/pumpkin-cart-e7070f8c3d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 21774,
+        "sha256": "6b7bb85caed6433652bfde32dd3596293b7edb3c655d75b0c4ab913d14dad3f0"
+      }
+    },
+    {
+      "id": "pumpkin-carving-3d57098a25",
+      "name": "Pumpkin Carving",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "harvest",
+        "pumpkin-patch"
+      ],
+      "subjects": [
+        "pumpkin"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pumpkin-carving-3d57098a25/pumpkin-carving-3d57098a25.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 203387,
+        "sha256": "2f556c8c1dd1d4bb737eb4a99d70e413017411e49d48f1d20a2f9ad2fdf97878"
+      }
+    },
+    {
+      "id": "pumpkin-f5915b6481",
+      "name": "Pumpkin",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "doodle",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "harvest",
+        "pumpkin-patch"
+      ],
+      "subjects": [
+        "pumpkin"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pumpkin-f5915b6481/pumpkin-f5915b6481.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9950,
+        "sha256": "ae7d3a63f921da44cd1db5dab21bf3964476204de055f3973578d14b8c560d26"
+      }
+    },
+    {
+      "id": "pumpkin-latte-54d47311ef",
+      "name": "Pumpkin Latte",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "doodle",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "harvest",
+        "pumpkin-patch"
+      ],
+      "subjects": [
+        "pumpkin"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pumpkin-latte-54d47311ef/pumpkin-latte-54d47311ef.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 27952,
+        "sha256": "b55c7a2061d4565d067f48e3f1f17f83e68981f2abe718645394f8fee6f97e2f"
+      }
+    },
+    {
+      "id": "pumpkin-pie-4e1f58fbd6",
+      "name": "Pumpkin Pie",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "doodle",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "harvest",
+        "pumpkin-patch"
+      ],
+      "subjects": [
+        "pumpkin"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pumpkin-pie-4e1f58fbd6/pumpkin-pie-4e1f58fbd6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18381,
+        "sha256": "4527dce282115955aa932b7809e605f1bfc82cafbac761acb874781b6c39d9ce"
+      }
+    },
+    {
+      "id": "pumpkin-pie-eac02a5360",
+      "name": "Pumpkin Pie",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "doodle",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "harvest",
+        "pumpkin-patch"
+      ],
+      "subjects": [
+        "pumpkin"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pumpkin-pie-eac02a5360/pumpkin-pie-eac02a5360.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 53421,
+        "sha256": "fd94a766aca13fe9646d21d336282e7988c254d6c04414e93382fa32e15cb418"
+      }
+    },
+    {
+      "id": "spooky-pumpkins-2a8f1b50fd",
+      "name": "Spooky Pumpkins",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "harvest",
+        "pumpkin-patch"
+      ],
+      "subjects": [
+        "pumpkin"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/spooky-pumpkins-2a8f1b50fd/spooky-pumpkins-2a8f1b50fd.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 220631,
+        "sha256": "80d7d1eea10bd29d60a2426835a1d67667c47f2b082de9e90871dd2fe35e2ef1"
+      }
+    },
+    {
+      "id": "gourd-centerpiece-4bdb188d06",
+      "name": "Gourd Centerpiece",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "pumpkin",
+        "pumpkin-patch",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "pumpkin-patch"
+      ],
+      "subjects": [
+        "pumpkin"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/gourd-centerpiece-4bdb188d06/gourd-centerpiece-4bdb188d06.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16319,
+        "sha256": "2bf53db0a082d64c448c7c3b66822428681938b0e9ef9bd95ba7d94165ddf0cc"
+      }
+    },
+    {
+      "id": "harvest-basket-bcdea75037",
+      "name": "Harvest Basket",
+      "type": "illustration",
+      "tags": [
+        "autumn",
         "doodle",
         "farming",
         "hand-drawn",
@@ -800,6 +792,7 @@
         "section-decoration"
       ],
       "themes": [
+        "autumn",
         "farming",
         "harvest"
       ],
@@ -821,19 +814,20 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cow-10815fc4e2/cow-10815fc4e2.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/harvest-basket-bcdea75037/harvest-basket-bcdea75037.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 18581
+        "bytes": 21967,
+        "sha256": "f5ce9f286988d82f2ab02a359efaffe4e88e7adab919f424345039883d104093"
       }
     },
     {
-      "id": "door-229f828fb4",
-      "name": "Door",
+      "id": "harvest-fruits-2bf3d25715",
+      "name": "Harvest Fruits",
       "type": "illustration",
       "tags": [
-        "doodle",
+        "autumn",
         "farming",
-        "hand-drawn",
+        "food",
         "harvest",
         "hero-decoration",
         "line-art",
@@ -842,13 +836,14 @@
         "section-decoration"
       ],
       "themes": [
+        "autumn",
         "farming",
         "harvest"
       ],
-      "subjects": [],
+      "subjects": [
+        "food"
+      ],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -863,20 +858,18 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/door-229f828fb4/door-229f828fb4.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/harvest-fruits-2bf3d25715/harvest-fruits-2bf3d25715.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9303
+        "bytes": 256010,
+        "sha256": "6ca032fe141131a3d8969a6ddcd63af74e6c5c381a989989d32b744a7801bbcf"
       }
     },
     {
-      "id": "drilling-machine-fd049a3231",
-      "name": "Drilling Machine",
+      "id": "1-3215a5c2b4",
+      "name": "1",
       "type": "illustration",
       "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
+        "autumn",
         "hero-decoration",
         "line-art",
         "page-decoration",
@@ -884,13 +877,10 @@
         "section-decoration"
       ],
       "themes": [
-        "farming",
-        "harvest"
+        "autumn"
       ],
       "subjects": [],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -900,25 +890,24 @@
         "section-decoration"
       ],
       "availableFormats": [
-        "svg",
         "webp"
       ],
       "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/drilling-machine-fd049a3231/drilling-machine-fd049a3231.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 7439
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-3215a5c2b4/1-3215a5c2b4.webp",
+        "mimeType": "image/webp",
+        "bytes": 123592,
+        "sha256": "890b49df6e05f34ed5b92653d95a530319bf210451a2339009a639cd896abaec",
+        "width": 2048,
+        "height": 2048
       }
     },
     {
-      "id": "dumper-305ea38b11",
-      "name": "Dumper",
+      "id": "10-e134a5203d",
+      "name": "10",
       "type": "illustration",
       "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
+        "autumn",
         "hero-decoration",
         "line-art",
         "page-decoration",
@@ -926,13 +915,10 @@
         "section-decoration"
       ],
       "themes": [
-        "farming",
-        "harvest"
+        "autumn"
       ],
       "subjects": [],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -942,25 +928,24 @@
         "section-decoration"
       ],
       "availableFormats": [
-        "svg",
         "webp"
       ],
       "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dumper-305ea38b11/dumper-305ea38b11.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14740
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-e134a5203d/10-e134a5203d.webp",
+        "mimeType": "image/webp",
+        "bytes": 155392,
+        "sha256": "737b8eac1980a69f1e5869622bc688cb435b1c2cdba789596abcbcc3b2fd5d83",
+        "width": 2048,
+        "height": 2048
       }
     },
     {
-      "id": "egg-collector-f7db41045e",
-      "name": "Egg Collector",
+      "id": "11-0eaa009739",
+      "name": "11",
       "type": "illustration",
       "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
+        "autumn",
         "hero-decoration",
         "line-art",
         "page-decoration",
@@ -968,13 +953,10 @@
         "section-decoration"
       ],
       "themes": [
-        "farming",
-        "harvest"
+        "autumn"
       ],
       "subjects": [],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -984,25 +966,24 @@
         "section-decoration"
       ],
       "availableFormats": [
-        "svg",
         "webp"
       ],
       "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/egg-collector-f7db41045e/egg-collector-f7db41045e.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11879
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/11-0eaa009739/11-0eaa009739.webp",
+        "mimeType": "image/webp",
+        "bytes": 126828,
+        "sha256": "6675a2f70a74223b45e3356d8dafb636fee0bf1436e1f05593b9b4bea44754bf",
+        "width": 2048,
+        "height": 2048
       }
     },
     {
-      "id": "egg-incubator-c649fdbd77",
-      "name": "Egg Incubator",
+      "id": "12-6931637962",
+      "name": "12",
       "type": "illustration",
       "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
+        "autumn",
         "hero-decoration",
         "line-art",
         "page-decoration",
@@ -1010,13 +991,10 @@
         "section-decoration"
       ],
       "themes": [
-        "farming",
-        "harvest"
+        "autumn"
       ],
       "subjects": [],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -1026,25 +1004,24 @@
         "section-decoration"
       ],
       "availableFormats": [
-        "svg",
         "webp"
       ],
       "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/egg-incubator-c649fdbd77/egg-incubator-c649fdbd77.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 9532
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/12-6931637962/12-6931637962.webp",
+        "mimeType": "image/webp",
+        "bytes": 158946,
+        "sha256": "dd4ecc651719dc41709cc243251fc5c2f2bdc620f5e6bc4da3937f5ca774ed5a",
+        "width": 2048,
+        "height": 2048
       }
     },
     {
-      "id": "egg-tray-deec8a412e",
-      "name": "Egg Tray",
+      "id": "13-80b6f185fc",
+      "name": "13",
       "type": "illustration",
       "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
+        "autumn",
         "hero-decoration",
         "line-art",
         "page-decoration",
@@ -1052,13 +1029,10 @@
         "section-decoration"
       ],
       "themes": [
-        "farming",
-        "harvest"
+        "autumn"
       ],
       "subjects": [],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -1068,14 +1042,92 @@
         "section-decoration"
       ],
       "availableFormats": [
-        "svg",
         "webp"
       ],
       "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/egg-tray-deec8a412e/egg-tray-deec8a412e.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 32996
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/13-80b6f185fc/13-80b6f185fc.webp",
+        "mimeType": "image/webp",
+        "bytes": 127050,
+        "sha256": "f27c417fad80971890eaa55b2cca39d874fbe3f78a64e34d40517de46385035a",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "14-871dfb5591",
+      "name": "14",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/14-871dfb5591/14-871dfb5591.webp",
+        "mimeType": "image/webp",
+        "bytes": 123280,
+        "sha256": "2f55bde98a0db1a2efaae008a1327a765f67fc46c78f73b488133a20a9eafd1d",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "15-a34cdd71b0",
+      "name": "15",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/15-a34cdd71b0/15-a34cdd71b0.webp",
+        "mimeType": "image/webp",
+        "bytes": 120906,
+        "sha256": "8f44f071c560f8e718ee55775d3c61cad07c86267b046d288597d33ab255a68c",
+        "width": 2048,
+        "height": 2048
       }
     }
   ]

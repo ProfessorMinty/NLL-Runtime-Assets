@@ -7,27 +7,34 @@
   "page": 14,
   "pageSize": 100,
   "assetCount": 100,
-  "totalAssetCount": 2623,
+  "totalAssetCount": 3205,
   "assets": [
     {
-      "id": "hoverboard-27f218237d",
-      "name": "Hoverboard",
+      "id": "drum-set-acf7ecb66f",
+      "name": "Drum Set",
       "type": "illustration",
       "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
         "hero-decoration",
+        "instrument",
         "line-art",
+        "music",
         "page-decoration",
         "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
+        "section-decoration"
       ],
       "themes": [
-        "transportation",
-        "travel"
+        "celebration",
+        "music"
       ],
-      "subjects": [],
+      "subjects": [
+        "instrument"
+      ],
       "styles": [
+        "doodle",
+        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -42,246 +49,74 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hoverboard-27f218237d/hoverboard-27f218237d.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/drum-set-acf7ecb66f/drum-set-acf7ecb66f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 23929
+        "bytes": 15566,
+        "sha256": "bc7f359f30c62309ad8c7ab5878eb9f4fdbedb2cca9133004fd2a500dc529b6c"
       }
     },
     {
-      "id": "hunting-arrow-38f91883ad",
-      "name": "Hunting Arrow",
-      "type": "icon",
+      "id": "drumming-6cce3a502b",
+      "name": "Drumming",
+      "type": "illustration",
       "tags": [
-        "arrow",
         "doodle",
-        "field-trip",
         "hand-drawn",
-        "icon",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/drumming-6cce3a502b/drumming-6cce3a502b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 22060,
+        "sha256": "bec1d0e7c93203b87811b4351523101e61d67491f55ebcbdf15aec11eddca7c2"
+      }
+    },
+    {
+      "id": "dublin-castle-9b8e7d9f0f",
+      "name": "Dublin Castle",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
         "line-art",
         "museum",
-        "navigation-decoration"
-      ],
-      "themes": [
-        "field-trip",
-        "museum"
-      ],
-      "subjects": [
-        "arrow"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "icon",
-        "navigation-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/icon/icon/hunting-arrow-38f91883ad/hunting-arrow-38f91883ad.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5626
-      }
-    },
-    {
-      "id": "hunting-axe-5b2bc45629",
-      "name": "Hunting Axe",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "field-trip",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
         "page-decoration",
         "photo-accent",
-        "safari",
         "section-decoration",
         "travel"
       ],
       "themes": [
         "field-trip",
-        "safari",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hunting-axe-5b2bc45629/hunting-axe-5b2bc45629.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10794
-      }
-    },
-    {
-      "id": "hunting-horn-1b0a3c13ce",
-      "name": "Hunting Horn",
-      "type": "icon",
-      "tags": [
-        "doodle",
-        "field-trip",
-        "hand-drawn",
-        "icon",
-        "line-art",
         "museum",
-        "navigation-decoration"
-      ],
-      "themes": [
-        "field-trip",
-        "museum"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "icon",
-        "navigation-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/icon/icon/hunting-horn-1b0a3c13ce/hunting-horn-1b0a3c13ce.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 7859
-      }
-    },
-    {
-      "id": "hunting-horn-a66e33cb65",
-      "name": "Hunting Horn",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "field-trip",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "safari",
-        "section-decoration",
         "travel"
       ],
-      "themes": [
-        "field-trip",
-        "safari",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hunting-horn-a66e33cb65/hunting-horn-a66e33cb65.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10294
-      }
-    },
-    {
-      "id": "hut-1dcf89bb8c",
-      "name": "Hut",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "ocean",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tropical"
-      ],
-      "themes": [
-        "ocean",
-        "tropical"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hut-1dcf89bb8c/hut-1dcf89bb8c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 48538
-      }
-    },
-    {
-      "id": "hydrangea-flowers-40caf62a54",
-      "name": "Hydrangea Flowers",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "flower",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
       "subjects": [
-        "flower"
+        "landmark"
       ],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -296,103 +131,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hydrangea-flowers-40caf62a54/hydrangea-flowers-40caf62a54.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dublin-castle-9b8e7d9f0f/dublin-castle-9b8e7d9f0f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 23051
+        "bytes": 392418,
+        "sha256": "a6ed9f204e55e4b8901a7e7df0816d3892cd6d83a17300e5f5855512bc77ef5b"
       }
     },
     {
-      "id": "hydroponic-plant-89ffa8655b",
-      "name": "Hydroponic Plant",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "farming",
-        "harvest",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hydroponic-plant-89ffa8655b/hydroponic-plant-89ffa8655b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15194
-      }
-    },
-    {
-      "id": "hydroponics-0c628f3cc8",
-      "name": "Hydroponics",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hydroponics-0c628f3cc8/hydroponics-0c628f3cc8.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 27878
-      }
-    },
-    {
-      "id": "hydroponics-fe948096fe",
-      "name": "Hydroponics",
+      "id": "dumper-305ea38b11",
+      "name": "Dumper",
       "type": "illustration",
       "tags": [
         "doodle",
@@ -427,178 +174,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hydroponics-fe948096fe/hydroponics-fe948096fe.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dumper-305ea38b11/dumper-305ea38b11.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15364
+        "bytes": 14740,
+        "sha256": "69edb5e8c072e806a472af91fa2b4ed52dffa45035ce68eaa6688d99844c90a0"
       }
     },
     {
-      "id": "hyperbola-f6834221ef",
-      "name": "Hyperbola",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "math",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "math"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hyperbola-f6834221ef/hyperbola-f6834221ef.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5493
-      }
-    },
-    {
-      "id": "ice-box-63d9359a6e",
-      "name": "Ice Box",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "ocean",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tropical"
-      ],
-      "themes": [
-        "ocean",
-        "tropical"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ice-box-63d9359a6e/ice-box-63d9359a6e.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 40440
-      }
-    },
-    {
-      "id": "ice-cone-8792506576",
-      "name": "Ice Cone",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ice-cone-8792506576/ice-cone-8792506576.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 29271
-      }
-    },
-    {
-      "id": "ice-crystal-82ace070d3",
-      "name": "Ice Crystal",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "winter"
-      ],
-      "themes": [
-        "winter"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ice-crystal-82ace070d3/ice-crystal-82ace070d3.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 25651
-      }
-    },
-    {
-      "id": "ice-fishing-2be95f4fc5",
-      "name": "Ice Fishing",
+      "id": "dumplings-cedec932b4",
+      "name": "Dumplings",
       "type": "illustration",
       "tags": [
         "doodle",
@@ -631,27 +215,32 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ice-fishing-2be95f4fc5/ice-fishing-2be95f4fc5.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dumplings-cedec932b4/dumplings-cedec932b4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 21183
+        "bytes": 15012,
+        "sha256": "3e4d1c0d8bb1c93e1ac3e922e04532a38d40fed1454ac8831eca0c15967b2180"
       }
     },
     {
-      "id": "ice-hockey-8817a5b5f9",
-      "name": "Ice Hockey",
+      "id": "dung-beetle-8f08fbff11",
+      "name": "Dung Beetle",
       "type": "illustration",
       "tags": [
         "doodle",
+        "field-trip",
         "hand-drawn",
         "hero-decoration",
         "line-art",
         "page-decoration",
         "photo-accent",
+        "safari",
         "section-decoration",
-        "winter"
+        "travel"
       ],
       "themes": [
-        "winter"
+        "field-trip",
+        "safari",
+        "travel"
       ],
       "subjects": [],
       "styles": [
@@ -671,14 +260,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ice-hockey-8817a5b5f9/ice-hockey-8817a5b5f9.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dung-beetle-8f08fbff11/dung-beetle-8f08fbff11.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 18788
+        "bytes": 13811,
+        "sha256": "12a0f2c99f794412ddce2e32eb672b8402bfe530dee50c237596040c8812978d"
       }
     },
     {
-      "id": "ice-skates-6083d7324b",
-      "name": "Ice Skates",
+      "id": "dusting-shelves-b09b25929f",
+      "name": "Dusting Shelves",
       "type": "illustration",
       "tags": [
         "doodle",
@@ -687,12 +277,9 @@
         "line-art",
         "page-decoration",
         "photo-accent",
-        "section-decoration",
-        "winter"
+        "section-decoration"
       ],
-      "themes": [
-        "winter"
-      ],
+      "themes": [],
       "subjects": [],
       "styles": [
         "doodle",
@@ -711,72 +298,29 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ice-skates-6083d7324b/ice-skates-6083d7324b.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dusting-shelves-b09b25929f/dusting-shelves-b09b25929f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 28386
+        "bytes": 17997,
+        "sha256": "774f108ff52a3b2a9c30d4f2f790694fe784a9e8f67ec66186c225419c38f2d8"
       }
     },
     {
-      "id": "icicle-cluster-6637904eb9",
-      "name": "Icicle Cluster",
+      "id": "dwarf-c84f0a0b92",
+      "name": "Dwarf",
       "type": "illustration",
       "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/icicle-cluster-6637904eb9/icicle-cluster-6637904eb9.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11609
-      }
-    },
-    {
-      "id": "icicle-hanging-d45cc79451",
-      "name": "Icicle Hanging",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
+        "autumn",
         "hero-decoration",
         "line-art",
         "page-decoration",
         "photo-accent",
-        "section-decoration",
-        "winter"
+        "section-decoration"
       ],
       "themes": [
-        "winter"
+        "autumn"
       ],
       "subjects": [],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -791,34 +335,32 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/icicle-hanging-d45cc79451/icicle-hanging-d45cc79451.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dwarf-c84f0a0b92/dwarf-c84f0a0b92.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 18045
+        "bytes": 168978,
+        "sha256": "bb214d2eaeaf29abd4375aed6be5333ce945a52bc661372920c9c2c0db905025"
       }
     },
     {
-      "id": "igloo-house-8507b1b229",
-      "name": "Igloo House",
+      "id": "e-reading-a0c0716030",
+      "name": "E Reading",
       "type": "illustration",
       "tags": [
-        "doodle",
-        "hand-drawn",
+        "book",
         "hero-decoration",
-        "home",
         "line-art",
         "page-decoration",
         "photo-accent",
-        "section-decoration",
-        "winter"
+        "reading",
+        "section-decoration"
       ],
       "themes": [
-        "home",
-        "winter"
+        "reading"
       ],
-      "subjects": [],
+      "subjects": [
+        "book"
+      ],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -833,14 +375,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/igloo-house-8507b1b229/igloo-house-8507b1b229.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/e-reading-a0c0716030/e-reading-a0c0716030.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10844
+        "bytes": 42906,
+        "sha256": "2cde94ab939288fc5b205ea9773de2f1185d1322b234a84f6f32b05f4b14cf07"
       }
     },
     {
-      "id": "immune-system-96370d2209",
-      "name": "Immune System",
+      "id": "ear-anatomy-2b61f504a7",
+      "name": "Ear Anatomy",
       "type": "illustration",
       "tags": [
         "doodle",
@@ -873,82 +416,413 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/immune-system-96370d2209/immune-system-96370d2209.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ear-anatomy-2b61f504a7/ear-anatomy-2b61f504a7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 19819
+        "bytes": 12663,
+        "sha256": "e219443231436993aa38fa693b5b5cc6a6feba288194c3f2d7b1f9edfa81304f"
       }
     },
     {
-      "id": "inbox-0adf16582b",
-      "name": "Inbox",
-      "type": "prop",
+      "id": "earmuffs-ad5b0d0ae1",
+      "name": "Earmuffs",
+      "type": "illustration",
       "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/earmuffs-ad5b0d0ae1/earmuffs-ad5b0d0ae1.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 36563,
+        "sha256": "e32b085c381b46cd1e940cd693d8c78168deb63949432c5b7819e7b668ea8020"
+      }
+    },
+    {
+      "id": "earmuffs-af25b7e2b6",
+      "name": "Earmuffs",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/earmuffs-af25b7e2b6/earmuffs-af25b7e2b6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15063,
+        "sha256": "af9299b8d56f1eb6c57fa50d69f79626843fdd0d8e29ebd4425bb0ecbc719e55"
+      }
+    },
+    {
+      "id": "earth-globe-f896e461dd",
+      "name": "Earth Globe",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "planet",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [
+        "planet"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/earth-globe-f896e461dd/earth-globe-f896e461dd.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 8506,
+        "sha256": "fba9148c47e1ebccad0138eb466307c5add22cf01aec671c0a4178e5f587069d"
+      }
+    },
+    {
+      "id": "easter-egg-07f0ea24e6",
+      "name": "Easter Egg",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/easter-egg-07f0ea24e6/easter-egg-07f0ea24e6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20745,
+        "sha256": "b1ff039af8c39937b175b100ed0f646c5cef1f0f20d282839f260cba0853b024"
+      }
+    },
+    {
+      "id": "eating-a9b08e97a9",
+      "name": "Eating",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
       ],
       "themes": [],
       "subjects": [],
       "styles": [
-        "3d",
-        "dimensional"
+        "doodle",
+        "hand-drawn",
+        "line-art"
       ],
       "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eating-a9b08e97a9/eating-a9b08e97a9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13506,
+        "sha256": "7797487548e478818834d1f5991c1516e4c5912750d2de6cd88d68c14a866315"
+      }
+    },
+    {
+      "id": "echo-55956bcf2e",
+      "name": "Echo",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [],
+      "subjects": [],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
       ],
       "availableFormats": [
         "webp"
       ],
       "preferredVariant": {
         "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/inbox-0adf16582b/inbox-0adf16582b.webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/echo-55956bcf2e/echo-55956bcf2e.webp",
         "mimeType": "image/webp",
-        "bytes": 780326,
+        "bytes": 1380022,
+        "sha256": "0e4930ca769ea28d42b2ccdf6516fa622e77faa2c6b54006795174b3f66b03e0",
         "width": 2048,
-        "height": 2048
+        "height": 1532
       }
     },
     {
-      "id": "indicator-research-9b60f822e2",
-      "name": "Indicator research",
-      "type": "prop",
+      "id": "eclipse-8cccea36a9",
+      "name": "Eclipse",
+      "type": "illustration",
       "tags": [
-        "3d",
-        "dimensional",
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
       ],
       "themes": [],
       "subjects": [],
-      "styles": [
-        "3d",
-        "dimensional"
-      ],
+      "styles": [],
       "useCases": [
-        "hero-prop",
-        "page-prop",
-        "photo-accent"
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
       ],
       "availableFormats": [
         "webp"
       ],
       "preferredVariant": {
         "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/indicator-research-9b60f822e2/indicator-research-9b60f822e2.webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eclipse-8cccea36a9/eclipse-8cccea36a9.webp",
         "mimeType": "image/webp",
-        "bytes": 901854,
+        "bytes": 873036,
+        "sha256": "6d336498a0b2d1a700afd525c14d5bc5519a35a9424bc7a1c129675c00a1200e",
         "width": 2048,
-        "height": 2048
+        "height": 1497
       }
     },
     {
-      "id": "ink-dropper-ab8d61fb4d",
-      "name": "Ink Dropper",
+      "id": "eco-bag-69cc06ab96",
+      "name": "Eco Bag",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "ecology",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "ecology",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eco-bag-69cc06ab96/eco-bag-69cc06ab96.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 7811,
+        "sha256": "993c5847e327de0b0101b676f31fcbe8c714deedc61c67ef6fe501aec12b4203"
+      }
+    },
+    {
+      "id": "eco-electricity-b35006d5f1",
+      "name": "Eco Electricity",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "ecology",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "ecology",
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eco-electricity-b35006d5f1/eco-electricity-b35006d5f1.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10267,
+        "sha256": "3d9ff75f749ae25e7c465198363c04c78a02992d9931449260e89c373a0b48f3"
+      }
+    },
+    {
+      "id": "ecology-study-b701b88a75",
+      "name": "Ecology Study",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "ecology",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "ecology",
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ecology-study-b701b88a75/ecology-study-b701b88a75.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24792,
+        "sha256": "971319f373c42d12d0d90d99cea4e0f238c8685b854c2d718138f074a6e11db4"
+      }
+    },
+    {
+      "id": "education-robot-76ee96f5be",
+      "name": "Education Robot",
       "type": "illustration",
       "tags": [
         "classroom",
@@ -956,54 +830,21 @@
         "hand-drawn",
         "hero-decoration",
         "line-art",
+        "math",
         "page-decoration",
         "photo-accent",
+        "robot",
+        "school",
         "section-decoration"
       ],
       "themes": [
-        "classroom"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ink-dropper-ab8d61fb4d/ink-dropper-ab8d61fb4d.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 7494
-      }
-    },
-    {
-      "id": "ink-pot-beeb41b5b7",
-      "name": "Ink Pot",
-      "type": "illustration",
-      "tags": [
         "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
+        "math",
+        "school"
       ],
-      "themes": [
-        "classroom"
+      "subjects": [
+        "robot"
       ],
-      "subjects": [],
       "styles": [
         "doodle",
         "hand-drawn",
@@ -1021,56 +862,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ink-pot-beeb41b5b7/ink-pot-beeb41b5b7.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/education-robot-76ee96f5be/education-robot-76ee96f5be.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11949
+        "bytes": 10818,
+        "sha256": "63e7fe6cc5ab1935c3a4448ecfb594473da1fa50bd1464b47b5e390ad1a882d2"
       }
     },
     {
-      "id": "ink-spilling-37c78d6499",
-      "name": "Ink Spilling",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "library",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "reading",
-        "section-decoration"
-      ],
-      "themes": [
-        "library",
-        "reading"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ink-spilling-37c78d6499/ink-spilling-37c78d6499.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11976
-      }
-    },
-    {
-      "id": "inkpot-fe0378a1c8",
-      "name": "Inkpot",
+      "id": "educational-blocks-10afc93477",
+      "name": "Educational Blocks",
       "type": "illustration",
       "tags": [
         "classroom",
@@ -1105,18 +905,65 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/inkpot-fe0378a1c8/inkpot-fe0378a1c8.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/educational-blocks-10afc93477/educational-blocks-10afc93477.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8299
+        "bytes": 21748,
+        "sha256": "54479e0988e2a9224a9347edd3375b0d85831c46f641467d96cb640417177ca8"
       }
     },
     {
-      "id": "insect-net-dc87b433bc",
-      "name": "Insect Net",
+      "id": "educational-toy-7b46d66a33",
+      "name": "Educational Toy",
       "type": "illustration",
       "tags": [
+        "classroom",
         "doodle",
-        "garden",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration",
+        "toy"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [
+        "toy"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/educational-toy-7b46d66a33/educational-toy-7b46d66a33.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 21048,
+        "sha256": "a13f57a674dff313125e02ef7f661fe5351e1c97f9c66d59501a4417db402ce5"
+      }
+    },
+    {
+      "id": "egg-basket-ea85f5e411",
+      "name": "Egg Basket",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
         "hand-drawn",
         "hero-decoration",
         "line-art",
@@ -1125,7 +972,7 @@
         "section-decoration"
       ],
       "themes": [
-        "garden"
+        "celebration"
       ],
       "subjects": [],
       "styles": [
@@ -1145,34 +992,32 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/insect-net-dc87b433bc/insect-net-dc87b433bc.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/egg-basket-ea85f5e411/egg-basket-ea85f5e411.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9101
+        "bytes": 20608,
+        "sha256": "ce543c665b7ee3a788e86bdfc52cfb4221b1da32e5c9f7c3fee0fb144f8f7fe5"
       }
     },
     {
-      "id": "interesting-book-b932915f14",
-      "name": "Interesting Book",
+      "id": "egg-collector-f7db41045e",
+      "name": "Egg Collector",
       "type": "illustration",
       "tags": [
-        "book",
         "doodle",
+        "farming",
         "hand-drawn",
+        "harvest",
         "hero-decoration",
-        "library",
         "line-art",
         "page-decoration",
         "photo-accent",
-        "reading",
         "section-decoration"
       ],
       "themes": [
-        "library",
-        "reading"
+        "farming",
+        "harvest"
       ],
-      "subjects": [
-        "book"
-      ],
+      "subjects": [],
       "styles": [
         "doodle",
         "hand-drawn",
@@ -1190,14 +1035,268 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/interesting-book-b932915f14/interesting-book-b932915f14.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/egg-collector-f7db41045e/egg-collector-f7db41045e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10543
+        "bytes": 11879,
+        "sha256": "8fa641a54420e757fa5485f0baba6958b48f44160cc77aa53448dd195ce82d81"
       }
     },
     {
-      "id": "intestines-02da2761b0",
-      "name": "Intestines",
+      "id": "egg-incubator-c649fdbd77",
+      "name": "Egg Incubator",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/egg-incubator-c649fdbd77/egg-incubator-c649fdbd77.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9532,
+        "sha256": "88dc82681f1b2a0451f5fc58143899b44ce01aff984a55413a9a023920b0797b"
+      }
+    },
+    {
+      "id": "egg-tray-deec8a412e",
+      "name": "Egg Tray",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/egg-tray-deec8a412e/egg-tray-deec8a412e.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 32996,
+        "sha256": "a3d2b40b51575c34b7f04ad125ae31b03b8eb95e558d057f9a6e07dc20710bd0"
+      }
+    },
+    {
+      "id": "eggplant-d21f6eb5fa",
+      "name": "Eggplant",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eggplant-d21f6eb5fa/eggplant-d21f6eb5fa.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 3719,
+        "sha256": "f040711ab11e57ba237d4407fdb2a8006bf6c9d178252cbe9dcac4141b263ba2"
+      }
+    },
+    {
+      "id": "eiffel-tower-7f080c992d",
+      "name": "Eiffel Tower",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eiffel-tower-7f080c992d/eiffel-tower-7f080c992d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 152527,
+        "sha256": "625c3c025e3c3275d11bc4806d70506d36e8627dbebd806d36eeaa4cf4b19b9a"
+      }
+    },
+    {
+      "id": "electric-guitar-c385988719",
+      "name": "Electric Guitar",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "instrument",
+        "music",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [
+        "music"
+      ],
+      "subjects": [
+        "instrument"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/electric-guitar-c385988719/electric-guitar-c385988719.webp",
+        "mimeType": "image/webp",
+        "bytes": 677852,
+        "sha256": "a6f7f60ef0d69b692629c32a8451482c15df82860cf6d2b4a86eaccee6d963c0",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "electric-scooter-caf3605c6e",
+      "name": "Electric Scooter",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/electric-scooter-caf3605c6e/electric-scooter-caf3605c6e.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24664,
+        "sha256": "1885cbec088775e1ee1526593b2d408902a8ea78b48cb2e1d1ab6c0ffeedb377"
+      }
+    },
+    {
+      "id": "electrolysis-612fe79fdf",
+      "name": "Electrolysis",
       "type": "illustration",
       "tags": [
         "doodle",
@@ -1230,16 +1329,264 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/intestines-02da2761b0/intestines-02da2761b0.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/electrolysis-612fe79fdf/electrolysis-612fe79fdf.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 24260
+        "bytes": 12415,
+        "sha256": "d3dc5e5b0f5ae4e1b9aa9acb306bb6b90554e0490637e530851fdd646d3d8791"
       }
     },
     {
-      "id": "invitation-78f6b919d6",
-      "name": "Invitation",
+      "id": "electrolysis-experiment-6fd4afae18",
+      "name": "Electrolysis Experiment",
       "type": "illustration",
       "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/electrolysis-experiment-6fd4afae18/electrolysis-experiment-6fd4afae18.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19371,
+        "sha256": "4216c9062ffc9034f94560f0e5496b184bafb0d96b3ee2f4a370280d57bde006"
+      }
+    },
+    {
+      "id": "electromagnet-375cf31f04",
+      "name": "Electromagnet",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/electromagnet-375cf31f04/electromagnet-375cf31f04.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 11260,
+        "sha256": "97609082b1f1098bf7c6a23575964b2c20875c227fe67d20725fcedc74f67ce7"
+      }
+    },
+    {
+      "id": "electrophoresis-b09a7f82fd",
+      "name": "Electrophoresis",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/electrophoresis-b09a7f82fd/electrophoresis-b09a7f82fd.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10347,
+        "sha256": "fe331c5ae033d1176b8bc3b0e5c1ad5cc022b14fefb0d9f8fb298a6bc1b5c5c1"
+      }
+    },
+    {
+      "id": "elf-hat-ccb5a2fc45",
+      "name": "Elf Hat",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/elf-hat-ccb5a2fc45/elf-hat-ccb5a2fc45.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 34049,
+        "sha256": "9b800063b2b6eda080228bd573b9b8b0d26c1c77c51e28cbd827d85db03bbed4"
+      }
+    },
+    {
+      "id": "elf-shoes-31736f954e",
+      "name": "Elf Shoes",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/elf-shoes-31736f954e/elf-shoes-31736f954e.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 32422,
+        "sha256": "1368a056f9e574f4d63e8c080794c6a4ed60687bb18c8b5ecb6b6c35fedad4ef"
+      }
+    },
+    {
+      "id": "email-3ea2c3f46c",
+      "name": "Email",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration"
+      ],
+      "themes": [],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/email-3ea2c3f46c/email-3ea2c3f46c.webp",
+        "mimeType": "image/webp",
+        "bytes": 2619622,
+        "sha256": "dd7fc66732688ef4af637cefd8792e26cbfdabac0ec66bc0d5c38387f3ba5162",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "emoji-balloons-24760888bd",
+      "name": "Emoji Balloons",
+      "type": "illustration",
+      "tags": [
+        "balloon",
         "celebration",
         "doodle",
         "hand-drawn",
@@ -1252,7 +1599,9 @@
       "themes": [
         "celebration"
       ],
-      "subjects": [],
+      "subjects": [
+        "balloon"
+      ],
       "styles": [
         "doodle",
         "hand-drawn",
@@ -1270,27 +1619,69 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/invitation-78f6b919d6/invitation-78f6b919d6.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/emoji-balloons-24760888bd/emoji-balloons-24760888bd.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 40477
+        "bytes": 12911,
+        "sha256": "bb409ed9957ac119884e4dd12e0e88c59ed24a692797f633a4dce3db1d8fec18"
       }
     },
     {
-      "id": "invitation-envelope-84e0247f3e",
-      "name": "Invitation Envelope",
+      "id": "empire-state-7f9aa29174",
+      "name": "Empire State",
       "type": "illustration",
       "tags": [
-        "celebration",
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/empire-state-7f9aa29174/empire-state-7f9aa29174.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 541194,
+        "sha256": "ebf32af2865068b8aa407ef206fe6619606ee5fc3f08d7dab8ee525ec709d818"
+      }
+    },
+    {
+      "id": "endocrine-system-2303ee2df1",
+      "name": "Endocrine System",
+      "type": "illustration",
+      "tags": [
         "doodle",
         "hand-drawn",
         "hero-decoration",
         "line-art",
         "page-decoration",
         "photo-accent",
+        "science",
         "section-decoration"
       ],
       "themes": [
-        "celebration"
+        "science"
       ],
       "subjects": [],
       "styles": [
@@ -1310,27 +1701,72 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/invitation-envelope-84e0247f3e/invitation-envelope-84e0247f3e.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/endocrine-system-2303ee2df1/endocrine-system-2303ee2df1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 23774
+        "bytes": 20256,
+        "sha256": "86366d49e8229233cb91cf630aed48421198d8b19d0267e167d5897c9a96edce"
       }
     },
     {
-      "id": "iq-621f5c0153",
-      "name": "IQ",
+      "id": "enjoying-coffee-a08b971fc5",
+      "name": "Enjoying Coffee",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "food",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [
+        "food"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/enjoying-coffee-a08b971fc5/enjoying-coffee-a08b971fc5.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 23623,
+        "sha256": "84c27ef155334ff59309dcceface4f1cb18184000562395a30b8b80ce76559e0"
+      }
+    },
+    {
+      "id": "enjoying-winter-f0dae6b039",
+      "name": "Enjoying Winter",
       "type": "illustration",
       "tags": [
         "doodle",
         "hand-drawn",
         "hero-decoration",
         "line-art",
-        "math",
         "page-decoration",
         "photo-accent",
-        "section-decoration"
+        "section-decoration",
+        "winter"
       ],
       "themes": [
-        "math"
+        "winter"
       ],
       "subjects": [],
       "styles": [
@@ -1350,18 +1786,102 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/iq-621f5c0153/iq-621f5c0153.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/enjoying-winter-f0dae6b039/enjoying-winter-f0dae6b039.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12663
+        "bytes": 13473,
+        "sha256": "d9df5420092c777e8866d91054951d19adc6151f5eaf7211f9788a680bb2928b"
       }
     },
     {
-      "id": "iris-flower-30b6d34c0f",
-      "name": "Iris Flower",
+      "id": "enter-key-063a9075c1",
+      "name": "Enter key",
+      "type": "illustration",
+      "tags": [
+        "3d",
+        "clay",
+        "dimensional",
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "plasticine",
+        "section-decoration"
+      ],
+      "themes": [],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "clay",
+        "dimensional",
+        "plasticine"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/enter-key-063a9075c1/enter-key-063a9075c1.webp",
+        "mimeType": "image/webp",
+        "bytes": 1808180,
+        "sha256": "a3f43d4f39928b210cd5d3e78f5ae706ff8f5eed1b804aee39cac5008ad1dc2f",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "eraser-094d762f63",
+      "name": "Eraser",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eraser-094d762f63/eraser-094d762f63.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 8813,
+        "sha256": "6f741344406b77db916004cd540d364c5f1962147e2eb13df5245730ecebedc3"
+      }
+    },
+    {
+      "id": "eucalyptus-6bf43567be",
+      "name": "Eucalyptus",
       "type": "illustration",
       "tags": [
         "botanical",
-        "flower",
         "hero-decoration",
         "line-art",
         "nature",
@@ -1373,47 +1893,8 @@
         "botanical",
         "nature"
       ],
-      "subjects": [
-        "flower"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/iris-flower-30b6d34c0f/iris-flower-30b6d34c0f.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 271198
-      }
-    },
-    {
-      "id": "ironing-shirt-317e0dd4f8",
-      "name": "Ironing Shirt",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [],
       "subjects": [],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -1428,138 +1909,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ironing-shirt-317e0dd4f8/ironing-shirt-317e0dd4f8.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eucalyptus-6bf43567be/eucalyptus-6bf43567be.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13602
+        "bytes": 304146,
+        "sha256": "d9ce435174757e4804eddf1539ea6bd7eeddbb65bb2a146a2879c3dec532ccab"
       }
     },
     {
-      "id": "irrigation-c924b9ce22",
-      "name": "Irrigation",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/irrigation-c924b9ce22/irrigation-c924b9ce22.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 16355
-      }
-    },
-    {
-      "id": "irrigation-system-6347010534",
-      "name": "Irrigation System",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/irrigation-system-6347010534/irrigation-system-6347010534.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 22691
-      }
-    },
-    {
-      "id": "iv-bag-5e0c08e993",
-      "name": "IV Bag",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/iv-bag-5e0c08e993/iv-bag-5e0c08e993.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 18055
-      }
-    },
-    {
-      "id": "ivy-leaves-07b19a7bc9",
-      "name": "Ivy Leaves",
+      "id": "eucalyptus-leaves-f5c3ae9ae3",
+      "name": "Eucalyptus Leaves",
       "type": "illustration",
       "tags": [
         "botanical",
@@ -1593,14 +1951,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ivy-leaves-07b19a7bc9/ivy-leaves-07b19a7bc9.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eucalyptus-leaves-f5c3ae9ae3/eucalyptus-leaves-f5c3ae9ae3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 458802
+        "bytes": 233364,
+        "sha256": "fa6209f7c3d2bb428f1f01ea0fd2d5ddd6de4d2c343f372129d7093e625b8490"
       }
     },
     {
-      "id": "ivy-vine-b5ff1518ab",
-      "name": "Ivy Vine",
+      "id": "eucalyptus-plant-485ac165f5",
+      "name": "Eucalyptus Plant",
       "type": "illustration",
       "tags": [
         "botanical",
@@ -1609,15 +1968,15 @@
         "nature",
         "page-decoration",
         "photo-accent",
-        "section-decoration",
-        "vine"
+        "plant",
+        "section-decoration"
       ],
       "themes": [
         "botanical",
         "nature"
       ],
       "subjects": [
-        "vine"
+        "plant"
       ],
       "styles": [
         "line-art"
@@ -1634,102 +1993,17 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ivy-vine-b5ff1518ab/ivy-vine-b5ff1518ab.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eucalyptus-plant-485ac165f5/eucalyptus-plant-485ac165f5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 657405
+        "bytes": 267288,
+        "sha256": "435e3822f3c016f90aa7c08edc6d9013ec06497ee11a1df4f6b03cf556e64eb8"
       }
     },
     {
-      "id": "jackal-howling-e91d7efa72",
-      "name": "Jackal Howling",
+      "id": "evening-landscape-7db0b5c340",
+      "name": "Evening Landscape",
       "type": "illustration",
       "tags": [
-        "doodle",
-        "field-trip",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "safari",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "safari",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jackal-howling-e91d7efa72/jackal-howling-e91d7efa72.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14290
-      }
-    },
-    {
-      "id": "jam-minaret-51e8dbe0bf",
-      "name": "Jam Minaret",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jam-minaret-51e8dbe0bf/jam-minaret-51e8dbe0bf.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 164892
-      }
-    },
-    {
-      "id": "jasmine-flower-0b0a04ff32",
-      "name": "Jasmine Flower",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "flower",
         "hero-decoration",
         "line-art",
         "nature",
@@ -1738,12 +2012,9 @@
         "section-decoration"
       ],
       "themes": [
-        "botanical",
         "nature"
       ],
-      "subjects": [
-        "flower"
-      ],
+      "subjects": [],
       "styles": [
         "line-art"
       ],
@@ -1759,32 +2030,28 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jasmine-flower-0b0a04ff32/jasmine-flower-0b0a04ff32.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/evening-landscape-7db0b5c340/evening-landscape-7db0b5c340.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 194806
+        "bytes": 145608,
+        "sha256": "56d078988b07a619329c5126e8eb186444003deb1862b4a95ef9014f4ee75b23"
       }
     },
     {
-      "id": "jasmine-vine-730f17601c",
-      "name": "Jasmine Vine",
+      "id": "evening-scenery-7b262a795f",
+      "name": "Evening Scenery",
       "type": "illustration",
       "tags": [
-        "botanical",
         "hero-decoration",
         "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
-        "section-decoration",
-        "vine"
+        "section-decoration"
       ],
       "themes": [
-        "botanical",
         "nature"
       ],
-      "subjects": [
-        "vine"
-      ],
+      "subjects": [],
       "styles": [
         "line-art"
       ],
@@ -1800,31 +2067,199 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jasmine-vine-730f17601c/jasmine-vine-730f17601c.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/evening-scenery-7b262a795f/evening-scenery-7b262a795f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 708132
+        "bytes": 245494,
+        "sha256": "5b25f52b8484403c4f83ada16e5882ce2b75b9ad370298b3c0dffecc28c0f819"
       }
     },
     {
-      "id": "jefferson-memorial-96e1be993b",
-      "name": "Jefferson Memorial",
+      "id": "evergreen-branch-014a5b6f1f",
+      "name": "Evergreen Branch",
       "type": "illustration",
       "tags": [
-        "field-trip",
+        "doodle",
+        "hand-drawn",
         "hero-decoration",
         "line-art",
-        "museum",
         "page-decoration",
         "photo-accent",
         "section-decoration",
-        "travel"
+        "winter"
       ],
       "themes": [
-        "field-trip",
-        "museum",
-        "travel"
+        "winter"
       ],
       "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/evergreen-branch-014a5b6f1f/evergreen-branch-014a5b6f1f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24597,
+        "sha256": "9597b29f94202a16cdcc2d57c192c6f03918cbd7b451c1113748e513562013b2"
+      }
+    },
+    {
+      "id": "exam-0ee285a953",
+      "name": "Exam",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/exam-0ee285a953/exam-0ee285a953.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 8553,
+        "sha256": "c339679726c0099a55f1579cde561024050d029ac85bd0e980cc0d0ae6418149"
+      }
+    },
+    {
+      "id": "exam-checking-e5e86db959",
+      "name": "Exam Checking",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "math",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "math"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/exam-checking-e5e86db959/exam-checking-e5e86db959.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 17054,
+        "sha256": "8c6c3e30bf28573d5ae1bca5ab1a2b666cf8570d97002faee4d47f0f5656eb51"
+      }
+    },
+    {
+      "id": "exchange-booth-5e24835559",
+      "name": "Exchange Booth",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/exchange-booth-5e24835559/exchange-booth-5e24835559.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 36127,
+        "sha256": "4dd61971d0111e60f48e0bb7d04d9627f886723782068566fe6f6710eb349731"
+      }
+    },
+    {
+      "id": "exchanging-books-5460999eb4",
+      "name": "Exchanging Books",
+      "type": "illustration",
+      "tags": [
+        "book",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "reading",
+        "section-decoration"
+      ],
+      "themes": [
+        "reading"
+      ],
+      "subjects": [
+        "book"
+      ],
       "styles": [
         "line-art"
       ],
@@ -1840,27 +2275,30 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jefferson-memorial-96e1be993b/jefferson-memorial-96e1be993b.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/exchanging-books-5460999eb4/exchanging-books-5460999eb4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 201843
+        "bytes": 59979,
+        "sha256": "4bafb179d4f0f2e5469513b0baf695b49ca98955386d3bbb75520372bd596b92"
       }
     },
     {
-      "id": "jerusalem-cross-c42048865e",
-      "name": "Jerusalem Cross",
-      "type": "icon",
+      "id": "exit-board-1e9fe4f47b",
+      "name": "Exit Board",
+      "type": "illustration",
       "tags": [
         "doodle",
-        "field-trip",
         "hand-drawn",
-        "icon",
+        "hero-decoration",
+        "library",
         "line-art",
-        "museum",
-        "navigation-decoration"
+        "page-decoration",
+        "photo-accent",
+        "reading",
+        "section-decoration"
       ],
       "themes": [
-        "field-trip",
-        "museum"
+        "library",
+        "reading"
       ],
       "subjects": [],
       "styles": [
@@ -1869,8 +2307,10 @@
         "line-art"
       ],
       "useCases": [
-        "icon",
-        "navigation-decoration"
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
       ],
       "availableFormats": [
         "svg",
@@ -1878,14 +2318,59 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/icon/icon/jerusalem-cross-c42048865e/jerusalem-cross-c42048865e.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/exit-board-1e9fe4f47b/exit-board-1e9fe4f47b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9725
+        "bytes": 4971,
+        "sha256": "21091914a5c9c3abe256952c7610f20b62e1f4abacea66de4743e3910f064ca1"
       }
     },
     {
-      "id": "jester-hat-211f8716e0",
-      "name": "Jester Hat",
+      "id": "exploration-robot-24f46bbed9",
+      "name": "Exploration Robot",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "robot",
+        "section-decoration",
+        "space"
+      ],
+      "themes": [
+        "space"
+      ],
+      "subjects": [
+        "robot"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/exploration-robot-24f46bbed9/exploration-robot-24f46bbed9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24245,
+        "sha256": "f313ee85ebaac6ddd8f6b40065f122777cd37369408445d218916901b1fc5e31"
+      }
+    },
+    {
+      "id": "eye-prop-5b154c1b0f",
+      "name": "Eye Prop",
       "type": "illustration",
       "tags": [
         "celebration",
@@ -1918,105 +2403,28 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jester-hat-211f8716e0/jester-hat-211f8716e0.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eye-prop-5b154c1b0f/eye-prop-5b154c1b0f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15473
+        "bytes": 14292,
+        "sha256": "38e93ac3421d450598693f5aebece3dd187da1d5d2595f8cf8b1904b8ed6b43b"
       }
     },
     {
-      "id": "jet-pilot-70bfb3fc2b",
-      "name": "Jet Pilot",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jet-pilot-70bfb3fc2b/jet-pilot-70bfb3fc2b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 65011
-      }
-    },
-    {
-      "id": "jet-ski-19c985d757",
-      "name": "Jet Ski",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jet-ski-19c985d757/jet-ski-19c985d757.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 40975
-      }
-    },
-    {
-      "id": "jet-ski-8069e1d592",
-      "name": "Jet Ski",
+      "id": "face-mask-8b7f4f8497",
+      "name": "Face Mask",
       "type": "illustration",
       "tags": [
         "doodle",
         "hand-drawn",
         "hero-decoration",
         "line-art",
-        "ocean",
         "page-decoration",
         "photo-accent",
-        "section-decoration",
-        "tropical"
+        "science",
+        "section-decoration"
       ],
       "themes": [
-        "ocean",
-        "tropical"
+        "science"
       ],
       "subjects": [],
       "styles": [
@@ -2036,105 +2444,33 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jet-ski-8069e1d592/jet-ski-8069e1d592.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/face-mask-8b7f4f8497/face-mask-8b7f4f8497.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 24114
+        "bytes": 6133,
+        "sha256": "13089562d1f0b436c025d23d7650149d162d50d967c866727db2fdcb2cd04302"
       }
     },
     {
-      "id": "jetboat-76d99fed3f",
-      "name": "Jetboat",
+      "id": "faisal-mosque-dfdd1bbcc2",
+      "name": "Faisal Mosque",
       "type": "illustration",
       "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jetboat-76d99fed3f/jetboat-76d99fed3f.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 54707
-      }
-    },
-    {
-      "id": "jewellery-chest-70967dd6e2",
-      "name": "Jewellery Chest",
-      "type": "icon",
-      "tags": [
-        "doodle",
         "field-trip",
-        "hand-drawn",
-        "icon",
+        "hero-decoration",
         "line-art",
         "museum",
-        "navigation-decoration"
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
       ],
       "themes": [
         "field-trip",
-        "museum"
+        "museum",
+        "travel"
       ],
       "subjects": [],
       "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "icon",
-        "navigation-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/icon/icon/jewellery-chest-70967dd6e2/jewellery-chest-70967dd6e2.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 8815
-      }
-    },
-    {
-      "id": "jogging-3a37503926",
-      "name": "Jogging",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -2149,76 +2485,28 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jogging-3a37503926/jogging-3a37503926.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/faisal-mosque-dfdd1bbcc2/faisal-mosque-dfdd1bbcc2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11133
+        "bytes": 227932,
+        "sha256": "cbe61ccc679453a36b3a8cd141abca5830f44f7df595af5bf9a7aa56cf198a75"
       }
     },
     {
-      "id": "jug-40b8ea5249",
-      "name": "Jug",
-      "type": "decorative-element",
-      "tags": [
-        "3d",
-        "clay",
-        "corner-accent",
-        "dimensional",
-        "geometric",
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "plasticine",
-        "section-decoration",
-        "shape"
-      ],
-      "themes": [],
-      "subjects": [
-        "shape"
-      ],
-      "styles": [
-        "3d",
-        "clay",
-        "dimensional",
-        "geometric",
-        "plasticine"
-      ],
-      "useCases": [
-        "corner-accent",
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/decorative-element/corner-accent/jug-40b8ea5249/jug-40b8ea5249.webp",
-        "mimeType": "image/webp",
-        "bytes": 3041548,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "juice-41c748c5df",
-      "name": "Juice",
+      "id": "fall-autumn-doodles-f80db066d6",
+      "name": "Fall & Autumn Doodles",
       "type": "illustration",
       "tags": [
-        "classroom",
+        "autumn",
         "doodle",
         "hand-drawn",
         "hero-decoration",
         "line-art",
         "page-decoration",
         "photo-accent",
-        "school",
         "section-decoration"
       ],
       "themes": [
-        "classroom",
-        "school"
+        "autumn"
       ],
       "subjects": [],
       "styles": [
@@ -2238,16 +2526,89 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/juice-41c748c5df/juice-41c748c5df.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fall-autumn-doodles-f80db066d6/fall-autumn-doodles-f80db066d6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16184
+        "bytes": 1487620,
+        "sha256": "64055d0988492a70a01ca8093f79e754fd5629b6212c41e4e97f625c9bfa4b3b"
       }
     },
     {
-      "id": "jungle-c369b79b8e",
-      "name": "Jungle",
+      "id": "fall-autumn-illustrations-7f2c921974",
+      "name": "Fall & Autumn Illustrations",
       "type": "illustration",
       "tags": [
+        "autumn",
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fall-autumn-illustrations-7f2c921974/fall-autumn-illustrations-7f2c921974.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 6010972,
+        "sha256": "e3350f8b76b57a005fb61ecee922aa1d03ed1a788c2ec31de06c600148a3faa9"
+      }
+    },
+    {
+      "id": "fall-clothes-c9705ef6d5",
+      "name": "Fall Clothes",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fall-clothes-c9705ef6d5/fall-clothes-c9705ef6d5.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 188367,
+        "sha256": "45c8d0ab665fe2bb3454075b084d25d52bed3683d31488d80eb9bc4aaaacad42"
+      }
+    },
+    {
+      "id": "fall-landscape-5b6a32f427",
+      "name": "Fall Landscape",
+      "type": "illustration",
+      "tags": [
+        "autumn",
         "hero-decoration",
         "line-art",
         "nature",
@@ -2256,6 +2617,7 @@
         "section-decoration"
       ],
       "themes": [
+        "autumn",
         "nature"
       ],
       "subjects": [],
@@ -2274,94 +2636,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/jungle-c369b79b8e/jungle-c369b79b8e.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fall-landscape-5b6a32f427/fall-landscape-5b6a32f427.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 178199
+        "bytes": 237938,
+        "sha256": "a8c4771913316571952e3d452ae52d0be0a229511cba55ef0a0cd82caa8ca600"
       }
     },
     {
-      "id": "kart-driver-c431d022a2",
-      "name": "Kart Driver",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/kart-driver-c431d022a2/kart-driver-c431d022a2.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 56499
-      }
-    },
-    {
-      "id": "kayaking-7d57be3881",
-      "name": "Kayaking",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "ocean",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tropical"
-      ],
-      "themes": [
-        "ocean",
-        "tropical"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/kayaking-7d57be3881/kayaking-7d57be3881.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 126999
-      }
-    },
-    {
-      "id": "key-book-5bf77ce077",
-      "name": "Key Book",
+      "id": "fantasy-book-da9f51b3ae",
+      "name": "Fantasy Book",
       "type": "illustration",
       "tags": [
         "book",
@@ -2399,1536 +2682,15 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/key-book-5bf77ce077/key-book-5bf77ce077.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fantasy-book-da9f51b3ae/fantasy-book-da9f51b3ae.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12723
+        "bytes": 16466,
+        "sha256": "ae46211678cafba30488b46a0f2e4dfaaa98405eb7a681fd6592e98917c75609"
       }
     },
     {
-      "id": "key-caace9cec7",
-      "name": "Key",
-      "type": "icon",
-      "tags": [
-        "doodle",
-        "field-trip",
-        "hand-drawn",
-        "icon",
-        "line-art",
-        "museum",
-        "navigation-decoration"
-      ],
-      "themes": [
-        "field-trip",
-        "museum"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "icon",
-        "navigation-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/icon/icon/key-caace9cec7/key-caace9cec7.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10160
-      }
-    },
-    {
-      "id": "key-e53c7cb0ba",
-      "name": "Key",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "library",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "reading",
-        "section-decoration"
-      ],
-      "themes": [
-        "library",
-        "reading"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/key-e53c7cb0ba/key-e53c7cb0ba.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10846
-      }
-    },
-    {
-      "id": "khana-kaaba-1e604e4bae",
-      "name": "Khana Kaaba",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/khana-kaaba-1e604e4bae/khana-kaaba-1e604e4bae.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 593427
-      }
-    },
-    {
-      "id": "kid-toilet-527346b0f7",
-      "name": "Kid Toilet",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/kid-toilet-527346b0f7/kid-toilet-527346b0f7.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 39472
-      }
-    },
-    {
-      "id": "kidneys-19b4d65c7d",
-      "name": "Kidneys",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/kidneys-19b4d65c7d/kidneys-19b4d65c7d.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15617
-      }
-    },
-    {
-      "id": "kids-mobile-9ab228b964",
-      "name": "Kids Mobile",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "phone",
-        "photo-accent",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [
-        "phone"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/kids-mobile-9ab228b964/kids-mobile-9ab228b964.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11886
-      }
-    },
-    {
-      "id": "kinaku-ji-46c0fe9cb8",
-      "name": "Kinaku Ji",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/kinaku-ji-46c0fe9cb8/kinaku-ji-46c0fe9cb8.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 301760
-      }
-    },
-    {
-      "id": "kinderdijk-mill-a4746c63dd",
-      "name": "Kinderdijk Mill",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/kinderdijk-mill-a4746c63dd/kinderdijk-mill-a4746c63dd.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 222367
-      }
-    },
-    {
-      "id": "knee-joint-485c4b4ba0",
-      "name": "Knee Joint",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/knee-joint-485c4b4ba0/knee-joint-485c4b4ba0.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14912
-      }
-    },
-    {
-      "id": "knitted-bookmark-b4278f4260",
-      "name": "Knitted Bookmark",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "reading",
-        "section-decoration"
-      ],
-      "themes": [
-        "reading"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/knitted-bookmark-b4278f4260/knitted-bookmark-b4278f4260.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 96091
-      }
-    },
-    {
-      "id": "knitting-guide-87783c96a0",
-      "name": "Knitting Guide",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "reading",
-        "section-decoration"
-      ],
-      "themes": [
-        "reading"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/knitting-guide-87783c96a0/knitting-guide-87783c96a0.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 88471
-      }
-    },
-    {
-      "id": "knitting-yarn-9e95d9abff",
-      "name": "Knitting Yarn",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/knitting-yarn-9e95d9abff/knitting-yarn-9e95d9abff.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17833
-      }
-    },
-    {
-      "id": "knowledge-dd326bdfce",
-      "name": "Knowledge",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "library",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "reading",
-        "section-decoration"
-      ],
-      "themes": [
-        "library",
-        "reading"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/knowledge-dd326bdfce/knowledge-dd326bdfce.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10092
-      }
-    },
-    {
-      "id": "knowledge-growth-ba74e8515c",
-      "name": "Knowledge Growth",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/knowledge-growth-ba74e8515c/knowledge-growth-ba74e8515c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 9917
-      }
-    },
-    {
-      "id": "kwanzaa-candles-fc716e1865",
-      "name": "Kwanzaa Candles",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "winter"
-      ],
-      "themes": [
-        "winter"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/kwanzaa-candles-fc716e1865/kwanzaa-candles-fc716e1865.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 21016
-      }
-    },
-    {
-      "id": "la-giralda-4ee2400d8c",
-      "name": "La Giralda",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/la-giralda-4ee2400d8c/la-giralda-4ee2400d8c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 314921
-      }
-    },
-    {
-      "id": "lab-centrifuge-fc3318e04a",
-      "name": "Lab Centrifuge",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lab-centrifuge-fc3318e04a/lab-centrifuge-fc3318e04a.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17795
-      }
-    },
-    {
-      "id": "lab-coat-bd806683a5",
-      "name": "Lab Coat",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lab-coat-bd806683a5/lab-coat-bd806683a5.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14563
-      }
-    },
-    {
-      "id": "lab-doctor-36edc9f893",
-      "name": "Lab Doctor",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lab-doctor-36edc9f893/lab-doctor-36edc9f893.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 16326
-      }
-    },
-    {
-      "id": "lab-dropper-087af74223",
-      "name": "Lab Dropper",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lab-dropper-087af74223/lab-dropper-087af74223.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 8189
-      }
-    },
-    {
-      "id": "lab-gloves-48b053ae67",
-      "name": "Lab Gloves",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lab-gloves-48b053ae67/lab-gloves-48b053ae67.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15379
-      }
-    },
-    {
-      "id": "lab-incubator-270a25a6a9",
-      "name": "Lab Incubator",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lab-incubator-270a25a6a9/lab-incubator-270a25a6a9.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 8872
-      }
-    },
-    {
-      "id": "lab-printer-7e9d241233",
-      "name": "Lab Printer",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lab-printer-7e9d241233/lab-printer-7e9d241233.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13667
-      }
-    },
-    {
-      "id": "lab-testing-777fade312",
-      "name": "Lab Testing",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lab-testing-777fade312/lab-testing-777fade312.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10455
-      }
-    },
-    {
-      "id": "lake-cabin-dcfdb8b158",
-      "name": "Lake Cabin",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lake-cabin-dcfdb8b158/lake-cabin-dcfdb8b158.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 119779
-      }
-    },
-    {
-      "id": "lake-landscape-9e9bf8b85f",
-      "name": "Lake Landscape",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lake-landscape-9e9bf8b85f/lake-landscape-9e9bf8b85f.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 318964
-      }
-    },
-    {
-      "id": "lantern-a4339a46aa",
-      "name": "Lantern",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "ocean",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tropical"
-      ],
-      "themes": [
-        "ocean",
-        "tropical"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lantern-a4339a46aa/lantern-a4339a46aa.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 47846
-      }
-    },
-    {
-      "id": "lantern-b701e0747b",
-      "name": "Lantern",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "field-trip",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "safari",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "safari",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lantern-b701e0747b/lantern-b701e0747b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15904
-      }
-    },
-    {
-      "id": "laptop-9bfb04f194",
-      "name": "Laptop",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "computer",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [
-        "computer"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/laptop-9bfb04f194/laptop-9bfb04f194.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11263
-      }
-    },
-    {
-      "id": "latte-02cd96a476",
-      "name": "Latte",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/latte-02cd96a476/latte-02cd96a476.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 18751
-      }
-    },
-    {
-      "id": "laundry-a8f16364af",
-      "name": "Laundry",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/laundry-a8f16364af/laundry-a8f16364af.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 21670
-      }
-    },
-    {
-      "id": "lavender-bouquet-0c11f5dc6d",
-      "name": "Lavender Bouquet",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lavender-bouquet-0c11f5dc6d/lavender-bouquet-0c11f5dc6d.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 507409
-      }
-    },
-    {
-      "id": "lavender-flower-2947f788c8",
-      "name": "Lavender Flower",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "doodle",
-        "farming",
-        "flower",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "farming",
-        "harvest",
-        "nature"
-      ],
-      "subjects": [
-        "flower"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lavender-flower-2947f788c8/lavender-flower-2947f788c8.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 28134
-      }
-    },
-    {
-      "id": "lavender-stem-0f088f40bb",
-      "name": "Lavender Stem",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lavender-stem-0f088f40bb/lavender-stem-0f088f40bb.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 180606
-      }
-    },
-    {
-      "id": "law-book-fc28587c2d",
-      "name": "Law Book",
-      "type": "illustration",
-      "tags": [
-        "book",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "library",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "reading",
-        "section-decoration"
-      ],
-      "themes": [
-        "library",
-        "reading"
-      ],
-      "subjects": [
-        "book"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/law-book-fc28587c2d/law-book-fc28587c2d.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11203
-      }
-    },
-    {
-      "id": "lawn-aerator-77d30db3db",
-      "name": "Lawn Aerator",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "garden",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "garden"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lawn-aerator-77d30db3db/lawn-aerator-77d30db3db.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13362
-      }
-    },
-    {
-      "id": "lawn-edger-7a46581fbb",
-      "name": "Lawn Edger",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "garden",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "garden"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lawn-edger-7a46581fbb/lawn-edger-7a46581fbb.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15604
-      }
-    },
-    {
-      "id": "lawn-mower-431f764f91",
-      "name": "Lawn Mower",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "garden",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "garden"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lawn-mower-431f764f91/lawn-mower-431f764f91.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14163
-      }
-    },
-    {
-      "id": "lawn-mower-cf5bc716fd",
-      "name": "Lawn Mower",
+      "id": "farm-boots-0f79117aea",
+      "name": "Farm Boots",
       "type": "illustration",
       "tags": [
         "doodle",
@@ -3963,14 +2725,977 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lawn-mower-cf5bc716fd/lawn-mower-cf5bc716fd.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-boots-0f79117aea/farm-boots-0f79117aea.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13482
+        "bytes": 12623,
+        "sha256": "c1b58efad35c8051add4d006eee8f482402ad08dc782fd80d36e7dee91e1647a"
       }
     },
     {
-      "id": "lawn-roller-fcc1ed5e10",
-      "name": "Lawn Roller",
+      "id": "farm-cart-0cc4543e0c",
+      "name": "Farm Cart",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-cart-0cc4543e0c/farm-cart-0cc4543e0c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14959,
+        "sha256": "4c66043e711e7802c418bc0c041f441200850f37966c1e6f360c34089fd0c9f5"
+      }
+    },
+    {
+      "id": "farm-drone-2bc95b11ad",
+      "name": "Farm Drone",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-drone-2bc95b11ad/farm-drone-2bc95b11ad.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19211,
+        "sha256": "caa4dde4d6e9c30d894f6bf95ac0de7e6e6913be67d15b71b19c3c435ceb1815"
+      }
+    },
+    {
+      "id": "farm-pitchfork-cc4dce0172",
+      "name": "Farm Pitchfork",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-pitchfork-cc4dce0172/farm-pitchfork-cc4dce0172.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9412,
+        "sha256": "53ea77650fa79713f9ecd1387911556a86ed8e7def2b02e096e9d599a5c629d9"
+      }
+    },
+    {
+      "id": "farm-plow-e6491afc20",
+      "name": "Farm Plow",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-plow-e6491afc20/farm-plow-e6491afc20.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9732,
+        "sha256": "aa36f641f4ea24d634a402ced0aaa067e7dd788885c4a04d5d027b1014545961"
+      }
+    },
+    {
+      "id": "farm-truck-308d4d7cf3",
+      "name": "Farm Truck",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "truck"
+      ],
+      "themes": [
+        "farming",
+        "harvest",
+        "transportation"
+      ],
+      "subjects": [
+        "truck"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-truck-308d4d7cf3/farm-truck-308d4d7cf3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 11950,
+        "sha256": "9b0d7be21d01fb84082b4bafe95395f88656ca110fd7ccaf39e5ca146af549d5"
+      }
+    },
+    {
+      "id": "farm-wheelbarrow-06b3437ee8",
+      "name": "Farm Wheelbarrow",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-wheelbarrow-06b3437ee8/farm-wheelbarrow-06b3437ee8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20262,
+        "sha256": "2cb43df5e462effeb590d5f4d8ee42d3e60a861e12396f80af2850b6dec5d6d8"
+      }
+    },
+    {
+      "id": "farmer-27e10d1f41",
+      "name": "Farmer",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farmer-27e10d1f41/farmer-27e10d1f41.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15946,
+        "sha256": "1e20c40bb6d819ef70476a93664e7b76ed7591ef815d0ad633b60a21a9cd96f2"
+      }
+    },
+    {
+      "id": "farmer-a82c373a20",
+      "name": "Farmer",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farmer-a82c373a20/farmer-a82c373a20.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14826,
+        "sha256": "f7f461ca0a1ca1531b74aa9b63481e2875bb1acf99a34d662ff20e1ffffe99c8"
+      }
+    },
+    {
+      "id": "farmer-aa718c7369",
+      "name": "Farmer",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farmer-aa718c7369/farmer-aa718c7369.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16900,
+        "sha256": "a3a2f69b2d18ba85728b0fb7c1f2581e2aa3d16647307525bb00c938b73f725b"
+      }
+    },
+    {
+      "id": "farmer-costume-595dc9f7ac",
+      "name": "Farmer Costume",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farmer-costume-595dc9f7ac/farmer-costume-595dc9f7ac.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 12335,
+        "sha256": "137bc77c453609b9d92b36eb3810ea786b515e41a5a37ac87433f94bb33d7197"
+      }
+    },
+    {
+      "id": "farmer-e556dfae42",
+      "name": "Farmer",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farmer-e556dfae42/farmer-e556dfae42.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 223737,
+        "sha256": "dfa8a31fd2133032c777142860db140a447ac8dcfc36097842d99184da3741c8"
+      }
+    },
+    {
+      "id": "farmer-hat-cbcfab545d",
+      "name": "Farmer Hat",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farmer-hat-cbcfab545d/farmer-hat-cbcfab545d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 7199,
+        "sha256": "e24ae63a61a1e456336063a874c8fba659fac634b4beb5bf7fcff06b4d8422b2"
+      }
+    },
+    {
+      "id": "farmer-hat-f8ec0318da",
+      "name": "Farmer Hat",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farmer-hat-f8ec0318da/farmer-hat-f8ec0318da.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 5934,
+        "sha256": "43ece52be45e41d6c100527552245b0bfd6a9b092bd8fa8bf373271feaf3cae5"
+      }
+    },
+    {
+      "id": "farmhouse-a3e2f5c457",
+      "name": "Farmhouse",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farmhouse-a3e2f5c457/farmhouse-a3e2f5c457.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 239307,
+        "sha256": "e0f15bf734f480f146183173200577a0907bb80f43cb99ec4c383bc7cf47fcb2"
+      }
+    },
+    {
+      "id": "farming-drawing-doodles-af87921e4c",
+      "name": "Farming Drawing Doodles",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farming-drawing-doodles-af87921e4c/farming-drawing-doodles-af87921e4c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 808851,
+        "sha256": "c0d712793b0a6423d183671eff1941cb5ed5f0b4dc2cad44a3d6f1a9280dc4ab"
+      }
+    },
+    {
+      "id": "farming-rake-4ad1f5e521",
+      "name": "Farming Rake",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farming-rake-4ad1f5e521/farming-rake-4ad1f5e521.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 11148,
+        "sha256": "0ee5e8bcb89f3c29f06972ffb3f547242c5f737830e01e0cbbfd94250857f218"
+      }
+    },
+    {
+      "id": "farmland-eea4e0402b",
+      "name": "Farmland",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farmland-eea4e0402b/farmland-eea4e0402b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 98851,
+        "sha256": "e2b888bbd7146df8ce0437891d6386c4be9cace0f74762a5c0561e24ddc7e62c"
+      }
+    },
+    {
+      "id": "fat-molecules-4f968ad6f4",
+      "name": "Fat Molecules",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "science",
+        "section-decoration"
+      ],
+      "themes": [
+        "science"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fat-molecules-4f968ad6f4/fat-molecules-4f968ad6f4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15521,
+        "sha256": "2a376e1192d4bd1b991ca9b7b70e184f8551781e6ea868c9bba5a5717f3e0205"
+      }
+    },
+    {
+      "id": "feather-leaf-870f1f3c10",
+      "name": "Feather Leaf",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "leaf",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "leaf"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/feather-leaf-870f1f3c10/feather-leaf-870f1f3c10.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9491,
+        "sha256": "bc45fc4c4827983f764f3d354aeefe4ff72550276e80e21c9a0313b986abf686"
+      }
+    },
+    {
+      "id": "feed-mixer-b20282b6c3",
+      "name": "Feed Mixer",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/feed-mixer-b20282b6c3/feed-mixer-b20282b6c3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 8172,
+        "sha256": "1b4d7f37dd18d795de655b2476c8ff3388bf9513706492274841597d953cc8bf"
+      }
+    },
+    {
+      "id": "female-biker-a556c8d0ab",
+      "name": "Female Biker",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel"
+      ],
+      "themes": [
+        "transportation",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/female-biker-a556c8d0ab/female-biker-a556c8d0ab.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 81647,
+        "sha256": "7e50c08e7a6d61cfa4f2ae42efd806470ea01b5e099d95d863f64da70dd81859"
+      }
+    },
+    {
+      "id": "fern-frond-535a3c46d3",
+      "name": "Fern Frond",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fern-frond-535a3c46d3/fern-frond-535a3c46d3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 456950,
+        "sha256": "3b490a7b271d55fa15dab24dcdce803239bbf9d78765d9113cacfe97e6be2006"
+      }
+    },
+    {
+      "id": "fern-leaves-3ec4af6afa",
+      "name": "Fern Leaves",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "leaf",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "leaf"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fern-leaves-3ec4af6afa/fern-leaves-3ec4af6afa.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 859726,
+        "sha256": "572946a5e580340a81aed73c4543200bfbc05f9a133ec335c9526b84d8e6190d"
+      }
+    },
+    {
+      "id": "fertilizer-bag-038a8e6ec2",
+      "name": "Fertilizer Bag",
       "type": "illustration",
       "tags": [
         "doodle",
@@ -4003,19 +3728,21 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lawn-roller-fcc1ed5e10/lawn-roller-fcc1ed5e10.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fertilizer-bag-038a8e6ec2/fertilizer-bag-038a8e6ec2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8681
+        "bytes": 12729,
+        "sha256": "21a254e5e9714a354d290ad3af33b15c15d4fc37d7fe2cea5ee9f7fdb714680e"
       }
     },
     {
-      "id": "lawn-trimmer-c073622a85",
-      "name": "Lawn Trimmer",
+      "id": "fertilizer-spreader-ad612750ad",
+      "name": "Fertilizer Spreader",
       "type": "illustration",
       "tags": [
         "doodle",
-        "garden",
+        "farming",
         "hand-drawn",
+        "harvest",
         "hero-decoration",
         "line-art",
         "page-decoration",
@@ -4023,7 +3750,8 @@
         "section-decoration"
       ],
       "themes": [
-        "garden"
+        "farming",
+        "harvest"
       ],
       "subjects": [],
       "styles": [
@@ -4043,9 +3771,376 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lawn-trimmer-c073622a85/lawn-trimmer-c073622a85.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fertilizer-spreader-ad612750ad/fertilizer-spreader-ad612750ad.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11886
+        "bytes": 11106,
+        "sha256": "fd8190cfbfa4bce93504f765e2515e3a8c3d26fd4c38e74b5959e364b068a052"
+      }
+    },
+    {
+      "id": "festive-celebration-8f3fadd09b",
+      "name": "Festive Celebration",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "celebration",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/festive-celebration-8f3fadd09b/festive-celebration-8f3fadd09b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 220597,
+        "sha256": "ababe99590ced0e7577edaf39b952cd65be6d1a064ee0bae6b8404d2c3f794fa"
+      }
+    },
+    {
+      "id": "festive-cookies-053f5afadd",
+      "name": "Festive Cookies",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/festive-cookies-053f5afadd/festive-cookies-053f5afadd.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16934,
+        "sha256": "2fb5e5b6a9a7bae77b3b4ea4bd41d7e2d5dd1d492deb2c13999fd2ee2f850493"
+      }
+    },
+    {
+      "id": "fictional-book-e669abf0fb",
+      "name": "Fictional Book",
+      "type": "illustration",
+      "tags": [
+        "book",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "reading",
+        "section-decoration",
+        "space"
+      ],
+      "themes": [
+        "reading",
+        "space"
+      ],
+      "subjects": [
+        "book"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fictional-book-e669abf0fb/fictional-book-e669abf0fb.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13289,
+        "sha256": "ed6087a2c44faca6dee8329d59e6e6d7eba909d0c9628535896fcec8974e1d56"
+      }
+    },
+    {
+      "id": "fields-b292c214da",
+      "name": "Fields",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fields-b292c214da/fields-b292c214da.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 243423,
+        "sha256": "302ab8e1700b36777a6cd203c589db5b0b276df99a0f3582b47bdb2e79dd076f"
+      }
+    },
+    {
+      "id": "file-binder-26175e1935",
+      "name": "File Binder",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/file-binder-26175e1935/file-binder-26175e1935.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9170,
+        "sha256": "db33913c499b7a1cd3017996d6fbbbf8f11f4a310da9b1aedc692e2004cb621e"
+      }
+    },
+    {
+      "id": "file-folder-d58202b948",
+      "name": "File Folder",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "library",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "reading",
+        "section-decoration"
+      ],
+      "themes": [
+        "library",
+        "reading"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/file-folder-d58202b948/file-folder-d58202b948.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 6188,
+        "sha256": "92a5d7ddb0ee84e71c8a03490852f27210897e83858d7a9e43e4cfe04d0fa869"
+      }
+    },
+    {
+      "id": "file-rack-e848b56d04",
+      "name": "File Rack",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/file-rack-e848b56d04/file-rack-e848b56d04.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 12125,
+        "sha256": "9fd2c4f1f719556912d548f3598597faa5b888a5d734137cc26b1ea884146340"
+      }
+    },
+    {
+      "id": "financial-report-a78f58d7fd",
+      "name": "Financial report",
+      "type": "prop",
+      "tags": [
+        "3d",
+        "dimensional",
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "themes": [],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "hero-prop",
+        "page-prop",
+        "photo-accent"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/financial-report-a78f58d7fd/financial-report-a78f58d7fd.webp",
+        "mimeType": "image/webp",
+        "bytes": 776962,
+        "sha256": "bd31c521bf3f761ef3db42a3fd2c6c063733403b5fe365aec42e6026ba21e407",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "fingerless-gloves-95b2ed00f6",
+      "name": "Fingerless Gloves",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fingerless-gloves-95b2ed00f6/fingerless-gloves-95b2ed00f6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 17293,
+        "sha256": "f64a7d37f48e722a6cbe9fc9e08522fd3a6671cce52186f97c4cbd216552c289"
       }
     }
   ]

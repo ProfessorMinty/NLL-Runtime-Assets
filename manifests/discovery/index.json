@@ -5,9 +5,10 @@
     "runtimeStatus": "READY",
     "automaticSelection": "ELIGIBLE"
   },
-  "eligibleAssetCount": 3759,
+  "eligibleAssetCount": 4395,
   "collectionCount": 171,
   "themeCount": 50,
+  "incompleteThemeCount": 47,
   "collections": [
     {
       "id": "album-theme-100th-day-of-school",
@@ -19,7 +20,7 @@
         "math",
         "school"
       ],
-      "assetCount": 513,
+      "assetCount": 514,
       "pageSize": 100,
       "pageCount": 6,
       "pages": [
@@ -43,13 +44,15 @@
         "orchard",
         "tree"
       ],
-      "assetCount": 208,
+      "assetCount": 474,
       "pageSize": 100,
-      "pageCount": 3,
+      "pageCount": 5,
       "pages": [
         "discovery/collections/album-theme-apple-orchard/page-001.json",
         "discovery/collections/album-theme-apple-orchard/page-002.json",
-        "discovery/collections/album-theme-apple-orchard/page-003.json"
+        "discovery/collections/album-theme-apple-orchard/page-003.json",
+        "discovery/collections/album-theme-apple-orchard/page-004.json",
+        "discovery/collections/album-theme-apple-orchard/page-005.json"
       ]
     },
     {
@@ -63,9 +66,9 @@
         "drawing",
         "painting"
       ],
-      "assetCount": 2611,
+      "assetCount": 3182,
       "pageSize": 100,
-      "pageCount": 27,
+      "pageCount": 32,
       "pages": [
         "discovery/collections/album-theme-art-studio/page-001.json",
         "discovery/collections/album-theme-art-studio/page-002.json",
@@ -93,7 +96,12 @@
         "discovery/collections/album-theme-art-studio/page-024.json",
         "discovery/collections/album-theme-art-studio/page-025.json",
         "discovery/collections/album-theme-art-studio/page-026.json",
-        "discovery/collections/album-theme-art-studio/page-027.json"
+        "discovery/collections/album-theme-art-studio/page-027.json",
+        "discovery/collections/album-theme-art-studio/page-028.json",
+        "discovery/collections/album-theme-art-studio/page-029.json",
+        "discovery/collections/album-theme-art-studio/page-030.json",
+        "discovery/collections/album-theme-art-studio/page-031.json",
+        "discovery/collections/album-theme-art-studio/page-032.json"
       ]
     },
     {
@@ -106,11 +114,14 @@
         "harvest",
         "pumpkin"
       ],
-      "assetCount": 87,
+      "assetCount": 341,
       "pageSize": 100,
-      "pageCount": 1,
+      "pageCount": 4,
       "pages": [
-        "discovery/collections/album-theme-autumn-harvest/page-001.json"
+        "discovery/collections/album-theme-autumn-harvest/page-001.json",
+        "discovery/collections/album-theme-autumn-harvest/page-002.json",
+        "discovery/collections/album-theme-autumn-harvest/page-003.json",
+        "discovery/collections/album-theme-autumn-harvest/page-004.json"
       ]
     },
     {
@@ -124,7 +135,7 @@
         "school",
         "star"
       ],
-      "assetCount": 361,
+      "assetCount": 364,
       "pageSize": 100,
       "pageCount": 4,
       "pages": [
@@ -165,7 +176,7 @@
         "friendship",
         "party"
       ],
-      "assetCount": 197,
+      "assetCount": 198,
       "pageSize": 100,
       "pageCount": 2,
       "pages": [
@@ -184,7 +195,7 @@
         "reading",
         "school"
       ],
-      "assetCount": 656,
+      "assetCount": 658,
       "pageSize": 100,
       "pageCount": 7,
       "pages": [
@@ -208,7 +219,7 @@
         "greenhouse",
         "plant"
       ],
-      "assetCount": 343,
+      "assetCount": 349,
       "pageSize": 100,
       "pageCount": 4,
       "pages": [
@@ -229,7 +240,7 @@
         "insect",
         "nature"
       ],
-      "assetCount": 560,
+      "assetCount": 570,
       "pageSize": 100,
       "pageCount": 6,
       "pages": [
@@ -252,7 +263,7 @@
         "school",
         "stationery"
       ],
-      "assetCount": 530,
+      "assetCount": 531,
       "pageSize": 100,
       "pageCount": 6,
       "pages": [
@@ -274,7 +285,7 @@
         "party",
         "school"
       ],
-      "assetCount": 431,
+      "assetCount": 432,
       "pageSize": 100,
       "pageCount": 5,
       "pages": [
@@ -296,7 +307,7 @@
         "school",
         "vehicle"
       ],
-      "assetCount": 265,
+      "assetCount": 282,
       "pageSize": 100,
       "pageCount": 3,
       "pages": [
@@ -334,7 +345,7 @@
         "landmark",
         "travel"
       ],
-      "assetCount": 735,
+      "assetCount": 739,
       "pageSize": 100,
       "pageCount": 8,
       "pages": [
@@ -358,7 +369,7 @@
         "museum",
         "nature"
       ],
-      "assetCount": 866,
+      "assetCount": 874,
       "pageSize": 100,
       "pageCount": 9,
       "pages": [
@@ -384,7 +395,7 @@
         "science",
         "space"
       ],
-      "assetCount": 1303,
+      "assetCount": 1311,
       "pageSize": 100,
       "pageCount": 14,
       "pages": [
@@ -415,7 +426,7 @@
         "school",
         "summer"
       ],
-      "assetCount": 436,
+      "assetCount": 437,
       "pageSize": 100,
       "pageCount": 5,
       "pages": [
@@ -436,13 +447,16 @@
         "festival",
         "harvest"
       ],
-      "assetCount": 284,
+      "assetCount": 538,
       "pageSize": 100,
-      "pageCount": 3,
+      "pageCount": 6,
       "pages": [
         "discovery/collections/album-theme-fall-festival/page-001.json",
         "discovery/collections/album-theme-fall-festival/page-002.json",
-        "discovery/collections/album-theme-fall-festival/page-003.json"
+        "discovery/collections/album-theme-fall-festival/page-003.json",
+        "discovery/collections/album-theme-fall-festival/page-004.json",
+        "discovery/collections/album-theme-fall-festival/page-005.json",
+        "discovery/collections/album-theme-fall-festival/page-006.json"
       ]
     },
     {
@@ -456,7 +470,7 @@
         "harvest",
         "nature"
       ],
-      "assetCount": 611,
+      "assetCount": 637,
       "pageSize": 100,
       "pageCount": 7,
       "pages": [
@@ -479,7 +493,7 @@
         "school",
         "sports"
       ],
-      "assetCount": 388,
+      "assetCount": 391,
       "pageSize": 100,
       "pageCount": 4,
       "pages": [
@@ -499,7 +513,7 @@
         "museum",
         "travel"
       ],
-      "assetCount": 613,
+      "assetCount": 616,
       "pageSize": 100,
       "pageCount": 7,
       "pages": [
@@ -523,7 +537,7 @@
         "museum",
         "travel"
       ],
-      "assetCount": 613,
+      "assetCount": 616,
       "pageSize": 100,
       "pageCount": 7,
       "pages": [
@@ -546,7 +560,7 @@
         "reading",
         "school"
       ],
-      "assetCount": 459,
+      "assetCount": 460,
       "pageSize": 100,
       "pageCount": 5,
       "pages": [
@@ -568,9 +582,9 @@
         "photo-accent",
         "photo-frame"
       ],
-      "assetCount": 2623,
+      "assetCount": 3205,
       "pageSize": 100,
-      "pageCount": 27,
+      "pageCount": 33,
       "pages": [
         "discovery/collections/album-theme-memory-gallery/page-001.json",
         "discovery/collections/album-theme-memory-gallery/page-002.json",
@@ -598,7 +612,13 @@
         "discovery/collections/album-theme-memory-gallery/page-024.json",
         "discovery/collections/album-theme-memory-gallery/page-025.json",
         "discovery/collections/album-theme-memory-gallery/page-026.json",
-        "discovery/collections/album-theme-memory-gallery/page-027.json"
+        "discovery/collections/album-theme-memory-gallery/page-027.json",
+        "discovery/collections/album-theme-memory-gallery/page-028.json",
+        "discovery/collections/album-theme-memory-gallery/page-029.json",
+        "discovery/collections/album-theme-memory-gallery/page-030.json",
+        "discovery/collections/album-theme-memory-gallery/page-031.json",
+        "discovery/collections/album-theme-memory-gallery/page-032.json",
+        "discovery/collections/album-theme-memory-gallery/page-033.json"
       ]
     },
     {
@@ -611,7 +631,7 @@
         "museum",
         "travel"
       ],
-      "assetCount": 613,
+      "assetCount": 616,
       "pageSize": 100,
       "pageCount": 7,
       "pages": [
@@ -634,7 +654,7 @@
         "music",
         "performance"
       ],
-      "assetCount": 232,
+      "assetCount": 234,
       "pageSize": 100,
       "pageCount": 3,
       "pages": [
@@ -654,7 +674,7 @@
         "museum",
         "nature"
       ],
-      "assetCount": 884,
+      "assetCount": 896,
       "pageSize": 100,
       "pageCount": 9,
       "pages": [
@@ -680,7 +700,7 @@
         "space",
         "star"
       ],
-      "assetCount": 124,
+      "assetCount": 130,
       "pageSize": 100,
       "pageCount": 2,
       "pages": [
@@ -718,7 +738,7 @@
         "sports",
         "tree"
       ],
-      "assetCount": 664,
+      "assetCount": 683,
       "pageSize": 100,
       "pageCount": 7,
       "pages": [
@@ -744,7 +764,7 @@
         "insect",
         "plant"
       ],
-      "assetCount": 345,
+      "assetCount": 351,
       "pageSize": 100,
       "pageCount": 4,
       "pages": [
@@ -764,11 +784,14 @@
         "pumpkin",
         "pumpkin-patch"
       ],
-      "assetCount": 87,
+      "assetCount": 341,
       "pageSize": 100,
-      "pageCount": 1,
+      "pageCount": 4,
       "pages": [
-        "discovery/collections/album-theme-pumpkin-patch/page-001.json"
+        "discovery/collections/album-theme-pumpkin-patch/page-001.json",
+        "discovery/collections/album-theme-pumpkin-patch/page-002.json",
+        "discovery/collections/album-theme-pumpkin-patch/page-003.json",
+        "discovery/collections/album-theme-pumpkin-patch/page-004.json"
       ]
     },
     {
@@ -782,7 +805,7 @@
         "nature",
         "safari"
       ],
-      "assetCount": 1044,
+      "assetCount": 1055,
       "pageSize": 100,
       "pageCount": 11,
       "pages": [
@@ -809,7 +832,7 @@
         "transportation",
         "vehicle"
       ],
-      "assetCount": 282,
+      "assetCount": 286,
       "pageSize": 100,
       "pageCount": 3,
       "pages": [
@@ -829,7 +852,7 @@
         "party",
         "school"
       ],
-      "assetCount": 356,
+      "assetCount": 357,
       "pageSize": 100,
       "pageCount": 4,
       "pages": [
@@ -892,7 +915,7 @@
         "rocket",
         "space"
       ],
-      "assetCount": 119,
+      "assetCount": 121,
       "pageSize": 100,
       "pageCount": 2,
       "pages": [
@@ -910,7 +933,7 @@
         "school",
         "sports"
       ],
-      "assetCount": 456,
+      "assetCount": 457,
       "pageSize": 100,
       "pageCount": 5,
       "pages": [
@@ -931,7 +954,7 @@
         "garden",
         "spring"
       ],
-      "assetCount": 343,
+      "assetCount": 349,
       "pageSize": 100,
       "pageCount": 4,
       "pages": [
@@ -975,9 +998,9 @@
         "school",
         "summer"
       ],
-      "assetCount": 895,
+      "assetCount": 904,
       "pageSize": 100,
-      "pageCount": 9,
+      "pageCount": 10,
       "pages": [
         "discovery/collections/album-theme-summer-send-off/page-001.json",
         "discovery/collections/album-theme-summer-send-off/page-002.json",
@@ -987,7 +1010,8 @@
         "discovery/collections/album-theme-summer-send-off/page-006.json",
         "discovery/collections/album-theme-summer-send-off/page-007.json",
         "discovery/collections/album-theme-summer-send-off/page-008.json",
-        "discovery/collections/album-theme-summer-send-off/page-009.json"
+        "discovery/collections/album-theme-summer-send-off/page-009.json",
+        "discovery/collections/album-theme-summer-send-off/page-010.json"
       ]
     },
     {
@@ -1001,7 +1025,7 @@
         "stage",
         "theater"
       ],
-      "assetCount": 231,
+      "assetCount": 233,
       "pageSize": 100,
       "pageCount": 3,
       "pages": [
@@ -1021,7 +1045,7 @@
         "science",
         "weather"
       ],
-      "assetCount": 746,
+      "assetCount": 766,
       "pageSize": 100,
       "pageCount": 8,
       "pages": [
@@ -1045,13 +1069,16 @@
         "holiday",
         "winter"
       ],
-      "assetCount": 299,
+      "assetCount": 586,
       "pageSize": 100,
-      "pageCount": 3,
+      "pageCount": 6,
       "pages": [
         "discovery/collections/album-theme-winter-celebration/page-001.json",
         "discovery/collections/album-theme-winter-celebration/page-002.json",
-        "discovery/collections/album-theme-winter-celebration/page-003.json"
+        "discovery/collections/album-theme-winter-celebration/page-003.json",
+        "discovery/collections/album-theme-winter-celebration/page-004.json",
+        "discovery/collections/album-theme-winter-celebration/page-005.json",
+        "discovery/collections/album-theme-winter-celebration/page-006.json"
       ]
     },
     {
@@ -1064,9 +1091,9 @@
         "weather",
         "winter"
       ],
-      "assetCount": 674,
+      "assetCount": 966,
       "pageSize": 100,
-      "pageCount": 7,
+      "pageCount": 10,
       "pages": [
         "discovery/collections/album-theme-winter-wonderland/page-001.json",
         "discovery/collections/album-theme-winter-wonderland/page-002.json",
@@ -1074,7 +1101,10 @@
         "discovery/collections/album-theme-winter-wonderland/page-004.json",
         "discovery/collections/album-theme-winter-wonderland/page-005.json",
         "discovery/collections/album-theme-winter-wonderland/page-006.json",
-        "discovery/collections/album-theme-winter-wonderland/page-007.json"
+        "discovery/collections/album-theme-winter-wonderland/page-007.json",
+        "discovery/collections/album-theme-winter-wonderland/page-008.json",
+        "discovery/collections/album-theme-winter-wonderland/page-009.json",
+        "discovery/collections/album-theme-winter-wonderland/page-010.json"
       ]
     },
     {
@@ -1088,7 +1118,7 @@
         "nature",
         "tree"
       ],
-      "assetCount": 556,
+      "assetCount": 574,
       "pageSize": 100,
       "pageCount": 6,
       "pages": [
@@ -1111,7 +1141,7 @@
         "tree",
         "woodland"
       ],
-      "assetCount": 637,
+      "assetCount": 656,
       "pageSize": 100,
       "pageCount": 7,
       "pages": [
@@ -1135,7 +1165,7 @@
         "safari",
         "zoo"
       ],
-      "assetCount": 645,
+      "assetCount": 656,
       "pageSize": 100,
       "pageCount": 7,
       "pages": [
@@ -1156,15 +1186,16 @@
         "style",
         "3d"
       ],
-      "assetCount": 463,
+      "assetCount": 501,
       "pageSize": 100,
-      "pageCount": 5,
+      "pageCount": 6,
       "pages": [
         "discovery/collections/style-3d/page-001.json",
         "discovery/collections/style-3d/page-002.json",
         "discovery/collections/style-3d/page-003.json",
         "discovery/collections/style-3d/page-004.json",
-        "discovery/collections/style-3d/page-005.json"
+        "discovery/collections/style-3d/page-005.json",
+        "discovery/collections/style-3d/page-006.json"
       ]
     },
     {
@@ -1190,15 +1221,16 @@
         "style",
         "dimensional"
       ],
-      "assetCount": 463,
+      "assetCount": 501,
       "pageSize": 100,
-      "pageCount": 5,
+      "pageCount": 6,
       "pages": [
         "discovery/collections/style-dimensional/page-001.json",
         "discovery/collections/style-dimensional/page-002.json",
         "discovery/collections/style-dimensional/page-003.json",
         "discovery/collections/style-dimensional/page-004.json",
-        "discovery/collections/style-dimensional/page-005.json"
+        "discovery/collections/style-dimensional/page-005.json",
+        "discovery/collections/style-dimensional/page-006.json"
       ]
     },
     {
@@ -1209,9 +1241,9 @@
         "style",
         "doodle"
       ],
-      "assetCount": 1487,
+      "assetCount": 1763,
       "pageSize": 100,
-      "pageCount": 15,
+      "pageCount": 18,
       "pages": [
         "discovery/collections/style-doodle/page-001.json",
         "discovery/collections/style-doodle/page-002.json",
@@ -1227,7 +1259,10 @@
         "discovery/collections/style-doodle/page-012.json",
         "discovery/collections/style-doodle/page-013.json",
         "discovery/collections/style-doodle/page-014.json",
-        "discovery/collections/style-doodle/page-015.json"
+        "discovery/collections/style-doodle/page-015.json",
+        "discovery/collections/style-doodle/page-016.json",
+        "discovery/collections/style-doodle/page-017.json",
+        "discovery/collections/style-doodle/page-018.json"
       ]
     },
     {
@@ -1258,7 +1293,7 @@
         "style",
         "glossy"
       ],
-      "assetCount": 141,
+      "assetCount": 143,
       "pageSize": 100,
       "pageCount": 2,
       "pages": [
@@ -1274,9 +1309,9 @@
         "style",
         "hand-drawn"
       ],
-      "assetCount": 1487,
+      "assetCount": 1763,
       "pageSize": 100,
-      "pageCount": 15,
+      "pageCount": 18,
       "pages": [
         "discovery/collections/style-hand-drawn/page-001.json",
         "discovery/collections/style-hand-drawn/page-002.json",
@@ -1292,7 +1327,10 @@
         "discovery/collections/style-hand-drawn/page-012.json",
         "discovery/collections/style-hand-drawn/page-013.json",
         "discovery/collections/style-hand-drawn/page-014.json",
-        "discovery/collections/style-hand-drawn/page-015.json"
+        "discovery/collections/style-hand-drawn/page-015.json",
+        "discovery/collections/style-hand-drawn/page-016.json",
+        "discovery/collections/style-hand-drawn/page-017.json",
+        "discovery/collections/style-hand-drawn/page-018.json"
       ]
     },
     {
@@ -1303,9 +1341,9 @@
         "style",
         "line-art"
       ],
-      "assetCount": 2548,
+      "assetCount": 3119,
       "pageSize": 100,
-      "pageCount": 26,
+      "pageCount": 32,
       "pages": [
         "discovery/collections/style-line-art/page-001.json",
         "discovery/collections/style-line-art/page-002.json",
@@ -1332,7 +1370,13 @@
         "discovery/collections/style-line-art/page-023.json",
         "discovery/collections/style-line-art/page-024.json",
         "discovery/collections/style-line-art/page-025.json",
-        "discovery/collections/style-line-art/page-026.json"
+        "discovery/collections/style-line-art/page-026.json",
+        "discovery/collections/style-line-art/page-027.json",
+        "discovery/collections/style-line-art/page-028.json",
+        "discovery/collections/style-line-art/page-029.json",
+        "discovery/collections/style-line-art/page-030.json",
+        "discovery/collections/style-line-art/page-031.json",
+        "discovery/collections/style-line-art/page-032.json"
       ]
     },
     {
@@ -1403,7 +1447,7 @@
         "subject",
         "animal"
       ],
-      "assetCount": 27,
+      "assetCount": 30,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1478,7 +1522,7 @@
         "subject",
         "banner"
       ],
-      "assetCount": 3,
+      "assetCount": 4,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1493,7 +1537,7 @@
         "subject",
         "bicycle"
       ],
-      "assetCount": 3,
+      "assetCount": 4,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1508,7 +1552,7 @@
         "subject",
         "boat"
       ],
-      "assetCount": 10,
+      "assetCount": 11,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1523,7 +1567,7 @@
         "subject",
         "book"
       ],
-      "assetCount": 183,
+      "assetCount": 184,
       "pageSize": 100,
       "pageCount": 2,
       "pages": [
@@ -1554,7 +1598,7 @@
         "subject",
         "car"
       ],
-      "assetCount": 14,
+      "assetCount": 15,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1569,7 +1613,7 @@
         "subject",
         "chair"
       ],
-      "assetCount": 24,
+      "assetCount": 25,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1629,7 +1673,7 @@
         "subject",
         "flower"
       ],
-      "assetCount": 71,
+      "assetCount": 75,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1644,7 +1688,7 @@
         "subject",
         "food"
       ],
-      "assetCount": 30,
+      "assetCount": 45,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1704,7 +1748,7 @@
         "subject",
         "landmark"
       ],
-      "assetCount": 39,
+      "assetCount": 40,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1719,7 +1763,7 @@
         "subject",
         "leaf"
       ],
-      "assetCount": 21,
+      "assetCount": 27,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1779,7 +1823,7 @@
         "subject",
         "mountain"
       ],
-      "assetCount": 22,
+      "assetCount": 24,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1839,7 +1883,7 @@
         "subject",
         "planet"
       ],
-      "assetCount": 16,
+      "assetCount": 18,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1869,7 +1913,7 @@
         "subject",
         "pumpkin"
       ],
-      "assetCount": 1,
+      "assetCount": 16,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1975,7 +2019,7 @@
         "subject",
         "shell"
       ],
-      "assetCount": 4,
+      "assetCount": 5,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -1990,7 +2034,7 @@
         "subject",
         "sofa"
       ],
-      "assetCount": 11,
+      "assetCount": 12,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2020,7 +2064,7 @@
         "subject",
         "star"
       ],
-      "assetCount": 9,
+      "assetCount": 11,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2065,7 +2109,7 @@
         "subject",
         "toy"
       ],
-      "assetCount": 41,
+      "assetCount": 42,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2095,7 +2139,7 @@
         "subject",
         "tree"
       ],
-      "assetCount": 35,
+      "assetCount": 46,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2110,7 +2154,7 @@
         "subject",
         "truck"
       ],
-      "assetCount": 8,
+      "assetCount": 9,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2125,7 +2169,7 @@
         "subject",
         "vine"
       ],
-      "assetCount": 7,
+      "assetCount": 8,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2140,7 +2184,7 @@
         "subject",
         "weather"
       ],
-      "assetCount": 32,
+      "assetCount": 44,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2155,11 +2199,13 @@
         "theme",
         "autumn"
       ],
-      "assetCount": 10,
+      "assetCount": 263,
       "pageSize": 100,
-      "pageCount": 1,
+      "pageCount": 3,
       "pages": [
-        "discovery/collections/theme-autumn/page-001.json"
+        "discovery/collections/theme-autumn/page-001.json",
+        "discovery/collections/theme-autumn/page-002.json",
+        "discovery/collections/theme-autumn/page-003.json"
       ]
     },
     {
@@ -2170,7 +2216,7 @@
         "theme",
         "botanical"
       ],
-      "assetCount": 285,
+      "assetCount": 291,
       "pageSize": 100,
       "pageCount": 3,
       "pages": [
@@ -2202,7 +2248,7 @@
         "theme",
         "camping"
       ],
-      "assetCount": 85,
+      "assetCount": 87,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2217,7 +2263,7 @@
         "theme",
         "celebration"
       ],
-      "assetCount": 197,
+      "assetCount": 198,
       "pageSize": 100,
       "pageCount": 2,
       "pages": [
@@ -2281,7 +2327,7 @@
         "theme",
         "farming"
       ],
-      "assetCount": 77,
+      "assetCount": 82,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2330,7 +2376,7 @@
         "theme",
         "harvest"
       ],
-      "assetCount": 78,
+      "assetCount": 95,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2345,7 +2391,7 @@
         "theme",
         "home"
       ],
-      "assetCount": 119,
+      "assetCount": 126,
       "pageSize": 100,
       "pageCount": 2,
       "pages": [
@@ -2409,7 +2455,7 @@
         "theme",
         "music"
       ],
-      "assetCount": 40,
+      "assetCount": 41,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2424,7 +2470,7 @@
         "theme",
         "nature"
       ],
-      "assetCount": 540,
+      "assetCount": 548,
       "pageSize": 100,
       "pageCount": 6,
       "pages": [
@@ -2460,7 +2506,7 @@
         "theme",
         "pumpkin-patch"
       ],
-      "assetCount": 1,
+      "assetCount": 16,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2475,7 +2521,7 @@
         "theme",
         "reading"
       ],
-      "assetCount": 324,
+      "assetCount": 325,
       "pageSize": 100,
       "pageCount": 4,
       "pages": [
@@ -2586,7 +2632,7 @@
         "theme",
         "transportation"
       ],
-      "assetCount": 123,
+      "assetCount": 127,
       "pageSize": 100,
       "pageCount": 2,
       "pages": [
@@ -2602,7 +2648,7 @@
         "theme",
         "travel"
       ],
-      "assetCount": 536,
+      "assetCount": 538,
       "pageSize": 100,
       "pageCount": 6,
       "pages": [
@@ -2638,7 +2684,7 @@
         "theme",
         "weather"
       ],
-      "assetCount": 48,
+      "assetCount": 60,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2653,12 +2699,14 @@
         "theme",
         "winter"
       ],
-      "assetCount": 108,
+      "assetCount": 394,
       "pageSize": 100,
-      "pageCount": 2,
+      "pageCount": 4,
       "pages": [
         "discovery/collections/theme-winter/page-001.json",
-        "discovery/collections/theme-winter/page-002.json"
+        "discovery/collections/theme-winter/page-002.json",
+        "discovery/collections/theme-winter/page-003.json",
+        "discovery/collections/theme-winter/page-004.json"
       ]
     },
     {
@@ -2697,7 +2745,7 @@
         "type",
         "character"
       ],
-      "assetCount": 58,
+      "assetCount": 74,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2758,7 +2806,7 @@
         "type",
         "icon"
       ],
-      "assetCount": 725,
+      "assetCount": 756,
       "pageSize": 100,
       "pageCount": 8,
       "pages": [
@@ -2780,9 +2828,9 @@
         "type",
         "illustration"
       ],
-      "assetCount": 2372,
+      "assetCount": 2954,
       "pageSize": 100,
-      "pageCount": 24,
+      "pageCount": 30,
       "pages": [
         "discovery/collections/type-illustration/page-001.json",
         "discovery/collections/type-illustration/page-002.json",
@@ -2807,7 +2855,13 @@
         "discovery/collections/type-illustration/page-021.json",
         "discovery/collections/type-illustration/page-022.json",
         "discovery/collections/type-illustration/page-023.json",
-        "discovery/collections/type-illustration/page-024.json"
+        "discovery/collections/type-illustration/page-024.json",
+        "discovery/collections/type-illustration/page-025.json",
+        "discovery/collections/type-illustration/page-026.json",
+        "discovery/collections/type-illustration/page-027.json",
+        "discovery/collections/type-illustration/page-028.json",
+        "discovery/collections/type-illustration/page-029.json",
+        "discovery/collections/type-illustration/page-030.json"
       ]
     },
     {
@@ -2850,12 +2904,13 @@
         "type",
         "texture"
       ],
-      "assetCount": 198,
+      "assetCount": 201,
       "pageSize": 100,
-      "pageCount": 2,
+      "pageCount": 3,
       "pages": [
         "discovery/collections/type-texture/page-001.json",
-        "discovery/collections/type-texture/page-002.json"
+        "discovery/collections/type-texture/page-002.json",
+        "discovery/collections/type-texture/page-003.json"
       ]
     },
     {
@@ -2866,7 +2921,7 @@
         "type",
         "trim"
       ],
-      "assetCount": 2,
+      "assetCount": 6,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2896,7 +2951,7 @@
         "use-case",
         "album-trim"
       ],
-      "assetCount": 2,
+      "assetCount": 6,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -2911,7 +2966,7 @@
         "use-case",
         "background"
       ],
-      "assetCount": 418,
+      "assetCount": 421,
       "pageSize": 100,
       "pageCount": 5,
       "pages": [
@@ -2961,9 +3016,9 @@
         "use-case",
         "hero-decoration"
       ],
-      "assetCount": 2546,
+      "assetCount": 3144,
       "pageSize": 100,
-      "pageCount": 26,
+      "pageCount": 32,
       "pages": [
         "discovery/collections/use-case-hero-decoration/page-001.json",
         "discovery/collections/use-case-hero-decoration/page-002.json",
@@ -2990,7 +3045,13 @@
         "discovery/collections/use-case-hero-decoration/page-023.json",
         "discovery/collections/use-case-hero-decoration/page-024.json",
         "discovery/collections/use-case-hero-decoration/page-025.json",
-        "discovery/collections/use-case-hero-decoration/page-026.json"
+        "discovery/collections/use-case-hero-decoration/page-026.json",
+        "discovery/collections/use-case-hero-decoration/page-027.json",
+        "discovery/collections/use-case-hero-decoration/page-028.json",
+        "discovery/collections/use-case-hero-decoration/page-029.json",
+        "discovery/collections/use-case-hero-decoration/page-030.json",
+        "discovery/collections/use-case-hero-decoration/page-031.json",
+        "discovery/collections/use-case-hero-decoration/page-032.json"
       ]
     },
     {
@@ -3016,7 +3077,7 @@
         "use-case",
         "icon"
       ],
-      "assetCount": 725,
+      "assetCount": 756,
       "pageSize": 100,
       "pageCount": 8,
       "pages": [
@@ -3038,7 +3099,7 @@
         "use-case",
         "navigation-decoration"
       ],
-      "assetCount": 725,
+      "assetCount": 756,
       "pageSize": 100,
       "pageCount": 8,
       "pages": [
@@ -3060,9 +3121,9 @@
         "use-case",
         "page-decoration"
       ],
-      "assetCount": 2547,
+      "assetCount": 3149,
       "pageSize": 100,
-      "pageCount": 26,
+      "pageCount": 32,
       "pages": [
         "discovery/collections/use-case-page-decoration/page-001.json",
         "discovery/collections/use-case-page-decoration/page-002.json",
@@ -3089,7 +3150,13 @@
         "discovery/collections/use-case-page-decoration/page-023.json",
         "discovery/collections/use-case-page-decoration/page-024.json",
         "discovery/collections/use-case-page-decoration/page-025.json",
-        "discovery/collections/use-case-page-decoration/page-026.json"
+        "discovery/collections/use-case-page-decoration/page-026.json",
+        "discovery/collections/use-case-page-decoration/page-027.json",
+        "discovery/collections/use-case-page-decoration/page-028.json",
+        "discovery/collections/use-case-page-decoration/page-029.json",
+        "discovery/collections/use-case-page-decoration/page-030.json",
+        "discovery/collections/use-case-page-decoration/page-031.json",
+        "discovery/collections/use-case-page-decoration/page-032.json"
       ]
     },
     {
@@ -3115,9 +3182,9 @@
         "use-case",
         "photo-accent"
       ],
-      "assetCount": 2548,
+      "assetCount": 3130,
       "pageSize": 100,
-      "pageCount": 26,
+      "pageCount": 32,
       "pages": [
         "discovery/collections/use-case-photo-accent/page-001.json",
         "discovery/collections/use-case-photo-accent/page-002.json",
@@ -3144,7 +3211,13 @@
         "discovery/collections/use-case-photo-accent/page-023.json",
         "discovery/collections/use-case-photo-accent/page-024.json",
         "discovery/collections/use-case-photo-accent/page-025.json",
-        "discovery/collections/use-case-photo-accent/page-026.json"
+        "discovery/collections/use-case-photo-accent/page-026.json",
+        "discovery/collections/use-case-photo-accent/page-027.json",
+        "discovery/collections/use-case-photo-accent/page-028.json",
+        "discovery/collections/use-case-photo-accent/page-029.json",
+        "discovery/collections/use-case-photo-accent/page-030.json",
+        "discovery/collections/use-case-photo-accent/page-031.json",
+        "discovery/collections/use-case-photo-accent/page-032.json"
       ]
     },
     {
@@ -3170,9 +3243,9 @@
         "use-case",
         "section-decoration"
       ],
-      "assetCount": 2486,
+      "assetCount": 3068,
       "pageSize": 100,
-      "pageCount": 25,
+      "pageCount": 31,
       "pages": [
         "discovery/collections/use-case-section-decoration/page-001.json",
         "discovery/collections/use-case-section-decoration/page-002.json",
@@ -3198,7 +3271,13 @@
         "discovery/collections/use-case-section-decoration/page-022.json",
         "discovery/collections/use-case-section-decoration/page-023.json",
         "discovery/collections/use-case-section-decoration/page-024.json",
-        "discovery/collections/use-case-section-decoration/page-025.json"
+        "discovery/collections/use-case-section-decoration/page-025.json",
+        "discovery/collections/use-case-section-decoration/page-026.json",
+        "discovery/collections/use-case-section-decoration/page-027.json",
+        "discovery/collections/use-case-section-decoration/page-028.json",
+        "discovery/collections/use-case-section-decoration/page-029.json",
+        "discovery/collections/use-case-section-decoration/page-030.json",
+        "discovery/collections/use-case-section-decoration/page-031.json"
       ]
     },
     {
@@ -3209,7 +3288,7 @@
         "use-case",
         "section-divider"
       ],
-      "assetCount": 3,
+      "assetCount": 7,
       "pageSize": 100,
       "pageCount": 1,
       "pages": [
@@ -3222,351 +3301,589 @@
       "id": "100th-day-of-school",
       "name": "100th Day of School",
       "description": "Photo Album recipe using the shared eight-slot contract for 100th Day of School.",
-      "assetCount": 32,
-      "path": "discovery/themes/100th-day-of-school.json"
+      "path": "discovery/themes/100th-day-of-school.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "apple-orchard",
       "name": "Apple Orchard",
       "description": "Photo Album recipe using the shared eight-slot contract for Apple Orchard.",
-      "assetCount": 24,
-      "path": "discovery/themes/apple-orchard.json"
+      "path": "discovery/themes/apple-orchard.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "art-studio",
       "name": "Art Studio",
       "description": "Photo Album recipe using the shared eight-slot contract for Art Studio.",
-      "assetCount": 39,
-      "path": "discovery/themes/art-studio.json"
+      "path": "discovery/themes/art-studio.json",
+      "suggestionStatus": "COMPLETE",
+      "missingSlots": []
     },
     {
       "id": "autumn-harvest",
       "name": "Autumn Harvest",
       "description": "Photo Album recipe using the shared eight-slot contract for Autumn Harvest.",
-      "assetCount": 24,
-      "path": "discovery/themes/autumn-harvest.json"
+      "path": "discovery/themes/autumn-harvest.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "awards-achievement",
       "name": "Awards & Achievement",
       "description": "Photo Album recipe using the shared eight-slot contract for Awards & Achievement.",
-      "assetCount": 29,
-      "path": "discovery/themes/awards-achievement.json"
+      "path": "discovery/themes/awards-achievement.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "back-to-school",
       "name": "Back to School",
       "description": "Photo Album recipe using the shared eight-slot contract for Back to School.",
-      "assetCount": 33,
-      "path": "discovery/themes/back-to-school.json"
+      "path": "discovery/themes/back-to-school.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "birthday-friendship",
       "name": "Birthday & Friendship",
       "description": "Photo Album recipe using the shared eight-slot contract for Birthday & Friendship.",
-      "assetCount": 27,
-      "path": "discovery/themes/birthday-friendship.json"
+      "path": "discovery/themes/birthday-friendship.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "book-fair",
       "name": "Book Fair",
       "description": "Photo Album recipe using the shared eight-slot contract for Book Fair.",
-      "assetCount": 31,
-      "path": "discovery/themes/book-fair.json"
+      "path": "discovery/themes/book-fair.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "botanical-garden-greenhouse",
       "name": "Botanical Garden & Greenhouse",
       "description": "Photo Album recipe using the shared eight-slot contract for Botanical Garden & Greenhouse.",
-      "assetCount": 24,
-      "path": "discovery/themes/botanical-garden-greenhouse.json"
+      "path": "discovery/themes/botanical-garden-greenhouse.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "butterflies-bugs",
       "name": "Butterflies & Bugs",
       "description": "Photo Album recipe using the shared eight-slot contract for Butterflies & Bugs.",
-      "assetCount": 24,
-      "path": "discovery/themes/butterflies-bugs.json"
+      "path": "discovery/themes/butterflies-bugs.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "classic-classroom-memories",
       "name": "Classic Classroom Memories",
       "description": "Photo Album recipe using the shared eight-slot contract for Classic Classroom Memories.",
-      "assetCount": 30,
-      "path": "discovery/themes/classic-classroom-memories.json"
+      "path": "discovery/themes/classic-classroom-memories.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "classroom-celebration",
       "name": "Classroom Celebration",
       "description": "Photo Album recipe using the shared eight-slot contract for Classroom Celebration.",
-      "assetCount": 31,
-      "path": "discovery/themes/classroom-celebration.json"
+      "path": "discovery/themes/classroom-celebration.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "community-helpers",
       "name": "Community Helpers",
       "description": "Photo Album recipe using the shared eight-slot contract for Community Helpers.",
-      "assetCount": 35,
-      "path": "discovery/themes/community-helpers.json"
+      "path": "discovery/themes/community-helpers.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "coral-reef",
       "name": "Coral Reef",
       "description": "Photo Album recipe using the shared eight-slot contract for Coral Reef.",
-      "assetCount": 24,
-      "path": "discovery/themes/coral-reef.json"
+      "path": "discovery/themes/coral-reef.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "cultural-celebration",
       "name": "Cultural Celebration",
       "description": "Photo Album recipe using the shared eight-slot contract for Cultural Celebration.",
-      "assetCount": 28,
-      "path": "discovery/themes/cultural-celebration.json"
+      "path": "discovery/themes/cultural-celebration.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "dinosaurs-fossils",
       "name": "Dinosaurs & Fossils",
       "description": "Photo Album recipe using the shared eight-slot contract for Dinosaurs & Fossils.",
-      "assetCount": 28,
-      "path": "discovery/themes/dinosaurs-fossils.json"
+      "path": "discovery/themes/dinosaurs-fossils.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "divider"
+      ]
     },
     {
       "id": "discovery",
       "name": "Discovery",
       "description": "Photo Album recipe using the shared eight-slot contract for Discovery.",
-      "assetCount": 29,
-      "path": "discovery/themes/discovery.json"
+      "path": "discovery/themes/discovery.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "divider"
+      ]
     },
     {
       "id": "end-of-year-memories",
       "name": "End-of-Year Memories",
       "description": "Photo Album recipe using the shared eight-slot contract for End-of-Year Memories.",
-      "assetCount": 36,
-      "path": "discovery/themes/end-of-year-memories.json"
+      "path": "discovery/themes/end-of-year-memories.json",
+      "suggestionStatus": "COMPLETE",
+      "missingSlots": []
     },
     {
       "id": "fall-festival",
       "name": "Fall Festival",
       "description": "Photo Album recipe using the shared eight-slot contract for Fall Festival.",
-      "assetCount": 27,
-      "path": "discovery/themes/fall-festival.json"
+      "path": "discovery/themes/fall-festival.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "farm-agriculture",
       "name": "Farm & Agriculture",
       "description": "Photo Album recipe using the shared eight-slot contract for Farm & Agriculture.",
-      "assetCount": 24,
-      "path": "discovery/themes/farm-agriculture.json"
+      "path": "discovery/themes/farm-agriculture.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "field-day-sports",
       "name": "Field Day & Sports",
       "description": "Photo Album recipe using the shared eight-slot contract for Field Day & Sports.",
-      "assetCount": 29,
-      "path": "discovery/themes/field-day-sports.json"
+      "path": "discovery/themes/field-day-sports.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "field-trip-adventure",
       "name": "Field Trip Adventure",
       "description": "Photo Album recipe using the shared eight-slot contract for Field Trip Adventure.",
-      "assetCount": 29,
-      "path": "discovery/themes/field-trip-adventure.json"
+      "path": "discovery/themes/field-trip-adventure.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "divider"
+      ]
     },
     {
       "id": "history-heritage",
       "name": "History & Heritage",
       "description": "Photo Album recipe using the shared eight-slot contract for History & Heritage.",
-      "assetCount": 29,
-      "path": "discovery/themes/history-heritage.json"
+      "path": "discovery/themes/history-heritage.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "divider"
+      ]
     },
     {
       "id": "library-reading",
       "name": "Library & Reading",
       "description": "Photo Album recipe using the shared eight-slot contract for Library & Reading.",
-      "assetCount": 28,
-      "path": "discovery/themes/library-reading.json"
+      "path": "discovery/themes/library-reading.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "divider"
+      ]
     },
     {
       "id": "memory-gallery",
       "name": "Memory Gallery",
       "description": "Photo Album recipe using the shared eight-slot contract for Memory Gallery.",
-      "assetCount": 30,
-      "path": "discovery/themes/memory-gallery.json"
+      "path": "discovery/themes/memory-gallery.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "divider"
+      ]
     },
     {
       "id": "museum-adventure",
       "name": "Museum Adventure",
       "description": "Photo Album recipe using the shared eight-slot contract for Museum Adventure.",
-      "assetCount": 29,
-      "path": "discovery/themes/museum-adventure.json"
+      "path": "discovery/themes/museum-adventure.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "divider"
+      ]
     },
     {
       "id": "music-performance",
       "name": "Music & Performance",
       "description": "Photo Album recipe using the shared eight-slot contract for Music & Performance.",
-      "assetCount": 27,
-      "path": "discovery/themes/music-performance.json"
+      "path": "discovery/themes/music-performance.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "natural-history-museum",
       "name": "Natural History Museum",
       "description": "Photo Album recipe using the shared eight-slot contract for Natural History Museum.",
-      "assetCount": 28,
-      "path": "discovery/themes/natural-history-museum.json"
+      "path": "discovery/themes/natural-history-museum.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "divider"
+      ]
     },
     {
       "id": "night-sky-constellations",
       "name": "Night Sky & Constellations",
       "description": "Photo Album recipe using the shared eight-slot contract for Night Sky & Constellations.",
-      "assetCount": 25,
-      "path": "discovery/themes/night-sky-constellations.json"
+      "path": "discovery/themes/night-sky-constellations.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "divider"
+      ]
     },
     {
       "id": "ocean-aquarium",
       "name": "Ocean & Aquarium",
       "description": "Photo Album recipe using the shared eight-slot contract for Ocean & Aquarium.",
-      "assetCount": 24,
-      "path": "discovery/themes/ocean-aquarium.json"
+      "path": "discovery/themes/ocean-aquarium.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "park-outdoor-adventure",
       "name": "Park & Outdoor Adventure",
       "description": "Photo Album recipe using the shared eight-slot contract for Park & Outdoor Adventure.",
-      "assetCount": 24,
-      "path": "discovery/themes/park-outdoor-adventure.json"
+      "path": "discovery/themes/park-outdoor-adventure.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "plants-pollinators",
       "name": "Plants & Pollinators",
       "description": "Photo Album recipe using the shared eight-slot contract for Plants & Pollinators.",
-      "assetCount": 24,
-      "path": "discovery/themes/plants-pollinators.json"
+      "path": "discovery/themes/plants-pollinators.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "pumpkin-patch",
       "name": "Pumpkin Patch",
       "description": "Photo Album recipe using the shared eight-slot contract for Pumpkin Patch.",
-      "assetCount": 24,
-      "path": "discovery/themes/pumpkin-patch.json"
+      "path": "discovery/themes/pumpkin-patch.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "safari-adventure",
       "name": "Safari Adventure",
       "description": "Photo Album recipe using the shared eight-slot contract for Safari Adventure.",
-      "assetCount": 29,
-      "path": "discovery/themes/safari-adventure.json"
+      "path": "discovery/themes/safari-adventure.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "divider"
+      ]
     },
     {
       "id": "school-bus-adventure",
       "name": "School Bus Adventure",
       "description": "Photo Album recipe using the shared eight-slot contract for School Bus Adventure.",
-      "assetCount": 26,
-      "path": "discovery/themes/school-bus-adventure.json"
+      "path": "discovery/themes/school-bus-adventure.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "divider"
+      ]
     },
     {
       "id": "school-carnival",
       "name": "School Carnival",
       "description": "Photo Album recipe using the shared eight-slot contract for School Carnival.",
-      "assetCount": 29,
-      "path": "discovery/themes/school-carnival.json"
+      "path": "discovery/themes/school-carnival.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "science-lab",
       "name": "Science Lab",
       "description": "Photo Album recipe using the shared eight-slot contract for Science Lab.",
-      "assetCount": 24,
-      "path": "discovery/themes/science-lab.json"
+      "path": "discovery/themes/science-lab.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "science-museum",
       "name": "Science Museum",
       "description": "Photo Album recipe using the shared eight-slot contract for Science Museum.",
-      "assetCount": 29,
-      "path": "discovery/themes/science-museum.json"
+      "path": "discovery/themes/science-museum.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "divider"
+      ]
     },
     {
       "id": "space-planetarium",
       "name": "Space & Planetarium",
       "description": "Photo Album recipe using the shared eight-slot contract for Space & Planetarium.",
-      "assetCount": 24,
-      "path": "discovery/themes/space-planetarium.json"
+      "path": "discovery/themes/space-planetarium.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "spirit-week",
       "name": "Spirit Week",
       "description": "Photo Album recipe using the shared eight-slot contract for Spirit Week.",
-      "assetCount": 31,
-      "path": "discovery/themes/spirit-week.json"
+      "path": "discovery/themes/spirit-week.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "spring-garden",
       "name": "Spring Garden",
       "description": "Photo Album recipe using the shared eight-slot contract for Spring Garden.",
-      "assetCount": 24,
-      "path": "discovery/themes/spring-garden.json"
+      "path": "discovery/themes/spring-garden.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "stem-makerspace",
       "name": "STEM & Makerspace",
       "description": "Photo Album recipe using the shared eight-slot contract for STEM & Makerspace.",
-      "assetCount": 31,
-      "path": "discovery/themes/stem-makerspace.json"
+      "path": "discovery/themes/stem-makerspace.json",
+      "suggestionStatus": "COMPLETE",
+      "missingSlots": []
     },
     {
       "id": "summer-send-off",
       "name": "Summer Send-Off",
       "description": "Photo Album recipe using the shared eight-slot contract for Summer Send-Off.",
-      "assetCount": 29,
-      "path": "discovery/themes/summer-send-off.json"
+      "path": "discovery/themes/summer-send-off.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "theater-stage",
       "name": "Theater & Stage",
       "description": "Photo Album recipe using the shared eight-slot contract for Theater & Stage.",
-      "assetCount": 27,
-      "path": "discovery/themes/theater-stage.json"
+      "path": "discovery/themes/theater-stage.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "weather-earth-science",
       "name": "Weather & Earth Science",
       "description": "Photo Album recipe using the shared eight-slot contract for Weather & Earth Science.",
-      "assetCount": 24,
-      "path": "discovery/themes/weather-earth-science.json"
+      "path": "discovery/themes/weather-earth-science.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "winter-celebration",
       "name": "Winter Celebration",
       "description": "Photo Album recipe using the shared eight-slot contract for Winter Celebration.",
-      "assetCount": 27,
-      "path": "discovery/themes/winter-celebration.json"
+      "path": "discovery/themes/winter-celebration.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "winter-wonderland",
       "name": "Winter Wonderland",
       "description": "Photo Album recipe using the shared eight-slot contract for Winter Wonderland.",
-      "assetCount": 24,
-      "path": "discovery/themes/winter-wonderland.json"
+      "path": "discovery/themes/winter-wonderland.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "photo-frame"
+      ]
     },
     {
       "id": "woodland-fungi",
       "name": "Woodland & Fungi",
       "description": "Photo Album recipe using the shared eight-slot contract for Woodland & Fungi.",
-      "assetCount": 24,
-      "path": "discovery/themes/woodland-fungi.json"
+      "path": "discovery/themes/woodland-fungi.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "woodland-nature-center",
       "name": "Woodland & Nature Center",
       "description": "Photo Album recipe using the shared eight-slot contract for Woodland & Nature Center.",
-      "assetCount": 24,
-      "path": "discovery/themes/woodland-nature-center.json"
+      "path": "discovery/themes/woodland-nature-center.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "background",
+        "divider"
+      ]
     },
     {
       "id": "zoo-wildlife",
       "name": "Zoo & Wildlife",
       "description": "Photo Album recipe using the shared eight-slot contract for Zoo & Wildlife.",
-      "assetCount": 25,
-      "path": "discovery/themes/zoo-wildlife.json"
+      "path": "discovery/themes/zoo-wildlife.json",
+      "suggestionStatus": "INCOMPLETE",
+      "missingSlots": [
+        "top-trim",
+        "bottom-trim",
+        "photo-frame",
+        "divider"
+      ]
     }
   ]
 }

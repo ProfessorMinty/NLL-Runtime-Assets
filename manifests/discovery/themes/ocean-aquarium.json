@@ -6,6 +6,14 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Ocean & Aquarium.",
     "collectionIds": [
       "album-theme-ocean-aquarium"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "top-trim",
+      "bottom-trim",
+      "photo-frame",
+      "background",
+      "divider"
     ]
   },
   "assetSlots": {
@@ -64,6 +72,190 @@
   "assetCount": 24,
   "assets": [
     {
+      "id": "coral-bloom-57cb49d273",
+      "name": "Coral Bloom",
+      "type": "illustration",
+      "tags": [
+        "coral",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [
+        "coral"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/coral-bloom-57cb49d273/coral-bloom-57cb49d273.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 50815,
+        "sha256": "c5421c8d17b8596844b2d3797cda70541854705409ba38be539652b1edcb475e"
+      }
+    },
+    {
+      "id": "coral-reef-b371bb1a75",
+      "name": "Coral Reef",
+      "type": "illustration",
+      "tags": [
+        "coral",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [
+        "coral"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/coral-reef-b371bb1a75/coral-reef-b371bb1a75.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 79648,
+        "sha256": "bbef5a04c6fbb9a72c6917763ce1d016523952d46d920d9dd27cf1747d757315"
+      }
+    },
+    {
+      "id": "ocean-coral-f2325941c8",
+      "name": "Ocean Coral",
+      "type": "illustration",
+      "tags": [
+        "coral",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [
+        "coral"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ocean-coral-f2325941c8/ocean-coral-f2325941c8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 59498,
+        "sha256": "18978bd8307e621f1a35fcbd1922f1fe0e95daf56c2b40cfa2f24ed6625ac5a5"
+      }
+    },
+    {
+      "id": "tropical-fish-fd48a7aad8",
+      "name": "Tropical Fish",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "fish",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "ocean",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tropical"
+      ],
+      "themes": [
+        "ocean",
+        "tropical"
+      ],
+      "subjects": [
+        "fish"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tropical-fish-fd48a7aad8/tropical-fish-fd48a7aad8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 27322,
+        "sha256": "06d42999a6ba2e5266aa9e6a59f9166b2da14aea11f0269409a5b0fea4779e4e"
+      }
+    },
+    {
       "id": "backpack-d983ecab15",
       "name": "Backpack",
       "type": "illustration",
@@ -105,7 +297,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/backpack-d983ecab15/backpack-d983ecab15.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 67367
+        "bytes": 67367,
+        "sha256": "42c7cc640657db95df1b241f19c64321a4efe9066aec6126046122bc7d2c7ed6"
       }
     },
     {
@@ -151,6 +344,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-7fa5e1ca3d/beach-7fa5e1ca3d.webp",
         "mimeType": "image/webp",
         "bytes": 2248110,
+        "sha256": "799f046fd172d893554719bf34aaaea55a8d7c0688575f5b9a93d4b0c931130d",
         "width": 2048,
         "height": 2048
       }
@@ -194,7 +388,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-bag-414a21cd8d/beach-bag-414a21cd8d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 47427
+        "bytes": 47427,
+        "sha256": "9c825225d007c5a920ce9117cd44ebcd96593fc44f8408bcc66319517e121343"
       }
     },
     {
@@ -236,7 +431,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-ball-8c73733ae2/beach-ball-8c73733ae2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 40236
+        "bytes": 40236,
+        "sha256": "32f12f560587ae7ebdd4a855dfecc615ee6d6f3e23ffd4fb562570f4089c2502"
       }
     },
     {
@@ -278,7 +474,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-blanket-c14bd68967/beach-blanket-c14bd68967.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 31862
+        "bytes": 31862,
+        "sha256": "291434aae785e477915585e315d42deaf86bc325f05117b8114f4abb79f8d579"
       }
     },
     {
@@ -320,7 +517,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-bonfire-718341aa67/beach-bonfire-718341aa67.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 77872
+        "bytes": 77872,
+        "sha256": "e542b6922c94d89d179adf7e5dfda9f31a213fcdeab2b3ee93317b385e6f3de4"
       }
     },
     {
@@ -367,7 +565,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-chair-bffcfdde73/beach-chair-bffcfdde73.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 20366
+        "bytes": 20366,
+        "sha256": "c3478f49a7c7633ce8f5f882b4241174fc3aecd8adc58bed3876463d45680d9c"
       }
     },
     {
@@ -409,7 +608,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-cruiser-ff3e13de26/beach-cruiser-ff3e13de26.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 86409
+        "bytes": 86409,
+        "sha256": "a2689ece9b39f132abf66e0fa80c1ef15950df0bf280d21224e5937c65cc28bd"
       }
     },
     {
@@ -451,7 +651,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-driftwood-f8edecc558/beach-driftwood-f8edecc558.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 54684
+        "bytes": 54684,
+        "sha256": "888dd100636c906ec1021a51eb32a2a7f395b6c59defb7d4500052c49281323f"
       }
     },
     {
@@ -493,7 +694,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-hut-bad27e1f60/beach-hut-bad27e1f60.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 30595
+        "bytes": 30595,
+        "sha256": "958b5f64cef4886792e588e30046727730e83eb846b5b186a08cf14809982ea9"
       }
     },
     {
@@ -535,7 +737,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-pebbles-5326835af0/beach-pebbles-5326835af0.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 182656
+        "bytes": 182656,
+        "sha256": "e27f5d5e0c85deaaaa8d41f46ec26b7f87055873a572b7ed0fbf0d035cc24dba"
       }
     },
     {
@@ -578,7 +781,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-reading-8156280117/beach-reading-8156280117.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 67958
+        "bytes": 67958,
+        "sha256": "bfadaddc6edf4097ed8658170d5668854195170f26b996c713c931ec1abf480a"
       }
     },
     {
@@ -620,7 +824,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-rock-11c015c586/beach-rock-11c015c586.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 109825
+        "bytes": 109825,
+        "sha256": "d58500f2e8f31539f749dd39172575343f8b38ed502b16c322d8adc6c9bf69d4"
       }
     },
     {
@@ -662,7 +867,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-shorts-5599527a8d/beach-shorts-5599527a8d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 51370
+        "bytes": 51370,
+        "sha256": "8c21c8f9ae601b41b37f7525efea9828bbbd90e39d7284eb4e87fdd76bdf7e23"
       }
     },
     {
@@ -702,7 +908,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-sunset-9d24980213/beach-sunset-9d24980213.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 121447
+        "bytes": 121447,
+        "sha256": "0e6a852195fd4add64882527b64fdda7ca20a7060c10b857532e4a8edb63c91c"
       }
     },
     {
@@ -744,7 +951,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-swing-103ee7e2b3/beach-swing-103ee7e2b3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 52014
+        "bytes": 52014,
+        "sha256": "9be599e08f6f159daf482f66a2c4870318f0160c7b45ab938a8eb2afe9ab873d"
       }
     },
     {
@@ -786,7 +994,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beach-umbrella-64e1cd0da3/beach-umbrella-64e1cd0da3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 18966
+        "bytes": 18966,
+        "sha256": "6290f57492f933e50649131e6406839062de7801e44f44f280aab4f5be051c8c"
       }
     },
     {
@@ -828,7 +1037,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bikini-top-7cdb0a83d3/bikini-top-7cdb0a83d3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 61713
+        "bytes": 61713,
+        "sha256": "5f5cab1aeaa946ff1f93d7a893f0716396eaceef8a0d5438c47a1d496d21b603"
       }
     },
     {
@@ -870,7 +1080,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/binoculars-0eb70f3855/binoculars-0eb70f3855.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 82727
+        "bytes": 82727,
+        "sha256": "2d0a7ea6a62799e4a3af0647a4d6a56ddc8f44aa320185697c0a6b641966abd5"
       }
     },
     {
@@ -917,187 +1128,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/boat-anchor-00b0a75e94/boat-anchor-00b0a75e94.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 40208
-      }
-    },
-    {
-      "id": "coral-bloom-57cb49d273",
-      "name": "Coral Bloom",
-      "type": "illustration",
-      "tags": [
-        "coral",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "ocean",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tropical"
-      ],
-      "themes": [
-        "ocean",
-        "tropical"
-      ],
-      "subjects": [
-        "coral"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/coral-bloom-57cb49d273/coral-bloom-57cb49d273.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 50815
-      }
-    },
-    {
-      "id": "coral-reef-b371bb1a75",
-      "name": "Coral Reef",
-      "type": "illustration",
-      "tags": [
-        "coral",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "ocean",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tropical"
-      ],
-      "themes": [
-        "ocean",
-        "tropical"
-      ],
-      "subjects": [
-        "coral"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/coral-reef-b371bb1a75/coral-reef-b371bb1a75.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 79648
-      }
-    },
-    {
-      "id": "ocean-coral-f2325941c8",
-      "name": "Ocean Coral",
-      "type": "illustration",
-      "tags": [
-        "coral",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "ocean",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tropical"
-      ],
-      "themes": [
-        "ocean",
-        "tropical"
-      ],
-      "subjects": [
-        "coral"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ocean-coral-f2325941c8/ocean-coral-f2325941c8.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 59498
-      }
-    },
-    {
-      "id": "tropical-fish-fd48a7aad8",
-      "name": "Tropical Fish",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "fish",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "ocean",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "tropical"
-      ],
-      "themes": [
-        "ocean",
-        "tropical"
-      ],
-      "subjects": [
-        "fish"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tropical-fish-fd48a7aad8/tropical-fish-fd48a7aad8.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 27322
+        "bytes": 40208,
+        "sha256": "e9578fe181738e5204d14e7ede30206799d850d04c280dc1f1cf1c18384d807d"
       }
     }
   ]

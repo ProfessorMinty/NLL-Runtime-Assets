@@ -6,8 +6,8 @@
   },
   "page": 1,
   "pageSize": 100,
-  "assetCount": 3,
-  "totalAssetCount": 3,
+  "assetCount": 4,
+  "totalAssetCount": 4,
   "assets": [
     {
       "id": "adventure-bike-e70883bb34",
@@ -47,7 +47,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/adventure-bike-e70883bb34/adventure-bike-e70883bb34.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 70361
+        "bytes": 70361,
+        "sha256": "94ec678edcc7f028a3c69506e02e8e532cc2d8b4072e52bbad5535f5de14a792"
       }
     },
     {
@@ -87,7 +88,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/riding-bike-0713085910/riding-bike-0713085910.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 24385
+        "bytes": 24385,
+        "sha256": "2db9855ee1092908c10667502da2833e52b58f082a64c458b81a035a5d500aad"
       }
     },
     {
@@ -128,7 +130,52 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/riding-bike-97c8ca8d7c/riding-bike-97c8ca8d7c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 51053
+        "bytes": 51053,
+        "sha256": "360c328a7623f37bd32724b73b69d5f3ba54a4aaa513b7eb47fb0b83d2826d9c"
+      }
+    },
+    {
+      "id": "vintage-bicycle-48777aeff8",
+      "name": "Vintage Bicycle",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "bicycle",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [
+        "bicycle"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vintage-bicycle-48777aeff8/vintage-bicycle-48777aeff8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 21856,
+        "sha256": "2606a8ddbf7e7747ee4d63853d8d485e129f8b9bc2d39cac593daf0ad8368393"
       }
     }
   ]

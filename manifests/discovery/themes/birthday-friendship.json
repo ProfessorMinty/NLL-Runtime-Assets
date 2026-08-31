@@ -6,6 +6,10 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Birthday & Friendship.",
     "collectionIds": [
       "album-theme-birthday-friendship"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "photo-frame"
     ]
   },
   "assetSlots": {
@@ -75,46 +79,6 @@
   "assetCount": 27,
   "assets": [
     {
-      "id": "accordion-9b56ec9cc6",
-      "name": "Accordion",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/accordion-9b56ec9cc6/accordion-9b56ec9cc6.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10890
-      }
-    },
-    {
       "id": "air-balloon-3b70a4fd6c",
       "name": "Air Balloon",
       "type": "illustration",
@@ -156,162 +120,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/air-balloon-3b70a4fd6c/air-balloon-3b70a4fd6c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13281
-      }
-    },
-    {
-      "id": "banjo-203f0c6f20",
-      "name": "Banjo",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/banjo-203f0c6f20/banjo-203f0c6f20.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 16527
-      }
-    },
-    {
-      "id": "banner-29926b3e17",
-      "name": "Banner",
-      "type": "banner",
-      "tags": [
-        "album-banner",
-        "banner",
-        "celebration",
-        "hero-decoration",
-        "line-art"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [
-        "banner"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "album-banner",
-        "hero-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/banner/album-banner/banner-29926b3e17/banner-29926b3e17.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5686
-      }
-    },
-    {
-      "id": "bauble-dd6709aa14",
-      "name": "Bauble",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bauble-dd6709aa14/bauble-dd6709aa14.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 26023
-      }
-    },
-    {
-      "id": "beatboxing-28b52ffba3",
-      "name": "Beatboxing",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beatboxing-28b52ffba3/beatboxing-28b52ffba3.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 21627
+        "bytes": 13281,
+        "sha256": "d046177f694a448192599a90d28a1970dd2fa25afd460b1771e7a8f43e18b410"
       }
     },
     {
@@ -350,167 +160,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/banner/album-banner/birthday-banner-f47b53dd1c/birthday-banner-f47b53dd1c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 31958
-      }
-    },
-    {
-      "id": "bouquet-2525ac6a47",
-      "name": "Bouquet",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bouquet-2525ac6a47/bouquet-2525ac6a47.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 46487
-      }
-    },
-    {
-      "id": "bunny-hat-b8a8028613",
-      "name": "Bunny Hat",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bunny-hat-b8a8028613/bunny-hat-b8a8028613.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 27394
-      }
-    },
-    {
-      "id": "bunny-headband-09253c2fe4",
-      "name": "Bunny Headband",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bunny-headband-09253c2fe4/bunny-headband-09253c2fe4.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 9275
-      }
-    },
-    {
-      "id": "burger-306184e121",
-      "name": "Burger",
-      "type": "illustration",
-      "tags": [
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/burger-306184e121/burger-306184e121.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 24954
+        "bytes": 31958,
+        "sha256": "29b776965dffceae4381b0db1c00c05a03bda36f4edf3d355e93882dabdc969d"
       }
     },
     {
@@ -553,79 +204,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/emoji-balloons-24760888bd/emoji-balloons-24760888bd.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12911
-      }
-    },
-    {
-      "id": "garlands-30beb325f4",
-      "name": "Garlands",
-      "type": "trim",
-      "tags": [
-        "album-trim",
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "album-trim",
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14072
-      }
-    },
-    {
-      "id": "hawaii-garland-d8e6ae4401",
-      "name": "Hawaii Garland",
-      "type": "trim",
-      "tags": [
-        "album-trim",
-        "celebration",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "album-trim",
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 18153
+        "bytes": 12911,
+        "sha256": "bb409ed9957ac119884e4dd12e0e88c59ed24a692797f633a4dce3db1d8fec18"
       }
     },
     {
@@ -668,7 +248,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/heart-balloon-88c24df640/heart-balloon-88c24df640.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 5898
+        "bytes": 5898,
+        "sha256": "6b40d951c74204e3834a53df026f261238bb58464586f6c5a583c39e7fcd9c02"
       }
     },
     {
@@ -708,7 +289,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/party-cap-bc88b1b730/party-cap-bc88b1b730.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 19560
+        "bytes": 19560,
+        "sha256": "1773d9c6120dc30105e8ee0b1ea1041271cc60926399255f5a6bdf2922021f60"
       }
     },
     {
@@ -748,7 +330,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/party-celebration-doodles-0a28266668/party-celebration-doodles-0a28266668.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 1914366
+        "bytes": 1914366,
+        "sha256": "58a8d96d659236991de356a54fd4070618fc46f455b6bc33e5388630ced3e254"
       }
     },
     {
@@ -788,7 +371,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/party-dress-df48e89566/party-dress-df48e89566.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 23949
+        "bytes": 23949,
+        "sha256": "78eff4b250aa5e931b653ebc79e90f9158c5dc7d97ebd96ba48c2fb75f4e61c1"
       }
     },
     {
@@ -820,7 +404,82 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/party-girl-a473f8f221/party-girl-a473f8f221.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9234
+        "bytes": 9234,
+        "sha256": "a6dae19b3f981124e93cc95e232ed4c7d6b58f710503822c6f1e23f6bdaa26e2"
+      }
+    },
+    {
+      "id": "garlands-30beb325f4",
+      "name": "Garlands",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14072,
+        "sha256": "6418a359ebb52f7d19d958ecdaf66ea7ba7a5705bc38a27481f82166c34552a7"
+      }
+    },
+    {
+      "id": "hawaii-garland-d8e6ae4401",
+      "name": "Hawaii Garland",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18153,
+        "sha256": "d084667b84f26058c182714912bba775ef456aa93d7156b110aae8c6657d6e56"
       }
     },
     {
@@ -860,7 +519,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/party-hats-8612b7a1b3/party-hats-8612b7a1b3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16776
+        "bytes": 16776,
+        "sha256": "d3d3bfc46a73065a357ca0f62ec43bd22c388092db509f2494e1de99a5d5977b"
       }
     },
     {
@@ -902,7 +562,48 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/party-horn-5a0a24841c/party-horn-5a0a24841c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 17123
+        "bytes": 17123,
+        "sha256": "27438a682ce868e9c4a213fdd40d755de61603dfa2a934d49259fc8eb305e68e"
+      }
+    },
+    {
+      "id": "star-glasses-9b959fbba7",
+      "name": "Star Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "celebration",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "star"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "star"
+      ],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15437,
+        "sha256": "13038d429551fed51fe5b18d62f680f9c66ba12ebd379fcf5067909fc75a3174"
       }
     },
     {
@@ -942,7 +643,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/party-pipe-83b8416733/party-pipe-83b8416733.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12204
+        "bytes": 12204,
+        "sha256": "540de46b7ff206c766aa4bbbe269ee4164fd005722f51b589297c5a8521c94c9"
       }
     },
     {
@@ -982,7 +684,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/party-popper-3d3aeaeafe/party-popper-3d3aeaeafe.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15255
+        "bytes": 15255,
+        "sha256": "e8372ee6d53b2da6263d05115798d520c695a734694cf789d0943ce5b9c208fb"
       }
     },
     {
@@ -1027,46 +730,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/party-table-737efe9ff7/party-table-737efe9ff7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 27246
-      }
-    },
-    {
-      "id": "star-glasses-9b959fbba7",
-      "name": "Star Glasses",
-      "type": "texture",
-      "tags": [
-        "background",
-        "celebration",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art",
-        "star"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [
-        "star"
-      ],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15437
+        "bytes": 27246,
+        "sha256": "646ba45d43bdf4163da87da0b46ef0efc50bba46d67e4d50215bedbb6d4ea23c"
       }
     },
     {
@@ -1102,7 +767,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-teamwork-balloon-stonk-growth-success-celebration-f599442348/vctrly-teamwork-balloon-stonk-growth-success-celebration-f599442348.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 165060
+        "bytes": 165060,
+        "sha256": "c823c9aee952c34d81fa14c3641d48165e4fd78c50a2052febf9e6f62ea3be28"
       }
     },
     {
@@ -1142,7 +808,372 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/virtual-party-4b94666a67/virtual-party-4b94666a67.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 33243
+        "bytes": 33243,
+        "sha256": "2c107e1696b2a2a8a39403e7a626a80a1af3b4b63ceac40ab2d32beb721a204f"
+      }
+    },
+    {
+      "id": "accordion-9b56ec9cc6",
+      "name": "Accordion",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/accordion-9b56ec9cc6/accordion-9b56ec9cc6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10890,
+        "sha256": "e9a06d2a3448665577502198fc3bc7fc56206f46bb6757453227ee66d89f9c58"
+      }
+    },
+    {
+      "id": "banjo-203f0c6f20",
+      "name": "Banjo",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/banjo-203f0c6f20/banjo-203f0c6f20.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16527,
+        "sha256": "492ea0986049f42674991432811d06bb1bc5ee80515b95295f10710f8ddd9de3"
+      }
+    },
+    {
+      "id": "banner-29926b3e17",
+      "name": "Banner",
+      "type": "banner",
+      "tags": [
+        "album-banner",
+        "banner",
+        "celebration",
+        "hero-decoration",
+        "line-art"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "banner"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "album-banner",
+        "hero-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/banner/album-banner/banner-29926b3e17/banner-29926b3e17.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 5686,
+        "sha256": "157535d7825353f917955ea139ea36a4917fa3c9aa79847e6bc067bbb0b0d3ec"
+      }
+    },
+    {
+      "id": "bauble-dd6709aa14",
+      "name": "Bauble",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bauble-dd6709aa14/bauble-dd6709aa14.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 26023,
+        "sha256": "f419763e8e30001f1d9f3c3920fa517d11f7922177c1745fe3aade4195fadff5"
+      }
+    },
+    {
+      "id": "beatboxing-28b52ffba3",
+      "name": "Beatboxing",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/beatboxing-28b52ffba3/beatboxing-28b52ffba3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 21627,
+        "sha256": "5fe3571cc8dace3b66be3badf2e3f30b7410199f97015c758e3a58c77637a554"
+      }
+    },
+    {
+      "id": "bouquet-2525ac6a47",
+      "name": "Bouquet",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bouquet-2525ac6a47/bouquet-2525ac6a47.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 46487,
+        "sha256": "9c912bc0a9794852e802c267d85af98c9c4b46e396385781a039663fd21f93f8"
+      }
+    },
+    {
+      "id": "bunny-hat-b8a8028613",
+      "name": "Bunny Hat",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bunny-hat-b8a8028613/bunny-hat-b8a8028613.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 27394,
+        "sha256": "e5d12a726d5edbd415c71c460032fdb211ad6f643601ab3ae10600046bd8540b"
+      }
+    },
+    {
+      "id": "bunny-headband-09253c2fe4",
+      "name": "Bunny Headband",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bunny-headband-09253c2fe4/bunny-headband-09253c2fe4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9275,
+        "sha256": "650b569911ea32a598aef6d2a3ecc376eb9e0f87088f2d861ae145f2c0bca155"
+      }
+    },
+    {
+      "id": "burger-306184e121",
+      "name": "Burger",
+      "type": "illustration",
+      "tags": [
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/burger-306184e121/burger-306184e121.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 24954,
+        "sha256": "6e4bf745fb5094aa3d496240fd074f0c57e9a1030de24903ad811ee0af3796a2"
       }
     }
   ]

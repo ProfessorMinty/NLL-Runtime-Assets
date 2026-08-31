@@ -6,6 +6,14 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Plants & Pollinators.",
     "collectionIds": [
       "album-theme-plants-pollinators"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "top-trim",
+      "bottom-trim",
+      "photo-frame",
+      "background",
+      "divider"
     ]
   },
   "assetSlots": {
@@ -64,15 +72,14 @@
   "assetCount": 24,
   "assets": [
     {
-      "id": "air-plant-bebf0c0b90",
-      "name": "Air Plant",
+      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35",
+      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 5",
       "type": "illustration",
       "tags": [
         "botanical",
-        "doodle",
-        "hand-drawn",
+        "flower",
+        "garden",
         "hero-decoration",
-        "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
@@ -81,16 +88,14 @@
       ],
       "themes": [
         "botanical",
+        "garden",
         "nature"
       ],
       "subjects": [
+        "flower",
         "plant"
       ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
+      "styles": [],
       "useCases": [
         "hero-decoration",
         "page-decoration",
@@ -103,35 +108,37 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/air-plant-bebf0c0b90/air-plant-bebf0c0b90.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12973
+        "bytes": 311181,
+        "sha256": "1489b2bf24f1868179f51ab3dd2f1ef1d37a04c1e1543332e9a9695a96ac3463"
       }
     },
     {
-      "id": "anemone-flower-9e02f901cf",
-      "name": "Anemone Flower",
+      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96",
+      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 4",
       "type": "illustration",
       "tags": [
         "botanical",
         "flower",
+        "garden",
         "hero-decoration",
-        "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
+        "plant",
         "section-decoration"
       ],
       "themes": [
         "botanical",
+        "garden",
         "nature"
       ],
       "subjects": [
-        "flower"
+        "flower",
+        "plant"
       ],
-      "styles": [
-        "line-art"
-      ],
+      "styles": [],
       "useCases": [
         "hero-decoration",
         "page-decoration",
@@ -144,35 +151,37 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/anemone-flower-9e02f901cf/anemone-flower-9e02f901cf.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 424048
+        "bytes": 148754,
+        "sha256": "325436fe79d05faf8c5e34b7a6ed4b25b8d25ca05f738567afea8943ab277fb3"
       }
     },
     {
-      "id": "aster-flower-30a7d2a32b",
-      "name": "Aster Flower",
+      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c",
+      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 7",
       "type": "illustration",
       "tags": [
         "botanical",
         "flower",
+        "garden",
         "hero-decoration",
-        "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
+        "plant",
         "section-decoration"
       ],
       "themes": [
         "botanical",
+        "garden",
         "nature"
       ],
       "subjects": [
-        "flower"
+        "flower",
+        "plant"
       ],
-      "styles": [
-        "line-art"
-      ],
+      "styles": [],
       "useCases": [
         "hero-decoration",
         "page-decoration",
@@ -185,35 +194,37 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/aster-flower-30a7d2a32b/aster-flower-30a7d2a32b.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 262947
+        "bytes": 318012,
+        "sha256": "9e64802e93e803fdb558409195de597521796230b935b8fee4a3c88948bac779"
       }
     },
     {
-      "id": "bell-flowers-452b76428f",
-      "name": "Bell Flowers",
+      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141",
+      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 3",
       "type": "illustration",
       "tags": [
         "botanical",
         "flower",
+        "garden",
         "hero-decoration",
-        "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
+        "plant",
         "section-decoration"
       ],
       "themes": [
         "botanical",
+        "garden",
         "nature"
       ],
       "subjects": [
-        "flower"
+        "flower",
+        "plant"
       ],
-      "styles": [
-        "line-art"
-      ],
+      "styles": [],
       "useCases": [
         "hero-decoration",
         "page-decoration",
@@ -226,9 +237,268 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bell-flowers-452b76428f/bell-flowers-452b76428f.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 299050
+        "bytes": 221233,
+        "sha256": "56de0e9ef26df80b8e2e0a7e759d4d98e3c6abe23320f13e98da27caf7213711"
+      }
+    },
+    {
+      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943",
+      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 6",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "flower",
+        "garden",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plant",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "garden",
+        "nature"
+      ],
+      "subjects": [
+        "flower",
+        "plant"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 212995,
+        "sha256": "7e4fc96a4e8bce9b833808e20fab1d5079e12d4ff0a698946932cc46b6459c0a"
+      }
+    },
+    {
+      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595",
+      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "flower",
+        "garden",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plant",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "garden",
+        "nature"
+      ],
+      "subjects": [
+        "flower",
+        "plant"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 96625,
+        "sha256": "d95b0b1ed2365f524d537ea8bf71ce0cf7c02321ff4f0f2978390503db43d748"
+      }
+    },
+    {
+      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43",
+      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 9",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "flower",
+        "garden",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plant",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "garden",
+        "nature"
+      ],
+      "subjects": [
+        "flower",
+        "plant"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 404831,
+        "sha256": "e9b165dc66c0c08ba9704db592bf54ce1397fa8c58c04585c05cd10fd82ea57b"
+      }
+    },
+    {
+      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec",
+      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 1",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "flower",
+        "garden",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plant",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "garden",
+        "nature"
+      ],
+      "subjects": [
+        "flower",
+        "plant"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 333435,
+        "sha256": "aa1b07c6b91b703df45f39cd78ece6c6c87eb4c7b64189a64c44d9924a39aab2"
+      }
+    },
+    {
+      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-e7466e3df2",
+      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 2",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "flower",
+        "garden",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plant",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "garden",
+        "nature"
+      ],
+      "subjects": [
+        "flower",
+        "plant"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-e7466e3df2/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-e7466e3df2.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 101816,
+        "sha256": "95e93a719638b8d59ac5165d71522bcd5de122d96033ee5e9547f5198913fac0"
+      }
+    },
+    {
+      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-f700b98938",
+      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 8",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "flower",
+        "garden",
+        "hero-decoration",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "plant",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "garden",
+        "nature"
+      ],
+      "subjects": [
+        "flower",
+        "plant"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-f700b98938/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-f700b98938.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 320061,
+        "sha256": "35c6dfeb3c387956141bd4aa7f48dc966ddf136284c208b3457bead83f83ff21"
       }
     },
     {
@@ -275,7 +545,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/decorative-plant-3044d33694/decorative-plant-3044d33694.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15453
+        "bytes": 15453,
+        "sha256": "7cda2e8bc4bef7a245fe0ff2c10d8c72e562ed056fd440833e688d13c465b8d4"
       }
     },
     {
@@ -318,7 +589,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/flower-plants-93bdc61203/flower-plants-93bdc61203.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 188453
+        "bytes": 188453,
+        "sha256": "4e17f1d0b4172dfc507a69b30cbd42718bd26d5a52bd1ebc51d1c047023a8cfd"
       }
     },
     {
@@ -365,7 +637,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-caddy-e098930793/plant-caddy-e098930793.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15557
+        "bytes": 15557,
+        "sha256": "43b53dff43ea6d33739de6457dadfcd7d8e41a9ecb4e2f4d277bf16822812129"
       }
     },
     {
@@ -412,7 +685,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-cloche-16632c2bc0/plant-cloche-16632c2bc0.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10483
+        "bytes": 10483,
+        "sha256": "7967a9b7af81442b86fad497925d68b8c8c188bc1aba20e8cef6f738ece6bc5c"
       }
     },
     {
@@ -459,7 +733,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-dome-ee93351b23/plant-dome-ee93351b23.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8430
+        "bytes": 8430,
+        "sha256": "26293cd6075913eb6275fa9361847c5f467f1fc257a4a109a78d8f84545dfe5f"
       }
     },
     {
@@ -506,7 +781,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-shelf-b5883afcaf/plant-shelf-b5883afcaf.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8096
+        "bytes": 8096,
+        "sha256": "7d8952f6675ef45f63cf258946ab36f1f03e27c8c8b4b1e01e036edd4444289c"
       }
     },
     {
@@ -553,7 +829,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-stand-31ba3b47c3/plant-stand-31ba3b47c3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6494
+        "bytes": 6494,
+        "sha256": "fadc0eb70d53bd1f5fd1c66fb291d5031a1ebad789a71d8454381b89028496f6"
       }
     },
     {
@@ -600,7 +877,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-tray-43549e7638/plant-tray-43549e7638.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11869
+        "bytes": 11869,
+        "sha256": "4fa5177d34bc18c53a143d4e0eb4e1400f6e3869026c635c5b61ce926ddc88b6"
       }
     },
     {
@@ -647,7 +925,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/plant-trellis-9cfbeab81a/plant-trellis-9cfbeab81a.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11493
+        "bytes": 11493,
+        "sha256": "54ab129c9c5e2b8a27011797dd6b7517fa712df6230a944ebad042e0e3aa3346"
       }
     },
     {
@@ -694,18 +973,20 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/potted-plant-7d05008c37/potted-plant-7d05008c37.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9790
+        "bytes": 9790,
+        "sha256": "de80b7d441f7d0b6d8ddaffb4fd5d8750235178beb6a24e36641aae0d38f22ef"
       }
     },
     {
-      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35",
-      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 5",
+      "id": "air-plant-bebf0c0b90",
+      "name": "Air Plant",
       "type": "illustration",
       "tags": [
         "botanical",
-        "flower",
-        "garden",
+        "doodle",
+        "hand-drawn",
         "hero-decoration",
+        "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
@@ -714,14 +995,16 @@
       ],
       "themes": [
         "botanical",
-        "garden",
         "nature"
       ],
       "subjects": [
-        "flower",
         "plant"
       ],
-      "styles": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
       "useCases": [
         "hero-decoration",
         "page-decoration",
@@ -734,36 +1017,36 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-39abf59f35.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/air-plant-bebf0c0b90/air-plant-bebf0c0b90.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 311181
+        "bytes": 12973,
+        "sha256": "21ee6610526dda264d844e547745d3feb65f7a879daa94af1cfb01097028d2f5"
       }
     },
     {
-      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96",
-      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 4",
+      "id": "anemone-flower-9e02f901cf",
+      "name": "Anemone Flower",
       "type": "illustration",
       "tags": [
         "botanical",
         "flower",
-        "garden",
         "hero-decoration",
+        "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
-        "plant",
         "section-decoration"
       ],
       "themes": [
         "botanical",
-        "garden",
         "nature"
       ],
       "subjects": [
-        "flower",
-        "plant"
+        "flower"
       ],
-      "styles": [],
+      "styles": [
+        "line-art"
+      ],
       "useCases": [
         "hero-decoration",
         "page-decoration",
@@ -776,36 +1059,36 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-51fdd06d96.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/anemone-flower-9e02f901cf/anemone-flower-9e02f901cf.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 148754
+        "bytes": 424048,
+        "sha256": "aace20d9cd73e86920204f03c0a09b122275d142dd9a4101cf4c0e26e7ebea72"
       }
     },
     {
-      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c",
-      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 7",
+      "id": "aster-flower-30a7d2a32b",
+      "name": "Aster Flower",
       "type": "illustration",
       "tags": [
         "botanical",
         "flower",
-        "garden",
         "hero-decoration",
+        "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
-        "plant",
         "section-decoration"
       ],
       "themes": [
         "botanical",
-        "garden",
         "nature"
       ],
       "subjects": [
-        "flower",
-        "plant"
+        "flower"
       ],
-      "styles": [],
+      "styles": [
+        "line-art"
+      ],
       "useCases": [
         "hero-decoration",
         "page-decoration",
@@ -818,36 +1101,36 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-664f87b77c.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/aster-flower-30a7d2a32b/aster-flower-30a7d2a32b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 318012
+        "bytes": 262947,
+        "sha256": "a45bfeb669120a811e327b698870a05095dd7e1475d3534bb903bb44c289c64b"
       }
     },
     {
-      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141",
-      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 3",
+      "id": "bell-flowers-452b76428f",
+      "name": "Bell Flowers",
       "type": "illustration",
       "tags": [
         "botanical",
         "flower",
-        "garden",
         "hero-decoration",
+        "line-art",
         "nature",
         "page-decoration",
         "photo-accent",
-        "plant",
         "section-decoration"
       ],
       "themes": [
         "botanical",
-        "garden",
         "nature"
       ],
       "subjects": [
-        "flower",
-        "plant"
+        "flower"
       ],
-      "styles": [],
+      "styles": [
+        "line-art"
+      ],
       "useCases": [
         "hero-decoration",
         "page-decoration",
@@ -860,261 +1143,10 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-72451d5141.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bell-flowers-452b76428f/bell-flowers-452b76428f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 221233
-      }
-    },
-    {
-      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943",
-      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 6",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "flower",
-        "garden",
-        "hero-decoration",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "flower",
-        "plant"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-89e53e5943.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 212995
-      }
-    },
-    {
-      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595",
-      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "flower",
-        "garden",
-        "hero-decoration",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "flower",
-        "plant"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-c1694a9595.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 96625
-      }
-    },
-    {
-      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43",
-      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 9",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "flower",
-        "garden",
-        "hero-decoration",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "flower",
-        "plant"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-cf03e55a43.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 404831
-      }
-    },
-    {
-      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec",
-      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 1",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "flower",
-        "garden",
-        "hero-decoration",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "flower",
-        "plant"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-d13247c2ec.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 333435
-      }
-    },
-    {
-      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-e7466e3df2",
-      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 2",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "flower",
-        "garden",
-        "hero-decoration",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "flower",
-        "plant"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-e7466e3df2/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-e7466e3df2.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 101816
-      }
-    },
-    {
-      "id": "vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-f700b98938",
-      "name": "vctrly nursery aplant garden greenery potted plants flowers soil greenhouse saplings care 8",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "flower",
-        "garden",
-        "hero-decoration",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "garden",
-        "nature"
-      ],
-      "subjects": [
-        "flower",
-        "plant"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-f700b98938/vctrly-nursery-aplant-garden-greenery-potted-plants-flowers-soil-f700b98938.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 320061
+        "bytes": 299050,
+        "sha256": "cc5763da3c40fbd3ddbc6727041be3bd6e1de95a3cb0d681b66f3d12bceb2832"
       }
     }
   ]

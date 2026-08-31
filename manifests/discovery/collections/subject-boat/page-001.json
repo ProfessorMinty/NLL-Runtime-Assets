@@ -6,8 +6,8 @@
   },
   "page": 1,
   "pageSize": 100,
-  "assetCount": 10,
-  "totalAssetCount": 10,
+  "assetCount": 11,
+  "totalAssetCount": 11,
   "assets": [
     {
       "id": "boat-anchor-00b0a75e94",
@@ -53,7 +53,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/boat-anchor-00b0a75e94/boat-anchor-00b0a75e94.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 40208
+        "bytes": 40208,
+        "sha256": "e9578fe181738e5204d14e7ede30206799d850d04c280dc1f1cf1c18384d807d"
       }
     },
     {
@@ -98,7 +99,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cruise-ship-bfa1303c50/cruise-ship-bfa1303c50.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 51993
+        "bytes": 51993,
+        "sha256": "7de39e0bc07f3f876bd514722b87e4b1d52e6de9960af8af0e797dafe7a73302"
       }
     },
     {
@@ -145,7 +147,52 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/fishing-boat-d9bce8dd2e/fishing-boat-d9bce8dd2e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 48266
+        "bytes": 48266,
+        "sha256": "5e9ba243e5eb261b6be4b84c8c5417f69f5b13f4b03a4726261d13d8eb6a1268"
+      }
+    },
+    {
+      "id": "gravy-boat-8b915e116c",
+      "name": "Gravy Boat",
+      "type": "illustration",
+      "tags": [
+        "boat",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation"
+      ],
+      "themes": [
+        "transportation"
+      ],
+      "subjects": [
+        "boat"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/gravy-boat-8b915e116c/gravy-boat-8b915e116c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 42066,
+        "sha256": "d3a024e3715d34d54356662ebaf3108c8d812b53926f2da8e2101af27cc5b5e4"
       }
     },
     {
@@ -186,7 +233,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/paddle-boat-b497cd2015/paddle-boat-b497cd2015.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 58914
+        "bytes": 58914,
+        "sha256": "7c6c8fe5face72e7910e81cad288f807974fff6495d8360c62d7b7a4a24f7b6d"
       }
     },
     {
@@ -227,7 +275,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/painting-boat-79c33cc95b/painting-boat-79c33cc95b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 58504
+        "bytes": 58504,
+        "sha256": "25b527312314ef2e717ee7503743c6b6e381b727a21b4d5bb08b593f30e536a5"
       }
     },
     {
@@ -268,7 +317,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/river-boats-0f1bb51dc9/river-boats-0f1bb51dc9.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 106822
+        "bytes": 106822,
+        "sha256": "d4fe262f99d3f232855337e80dc5adf2c3fc28c8c0394b4100919ad6a332e1d1"
       }
     },
     {
@@ -308,6 +358,7 @@
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/rocket-ship-f7a9a55f6d/rocket-ship-f7a9a55f6d.webp",
         "mimeType": "image/webp",
         "bytes": 480278,
+        "sha256": "7009fe10efb99de1c33ccff6f947730f27be17e15c78c93fbeda3cbef2329af2",
         "width": 2048,
         "height": 2048
       }
@@ -354,7 +405,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/sailboat-1e353bf399/sailboat-1e353bf399.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 87362
+        "bytes": 87362,
+        "sha256": "340a36dcae5f73bb8cc381dc653e1484e20d76d303a00657e9885f354d09632c"
       }
     },
     {
@@ -391,7 +443,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/sushi-boat-55ea0a1339/sushi-boat-55ea0a1339.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10666
+        "bytes": 10666,
+        "sha256": "16e1f2cf3278b3ed6248037b0770d0de69da1a434230a7cc9ba15011a1226581"
       }
     },
     {
@@ -432,7 +485,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/viking-ship-a0bdf98544/viking-ship-a0bdf98544.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 7866
+        "bytes": 7866,
+        "sha256": "291118d554a18de2c646989de470ace45f922e2c0c48734dab0e79138998c0bb"
       }
     }
   ]

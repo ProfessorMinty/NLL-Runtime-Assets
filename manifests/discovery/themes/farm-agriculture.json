@@ -6,6 +6,14 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Farm & Agriculture.",
     "collectionIds": [
       "album-theme-farm-agriculture"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "top-trim",
+      "bottom-trim",
+      "photo-frame",
+      "background",
+      "divider"
     ]
   },
   "assetSlots": {
@@ -64,28 +72,26 @@
   "assetCount": 24,
   "assets": [
     {
-      "id": "almond-bowl-bfb39ca0ce",
-      "name": "Almond Bowl",
+      "id": "cattle-farm-f76626211b",
+      "name": "Cattle Farm",
       "type": "illustration",
       "tags": [
-        "doodle",
         "farming",
-        "hand-drawn",
         "harvest",
         "hero-decoration",
         "line-art",
+        "nature",
         "page-decoration",
         "photo-accent",
         "section-decoration"
       ],
       "themes": [
         "farming",
-        "harvest"
+        "harvest",
+        "nature"
       ],
       "subjects": [],
       "styles": [
-        "doodle",
-        "hand-drawn",
         "line-art"
       ],
       "useCases": [
@@ -100,9 +106,10 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/almond-bowl-bfb39ca0ce/almond-bowl-bfb39ca0ce.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cattle-farm-f76626211b/cattle-farm-f76626211b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 19961
+        "bytes": 303070,
+        "sha256": "4a4a4030020ffb15e30dac484e73326126ca2b6725f123da5462cd5b06cf6d34"
       }
     },
     {
@@ -149,217 +156,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/animal-feeder-fceab76f4c/animal-feeder-fceab76f4c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9097
-      }
-    },
-    {
-      "id": "automatic-feeder-a7fa3ffa81",
-      "name": "Automatic Feeder",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/automatic-feeder-a7fa3ffa81/automatic-feeder-a7fa3ffa81.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5073
-      }
-    },
-    {
-      "id": "bale-grabber-8490471370",
-      "name": "Bale Grabber",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bale-grabber-8490471370/bale-grabber-8490471370.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 20462
-      }
-    },
-    {
-      "id": "barn-273f8af229",
-      "name": "Barn",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/barn-273f8af229/barn-273f8af229.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 6500
-      }
-    },
-    {
-      "id": "bell-b45739e887",
-      "name": "Bell",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bell-b45739e887/bell-b45739e887.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5953
-      }
-    },
-    {
-      "id": "birdhouse-b2a7830faa",
-      "name": "Birdhouse",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/birdhouse-b2a7830faa/birdhouse-b2a7830faa.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5933
+        "bytes": 9097,
+        "sha256": "b9978f98ea2e3f8b8f277b756fe8477e32e5ae88a47c197109d98856f9deaf12"
       }
     },
     {
@@ -408,173 +206,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/blooming-flowers-9cc5b9a46b/blooming-flowers-9cc5b9a46b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 21356
-      }
-    },
-    {
-      "id": "cabbage-edbd0d1612",
-      "name": "Cabbage",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cabbage-edbd0d1612/cabbage-edbd0d1612.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14488
-      }
-    },
-    {
-      "id": "carrot-box-5542924338",
-      "name": "Carrot Box",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/carrot-box-5542924338/carrot-box-5542924338.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 20072
-      }
-    },
-    {
-      "id": "cattle-farm-f76626211b",
-      "name": "Cattle Farm",
-      "type": "illustration",
-      "tags": [
-        "farming",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cattle-farm-f76626211b/cattle-farm-f76626211b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 303070
-      }
-    },
-    {
-      "id": "cattle-prodder-b6c45fe679",
-      "name": "Cattle Prodder",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cattle-prodder-b6c45fe679/cattle-prodder-b6c45fe679.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 5399
+        "bytes": 21356,
+        "sha256": "13d282b606484b063b7764938243b4ee6913a7173c410decf58c489c308bb3c3"
       }
     },
     {
@@ -623,49 +256,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/corn-plant-a56f1031a5/corn-plant-a56f1031a5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15483
-      }
-    },
-    {
-      "id": "cow-10815fc4e2",
-      "name": "Cow",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "farming",
-        "hand-drawn",
-        "harvest",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "farming",
-        "harvest"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cow-10815fc4e2/cow-10815fc4e2.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 18581
+        "bytes": 15483,
+        "sha256": "5f7c3007d9b4a61be46c9e4c10a3e237e7e9072cd03769bce5777189e0e4be16"
       }
     },
     {
@@ -707,7 +299,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-boots-0f79117aea/farm-boots-0f79117aea.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12623
+        "bytes": 12623,
+        "sha256": "c1b58efad35c8051add4d006eee8f482402ad08dc782fd80d36e7dee91e1647a"
       }
     },
     {
@@ -749,7 +342,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-cart-0cc4543e0c/farm-cart-0cc4543e0c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14959
+        "bytes": 14959,
+        "sha256": "4c66043e711e7802c418bc0c041f441200850f37966c1e6f360c34089fd0c9f5"
       }
     },
     {
@@ -791,7 +385,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-drone-2bc95b11ad/farm-drone-2bc95b11ad.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 19211
+        "bytes": 19211,
+        "sha256": "caa4dde4d6e9c30d894f6bf95ac0de7e6e6913be67d15b71b19c3c435ceb1815"
       }
     },
     {
@@ -833,7 +428,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-pitchfork-cc4dce0172/farm-pitchfork-cc4dce0172.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9412
+        "bytes": 9412,
+        "sha256": "53ea77650fa79713f9ecd1387911556a86ed8e7def2b02e096e9d599a5c629d9"
       }
     },
     {
@@ -875,7 +471,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-plow-e6491afc20/farm-plow-e6491afc20.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9732
+        "bytes": 9732,
+        "sha256": "aa36f641f4ea24d634a402ced0aaa067e7dd788885c4a04d5d027b1014545961"
       }
     },
     {
@@ -922,7 +519,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-truck-308d4d7cf3/farm-truck-308d4d7cf3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11950
+        "bytes": 11950,
+        "sha256": "9b0d7be21d01fb84082b4bafe95395f88656ca110fd7ccaf39e5ca146af549d5"
       }
     },
     {
@@ -964,7 +562,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-wheelbarrow-06b3437ee8/farm-wheelbarrow-06b3437ee8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 20262
+        "bytes": 20262,
+        "sha256": "2cb43df5e462effeb590d5f4d8ee42d3e60a861e12396f80af2850b6dec5d6d8"
       }
     },
     {
@@ -1013,7 +612,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/growing-plant-4538f8f6aa/growing-plant-4538f8f6aa.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14217
+        "bytes": 14217,
+        "sha256": "a9beb4e15def4d05367370ad05cb6c8ea2475e737348eab20295bd9dd2a7fb98"
       }
     },
     {
@@ -1062,7 +662,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hydroponic-plant-89ffa8655b/hydroponic-plant-89ffa8655b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15194
+        "bytes": 15194,
+        "sha256": "f4222f9e6677ad3d9c390a14ade9c8a19fb72fcba94b85061f2247932eb85ec6"
       }
     },
     {
@@ -1111,7 +712,438 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lavender-flower-2947f788c8/lavender-flower-2947f788c8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 28134
+        "bytes": 28134,
+        "sha256": "a2cececa35e28708e1115848479b188ced7d0c70ea1628c480c8a6b4d58b91be"
+      }
+    },
+    {
+      "id": "almond-bowl-bfb39ca0ce",
+      "name": "Almond Bowl",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/almond-bowl-bfb39ca0ce/almond-bowl-bfb39ca0ce.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19961,
+        "sha256": "802e00238545500297ba437959ad7e494975088ef96768b5985282fa94dcc6dc"
+      }
+    },
+    {
+      "id": "automatic-feeder-a7fa3ffa81",
+      "name": "Automatic Feeder",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/automatic-feeder-a7fa3ffa81/automatic-feeder-a7fa3ffa81.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 5073,
+        "sha256": "619ca892185d95b6b12bde89ec871962c42129b61c47189a284e93fe0f606f8d"
+      }
+    },
+    {
+      "id": "bale-grabber-8490471370",
+      "name": "Bale Grabber",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bale-grabber-8490471370/bale-grabber-8490471370.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20462,
+        "sha256": "8591b8e025815d38e436bc67ee5d1f4ecc0d919ba1247a40e452592e2377904b"
+      }
+    },
+    {
+      "id": "barn-273f8af229",
+      "name": "Barn",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/barn-273f8af229/barn-273f8af229.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 6500,
+        "sha256": "40693f0d04f0e597a6a667abc925984f248afbbed4a2c36beb4f8383bc574477"
+      }
+    },
+    {
+      "id": "bell-b45739e887",
+      "name": "Bell",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bell-b45739e887/bell-b45739e887.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 5953,
+        "sha256": "09ce9e8b593d711543522d40cb6a56c0679fec86022a856b081415aa29b89e02"
+      }
+    },
+    {
+      "id": "birdhouse-b2a7830faa",
+      "name": "Birdhouse",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/birdhouse-b2a7830faa/birdhouse-b2a7830faa.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 5933,
+        "sha256": "9e5495c939b8839a7b077f37d6c62341ded6b4b34c152af1ec3eedadfe361361"
+      }
+    },
+    {
+      "id": "cabbage-edbd0d1612",
+      "name": "Cabbage",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cabbage-edbd0d1612/cabbage-edbd0d1612.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14488,
+        "sha256": "d8d3016f1d4386ab3951f6e588b38c3857158c2a157a2dde3ceeed6f492f1af0"
+      }
+    },
+    {
+      "id": "carrot-box-5542924338",
+      "name": "Carrot Box",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/carrot-box-5542924338/carrot-box-5542924338.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 20072,
+        "sha256": "3c7c3a20af71ecd484b728a31e8635367ed1a930fa2173c7ba5662a9dec63cb8"
+      }
+    },
+    {
+      "id": "cattle-prodder-b6c45fe679",
+      "name": "Cattle Prodder",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cattle-prodder-b6c45fe679/cattle-prodder-b6c45fe679.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 5399,
+        "sha256": "8770d31b4c0cd01e439dc4fb905f131aae038b68a652877083dcab2a2625789c"
+      }
+    },
+    {
+      "id": "cow-10815fc4e2",
+      "name": "Cow",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "farming",
+        "hand-drawn",
+        "harvest",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "farming",
+        "harvest"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cow-10815fc4e2/cow-10815fc4e2.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18581,
+        "sha256": "a2c74d086ab57d928aab4c9f174e3b984b2f7c326e644074ea221869fdfe45d5"
       }
     }
   ]

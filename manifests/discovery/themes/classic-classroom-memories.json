@@ -6,6 +6,10 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Classic Classroom Memories.",
     "collectionIds": [
       "album-theme-classic-classroom-memories"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "photo-frame"
     ]
   },
   "assetSlots": {
@@ -76,38 +80,30 @@
   "assetCount": 30,
   "assets": [
     {
-      "id": "abacus-390866ad8b",
-      "name": "Abacus",
-      "type": "illustration",
+      "id": "vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80",
+      "name": "vctrly student education learning college campus book study bag stuff",
+      "type": "character",
       "tags": [
+        "book",
         "classroom",
-        "doodle",
-        "hand-drawn",
         "hero-decoration",
-        "line-art",
-        "math-symbol",
         "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
+        "reading",
+        "school"
       ],
       "themes": [
         "classroom",
+        "reading",
         "school"
       ],
       "subjects": [
-        "math-symbol"
+        "book",
+        "school"
       ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
+      "styles": [],
       "useCases": [
         "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
+        "page-decoration"
       ],
       "availableFormats": [
         "svg",
@@ -115,29 +111,308 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/abacus-390866ad8b/abacus-390866ad8b.svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80/vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10237
+        "bytes": 148377,
+        "sha256": "8fd9b7f8fdd8f5899d81911e63b0c797b1e224cd190b6d0b7a3450ef888b0a98"
       }
     },
     {
-      "id": "alarm-clock-dcde8fdfe7",
-      "name": "Alarm Clock",
-      "type": "illustration",
+      "id": "vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d",
+      "name": "vctrly student education learning college campus book study board math",
+      "type": "character",
+      "tags": [
+        "book",
+        "classroom",
+        "hero-decoration",
+        "math",
+        "math-symbol",
+        "page-decoration",
+        "reading",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "math",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book",
+        "math-symbol",
+        "school"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d/vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 157293,
+        "sha256": "ef2d81ab80dba3d108a06ac24cbb9b02bcfda6ac3b388d57ccc6a4b44fc567e4"
+      }
+    },
+    {
+      "id": "vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531",
+      "name": "vctrly student education learning college campus book study classroom",
+      "type": "character",
+      "tags": [
+        "book",
+        "classroom",
+        "hero-decoration",
+        "page-decoration",
+        "reading",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book",
+        "school"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531/vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 271046,
+        "sha256": "53f8e04ebdc0457e21024af5208d142f20fc2bc3c8b0a58540fc5a871f456845"
+      }
+    },
+    {
+      "id": "vctrly-student-education-learning-college-campus-book-study-fa8057c683",
+      "name": "vctrly student education learning college campus book study",
+      "type": "character",
+      "tags": [
+        "book",
+        "classroom",
+        "hero-decoration",
+        "page-decoration",
+        "reading",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book",
+        "school"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-fa8057c683/vctrly-student-education-learning-college-campus-book-study-fa8057c683.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 246806,
+        "sha256": "ed9b3b2f3c5875cf7795a7ef3ad04f222dd3590b69d194ce5e3ab08ca96d0c4f"
+      }
+    },
+    {
+      "id": "vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60",
+      "name": "vctrly student education learning college campus book study girl room self",
+      "type": "character",
+      "tags": [
+        "book",
+        "classroom",
+        "hero-decoration",
+        "page-decoration",
+        "reading",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book",
+        "school"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60/vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 165315,
+        "sha256": "9ff42700cd53d7bad7694fcd88c9b08ef4252f841d5ddc2e254bce931a3daf99"
+      }
+    },
+    {
+      "id": "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
+      "name": "vctrly student education learning college campus book study girl desk corner",
+      "type": "character",
+      "tags": [
+        "book",
+        "classroom",
+        "corner-accent",
+        "hero-decoration",
+        "page-decoration",
+        "reading",
+        "school",
+        "table"
+      ],
+      "themes": [
+        "classroom",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book",
+        "school",
+        "table"
+      ],
+      "styles": [],
+      "useCases": [
+        "corner-accent",
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/corner-accent/vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9/vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 200924,
+        "sha256": "eca22488a78b9699b4664402b9a64637dbc84efae98a66790363c0789c953d02"
+      }
+    },
+    {
+      "id": "vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50",
+      "name": "vctrly student education learning college campus book study lamp desk",
+      "type": "character",
+      "tags": [
+        "book",
+        "classroom",
+        "hero-decoration",
+        "home",
+        "lamp",
+        "page-decoration",
+        "reading",
+        "school",
+        "table"
+      ],
+      "themes": [
+        "classroom",
+        "home",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book",
+        "lamp",
+        "school",
+        "table"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50/vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 217770,
+        "sha256": "b68800d1799ffcc7af87510962635522163e04575b9ffefd628ad50dbf293bdf"
+      }
+    },
+    {
+      "id": "vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c",
+      "name": "vctrly student education learning college campus book study laptop online",
+      "type": "character",
+      "tags": [
+        "book",
+        "classroom",
+        "computer",
+        "hero-decoration",
+        "page-decoration",
+        "reading",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book",
+        "computer",
+        "school"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c/vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 194119,
+        "sha256": "82ab565c6f39cf070cdc601f8e207288d3278e46789bc22a8ef70bbdc1dfa2aa"
+      }
+    },
+    {
+      "id": "scale-divider-5bf5fad325",
+      "name": "Scale Divider",
+      "type": "divider",
       "tags": [
         "classroom",
         "doodle",
         "hand-drawn",
-        "hero-decoration",
         "line-art",
         "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
+        "section-divider"
       ],
       "themes": [
-        "classroom",
-        "school"
+        "classroom"
       ],
       "subjects": [],
       "styles": [
@@ -146,10 +421,8 @@
         "line-art"
       ],
       "useCases": [
-        "hero-decoration",
         "page-decoration",
-        "photo-accent",
-        "section-decoration"
+        "section-divider"
       ],
       "availableFormats": [
         "svg",
@@ -157,51 +430,10 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alarm-clock-dcde8fdfe7/alarm-clock-dcde8fdfe7.svg",
+        "url": "https://cdn.nlightlabs.com/assets/divider/page-decoration/scale-divider-5bf5fad325/scale-divider-5bf5fad325.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16453
-      }
-    },
-    {
-      "id": "alphabet-blocks-08ef6d8340",
-      "name": "Alphabet Blocks",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alphabet-blocks-08ef6d8340/alphabet-blocks-08ef6d8340.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 16067
+        "bytes": 10011,
+        "sha256": "d2dbf96b14b33a86d4924607ac0cf54e5b785d15433928da97e643e174932c03"
       }
     },
     {
@@ -248,7 +480,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/books-717a709a7f/books-717a709a7f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12606
+        "bytes": 12606,
+        "sha256": "c8c24e8ce967c0c4953e03a90c655fda4b73d62e22dab8a115b2c20afa7de9bb"
       }
     },
     {
@@ -295,7 +528,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/buy-books-deb7f4df67/buy-books-deb7f4df67.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14343
+        "bytes": 14343,
+        "sha256": "cfafa8928585fa24235875b64e07172a10db32331188d38b176798721c3f2f7f"
       }
     },
     {
@@ -342,80 +576,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/education-robot-76ee96f5be/education-robot-76ee96f5be.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10818
-      }
-    },
-    {
-      "id": "glass-magnifying-3d-icon-9b6f6791c1",
-      "name": "Glass Magnifying 3D Icon",
-      "type": "texture",
-      "tags": [
-        "3d",
-        "background",
-        "classroom",
-        "dimensional",
-        "glossy",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "3d",
-        "dimensional",
-        "glossy"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
-        "mimeType": "image/webp",
-        "bytes": 569212,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "magnifying-glass-1ec65aa24b",
-      "name": "Magnifying Glass",
-      "type": "texture",
-      "tags": [
-        "background",
-        "classroom",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "themes": [
-        "classroom"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-1ec65aa24b/magnifying-glass-1ec65aa24b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17888
+        "bytes": 10818,
+        "sha256": "63e7fe6cc5ab1935c3a4448ecfb594473da1fa50bd1464b47b5e390ad1a882d2"
       }
     },
     {
@@ -462,38 +624,43 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/reading-16b69b30a2/reading-16b69b30a2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 7939
+        "bytes": 7939,
+        "sha256": "cf6b5c6cc8cc98954d87bf13e8cc914ee1b2e217378627101de1b80405dd91c1"
       }
     },
     {
-      "id": "reading-glasses-2b7920a060",
-      "name": "Reading Glasses",
-      "type": "texture",
+      "id": "abacus-390866ad8b",
+      "name": "Abacus",
+      "type": "illustration",
       "tags": [
-        "background",
-        "book",
+        "classroom",
         "doodle",
-        "glossy",
         "hand-drawn",
-        "library",
+        "hero-decoration",
         "line-art",
-        "reading"
+        "math-symbol",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
       ],
       "themes": [
-        "library",
-        "reading"
+        "classroom",
+        "school"
       ],
       "subjects": [
-        "book"
+        "math-symbol"
       ],
       "styles": [
         "doodle",
-        "glossy",
         "hand-drawn",
         "line-art"
       ],
       "useCases": [
-        "background"
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
       ],
       "availableFormats": [
         "svg",
@@ -501,9 +668,96 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-2b7920a060/reading-glasses-2b7920a060.svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/abacus-390866ad8b/abacus-390866ad8b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13238
+        "bytes": 10237,
+        "sha256": "0467923a829f5bdc960e8ba95e94548d2db94fd821107bede893e7e9510757e9"
+      }
+    },
+    {
+      "id": "alarm-clock-dcde8fdfe7",
+      "name": "Alarm Clock",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alarm-clock-dcde8fdfe7/alarm-clock-dcde8fdfe7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16453,
+        "sha256": "59812ccf856acf798c64ec710d1d8819ed3b0fa83c0ec533a950a1c2c576fe78"
+      }
+    },
+    {
+      "id": "alphabet-blocks-08ef6d8340",
+      "name": "Alphabet Blocks",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alphabet-blocks-08ef6d8340/alphabet-blocks-08ef6d8340.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16067,
+        "sha256": "20147ba22d137f300d122a6ed743b6dbae72ca4aa9d5ed741bede9debf8628d6"
       }
     },
     {
@@ -546,7 +800,125 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-bfd1553f94/reading-glasses-bfd1553f94.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14181
+        "bytes": 14181,
+        "sha256": "0ac06b1f2fcdf27f81aaa71118d5cf5c9544b2169d59b4920354d1564adf83a4"
+      }
+    },
+    {
+      "id": "glass-magnifying-3d-icon-9b6f6791c1",
+      "name": "Glass Magnifying 3D Icon",
+      "type": "texture",
+      "tags": [
+        "3d",
+        "background",
+        "classroom",
+        "dimensional",
+        "glossy",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional",
+        "glossy"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
+        "mimeType": "image/webp",
+        "bytes": 569212,
+        "sha256": "a5ba5acc2b4ba0426252dd17133769c735c98870fb8143473999b791680e62f8",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "magnifying-glass-1ec65aa24b",
+      "name": "Magnifying Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "classroom",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "themes": [
+        "classroom"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-1ec65aa24b/magnifying-glass-1ec65aa24b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 17888,
+        "sha256": "ff8062f5dec0fd684152afffa8450dbc4aa254849dae195299811a7726988f28"
+      }
+    },
+    {
+      "id": "reading-glasses-2b7920a060",
+      "name": "Reading Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "book",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "library",
+        "line-art",
+        "reading"
+      ],
+      "themes": [
+        "library",
+        "reading"
+      ],
+      "subjects": [
+        "book"
+      ],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-2b7920a060/reading-glasses-2b7920a060.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13238,
+        "sha256": "dbe2695795176fb822da1309248ae7aa892bde5a3614698b66badecfb6a5133f"
       }
     },
     {
@@ -581,433 +953,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-e7e89285b2/reading-glasses-e7e89285b2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 38287
-      }
-    },
-    {
-      "id": "scale-divider-5bf5fad325",
-      "name": "Scale Divider",
-      "type": "divider",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "classroom"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/divider/page-decoration/scale-divider-5bf5fad325/scale-divider-5bf5fad325.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10011
-      }
-    },
-    {
-      "id": "student-reading-ec0e599df3",
-      "name": "Student Reading",
-      "type": "character",
-      "tags": [
-        "book",
-        "classroom",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "reading",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book",
-        "school"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-reading-ec0e599df3/student-reading-ec0e599df3.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 47258
-      }
-    },
-    {
-      "id": "teacher-9e05ea1ed3",
-      "name": "Teacher",
-      "type": "character",
-      "tags": [
-        "classroom",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "reading",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "school"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/teacher-9e05ea1ed3/teacher-9e05ea1ed3.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 44802
-      }
-    },
-    {
-      "id": "vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80",
-      "name": "vctrly student education learning college campus book study bag stuff",
-      "type": "character",
-      "tags": [
-        "book",
-        "classroom",
-        "hero-decoration",
-        "page-decoration",
-        "reading",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book",
-        "school"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80/vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 148377
-      }
-    },
-    {
-      "id": "vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d",
-      "name": "vctrly student education learning college campus book study board math",
-      "type": "character",
-      "tags": [
-        "book",
-        "classroom",
-        "hero-decoration",
-        "math",
-        "math-symbol",
-        "page-decoration",
-        "reading",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "math",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book",
-        "math-symbol",
-        "school"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d/vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 157293
-      }
-    },
-    {
-      "id": "vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531",
-      "name": "vctrly student education learning college campus book study classroom",
-      "type": "character",
-      "tags": [
-        "book",
-        "classroom",
-        "hero-decoration",
-        "page-decoration",
-        "reading",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book",
-        "school"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531/vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 271046
-      }
-    },
-    {
-      "id": "vctrly-student-education-learning-college-campus-book-study-fa8057c683",
-      "name": "vctrly student education learning college campus book study",
-      "type": "character",
-      "tags": [
-        "book",
-        "classroom",
-        "hero-decoration",
-        "page-decoration",
-        "reading",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book",
-        "school"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-fa8057c683/vctrly-student-education-learning-college-campus-book-study-fa8057c683.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 246806
-      }
-    },
-    {
-      "id": "vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60",
-      "name": "vctrly student education learning college campus book study girl room self",
-      "type": "character",
-      "tags": [
-        "book",
-        "classroom",
-        "hero-decoration",
-        "page-decoration",
-        "reading",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book",
-        "school"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60/vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 165315
-      }
-    },
-    {
-      "id": "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
-      "name": "vctrly student education learning college campus book study girl desk corner",
-      "type": "character",
-      "tags": [
-        "book",
-        "classroom",
-        "corner-accent",
-        "hero-decoration",
-        "page-decoration",
-        "reading",
-        "school",
-        "table"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book",
-        "school",
-        "table"
-      ],
-      "styles": [],
-      "useCases": [
-        "corner-accent",
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/corner-accent/vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9/vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 200924
-      }
-    },
-    {
-      "id": "vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50",
-      "name": "vctrly student education learning college campus book study lamp desk",
-      "type": "character",
-      "tags": [
-        "book",
-        "classroom",
-        "hero-decoration",
-        "home",
-        "lamp",
-        "page-decoration",
-        "reading",
-        "school",
-        "table"
-      ],
-      "themes": [
-        "classroom",
-        "home",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book",
-        "lamp",
-        "school",
-        "table"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50/vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 217770
-      }
-    },
-    {
-      "id": "vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c",
-      "name": "vctrly student education learning college campus book study laptop online",
-      "type": "character",
-      "tags": [
-        "book",
-        "classroom",
-        "computer",
-        "hero-decoration",
-        "page-decoration",
-        "reading",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book",
-        "computer",
-        "school"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c/vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 194119
+        "bytes": 38287,
+        "sha256": "d6f27bcff3862ee792a93e53bac2c52bc3b7b5876cbb950df3f4ffd4b341fa08"
       }
     },
     {
@@ -1044,7 +991,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-man-f5b3773638/vctrly-student-education-learning-college-campus-book-study-man-f5b3773638.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 181726
+        "bytes": 181726,
+        "sha256": "53b0831ea93f5e74b9d2129f9e91c0bca917034cb67d737395e714217aea265d"
       }
     },
     {
@@ -1085,7 +1033,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-math-ed183eb973/vctrly-student-education-learning-college-campus-book-study-math-ed183eb973.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 226920
+        "bytes": 226920,
+        "sha256": "0ac9b06d01106b137125d05621b53831b3c4114a4adb497e7aac56475c40d76c"
       }
     },
     {
@@ -1124,7 +1073,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-note-b37a68663d/vctrly-student-education-learning-college-campus-book-study-note-b37a68663d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 221563
+        "bytes": 221563,
+        "sha256": "92ad74e05e0279c1fb46e6219e0ad58e7518bb1383b7cca9c786c0786a9c3bc4"
       }
     },
     {
@@ -1163,7 +1113,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-onli-9220b8c095/vctrly-student-education-learning-college-campus-book-study-onli-9220b8c095.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 170473
+        "bytes": 170473,
+        "sha256": "90b93c710a813929735794f186389d7bca6f95c0899290d24e3df019f30a5435"
       }
     },
     {
@@ -1200,7 +1151,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-team-bf81bb44cc/vctrly-student-education-learning-college-campus-book-study-team-bf81bb44cc.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 189763
+        "bytes": 189763,
+        "sha256": "d18a9b15056202f6bd155c55de6b0861117995a024e89cdad63acac4dead700f"
       }
     },
     {
@@ -1237,7 +1189,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-team-cdd3a12d66/vctrly-student-education-learning-college-campus-book-study-team-cdd3a12d66.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 273164
+        "bytes": 273164,
+        "sha256": "58131fb183e887a2c75704702beec46000cfedf1f4ba87ba14e1dad3b4f25b25"
       }
     },
     {
@@ -1274,7 +1227,88 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-wind-828e33a4d4/vctrly-student-education-learning-college-campus-book-study-wind-828e33a4d4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 210320
+        "bytes": 210320,
+        "sha256": "c35d088b6a2f81c9e2efa67cef1aae71c228e1fe9d0bed08ea1ba5dda65e8b03"
+      }
+    },
+    {
+      "id": "student-reading-ec0e599df3",
+      "name": "Student Reading",
+      "type": "character",
+      "tags": [
+        "book",
+        "classroom",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "reading",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book",
+        "school"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-reading-ec0e599df3/student-reading-ec0e599df3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 47258,
+        "sha256": "ca3b5efedf394b81928fe296a14318b232cebe2fbb8731c23407f99880167a69"
+      }
+    },
+    {
+      "id": "teacher-9e05ea1ed3",
+      "name": "Teacher",
+      "type": "character",
+      "tags": [
+        "classroom",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "reading",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "school"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/teacher-9e05ea1ed3/teacher-9e05ea1ed3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 44802,
+        "sha256": "49bf04ec33ad3964bf537b10e18008bd33f4d41dd8adc7709c8c5833b62a123a"
       }
     }
   ]

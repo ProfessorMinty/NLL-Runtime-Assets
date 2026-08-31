@@ -7,8 +7,49 @@
   "page": 5,
   "pageSize": 100,
   "assetCount": 100,
-  "totalAssetCount": 536,
+  "totalAssetCount": 538,
   "assets": [
+    {
+      "id": "pompeii-fdc5a276d9",
+      "name": "Pompeii",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pompeii-fdc5a276d9/pompeii-fdc5a276d9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 282799,
+        "sha256": "7631bd540d9b6c70e4280d544de930ef8fc80c8489a0a09b760f15b3d0505897"
+      }
+    },
     {
       "id": "portable-firepit-b5935af766",
       "name": "Portable Firepit",
@@ -42,7 +83,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/portable-firepit-b5935af766/portable-firepit-b5935af766.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 37106
+        "bytes": 37106,
+        "sha256": "522424247758cedde1c0d66c0cb32d78c3dbbea306b76e90d787f2592193589d"
       }
     },
     {
@@ -78,7 +120,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/portable-grill-0ffdb0e56e/portable-grill-0ffdb0e56e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 33838
+        "bytes": 33838,
+        "sha256": "7e71c16e981104ddcb719f9065bd804ff411cb2e2a8d95224ca158f4893b1c50"
       }
     },
     {
@@ -114,7 +157,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/portable-sink-36b6a93241/portable-sink-36b6a93241.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 49433
+        "bytes": 49433,
+        "sha256": "ef40574d25f095ebb380ff1e59d26b41906edf92e27a901d43a450fbc2a0131f"
       }
     },
     {
@@ -150,7 +194,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/portable-solar-31907d15b7/portable-solar-31907d15b7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 35685
+        "bytes": 35685,
+        "sha256": "e12c9131d1c9fc861649fc3835ab1b41a1d7bc483d8ba66edf2347f31aaf0b85"
       }
     },
     {
@@ -186,7 +231,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/portable-stove-b0b38da5b1/portable-stove-b0b38da5b1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 86465
+        "bytes": 86465,
+        "sha256": "cf2b146de956d57918ae0cfdd4d92510f6f8c676d95448437bc1a48f08c5d8f8"
       }
     },
     {
@@ -229,7 +275,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/prambanan-temple-f8ef6f25d9/prambanan-temple-f8ef6f25d9.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 457023
+        "bytes": 457023,
+        "sha256": "e7cdc2de8680e167ee76795bef0799d2e7bb2c2f0603e0e86df331fde7b05033"
       }
     },
     {
@@ -273,7 +320,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/printed-scarf-69eea2375e/printed-scarf-69eea2375e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 21057
+        "bytes": 21057,
+        "sha256": "ed94738f5e103699f98391906028bad463fe274c7250b13d6f609185135b58ac"
       }
     },
     {
@@ -311,7 +359,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/private-plane-47f0d5e9f3/private-plane-47f0d5e9f3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 38135
+        "bytes": 38135,
+        "sha256": "716f24e6f2a9c828ac7755df125e28af7d11f0ced3d3a34dcc1da71113512b99"
       }
     },
     {
@@ -351,7 +400,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/qibli-mosque-b343d89555/qibli-mosque-b343d89555.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 351780
+        "bytes": 351780,
+        "sha256": "5bd6713bdec20fbf255d5dc7f0334cb2e7ef25280dc2cb2c436c493f8b6700d6"
       }
     },
     {
@@ -391,7 +441,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/quaid-mausoleum-66415a29bc/quaid-mausoleum-66415a29bc.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 465600
+        "bytes": 465600,
+        "sha256": "4433cc642423ba00b4df201f2a282bc51a1de94d32ae3d1c7a5e6633b84fa0bf"
       }
     },
     {
@@ -431,7 +482,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/quito-72506cb443/quito-72506cb443.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 523774
+        "bytes": 523774,
+        "sha256": "df114ec12b5349627e03682173214710bc13670b9b5d27efb3979925b3ce65cc"
       }
     },
     {
@@ -471,7 +523,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/qutub-minar-4df052b47c/qutub-minar-4df052b47c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 553430
+        "bytes": 553430,
+        "sha256": "a0713122798328eaa61413ceeb422d30b86fb2cf2ebf7a4f8b224f379d544593"
       }
     },
     {
@@ -518,7 +571,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/radio-tower-fedfcc3114/radio-tower-fedfcc3114.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 5795
+        "bytes": 5795,
+        "sha256": "8c9ec230c50001686ff0e3ee4244d68bbb62b4db5f6a1f77be9881ff2238490f"
       }
     },
     {
@@ -562,7 +616,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/radio-transmitter-7be9193cd7/radio-transmitter-7be9193cd7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 20283
+        "bytes": 20283,
+        "sha256": "2ebecbd4cd2892392e989889c69135fe3ceb38b79b05028a924cea351c4a62de"
       }
     },
     {
@@ -606,7 +661,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/raincoat-b4c631af8a/raincoat-b4c631af8a.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13852
+        "bytes": 13852,
+        "sha256": "3ca474a2609f42543ef84f6c9c9033c9271f48c4570456c1f2ed1be73bb08794"
       }
     },
     {
@@ -650,7 +706,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ratel-e410e5107d/ratel-e410e5107d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 19080
+        "bytes": 19080,
+        "sha256": "5b8f43c5fe0653ad28a8f73bf0396837048d155e70e3899b88e4a185aa2e8ef4"
       }
     },
     {
@@ -691,7 +748,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/refueling-car-c84273331c/refueling-car-c84273331c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 53480
+        "bytes": 53480,
+        "sha256": "9a10f53b6128256f1cd50704b0b43e202931b91d7e19135d7814122dbcd1c3e5"
       }
     },
     {
@@ -729,7 +787,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/repairing-b2fae690f6/repairing-b2fae690f6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 49868
+        "bytes": 49868,
+        "sha256": "2ce1829a665092d8c01419eefd67f4b7feb1fb794b6a9c45fcb59e4d305d1226"
       }
     },
     {
@@ -770,7 +829,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/repairing-car-151536daa4/repairing-car-151536daa4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 35148
+        "bytes": 35148,
+        "sha256": "4ba6ed5c37d632bd9671c1b9392c16712d2851ab06ab998630160365a7df6e85"
       }
     },
     {
@@ -816,7 +876,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rescue-vehicle-c2578e3a44/rescue-vehicle-c2578e3a44.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13912
+        "bytes": 13912,
+        "sha256": "30fc4bb83d21f89b78f7fa31756bd696b7df7c38e34b1e0f5e14531d3dc67772"
       }
     },
     {
@@ -860,7 +921,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/revolver-488cc1c38d/revolver-488cc1c38d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12014
+        "bytes": 12014,
+        "sha256": "524cfc5eedb8e881fc34d65d736e3dad47dff37b53a2db4494f4a6d241752b7b"
       }
     },
     {
@@ -904,7 +966,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rhino-running-ef54401ad5/rhino-running-ef54401ad5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 19787
+        "bytes": 19787,
+        "sha256": "4aecc463f0d397a4f62c83de523f25f314c4d2e156c0188fd4832b9e1ede7e65"
       }
     },
     {
@@ -945,7 +1008,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/riding-bike-97c8ca8d7c/riding-bike-97c8ca8d7c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 51053
+        "bytes": 51053,
+        "sha256": "360c328a7623f37bd32724b73b69d5f3ba54a4aaa513b7eb47fb0b83d2826d9c"
       }
     },
     {
@@ -981,7 +1045,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/rock-climbing-67421f9974/rock-climbing-67421f9974.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 48452
+        "bytes": 48452,
+        "sha256": "52c4dd4746b1177357fdbe7a560ee418336422cd7cce0b7896addcd2420ff9ce"
       }
     },
     {
@@ -1025,7 +1090,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/rope-338e0a6f8f/rope-338e0a6f8f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 17036
+        "bytes": 17036,
+        "sha256": "e7583ac72572fabe445146b27f58f7671b18563745893b7b14cf015064ffd069"
       }
     },
     {
@@ -1061,7 +1127,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/rope-771c5a6bc0/rope-771c5a6bc0.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 38687
+        "bytes": 38687,
+        "sha256": "db614e0298e1b1fee64df74bfdcfa4c678c8d10a1a0f7be6d7ba3592aef6c8f2"
       }
     },
     {
@@ -1097,7 +1164,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/rope-carabiner-c6170f10a7/rope-carabiner-c6170f10a7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 27535
+        "bytes": 27535,
+        "sha256": "22fafbc6a1f6c7f7819ffb5b6fb001de0ee6fcdedeb0c125e81382fdb78d3e60"
       }
     },
     {
@@ -1141,7 +1209,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/safari-bag-3cfa541c19/safari-bag-3cfa541c19.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13030
+        "bytes": 13030,
+        "sha256": "1d72367e8474d3e0b2d9bcb8ee4d0858f77328affbf3607074cf13dc0376782e"
       }
     },
     {
@@ -1185,7 +1254,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/safari-doodles-0e74dc952d/safari-doodles-0e74dc952d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 1331469
+        "bytes": 1331469,
+        "sha256": "80f9a51754e3a185cb29d679e781c2c118f8fea30826c892e27483bf7d634332"
       }
     },
     {
@@ -1229,7 +1299,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/safari-hat-4224bc21b4/safari-hat-4224bc21b4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 5585
+        "bytes": 5585,
+        "sha256": "d41b68dbf1768b244445f7095195c9a3947eb40272b7170b56467f035b8b9b06"
       }
     },
     {
@@ -1273,7 +1344,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/safari-lodge-820cdd2d06/safari-lodge-820cdd2d06.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9459
+        "bytes": 9459,
+        "sha256": "3171ca0be0be6d2a8f52155bd9550041b03769d52fda9b9f57bbfe860d86d3f4"
       }
     },
     {
@@ -1317,7 +1389,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/safari-photography-e0ce66b7be/safari-photography-e0ce66b7be.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16511
+        "bytes": 16511,
+        "sha256": "a9acdb772e91e93029c0cc632345ed3e2d99fb2ceddd893c34e08d69b3fb2e23"
       }
     },
     {
@@ -1361,7 +1434,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/safari-shoes-5bcdcb9e2b/safari-shoes-5bcdcb9e2b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 27057
+        "bytes": 27057,
+        "sha256": "330d363ac59aa2f763969193b7a0d650ac4096433b7561f090c588bc64ba7a53"
       }
     },
     {
@@ -1405,7 +1479,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/safari-uniform-625be3fea8/safari-uniform-625be3fea8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12949
+        "bytes": 12949,
+        "sha256": "be8333b1fdb3ef273c7ec3f6ae5fa477b598d929448277c9e1e0fd3148e0f103"
       }
     },
     {
@@ -1449,7 +1524,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/safety-goggles-78bf6426f8/safety-goggles-78bf6426f8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12117
+        "bytes": 12117,
+        "sha256": "4c677ad8d32525fcd18e27c6bb8fab39536d927e10590819a8e4a0dd5a06f2fb"
       }
     },
     {
@@ -1489,7 +1565,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/saint-basil-fb096ed6d1/saint-basil-fb096ed6d1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 437765
+        "bytes": 437765,
+        "sha256": "e2535646aba9b33c6dba518d3294418a7774ceb06529416567a9e4fab64740a5"
       }
     },
     {
@@ -1529,7 +1606,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/sainte-chapelle-7118a7139c/sainte-chapelle-7118a7139c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 405738
+        "bytes": 405738,
+        "sha256": "86dae8c480f846c4c6dae6eaa3aea91a8c870d47501b8aa74cfd79343a48bf6f"
       }
     },
     {
@@ -1573,7 +1651,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/satchel-bag-68347f1bb6/satchel-bag-68347f1bb6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 17183
+        "bytes": 17183,
+        "sha256": "9b1994ae3477ed95dd6014bfb181bb089be3abbe4c80ef42564fe58943bff678"
       }
     },
     {
@@ -1611,7 +1690,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/scooter-ride-9f40f07a76/scooter-ride-9f40f07a76.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 42998
+        "bytes": 42998,
+        "sha256": "cb9b349f89065eda38d4c1fb80f09bdb00fed6a08caf176ea59f19dffafa812b"
       }
     },
     {
@@ -1655,7 +1735,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/scorpion-a0fc261e0c/scorpion-a0fc261e0c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 33753
+        "bytes": 33753,
+        "sha256": "6cca3e3b7a956ec93661273270b1bbd0d99ea913a020419a0b41c87f1f0bd34a"
       }
     },
     {
@@ -1702,7 +1783,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/secretary-bird-f5d3a7383a/secretary-bird-f5d3a7383a.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16558
+        "bytes": 16558,
+        "sha256": "b07a692c53963234fad2884ba039512ae61080b0fb0ccc0abd692d911705f9f6"
       }
     },
     {
@@ -1740,7 +1822,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/sewer-machine-f8ef53d413/sewer-machine-f8ef53d413.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 46211
+        "bytes": 46211,
+        "sha256": "2d457d79364f7d7ea07d4475815e996f91f3f98bb373c971ca8f6579cda815c5"
       }
     },
     {
@@ -1780,7 +1863,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/shah-mosque-92f1b29d8a/shah-mosque-92f1b29d8a.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 485261
+        "bytes": 485261,
+        "sha256": "df73643639a6ee044db2f6d1d5dd1e9ce1e71accebcc46bf7758023f28950a73"
       }
     },
     {
@@ -1820,7 +1904,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/shanghai-world-8e1b097bc6/shanghai-world-8e1b097bc6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 529802
+        "bytes": 529802,
+        "sha256": "65c8fa2accdba2aeb6f14ea56eef7c37b82a8c5eb1dd4d0443cbcfa4a9778207"
       }
     },
     {
@@ -1864,7 +1949,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/shovel-88599aef4c/shovel-88599aef4c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9538
+        "bytes": 9538,
+        "sha256": "683da2e28e29ffaf72a6629b9aafe392a93ee53eff5eff2a0514ea7085a66924"
       }
     },
     {
@@ -1904,7 +1990,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/shwedagon-pagoda-a55f5f1d3a/shwedagon-pagoda-a55f5f1d3a.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 326998
+        "bytes": 326998,
+        "sha256": "60a5b39a03e37a301aba463ec715f135123f5732fd456caad0fa5503e40d1f4d"
       }
     },
     {
@@ -1942,7 +2029,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/skateboard-75faac4246/skateboard-75faac4246.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 40921
+        "bytes": 40921,
+        "sha256": "0042321021721e1385f6ebce489a3e5d6373278c5d8cc66ed05eee4d6a4f94b3"
       }
     },
     {
@@ -1986,7 +2074,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/sleeping-bag-a05bcd94f4/sleeping-bag-a05bcd94f4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11934
+        "bytes": 11934,
+        "sha256": "357358b19e9049ba0d0c9a88861e86f3b91cc3fad377839fa3f960505efd9deb"
       }
     },
     {
@@ -2022,7 +2111,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/sleeping-mat-1d881aab5e/sleeping-mat-1d881aab5e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 37743
+        "bytes": 37743,
+        "sha256": "cfdc8e5994f564bbbd1f4a010d36dcd52606fd1163e3fb5f94714ca2ff04a041"
       }
     },
     {
@@ -2066,7 +2156,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/slingshot-313b47cf1b/slingshot-313b47cf1b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16643
+        "bytes": 16643,
+        "sha256": "bbdd245775c010d52d8e6aa7324fc3dc8e4a4b262d058072756db668adf574b8"
       }
     },
     {
@@ -2110,7 +2201,57 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/sniper-1566b79fc7/sniper-1566b79fc7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13284
+        "bytes": 13284,
+        "sha256": "0baa365418b0d5b61dd0ca9562cdd54f018a2cd5af774f981bac442e8644feef"
+      }
+    },
+    {
+      "id": "snow-vehicle-a5c39e233f",
+      "name": "Snow Vehicle",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "travel",
+        "weather",
+        "winter"
+      ],
+      "themes": [
+        "transportation",
+        "travel",
+        "weather",
+        "winter"
+      ],
+      "subjects": [
+        "weather"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snow-vehicle-a5c39e233f/snow-vehicle-a5c39e233f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 11789,
+        "sha256": "643030f91050bc163cb197916f1aec591db1a2df54b13029fcadb38df2bef294"
       }
     },
     {
@@ -2148,7 +2289,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/snowmobile-24e733a81b/snowmobile-24e733a81b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 51100
+        "bytes": 51100,
+        "sha256": "9fe6667c9258860c2993dee46269af875e7afde68ef382c58b4fe40ea2cdb4e6"
       }
     },
     {
@@ -2192,7 +2334,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/solar-charger-ffc83b4df6/solar-charger-ffc83b4df6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12555
+        "bytes": 12555,
+        "sha256": "e0575c8865c18bc0afa75065a2fc7bd52a2570d6f809e57be9cb2c88e76cf0dd"
       }
     },
     {
@@ -2234,7 +2377,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/space-needle-b484f42041/space-needle-b484f42041.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 408729
+        "bytes": 408729,
+        "sha256": "5aba73fa5a935a6cddb1b28f4aa4aacdba48f6bff881346fa5e43d78f2f55898"
       }
     },
     {
@@ -2274,7 +2418,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/space-pilot-12e4226d0d/space-pilot-12e4226d0d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 73713
+        "bytes": 73713,
+        "sha256": "5b2dbaffedad4798c64db45d262c59663bded04a60019d703b10ee203055a14a"
       }
     },
     {
@@ -2318,7 +2463,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/space-vehicle-f5d2ee5972/space-vehicle-f5d2ee5972.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 24138
+        "bytes": 24138,
+        "sha256": "ba7457cab24600c419f96f985ea530a542324459ff4c3b40a4234c70a766680d"
       }
     },
     {
@@ -2363,7 +2509,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/spring-temple-0ff01e9215/spring-temple-0ff01e9215.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 334662
+        "bytes": 334662,
+        "sha256": "c325a6dfbce4a62067a6690ecc294345884e154c808f63a3b49bc0c7ab7748b6"
       }
     },
     {
@@ -2407,7 +2554,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/squirrel-818619bf86/squirrel-818619bf86.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12233
+        "bytes": 12233,
+        "sha256": "212a08b6fc3c338c373acd6400b65c07e56052a62affb678254c559eeab36e53"
       }
     },
     {
@@ -2447,7 +2595,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/sri-siva-2253bc4607/sri-siva-2253bc4607.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 474561
+        "bytes": 474561,
+        "sha256": "f7a00db2b1a444d43abd3b6b261124d6bd377f3524c0ac20c5e1c9437ac3926e"
       }
     },
     {
@@ -2491,7 +2640,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/stag-f0d59c2f55/stag-f0d59c2f55.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15695
+        "bytes": 15695,
+        "sha256": "e13ad483b1e57f0f78fd754e5c23d74d2c10d78b4bea29daf3da282e96f3c326"
       }
     },
     {
@@ -2529,7 +2679,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/station-master-8483324096/station-master-8483324096.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 38892
+        "bytes": 38892,
+        "sha256": "3870a53a1e75ec261544fd7ec51a5f0340cf647a2c675a1627f6351b294a63e1"
       }
     },
     {
@@ -2569,7 +2720,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/statue-liberty-bd865a1813/statue-liberty-bd865a1813.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 437573
+        "bytes": 437573,
+        "sha256": "53cf374590b7f088e015e094e44da54f477682b989d48965fbd269faa237ef9e"
       }
     },
     {
@@ -2607,7 +2759,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/street-sweeper-ec60e1d5f1/street-sweeper-ec60e1d5f1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 66965
+        "bytes": 66965,
+        "sha256": "0107027ea4f298ec6e2b344c00918d358281579152718afdcb3c285de1ada688"
       }
     },
     {
@@ -2645,7 +2798,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/stunt-driver-20230a4cea/stunt-driver-20230a4cea.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 68927
+        "bytes": 68927,
+        "sha256": "12204e1d7061d858025661d6d27a7d86df8cafda96e6ad61555a34da3253910f"
       }
     },
     {
@@ -2683,7 +2837,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/submarine-5807d7b1b5/submarine-5807d7b1b5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 66237
+        "bytes": 66237,
+        "sha256": "ea945cc4dc43abfc9646a4ad054b3fe09ac18a786354f780db91446baf88e4b0"
       }
     },
     {
@@ -2727,7 +2882,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/sunglasses-2a0decaa20/sunglasses-2a0decaa20.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9877
+        "bytes": 9877,
+        "sha256": "9bc0b302b4defc89ede5cf49f52e29c3d6c2d3c9bd02cf116d155d0a79f77b64"
       }
     },
     {
@@ -2767,7 +2923,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/sydney-opera-a6a5cd25b7/sydney-opera-a6a5cd25b7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 310749
+        "bytes": 310749,
+        "sha256": "e8c7b4f0befddac1348f1564412464d92656dfe4dc9b2a3941342e782ee17926"
       }
     },
     {
@@ -2810,7 +2967,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/taipei-tower-f79e512e1a/taipei-tower-f79e512e1a.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 186971
+        "bytes": 186971,
+        "sha256": "c4aa9265cfd87c6440dd2e435cd704cc22ad6d91f185228fb4dc025ed2a1b763"
       }
     },
     {
@@ -2850,7 +3008,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/taj-mahal-c0e581ed4b/taj-mahal-c0e581ed4b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 261555
+        "bytes": 261555,
+        "sha256": "965deec7bec862fe516af932aaa4fef7a9189dec829d37576de9358717a3958d"
       }
     },
     {
@@ -2890,7 +3049,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tallinn-walls-96748e0d4b/tallinn-walls-96748e0d4b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 256881
+        "bytes": 256881,
+        "sha256": "d1ff6f237c32970667252508b95b943e94d2f20599a363c081007d700be7fbfa"
       }
     },
     {
@@ -2931,7 +3091,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/taxi-driver-1fbe25d201/taxi-driver-1fbe25d201.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 37380
+        "bytes": 37380,
+        "sha256": "af93e717ded697f22e9e71a79d5559e290e76ba3606360d98f43a6f08a86f15b"
       }
     },
     {
@@ -2974,7 +3135,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tehran-tower-8c4e827296/tehran-tower-8c4e827296.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 261391
+        "bytes": 261391,
+        "sha256": "77220298a484591a9880012b5d0054c34a420c7544b93d908bb008f51e44991c"
       }
     },
     {
@@ -3018,7 +3180,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/telephoto-lens-2827f7d348/telephoto-lens-2827f7d348.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11237
+        "bytes": 11237,
+        "sha256": "f508c55c479e7c1d639f41970e6dc3e3f65c45830e96970725d42a8f7f2382cf"
       }
     },
     {
@@ -3057,7 +3220,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/tent-c7b8ff7778/tent-c7b8ff7778.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 29298
+        "bytes": 29298,
+        "sha256": "fb9f47f50f0297fe294c744b90d5e0e72d926db3c3e9ff761e5cd37fe889edf9"
       }
     },
     {
@@ -3106,7 +3270,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tent-d89ba4ea31/tent-d89ba4ea31.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 4670
+        "bytes": 4670,
+        "sha256": "f62758c399ba71c25de67123ca39663d1764ac714386bd54684168613501ecc0"
       }
     },
     {
@@ -3145,7 +3310,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/tent-entrance-8693949d79/tent-entrance-8693949d79.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 45461
+        "bytes": 45461,
+        "sha256": "c31cbab76afe4e253d075a850da0015f019e594a73ac21820059d5a0728e6dce"
       }
     },
     {
@@ -3184,7 +3350,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/tent-zipper-310a485750/tent-zipper-310a485750.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 51308
+        "bytes": 51308,
+        "sha256": "9f6b050686d45f6299ffa8f8bf651ae231ced2c46f175000f15b534f3ea21464"
       }
     },
     {
@@ -3228,7 +3395,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/thermos-50df0b8c27/thermos-50df0b8c27.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6511
+        "bytes": 6511,
+        "sha256": "7f8896537cc9c9a07163bc81bcda3a905a37f54c3aa709ed23979967815bc54c"
       }
     },
     {
@@ -3272,7 +3440,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/throwstick-e46c011f22/throwstick-e46c011f22.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8596
+        "bytes": 8596,
+        "sha256": "04b1e23214f6c203c4540b8eb3123e25ee2a615bb22a59a7746bd92252329e29"
       }
     },
     {
@@ -3312,7 +3481,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tiantan-a5d2559d12/tiantan-a5d2559d12.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 439231
+        "bytes": 439231,
+        "sha256": "7bfc76de10c555a00e4df49a87e051d3791033de0945465afda6919a46e94134"
       }
     },
     {
@@ -3352,7 +3522,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tikal-pyramids-86e681999d/tikal-pyramids-86e681999d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 806086
+        "bytes": 806086,
+        "sha256": "b6f2ecbb3cac7d9b8ef41db24bd0647e158c409e2ff1f3d1c8fca8948c787363"
       }
     },
     {
@@ -3392,7 +3563,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tirana-pyramid-517f086c70/tirana-pyramid-517f086c70.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 199149
+        "bytes": 199149,
+        "sha256": "6d6b0b787bb2b43cd022b45398a46896d1b219c7b8b90d6c0076d561d52a76fe"
       }
     },
     {
@@ -3432,7 +3604,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/todai-ji-64e067d581/todai-ji-64e067d581.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 285991
+        "bytes": 285991,
+        "sha256": "cf933430924e48dedc92e5ccf2efda327eaed77d794b259f7028255e240d43c4"
       }
     },
     {
@@ -3472,7 +3645,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tokyo-skytree-644f323bb5/tokyo-skytree-644f323bb5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 635626
+        "bytes": 635626,
+        "sha256": "f5c78a3db1a58935bada1a7adcb2ec037473d2396807f9a6092a14e03b427852"
       }
     },
     {
@@ -3508,7 +3682,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/tool-bag-e96cdce465/tool-bag-e96cdce465.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 42098
+        "bytes": 42098,
+        "sha256": "353fcde7ffd51e09eb6352782deb53b11b17788a34eb0445f520973389c18029"
       }
     },
     {
@@ -3552,7 +3727,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tool-belt-054ea2539b/tool-belt-054ea2539b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 21225
+        "bytes": 21225,
+        "sha256": "6b0a92610d4763537728470df957623c063e60819942666b7f8424d091ca4b2f"
       }
     },
     {
@@ -3595,7 +3771,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/tower-bridge-63ef292485/tower-bridge-63ef292485.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 1228475
+        "bytes": 1228475,
+        "sha256": "b55e287522278bc1e2b5d27a0d9227c0c0e4ebd427194b5e6d2330aa5a06ea84"
       }
     },
     {
@@ -3635,7 +3812,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/trade-centre-e27cb38de6/trade-centre-e27cb38de6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 372535
+        "bytes": 372535,
+        "sha256": "66c7624467f997ceb849c2753bc180acc2de48238b253e17363017ed3a95b969"
       }
     },
     {
@@ -3679,7 +3857,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/trail-sign-c22869f1a7/trail-sign-c22869f1a7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 24244
+        "bytes": 24244,
+        "sha256": "20d00c8177798e259c9f8e7a7f45e7b73a526e996d392b3edf3269d5a7d5715c"
       }
     },
     {
@@ -3723,7 +3902,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/trapping-net-beb34f419d/trapping-net-beb34f419d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13793
+        "bytes": 13793,
+        "sha256": "b5d83f82e226a488d278298688aefc7c0abb412c1c85b7b32455ba814e9f4200"
       }
     },
     {
@@ -3759,7 +3939,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/trash-bag-d92c8ba333/trash-bag-d92c8ba333.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 33338
+        "bytes": 33338,
+        "sha256": "27dd39bae2eb6697885f24b976fa8b48f201928606ae19fb59c723e269d56040"
       }
     },
     {
@@ -3803,7 +3984,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/travel-journal-00d3c68746/travel-journal-00d3c68746.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 42725
+        "bytes": 42725,
+        "sha256": "587204731040f3d1faa4de13ff3563590a21c04739658c1d251f6d13d094ddda"
       }
     },
     {
@@ -3847,7 +4029,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/travel-mug-ed16a141a5/travel-mug-ed16a141a5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 52365
+        "bytes": 52365,
+        "sha256": "a46010278ce3ec5960b83ce098d5c28bcba27a80d3c99cb3346d5f98699ccbee"
       }
     },
     {
@@ -3891,7 +4074,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/travel-pillow-19193d23ee/travel-pillow-19193d23ee.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 57934
+        "bytes": 57934,
+        "sha256": "ecf182b740ebb449d83b5ac91e8d006feb69f979761e04d65f2bccc95c786e7e"
       }
     },
     {
@@ -3928,7 +4112,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/travel-reading-81b3a91487/travel-reading-81b3a91487.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 97782
+        "bytes": 97782,
+        "sha256": "d0d30fe15c26a434b461fb4fd3eecd06811360f00417ba4366393b18f8a25aef"
       }
     },
     {
@@ -3972,7 +4157,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/travel-wallet-99d40c10fa/travel-wallet-99d40c10fa.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 43195
+        "bytes": 43195,
+        "sha256": "5fffbc11f65c786b142370ce3b9c9213324ab52814eec1974c31b48e511f628c"
       }
     },
     {
@@ -4008,7 +4194,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/trekking-pole-00897a36c6/trekking-pole-00897a36c6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 37637
+        "bytes": 37637,
+        "sha256": "1fea847044dc575e9b38b71bfccc60e0c827814492495cfc9b123133a41f21db"
       }
     },
     {
@@ -4048,89 +4235,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/turning-torso-f260044225/turning-torso-f260044225.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 234300
-      }
-    },
-    {
-      "id": "unicycle-16ece10657",
-      "name": "Unicycle",
-      "type": "illustration",
-      "tags": [
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "transportation",
-        "travel"
-      ],
-      "themes": [
-        "transportation",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/unicycle-16ece10657/unicycle-16ece10657.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 31895
-      }
-    },
-    {
-      "id": "utility-gloves-56acd87632",
-      "name": "Utility Gloves",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "field-trip",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "safari",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "safari",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/utility-gloves-56acd87632/utility-gloves-56acd87632.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15379
+        "bytes": 234300,
+        "sha256": "fbeb8ca80ad53cc3baed72b97d6654f6de7b6e08416e7a8c4a049754707a3b2a"
       }
     }
   ]

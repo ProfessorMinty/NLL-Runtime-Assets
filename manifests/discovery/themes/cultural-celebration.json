@@ -6,6 +6,10 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Cultural Celebration.",
     "collectionIds": [
       "album-theme-cultural-celebration"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "photo-frame"
     ]
   },
   "assetSlots": {
@@ -115,7 +119,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/arun-temple-eeb36101a1/arun-temple-eeb36101a1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 513729
+        "bytes": 513729,
+        "sha256": "63957958bf37831a2fcc31074b44232a7f04fabfce82651bf910bcd404a7737a"
       }
     },
     {
@@ -158,7 +163,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/aspire-tower-6f3dd49ef6/aspire-tower-6f3dd49ef6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 399479
+        "bytes": 399479,
+        "sha256": "d970f3743c3e18af8b477df08edce2b743de955702ae66427ac372140457fc57"
       }
     },
     {
@@ -201,7 +207,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/barzan-tower-d2996936f7/barzan-tower-d2996936f7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 523008
+        "bytes": 523008,
+        "sha256": "2d1358ddaa9715a4f9575dea3a197d1f9c12f4cda5f9a68991f9b2b9be00b2cc"
       }
     },
     {
@@ -244,7 +251,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/belem-tower-cc266ea325/belem-tower-cc266ea325.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 570007
+        "bytes": 570007,
+        "sha256": "cf16dac8493b2f5b32c7b3b3e414e2c3f3c4e1d3c65069eaf94d214735fc1fb6"
       }
     },
     {
@@ -287,7 +295,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/blarney-castle-f7d749224d/blarney-castle-f7d749224d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 259570
+        "bytes": 259570,
+        "sha256": "e13f0c4edcb09740dd300d11cf57b6cbc3deecb552cd2c75671b6dfaf43d367b"
       }
     },
     {
@@ -330,7 +339,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/borobudur-temple-124d4f77ce/borobudur-temple-124d4f77ce.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 280150
+        "bytes": 280150,
+        "sha256": "907180b0b93ce87f07fb3e4aa61bb7b17766a8573bbc63eb85395cd71451509f"
       }
     },
     {
@@ -373,7 +383,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bristol-castle-4fb0a808fb/bristol-castle-4fb0a808fb.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 426673
+        "bytes": 426673,
+        "sha256": "f39914efa68415b7fc61bf84b326a4d32036e638a1b9c148840f102fa8a12b90"
       }
     },
     {
@@ -416,7 +427,163 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cayan-tower-0602be779b/cayan-tower-0602be779b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 324249
+        "bytes": 324249,
+        "sha256": "69345fb826272d741a834208d3b3bd6ca9df283293fffe28a2005c6a71995f1b"
+      }
+    },
+    {
+      "id": "garlands-30beb325f4",
+      "name": "Garlands",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14072,
+        "sha256": "6418a359ebb52f7d19d958ecdaf66ea7ba7a5705bc38a27481f82166c34552a7"
+      }
+    },
+    {
+      "id": "hawaii-garland-d8e6ae4401",
+      "name": "Hawaii Garland",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18153,
+        "sha256": "d084667b84f26058c182714912bba775ef456aa93d7156b110aae8c6657d6e56"
+      }
+    },
+    {
+      "id": "magnifying-glass-fcf780bba5",
+      "name": "Magnifying Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "doodle",
+        "field-trip",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "safari",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "safari",
+        "travel"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-fcf780bba5/magnifying-glass-fcf780bba5.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9240,
+        "sha256": "69d850eee48691987da41910d49b37e5bacfa465946bbf1cbade33077ea639f9"
+      }
+    },
+    {
+      "id": "star-glasses-9b959fbba7",
+      "name": "Star Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "celebration",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "star"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "star"
+      ],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15437,
+        "sha256": "13038d429551fed51fe5b18d62f680f9c66ba12ebd379fcf5067909fc75a3174"
       }
     },
     {
@@ -459,7 +626,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cn-tower-126c5377e9/cn-tower-126c5377e9.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 369757
+        "bytes": 369757,
+        "sha256": "ecbdb9c9a6d852c1e9849a40cd2f45b36573f382a0d30b9418d6b85f14111024"
       }
     },
     {
@@ -502,7 +670,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dendur-temple-15b08447e8/dendur-temple-15b08447e8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 695711
+        "bytes": 695711,
+        "sha256": "f6dc3936dafeff0f755c75be35dddf39683cce7a2acb03154c745341f45570b3"
       }
     },
     {
@@ -545,7 +714,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/dublin-castle-9b8e7d9f0f/dublin-castle-9b8e7d9f0f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 392418
+        "bytes": 392418,
+        "sha256": "a6ed9f204e55e4b8901a7e7df0816d3892cd6d83a17300e5f5855512bc77ef5b"
       }
     },
     {
@@ -588,7 +758,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/eiffel-tower-7f080c992d/eiffel-tower-7f080c992d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 152527
+        "bytes": 152527,
+        "sha256": "625c3c025e3c3275d11bc4806d70506d36e8627dbebd806d36eeaa4cf4b19b9a"
       }
     },
     {
@@ -631,7 +802,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/freedom-tower-29294df918/freedom-tower-29294df918.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 417699
+        "bytes": 417699,
+        "sha256": "d07d03445128f34b5c51c587d76621b0da1176adced8297113f507be7ae69230"
       }
     },
     {
@@ -674,45 +846,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/galata-tower-6768f5e7c4/galata-tower-6768f5e7c4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 1012306
-      }
-    },
-    {
-      "id": "garlands-30beb325f4",
-      "name": "Garlands",
-      "type": "trim",
-      "tags": [
-        "album-trim",
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "album-trim",
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14072
+        "bytes": 1012306,
+        "sha256": "bb7945e2d18ac5172018c9cb922e6c5acc71e1dd9ec43c4c44812915760baec6"
       }
     },
     {
@@ -755,7 +890,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/gliwice-tower-ea18e55ad9/gliwice-tower-ea18e55ad9.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 299789
+        "bytes": 299789,
+        "sha256": "c0d62550882455185dc422a29f632d249b8b22a3a722a1508e8f15d548481ac9"
       }
     },
     {
@@ -798,41 +934,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hassan-tower-c11d93687d/hassan-tower-c11d93687d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 293163
-      }
-    },
-    {
-      "id": "hawaii-garland-d8e6ae4401",
-      "name": "Hawaii Garland",
-      "type": "trim",
-      "tags": [
-        "album-trim",
-        "celebration",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "album-trim",
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 18153
+        "bytes": 293163,
+        "sha256": "80c7d3abd6d0c93b0c4a0ecc916acf5295dffc73b4d65744bd24b8e3ca6f64ad"
       }
     },
     {
@@ -875,7 +978,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/helsinki-cathedral-d42e573f7e/helsinki-cathedral-d42e573f7e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 480304
+        "bytes": 480304,
+        "sha256": "6070abb1cdd89b45c655f0bd02340b8b24d67573630014d75bf9c4bcd3c798c4"
       }
     },
     {
@@ -918,7 +1022,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hoover-tower-276df4184b/hoover-tower-276df4184b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 367336
+        "bytes": 367336,
+        "sha256": "e5a2ef335c3f00b06ad96867e1c8422071750ee9ce8d48070696ff0137652828"
       }
     },
     {
@@ -961,7 +1066,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/horyuji-temple-a81ffaf4f6/horyuji-temple-a81ffaf4f6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 403798
+        "bytes": 403798,
+        "sha256": "96cdbdad8737cd69a8a8a17b60ce9b03c260ee3568c5aac76455a7a096a99eb0"
       }
     },
     {
@@ -1004,47 +1110,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/leaning-tower-0a2ed63a3d/leaning-tower-0a2ed63a3d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 309147
-      }
-    },
-    {
-      "id": "magnifying-glass-fcf780bba5",
-      "name": "Magnifying Glass",
-      "type": "texture",
-      "tags": [
-        "background",
-        "doodle",
-        "field-trip",
-        "glossy",
-        "hand-drawn",
-        "line-art",
-        "safari",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "safari",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-fcf780bba5/magnifying-glass-fcf780bba5.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 9240
+        "bytes": 309147,
+        "sha256": "d2ac8f69e6f7902d719da7f9f8f9d6abe13561285e667ca790a21d41fa66281c"
       }
     },
     {
@@ -1087,7 +1154,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/malbork-castle-8241c9e268/malbork-castle-8241c9e268.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 337345
+        "bytes": 337345,
+        "sha256": "f81cdaa29ff17c488b77cdb1047612b4fc53bfff645576bdd7d1ecdfa6debece"
       }
     },
     {
@@ -1130,7 +1198,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/matsumoto-castle-a432ce7edc/matsumoto-castle-a432ce7edc.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 382034
+        "bytes": 382034,
+        "sha256": "0ca291a283349532c91f9436db1203926929afee42f41c46adb0c0f40fb0f574"
       }
     },
     {
@@ -1173,7 +1242,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/miami-tower-21ad8558eb/miami-tower-21ad8558eb.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 515692
+        "bytes": 515692,
+        "sha256": "4fa11d597b385d2d48d363f919286981898e7408a6aef45221bd0cd279b8627f"
       }
     },
     {
@@ -1216,46 +1286,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/nagoya-castle-f4deea9148/nagoya-castle-f4deea9148.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 426184
-      }
-    },
-    {
-      "id": "star-glasses-9b959fbba7",
-      "name": "Star Glasses",
-      "type": "texture",
-      "tags": [
-        "background",
-        "celebration",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art",
-        "star"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [
-        "star"
-      ],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15437
+        "bytes": 426184,
+        "sha256": "0e04f3cdcdbbcbac5f5a0a57a2df7b44ddee19170eb6949eff0a57ec9fd5c71b"
       }
     }
   ]

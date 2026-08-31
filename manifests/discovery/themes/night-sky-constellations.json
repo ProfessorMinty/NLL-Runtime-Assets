@@ -6,6 +6,13 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Night Sky & Constellations.",
     "collectionIds": [
       "album-theme-night-sky-constellations"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "top-trim",
+      "bottom-trim",
+      "photo-frame",
+      "divider"
     ]
   },
   "assetSlots": {
@@ -14,10 +21,10 @@
       "moon-b7752b8c1d",
       "vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff",
       "vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b",
+      "19-christmas-night-680ffa06d0",
       "ai-robot-a57903c81f",
       "alien-55541b99ca",
-      "alien-rocket-dd65fcffea",
-      "alien-saucer-74ce828f74"
+      "alien-rocket-dd65fcffea"
     ],
     "top-trim": [],
     "bottom-trim": [],
@@ -27,10 +34,10 @@
       "moon-b7752b8c1d",
       "vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff",
       "vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b",
+      "19-christmas-night-680ffa06d0",
       "ai-robot-a57903c81f",
       "alien-55541b99ca",
-      "alien-rocket-dd65fcffea",
-      "alien-saucer-74ce828f74"
+      "alien-rocket-dd65fcffea"
     ],
     "background": [
       "star-glasses-9b959fbba7"
@@ -41,6 +48,7 @@
       "moon-b7752b8c1d",
       "vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff",
       "vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b",
+      "19-christmas-night-680ffa06d0",
       "ai-robot-a57903c81f",
       "alien-55541b99ca",
       "alien-rocket-dd65fcffea",
@@ -52,19 +60,224 @@
       "astronaut-173c730311",
       "astronaut-helmet-5af3fdb4b4",
       "astronomy-bae2cd9453",
+      "autumn-night-7ac092e9f6",
       "black-hole-cc6749b107",
       "bonfire-night-1b761e9918",
       "camp-night-edd966abde",
+      "campfire-night-4036656356",
+      "cozy-night-de31a0d03d",
       "cryogenic-chamber-cd5ea62ec4",
-      "crystal-globe-4a1cece08e",
-      "detecting-tool-c673dddd00",
-      "digital-tablet-a3a3a0e2f7",
-      "drone-f6eacff76c",
-      "exploration-robot-24f46bbed9"
+      "crystal-globe-4a1cece08e"
     ]
   },
   "assetCount": 25,
   "assets": [
+    {
+      "id": "lunar-robot-a2087069b0",
+      "name": "Lunar Robot",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "moon",
+        "page-decoration",
+        "photo-accent",
+        "robot",
+        "section-decoration",
+        "space"
+      ],
+      "themes": [
+        "space"
+      ],
+      "subjects": [
+        "moon",
+        "robot"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lunar-robot-a2087069b0/lunar-robot-a2087069b0.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 25204,
+        "sha256": "ddc1b1507033c5f0e5147337447e4bee6e6d9baeef2d80ecf9bfb96b78630ac4"
+      }
+    },
+    {
+      "id": "moon-b7752b8c1d",
+      "name": "Moon",
+      "type": "illustration",
+      "tags": [
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "moon",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "space"
+      ],
+      "themes": [
+        "space"
+      ],
+      "subjects": [
+        "moon"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/moon-b7752b8c1d/moon-b7752b8c1d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 12183,
+        "sha256": "4edf46bfe8deb99b5f4880a5e2fddca97750de34568ea0fe3c8e883158b8544b"
+      }
+    },
+    {
+      "id": "vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff",
+      "name": "vctrly finance finacial business money stock investment growth moon rocket dollar",
+      "type": "illustration",
+      "tags": [
+        "business",
+        "hero-decoration",
+        "moon",
+        "page-decoration",
+        "photo-accent",
+        "rocket",
+        "section-decoration",
+        "space"
+      ],
+      "themes": [
+        "business",
+        "space"
+      ],
+      "subjects": [
+        "moon",
+        "rocket"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff/vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 138818,
+        "sha256": "b49ec0e4cd2330550346b1a6cd459784391d93e3db9785298eea86b0abad09c3"
+      }
+    },
+    {
+      "id": "vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b",
+      "name": "vctrly finance finacial business money stock investment growth moon rocket dollar@2x",
+      "type": "illustration",
+      "tags": [
+        "business",
+        "hero-decoration",
+        "moon",
+        "page-decoration",
+        "photo-accent",
+        "rocket",
+        "section-decoration",
+        "space"
+      ],
+      "themes": [
+        "business",
+        "space"
+      ],
+      "subjects": [
+        "moon",
+        "rocket"
+      ],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b/vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b.webp",
+        "mimeType": "image/webp",
+        "bytes": 60766,
+        "sha256": "440200bc86e541929e9edd14d338ef1d6a3db576c8f653775921df55f4d29f4c",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "19-christmas-night-680ffa06d0",
+      "name": "19 Christmas night",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/19-christmas-night-680ffa06d0/19-christmas-night-680ffa06d0.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 58793,
+        "sha256": "a34cccf2cadd3e7574f44aed7a346fb92d0e7d1919060d2db61226872be76a10"
+      }
+    },
     {
       "id": "ai-robot-a57903c81f",
       "name": "AI Robot",
@@ -105,7 +318,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ai-robot-a57903c81f/ai-robot-a57903c81f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14544
+        "bytes": 14544,
+        "sha256": "6f39dc1e42fd46cf470b4bbee986e9a936f0712d799c4e876a4319f32c497f09"
       }
     },
     {
@@ -145,7 +359,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alien-55541b99ca/alien-55541b99ca.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15302
+        "bytes": 15302,
+        "sha256": "e3fa7854c6c01d23823132e1f9ccd7c72ee4d09b742ad45afbaa3944043ae9bd"
       }
     },
     {
@@ -188,7 +403,48 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alien-rocket-dd65fcffea/alien-rocket-dd65fcffea.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 25776
+        "bytes": 25776,
+        "sha256": "1f83aa3f005146a77fc8a9d29bf8bda587db1a1dccf6f3348ae6b18af18e0ae8"
+      }
+    },
+    {
+      "id": "star-glasses-9b959fbba7",
+      "name": "Star Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "celebration",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "star"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "star"
+      ],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15437,
+        "sha256": "13038d429551fed51fe5b18d62f680f9c66ba12ebd379fcf5067909fc75a3174"
       }
     },
     {
@@ -228,7 +484,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alien-saucer-74ce828f74/alien-saucer-74ce828f74.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8622
+        "bytes": 8622,
+        "sha256": "7e79f0a432692e74a7e3375e0bbd04986633e7c21a5df1ff2cfbcb8ea3573c4f"
       }
     },
     {
@@ -271,7 +528,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alien-spaceship-588950454f/alien-spaceship-588950454f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12265
+        "bytes": 12265,
+        "sha256": "a968c8461be4b93dbbeb11d9754cf2426f4cbd39bcc63137ec76afd4bbb5c8be"
       }
     },
     {
@@ -311,7 +569,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alien-ufo-9f23e59dbe/alien-ufo-9f23e59dbe.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13073
+        "bytes": 13073,
+        "sha256": "063a5aaf3c86909ea42671fe0ab37d329c272d873fb5306d2481ad78798c8de4"
       }
     },
     {
@@ -351,7 +610,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/asteroid-a323402d06/asteroid-a323402d06.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 17902
+        "bytes": 17902,
+        "sha256": "0e9bd8c80b70e1ffc8c8ffc3d28b1ddfae342cce70b4e0430877514004adb5a5"
       }
     },
     {
@@ -394,7 +654,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/astronaut-08cc3f5dc3/astronaut-08cc3f5dc3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 24552
+        "bytes": 24552,
+        "sha256": "6a44c1b5875edf7caa44045df615aa0a66666ad4aa3dba5379f6d9a921aab872"
       }
     },
     {
@@ -439,7 +700,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/astronaut-173c730311/astronaut-173c730311.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15587
+        "bytes": 15587,
+        "sha256": "e4669f60b4a54fee40186aa59e873de1fbf46f967a95793a3d5c1a1a777e9c26"
       }
     },
     {
@@ -482,7 +744,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/astronaut-helmet-5af3fdb4b4/astronaut-helmet-5af3fdb4b4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 19022
+        "bytes": 19022,
+        "sha256": "a6ff3b3f3a65b41566e57bfa7f5435aaeaf292ff5bcbb63eb99a83218883193e"
       }
     },
     {
@@ -522,7 +785,45 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/astronomy-bae2cd9453/astronomy-bae2cd9453.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8357
+        "bytes": 8357,
+        "sha256": "b931c5328c9bd19315428829b56c70c387bcff2700b00ffb321ebb8d5911235d"
+      }
+    },
+    {
+      "id": "autumn-night-7ac092e9f6",
+      "name": "Autumn Night",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/autumn-night-7ac092e9f6/autumn-night-7ac092e9f6.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 222349,
+        "sha256": "0d41ed2888035df0d86721439bf61efb94d29b619710c5d996d3aabcee4f5373"
       }
     },
     {
@@ -562,7 +863,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/black-hole-cc6749b107/black-hole-cc6749b107.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10546
+        "bytes": 10546,
+        "sha256": "9f6ba183ba9ca8b570bcc74537c77199528541113c7c41240e5f1f998e3ebdc4"
       }
     },
     {
@@ -602,7 +904,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/bonfire-night-1b761e9918/bonfire-night-1b761e9918.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 22445
+        "bytes": 22445,
+        "sha256": "04fc03dc6edb71a477f196d2ac8cff4e6f5b9706bc4312a9878b2006007da9de"
       }
     },
     {
@@ -638,7 +941,82 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/camp-night-edd966abde/camp-night-edd966abde.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 159031
+        "bytes": 159031,
+        "sha256": "3d2098cade38a598e4a4bca80c5a7d0bd215ac7c39ae698453a91dcb64946f15"
+      }
+    },
+    {
+      "id": "campfire-night-4036656356",
+      "name": "Campfire Night",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/campfire-night-4036656356/campfire-night-4036656356.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 226344,
+        "sha256": "d9629f7abc52a292403c4f47ab7828294205596e05270109cab2f9d7390c5ca4"
+      }
+    },
+    {
+      "id": "cozy-night-de31a0d03d",
+      "name": "Cozy Night",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cozy-night-de31a0d03d/cozy-night-de31a0d03d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 160274,
+        "sha256": "98214b822df49d6472c33eec7314a8a84c784ade5b944424d1f092ede215f63a"
       }
     },
     {
@@ -678,7 +1056,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cryogenic-chamber-cd5ea62ec4/cryogenic-chamber-cd5ea62ec4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8355
+        "bytes": 8355,
+        "sha256": "d104251587a0b57273585864a70900ed3bd269f1ff20dd3c461d495c7b447f16"
       }
     },
     {
@@ -723,380 +1102,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/crystal-globe-4a1cece08e/crystal-globe-4a1cece08e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 9150
-      }
-    },
-    {
-      "id": "detecting-tool-c673dddd00",
-      "name": "Detecting Tool",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "space"
-      ],
-      "themes": [
-        "space"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/detecting-tool-c673dddd00/detecting-tool-c673dddd00.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11821
-      }
-    },
-    {
-      "id": "digital-tablet-a3a3a0e2f7",
-      "name": "Digital Tablet",
-      "type": "illustration",
-      "tags": [
-        "computer",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "space"
-      ],
-      "themes": [
-        "space"
-      ],
-      "subjects": [
-        "computer"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/digital-tablet-a3a3a0e2f7/digital-tablet-a3a3a0e2f7.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 12338
-      }
-    },
-    {
-      "id": "drone-f6eacff76c",
-      "name": "Drone",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "space"
-      ],
-      "themes": [
-        "space"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/drone-f6eacff76c/drone-f6eacff76c.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 11149
-      }
-    },
-    {
-      "id": "exploration-robot-24f46bbed9",
-      "name": "Exploration Robot",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "robot",
-        "section-decoration",
-        "space"
-      ],
-      "themes": [
-        "space"
-      ],
-      "subjects": [
-        "robot"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/exploration-robot-24f46bbed9/exploration-robot-24f46bbed9.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 24245
-      }
-    },
-    {
-      "id": "lunar-robot-a2087069b0",
-      "name": "Lunar Robot",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "moon",
-        "page-decoration",
-        "photo-accent",
-        "robot",
-        "section-decoration",
-        "space"
-      ],
-      "themes": [
-        "space"
-      ],
-      "subjects": [
-        "moon",
-        "robot"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lunar-robot-a2087069b0/lunar-robot-a2087069b0.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 25204
-      }
-    },
-    {
-      "id": "moon-b7752b8c1d",
-      "name": "Moon",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "moon",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "space"
-      ],
-      "themes": [
-        "space"
-      ],
-      "subjects": [
-        "moon"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/moon-b7752b8c1d/moon-b7752b8c1d.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 12183
-      }
-    },
-    {
-      "id": "star-glasses-9b959fbba7",
-      "name": "Star Glasses",
-      "type": "texture",
-      "tags": [
-        "background",
-        "celebration",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art",
-        "star"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [
-        "star"
-      ],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15437
-      }
-    },
-    {
-      "id": "vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff",
-      "name": "vctrly finance finacial business money stock investment growth moon rocket dollar",
-      "type": "illustration",
-      "tags": [
-        "business",
-        "hero-decoration",
-        "moon",
-        "page-decoration",
-        "photo-accent",
-        "rocket",
-        "section-decoration",
-        "space"
-      ],
-      "themes": [
-        "business",
-        "space"
-      ],
-      "subjects": [
-        "moon",
-        "rocket"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff/vctrly-finance-finacial-business-money-stock-investment-growth-m-0a809786ff.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 138818
-      }
-    },
-    {
-      "id": "vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b",
-      "name": "vctrly finance finacial business money stock investment growth moon rocket dollar@2x",
-      "type": "illustration",
-      "tags": [
-        "business",
-        "hero-decoration",
-        "moon",
-        "page-decoration",
-        "photo-accent",
-        "rocket",
-        "section-decoration",
-        "space"
-      ],
-      "themes": [
-        "business",
-        "space"
-      ],
-      "subjects": [
-        "moon",
-        "rocket"
-      ],
-      "styles": [],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b/vctrly-finance-finacial-business-money-stock-investment-growth-m-565805d79b.webp",
-        "mimeType": "image/webp",
-        "bytes": 60766,
-        "width": 2048,
-        "height": 2048
+        "bytes": 9150,
+        "sha256": "dc566f1be529593c8c284161b6c44b8a6724ab611c33c186aaf850d08cf5f155"
       }
     }
   ]

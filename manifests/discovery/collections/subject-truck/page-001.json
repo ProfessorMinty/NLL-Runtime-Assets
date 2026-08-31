@@ -6,8 +6,8 @@
   },
   "page": 1,
   "pageSize": 100,
-  "assetCount": 8,
-  "totalAssetCount": 8,
+  "assetCount": 9,
+  "totalAssetCount": 9,
   "assets": [
     {
       "id": "farm-truck-308d4d7cf3",
@@ -53,7 +53,50 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/farm-truck-308d4d7cf3/farm-truck-308d4d7cf3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11950
+        "bytes": 11950,
+        "sha256": "9b0d7be21d01fb84082b4bafe95395f88656ca110fd7ccaf39e5ca146af549d5"
+      }
+    },
+    {
+      "id": "hay-truck-672b99fccb",
+      "name": "Hay Truck",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "transportation",
+        "truck"
+      ],
+      "themes": [
+        "autumn",
+        "transportation"
+      ],
+      "subjects": [
+        "truck"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/hay-truck-672b99fccb/hay-truck-672b99fccb.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 158694,
+        "sha256": "464b66691849afb96d90acc4d03eeaa76f067bf48888e908ee43c3d9c190348a"
       }
     },
     {
@@ -96,6 +139,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/heavy-truck-ce7054820c/heavy-truck-ce7054820c.webp",
         "mimeType": "image/webp",
         "bytes": 500208,
+        "sha256": "b33b55632e648534b033873d602b8ea22cec9bf9c0a7d98433ab1be37912a56f",
         "width": 1840,
         "height": 1380
       }
@@ -140,6 +184,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/heavy-truck-nobg-06e940f189/heavy-truck-nobg-06e940f189.webp",
         "mimeType": "image/webp",
         "bytes": 530338,
+        "sha256": "19d3bc7f437fcdbc45d27377751cfbbceaf6459612a5dc2e4e319c54d853b03a",
         "width": 1840,
         "height": 1380
       }
@@ -181,6 +226,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lorry-5467010d07/lorry-5467010d07.webp",
         "mimeType": "image/webp",
         "bytes": 591778,
+        "sha256": "d9d7a897d0f826fd23f43c39b75d97ad8be2d12b80bb60d71c83e5578a9e6b37",
         "width": 1840,
         "height": 1380
       }
@@ -222,6 +268,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/lorry-nobg-9017714322/lorry-nobg-9017714322.webp",
         "mimeType": "image/webp",
         "bytes": 621422,
+        "sha256": "25d5665120d9842061032e08ec6e9f4c85e494b871801969e2872d738cbd5864",
         "width": 1840,
         "height": 1380
       }
@@ -264,7 +311,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/monster-truck-2ed18b28ca/monster-truck-2ed18b28ca.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 48981
+        "bytes": 48981,
+        "sha256": "b8230bb44e43ee6f129cd537009a4791938c05b033e7269b36b3f862591eebb7"
       }
     },
     {
@@ -307,6 +355,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/truck-5dccdd2ba9/truck-5dccdd2ba9.webp",
         "mimeType": "image/webp",
         "bytes": 369084,
+        "sha256": "8b981995a1441fc4c86b0247b086d3d0aabcabaaa210c3ffde0d189b0b9db830",
         "width": 1840,
         "height": 1380
       }
@@ -351,6 +400,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/truck-nobg-0809cc54a1/truck-nobg-0809cc54a1.webp",
         "mimeType": "image/webp",
         "bytes": 393508,
+        "sha256": "6a4f9a8a3ef4577714954fc38c7f06e7ce321d201fa11fb71460545282d60b46",
         "width": 1840,
         "height": 1380
       }

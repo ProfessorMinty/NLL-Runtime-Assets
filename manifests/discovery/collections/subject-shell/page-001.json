@@ -6,9 +6,49 @@
   },
   "page": 1,
   "pageSize": 100,
-  "assetCount": 4,
-  "totalAssetCount": 4,
+  "assetCount": 5,
+  "totalAssetCount": 5,
   "assets": [
+    {
+      "id": "pecan-shell-6969370529",
+      "name": "Pecan Shell",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "shell",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [
+        "shell"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pecan-shell-6969370529/pecan-shell-6969370529.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 55563,
+        "sha256": "a4e69575ddcadd90b4f4421941d10a93509707b4a1cdf2fd771c565e2143dfbd"
+      }
+    },
     {
       "id": "seashell-5c61301dd5",
       "name": "Seashell",
@@ -51,7 +91,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/seashell-5c61301dd5/seashell-5c61301dd5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 60908
+        "bytes": 60908,
+        "sha256": "4da1b3487ed685edc55465797b19af6726826d88571a94e0b6a88133bc531d64"
       }
     },
     {
@@ -94,7 +135,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/seashell-9d7f11e565/seashell-9d7f11e565.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 7082
+        "bytes": 7082,
+        "sha256": "69c300c8d4d00acb5cd22d3355c3d6ed31268869e90801353efb6f938301daa4"
       }
     },
     {
@@ -139,7 +181,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/shell-necklace-83f9b0c715/shell-necklace-83f9b0c715.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 61591
+        "bytes": 61591,
+        "sha256": "573413b38c51112f52a5aa163d452872d29262e424e043b5ca2be4979caabfcd"
       }
     },
     {
@@ -180,7 +223,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/spiral-shell-489b925e0b/spiral-shell-489b925e0b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 7529
+        "bytes": 7529,
+        "sha256": "8b059616cb1e7eae141fc585fc9e5b6bd3deded02cbffef93a26715c1d1d02f1"
       }
     }
   ]

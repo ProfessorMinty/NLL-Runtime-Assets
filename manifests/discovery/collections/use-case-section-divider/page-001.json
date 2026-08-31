@@ -6,9 +6,112 @@
   },
   "page": 1,
   "pageSize": 100,
-  "assetCount": 3,
-  "totalAssetCount": 3,
+  "assetCount": 7,
+  "totalAssetCount": 7,
   "assets": [
+    {
+      "id": "14-christmas-garland-bf897905c7",
+      "name": "14 Christmas garland",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "page-decoration",
+        "section-divider",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/14-christmas-garland-bf897905c7/14-christmas-garland-bf897905c7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 90600,
+        "sha256": "2113758143aa4d9be0d55c1722e72fee45c03414c4014ceb52be60d192203e72"
+      }
+    },
+    {
+      "id": "cranberry-garland-b719dd1f5b",
+      "name": "Cranberry Garland",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "line-art",
+        "page-decoration",
+        "section-divider",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/cranberry-garland-b719dd1f5b/cranberry-garland-b719dd1f5b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 118086,
+        "sha256": "87e1a629349ccc65e527a3dcf54ffb9462f4f4bd37d68fba7ef492904bf35dd5"
+      }
+    },
+    {
+      "id": "festive-garland-f370ddd556",
+      "name": "Festive Garland",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/festive-garland-f370ddd556/festive-garland-f370ddd556.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 128733,
+        "sha256": "abcfe11922a9c3545e9b0ddc9093a13ec738a0092863ba488d018ea18020fb62"
+      }
+    },
     {
       "id": "garlands-30beb325f4",
       "name": "Garlands",
@@ -44,7 +147,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14072
+        "bytes": 14072,
+        "sha256": "6418a359ebb52f7d19d958ecdaf66ea7ba7a5705bc38a27481f82166c34552a7"
       }
     },
     {
@@ -78,7 +182,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 18153
+        "bytes": 18153,
+        "sha256": "d084667b84f26058c182714912bba775ef456aa93d7156b110aae8c6657d6e56"
       }
     },
     {
@@ -114,7 +219,44 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/divider/page-decoration/scale-divider-5bf5fad325/scale-divider-5bf5fad325.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10011
+        "bytes": 10011,
+        "sha256": "d2dbf96b14b33a86d4924607ac0cf54e5b785d15433928da97e643e174932c03"
+      }
+    },
+    {
+      "id": "thanksgiving-garland-d4cbf5a92e",
+      "name": "Thanksgiving Garland",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/thanksgiving-garland-d4cbf5a92e/thanksgiving-garland-d4cbf5a92e.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 106674,
+        "sha256": "cce963b49a63f3c0d7dd2d1ba636c34f5371d1227759945becef6d77d4ebe079"
       }
     }
   ]

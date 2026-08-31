@@ -6,7 +6,9 @@
     "description": "Photo Album recipe using the shared eight-slot contract for End-of-Year Memories.",
     "collectionIds": [
       "album-theme-end-of-year-memories"
-    ]
+    ],
+    "suggestionStatus": "COMPLETE",
+    "missingSlots": []
   },
   "assetSlots": {
     "banner": [
@@ -128,7 +130,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/abacus-390866ad8b/abacus-390866ad8b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10237
+        "bytes": 10237,
+        "sha256": "0467923a829f5bdc960e8ba95e94548d2db94fd821107bede893e7e9510757e9"
       }
     },
     {
@@ -170,7 +173,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alarm-clock-dcde8fdfe7/alarm-clock-dcde8fdfe7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16453
+        "bytes": 16453,
+        "sha256": "59812ccf856acf798c64ec710d1d8819ed3b0fa83c0ec533a950a1c2c576fe78"
       }
     },
     {
@@ -212,7 +216,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alphabet-blocks-08ef6d8340/alphabet-blocks-08ef6d8340.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16067
+        "bytes": 16067,
+        "sha256": "20147ba22d137f300d122a6ed743b6dbae72ca4aa9d5ed741bede9debf8628d6"
       }
     },
     {
@@ -254,7 +259,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alphabet-popsicle-11a48b9adf/alphabet-popsicle-11a48b9adf.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 19827
+        "bytes": 19827,
+        "sha256": "a39fdd50165f77a2853508d885496e1abf9e3dd98d63872e1514e7d5f81d3f79"
       }
     },
     {
@@ -296,7 +302,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alphabet-puzzle-073406a8b5/alphabet-puzzle-073406a8b5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 17584
+        "bytes": 17584,
+        "sha256": "b7e0695533853eeae3916441a840a2034fe7ddb83effe6c08f99a0436ef1bb94"
       }
     },
     {
@@ -338,7 +345,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/atom-cb9da277e8/atom-cb9da277e8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10989
+        "bytes": 10989,
+        "sha256": "c814403aa4efef42b061d9cf9370c9e2dffb9ce3e325caf772df69e93e163937"
       }
     },
     {
@@ -380,7 +388,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/binder-file-584ce84640/binder-file-584ce84640.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8112
+        "bytes": 8112,
+        "sha256": "07ac8d0aef4dd6b9cfd2cfbe45ed3e101e258cc9d5300f14511b65c086ee9367"
       }
     },
     {
@@ -422,7 +431,323 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/biology-teacher-8475f4d3e5/biology-teacher-8475f4d3e5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16187
+        "bytes": 16187,
+        "sha256": "451e2776eeaf6f33e8c9d4c546ebf517176f27ea21580a8b19be7edae0daed35"
+      }
+    },
+    {
+      "id": "garlands-30beb325f4",
+      "name": "Garlands",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14072,
+        "sha256": "6418a359ebb52f7d19d958ecdaf66ea7ba7a5705bc38a27481f82166c34552a7"
+      }
+    },
+    {
+      "id": "hawaii-garland-d8e6ae4401",
+      "name": "Hawaii Garland",
+      "type": "trim",
+      "tags": [
+        "album-trim",
+        "celebration",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "album-trim",
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 18153,
+        "sha256": "d084667b84f26058c182714912bba775ef456aa93d7156b110aae8c6657d6e56"
+      }
+    },
+    {
+      "id": "scale-divider-5bf5fad325",
+      "name": "Scale Divider",
+      "type": "divider",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "classroom"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/divider/page-decoration/scale-divider-5bf5fad325/scale-divider-5bf5fad325.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10011,
+        "sha256": "d2dbf96b14b33a86d4924607ac0cf54e5b785d15433928da97e643e174932c03"
+      }
+    },
+    {
+      "id": "hanging-frame-76be23b74d",
+      "name": "Hanging Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/hanging-frame-76be23b74d/hanging-frame-76be23b74d.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 3370,
+        "sha256": "fb0824e47a459bb479ed30d3968e28e6cf24dad1789f1b551fb0c41db92af725"
+      }
+    },
+    {
+      "id": "modular-frame-a8a36becbf",
+      "name": "Modular Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "engineering",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "photo-frame"
+      ],
+      "themes": [
+        "engineering"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/modular-frame-a8a36becbf/modular-frame-a8a36becbf.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 7146,
+        "sha256": "49e43ddec8cc07b6e04bf92e61d4aa5ad93772980be0494f4eedf79019cde83d"
+      }
+    },
+    {
+      "id": "photo-frame-970e2e989f",
+      "name": "Photo Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame",
+        "realistic"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "realistic"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/photo-frame-970e2e989f/photo-frame-970e2e989f.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16178,
+        "sha256": "e9cc5ea2a3dc448b08c0126f2a7a6904275b6213e4aca074ecc85b310e793b8f"
+      }
+    },
+    {
+      "id": "vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305",
+      "name": "vctrly work life balance healthy financial freedom time desk desktop coffee tea frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "computer",
+        "food",
+        "frame",
+        "photo-frame",
+        "table"
+      ],
+      "themes": [],
+      "subjects": [
+        "computer",
+        "food",
+        "frame",
+        "table"
+      ],
+      "styles": [],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305/vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 211588,
+        "sha256": "3cef3cc53ca289453d7fec393b86793941f0ae5e8eff2a675110900535caf97c"
+      }
+    },
+    {
+      "id": "victorian-frame-a97e34cabe",
+      "name": "Victorian Frame",
+      "type": "frame",
+      "tags": [
+        "card-decoration",
+        "doodle",
+        "field-trip",
+        "frame",
+        "hand-drawn",
+        "line-art",
+        "museum",
+        "photo-frame"
+      ],
+      "themes": [
+        "field-trip",
+        "museum"
+      ],
+      "subjects": [
+        "frame"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "card-decoration",
+        "photo-frame"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/victorian-frame-a97e34cabe/victorian-frame-a97e34cabe.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 9519,
+        "sha256": "d8b22383c5645f109171a435204641a9f88991eb699eb1c71ff271e093b20d40"
       }
     },
     {
@@ -464,7 +789,167 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/blocks-1755cf7c71/blocks-1755cf7c71.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12988
+        "bytes": 12988,
+        "sha256": "9117e801a9f503f9ca3e38b9dcc95ab04d35f4dd6f42f580766e5c89c13309ed"
+      }
+    },
+    {
+      "id": "glass-magnifying-3d-icon-9b6f6791c1",
+      "name": "Glass Magnifying 3D Icon",
+      "type": "texture",
+      "tags": [
+        "3d",
+        "background",
+        "classroom",
+        "dimensional",
+        "glossy",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional",
+        "glossy"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
+        "mimeType": "image/webp",
+        "bytes": 569212,
+        "sha256": "a5ba5acc2b4ba0426252dd17133769c735c98870fb8143473999b791680e62f8",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "reading-glasses-bfd1553f94",
+      "name": "Reading Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "book",
+        "classroom",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "reading",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book"
+      ],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-bfd1553f94/reading-glasses-bfd1553f94.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14181,
+        "sha256": "0ac06b1f2fcdf27f81aaa71118d5cf5c9544b2169d59b4920354d1564adf83a4"
+      }
+    },
+    {
+      "id": "magnifying-glass-1ec65aa24b",
+      "name": "Magnifying Glass",
+      "type": "texture",
+      "tags": [
+        "background",
+        "classroom",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "themes": [
+        "classroom"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-1ec65aa24b/magnifying-glass-1ec65aa24b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 17888,
+        "sha256": "ff8062f5dec0fd684152afffa8450dbc4aa254849dae195299811a7726988f28"
+      }
+    },
+    {
+      "id": "star-glasses-9b959fbba7",
+      "name": "Star Glasses",
+      "type": "texture",
+      "tags": [
+        "background",
+        "celebration",
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art",
+        "star"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "subjects": [
+        "star"
+      ],
+      "styles": [
+        "doodle",
+        "glossy",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15437,
+        "sha256": "13038d429551fed51fe5b18d62f680f9c66ba12ebd379fcf5067909fc75a3174"
       }
     },
     {
@@ -511,7 +996,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/books-717a709a7f/books-717a709a7f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12606
+        "bytes": 12606,
+        "sha256": "c8c24e8ce967c0c4953e03a90c655fda4b73d62e22dab8a115b2c20afa7de9bb"
       }
     },
     {
@@ -553,7 +1039,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/boost-knowledge-8e96abb5eb/boost-knowledge-8e96abb5eb.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14287
+        "bytes": 14287,
+        "sha256": "e93a068eecc82dfed7c18937eb33d0a4abdf0c58a83a0bb2275d4011e1520269"
       }
     },
     {
@@ -595,7 +1082,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/bright-student-21b47c333b/bright-student-21b47c333b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13653
+        "bytes": 13653,
+        "sha256": "0712afdc21e87d733552cb6e95b7b881b6859c282159dc0fb41932c39ee25328"
       }
     },
     {
@@ -642,7 +1130,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/buy-books-deb7f4df67/buy-books-deb7f4df67.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14343
+        "bytes": 14343,
+        "sha256": "cfafa8928585fa24235875b64e07172a10db32331188d38b176798721c3f2f7f"
       }
     },
     {
@@ -689,7 +1178,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/calculator-a1af26ef9e/calculator-a1af26ef9e.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16947
+        "bytes": 16947,
+        "sha256": "88d7cfa53bcf1542a9a2edaba5be5679ff2c32b4e61f12bd236f448c71ac06f6"
       }
     },
     {
@@ -731,7 +1221,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/calendar-c7709cf2d6/calendar-c7709cf2d6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8112
+        "bytes": 8112,
+        "sha256": "c070449dc87890fae0f173a7b1d40fd42720bdf426e9d82a2c6e96c3283d5858"
       }
     },
     {
@@ -773,7 +1264,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/canvas-painting-5ea2984a76/canvas-painting-5ea2984a76.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15116
+        "bytes": 15116,
+        "sha256": "49b2ba5bb2d19e3425d0c3062cce0d61fb7031b12329bb214c912b10784b0dea"
       }
     },
     {
@@ -815,7 +1307,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/cap-f91121d289/cap-f91121d289.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 7801
+        "bytes": 7801,
+        "sha256": "c23e23a23036ff1d86eeb821a3b1f6b30ad703fedabcb75895bb7cdefb93895f"
       }
     },
     {
@@ -857,7 +1350,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/certificate-0b2c808779/certificate-0b2c808779.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 21473
+        "bytes": 21473,
+        "sha256": "806e029f5f8e77be8d141662c367cda7575826a50e187554e41864ce7dca23e0"
       }
     },
     {
@@ -899,7 +1393,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/class-teacher-5e440e7527/class-teacher-5e440e7527.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13981
+        "bytes": 13981,
+        "sha256": "24b21b92255718924ba36fcacba518dff97291ba0bbd4bb4edaf83c1b6f70b1b"
       }
     },
     {
@@ -941,7 +1436,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/clip-holder-14dd9850f1/clip-holder-14dd9850f1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11487
+        "bytes": 11487,
+        "sha256": "399a1e21226885f28116ad846816e4112d8a76bce4d505a2d47698d577edf926"
       }
     },
     {
@@ -983,7 +1479,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/clipboard-70fa7ee360/clipboard-70fa7ee360.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 7319
+        "bytes": 7319,
+        "sha256": "b32d5f82636f1edd5aca102a33eff7a8007b38b1b123c641c3ea9c58b515fb82"
       }
     },
     {
@@ -1028,7 +1525,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/colour-pencils-edfe60e4a4/colour-pencils-edfe60e4a4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14440
+        "bytes": 14440,
+        "sha256": "b10a5a4c0165e001c3df208d3e9a40c0eb490df73a5ab6510ff9f39b3ce908d4"
       }
     },
     {
@@ -1073,7 +1571,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/computer-610c28b2ea/computer-610c28b2ea.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12932
+        "bytes": 12932,
+        "sha256": "f8ebb6edb3f3e2f69dd77236472db0328af218ab4538d22a0cb6e82afc6a10b9"
       }
     },
     {
@@ -1115,469 +1614,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/counting-petals-8935b19b1f/counting-petals-8935b19b1f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12576
-      }
-    },
-    {
-      "id": "garlands-30beb325f4",
-      "name": "Garlands",
-      "type": "trim",
-      "tags": [
-        "album-trim",
-        "celebration",
-        "doodle",
-        "hand-drawn",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "album-trim",
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/garlands-30beb325f4/garlands-30beb325f4.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14072
-      }
-    },
-    {
-      "id": "glass-magnifying-3d-icon-9b6f6791c1",
-      "name": "Glass Magnifying 3D Icon",
-      "type": "texture",
-      "tags": [
-        "3d",
-        "background",
-        "classroom",
-        "dimensional",
-        "glossy",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "3d",
-        "dimensional",
-        "glossy"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
-        "mimeType": "image/webp",
-        "bytes": 569212,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "hanging-frame-76be23b74d",
-      "name": "Hanging Frame",
-      "type": "frame",
-      "tags": [
-        "card-decoration",
-        "doodle",
-        "field-trip",
-        "frame",
-        "hand-drawn",
-        "line-art",
-        "museum",
-        "photo-frame"
-      ],
-      "themes": [
-        "field-trip",
-        "museum"
-      ],
-      "subjects": [
-        "frame"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "card-decoration",
-        "photo-frame"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/hanging-frame-76be23b74d/hanging-frame-76be23b74d.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 3370
-      }
-    },
-    {
-      "id": "hawaii-garland-d8e6ae4401",
-      "name": "Hawaii Garland",
-      "type": "trim",
-      "tags": [
-        "album-trim",
-        "celebration",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "album-trim",
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/trim/album-trim/hawaii-garland-d8e6ae4401/hawaii-garland-d8e6ae4401.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 18153
-      }
-    },
-    {
-      "id": "magnifying-glass-1ec65aa24b",
-      "name": "Magnifying Glass",
-      "type": "texture",
-      "tags": [
-        "background",
-        "classroom",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "themes": [
-        "classroom"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-1ec65aa24b/magnifying-glass-1ec65aa24b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17888
-      }
-    },
-    {
-      "id": "modular-frame-a8a36becbf",
-      "name": "Modular Frame",
-      "type": "frame",
-      "tags": [
-        "card-decoration",
-        "doodle",
-        "engineering",
-        "frame",
-        "hand-drawn",
-        "line-art",
-        "photo-frame"
-      ],
-      "themes": [
-        "engineering"
-      ],
-      "subjects": [
-        "frame"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "card-decoration",
-        "photo-frame"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/modular-frame-a8a36becbf/modular-frame-a8a36becbf.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 7146
-      }
-    },
-    {
-      "id": "photo-frame-970e2e989f",
-      "name": "Photo Frame",
-      "type": "frame",
-      "tags": [
-        "card-decoration",
-        "doodle",
-        "field-trip",
-        "frame",
-        "hand-drawn",
-        "line-art",
-        "museum",
-        "photo-frame",
-        "realistic"
-      ],
-      "themes": [
-        "field-trip",
-        "museum"
-      ],
-      "subjects": [
-        "frame"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art",
-        "realistic"
-      ],
-      "useCases": [
-        "card-decoration",
-        "photo-frame"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/photo-frame-970e2e989f/photo-frame-970e2e989f.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 16178
-      }
-    },
-    {
-      "id": "reading-glasses-bfd1553f94",
-      "name": "Reading Glasses",
-      "type": "texture",
-      "tags": [
-        "background",
-        "book",
-        "classroom",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art",
-        "reading",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book"
-      ],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-bfd1553f94/reading-glasses-bfd1553f94.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14181
-      }
-    },
-    {
-      "id": "scale-divider-5bf5fad325",
-      "name": "Scale Divider",
-      "type": "divider",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "line-art",
-        "page-decoration",
-        "section-divider"
-      ],
-      "themes": [
-        "classroom"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "page-decoration",
-        "section-divider"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/divider/page-decoration/scale-divider-5bf5fad325/scale-divider-5bf5fad325.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10011
-      }
-    },
-    {
-      "id": "star-glasses-9b959fbba7",
-      "name": "Star Glasses",
-      "type": "texture",
-      "tags": [
-        "background",
-        "celebration",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art",
-        "star"
-      ],
-      "themes": [
-        "celebration"
-      ],
-      "subjects": [
-        "star"
-      ],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15437
-      }
-    },
-    {
-      "id": "vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305",
-      "name": "vctrly work life balance healthy financial freedom time desk desktop coffee tea frame",
-      "type": "frame",
-      "tags": [
-        "card-decoration",
-        "computer",
-        "food",
-        "frame",
-        "photo-frame",
-        "table"
-      ],
-      "themes": [],
-      "subjects": [
-        "computer",
-        "food",
-        "frame",
-        "table"
-      ],
-      "styles": [],
-      "useCases": [
-        "card-decoration",
-        "photo-frame"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305/vctrly-work-life-balance-healthy-financial-freedom-time-desk-des-7803cc3305.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 211588
-      }
-    },
-    {
-      "id": "victorian-frame-a97e34cabe",
-      "name": "Victorian Frame",
-      "type": "frame",
-      "tags": [
-        "card-decoration",
-        "doodle",
-        "field-trip",
-        "frame",
-        "hand-drawn",
-        "line-art",
-        "museum",
-        "photo-frame"
-      ],
-      "themes": [
-        "field-trip",
-        "museum"
-      ],
-      "subjects": [
-        "frame"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "card-decoration",
-        "photo-frame"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/frame/card-decoration/victorian-frame-a97e34cabe/victorian-frame-a97e34cabe.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 9519
+        "bytes": 12576,
+        "sha256": "6e9d128999ed3eb2b2f9dde128cc64a6268e87a629a7a1fd177c1859aff6b94f"
       }
     }
   ]

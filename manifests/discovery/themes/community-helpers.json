@@ -6,6 +6,10 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Community Helpers.",
     "collectionIds": [
       "album-theme-community-helpers"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "photo-frame"
     ]
   },
   "assetSlots": {
@@ -74,303 +78,6 @@
   "assetCount": 35,
   "assets": [
     {
-      "id": "abacus-390866ad8b",
-      "name": "Abacus",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "math-symbol",
-        "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [
-        "math-symbol"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/abacus-390866ad8b/abacus-390866ad8b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10237
-      }
-    },
-    {
-      "id": "alarm-clock-dcde8fdfe7",
-      "name": "Alarm Clock",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alarm-clock-dcde8fdfe7/alarm-clock-dcde8fdfe7.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 16453
-      }
-    },
-    {
-      "id": "alphabet-blocks-08ef6d8340",
-      "name": "Alphabet Blocks",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alphabet-blocks-08ef6d8340/alphabet-blocks-08ef6d8340.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 16067
-      }
-    },
-    {
-      "id": "alphabet-popsicle-11a48b9adf",
-      "name": "Alphabet Popsicle",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alphabet-popsicle-11a48b9adf/alphabet-popsicle-11a48b9adf.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 19827
-      }
-    },
-    {
-      "id": "alphabet-puzzle-073406a8b5",
-      "name": "Alphabet Puzzle",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alphabet-puzzle-073406a8b5/alphabet-puzzle-073406a8b5.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17584
-      }
-    },
-    {
-      "id": "atom-cb9da277e8",
-      "name": "Atom",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/atom-cb9da277e8/atom-cb9da277e8.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 10989
-      }
-    },
-    {
-      "id": "binder-file-584ce84640",
-      "name": "Binder File",
-      "type": "illustration",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "school",
-        "section-decoration"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/binder-file-584ce84640/binder-file-584ce84640.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 8112
-      }
-    },
-    {
       "id": "biology-teacher-8475f4d3e5",
       "name": "Biology Teacher",
       "type": "character",
@@ -409,7 +116,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/biology-teacher-8475f4d3e5/biology-teacher-8475f4d3e5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16187
+        "bytes": 16187,
+        "sha256": "451e2776eeaf6f33e8c9d4c546ebf517176f27ea21580a8b19be7edae0daed35"
       }
     },
     {
@@ -451,7 +159,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/bright-student-21b47c333b/bright-student-21b47c333b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13653
+        "bytes": 13653,
+        "sha256": "0712afdc21e87d733552cb6e95b7b881b6859c282159dc0fb41932c39ee25328"
       }
     },
     {
@@ -493,80 +202,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/class-teacher-5e440e7527/class-teacher-5e440e7527.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13981
-      }
-    },
-    {
-      "id": "glass-magnifying-3d-icon-9b6f6791c1",
-      "name": "Glass Magnifying 3D Icon",
-      "type": "texture",
-      "tags": [
-        "3d",
-        "background",
-        "classroom",
-        "dimensional",
-        "glossy",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [],
-      "styles": [
-        "3d",
-        "dimensional",
-        "glossy"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "webp",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
-        "mimeType": "image/webp",
-        "bytes": 569212,
-        "width": 2048,
-        "height": 2048
-      }
-    },
-    {
-      "id": "magnifying-glass-1ec65aa24b",
-      "name": "Magnifying Glass",
-      "type": "texture",
-      "tags": [
-        "background",
-        "classroom",
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "themes": [
-        "classroom"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "glossy",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "background"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-1ec65aa24b/magnifying-glass-1ec65aa24b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17888
+        "bytes": 13981,
+        "sha256": "24b21b92255718924ba36fcacba518dff97291ba0bbd4bb4edaf83c1b6f70b1b"
       }
     },
     {
@@ -610,7 +247,597 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/math-teacher-8f136f6303/math-teacher-8f136f6303.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11655
+        "bytes": 11655,
+        "sha256": "711b269921398bb3d7c8fe0ff1064eceb50030742457e3fe19b69e4a220d60fe"
+      }
+    },
+    {
+      "id": "sad-student-4c17677bb2",
+      "name": "Sad Student",
+      "type": "character",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "math",
+        "page-decoration",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "math",
+        "school"
+      ],
+      "subjects": [
+        "school"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/sad-student-4c17677bb2/sad-student-4c17677bb2.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 12406,
+        "sha256": "cf221aefa7c36006bed205eef8a8551019723c39501c5a661d79a2542a6925da"
+      }
+    },
+    {
+      "id": "school-boy-fc97a7b42b",
+      "name": "School Boy",
+      "type": "character",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [
+        "school"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/school-boy-fc97a7b42b/school-boy-fc97a7b42b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 13806,
+        "sha256": "c170bf38e434f8d4977661ceed767b6db70e5b0833421d727b978b99d3d33482"
+      }
+    },
+    {
+      "id": "student-card-132cff09a4",
+      "name": "Student Card",
+      "type": "character",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [
+        "school"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-card-132cff09a4/student-card-132cff09a4.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 14147,
+        "sha256": "964b2ea17e6e15d3be2c0607dffe10b132228a465346a47f6071b6c55d2f7f4d"
+      }
+    },
+    {
+      "id": "student-degree-03e8e43def",
+      "name": "Student Degree",
+      "type": "character",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "math",
+        "page-decoration",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "math",
+        "school"
+      ],
+      "subjects": [
+        "school"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-degree-03e8e43def/student-degree-03e8e43def.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 15541,
+        "sha256": "0124f879b76b8b86377220e046fa1250097a21e5d83a496f1808e2a14fa2b0f6"
+      }
+    },
+    {
+      "id": "scale-divider-5bf5fad325",
+      "name": "Scale Divider",
+      "type": "divider",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "line-art",
+        "page-decoration",
+        "section-divider"
+      ],
+      "themes": [
+        "classroom"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "page-decoration",
+        "section-divider"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/divider/page-decoration/scale-divider-5bf5fad325/scale-divider-5bf5fad325.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10011,
+        "sha256": "d2dbf96b14b33a86d4924607ac0cf54e5b785d15433928da97e643e174932c03"
+      }
+    },
+    {
+      "id": "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
+      "name": "vctrly student education learning college campus book study girl desk corner",
+      "type": "character",
+      "tags": [
+        "book",
+        "classroom",
+        "corner-accent",
+        "hero-decoration",
+        "page-decoration",
+        "reading",
+        "school",
+        "table"
+      ],
+      "themes": [
+        "classroom",
+        "reading",
+        "school"
+      ],
+      "subjects": [
+        "book",
+        "school",
+        "table"
+      ],
+      "styles": [],
+      "useCases": [
+        "corner-accent",
+        "hero-decoration",
+        "page-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/character/corner-accent/vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9/vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 200924,
+        "sha256": "eca22488a78b9699b4664402b9a64637dbc84efae98a66790363c0789c953d02"
+      }
+    },
+    {
+      "id": "abacus-390866ad8b",
+      "name": "Abacus",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "math-symbol",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [
+        "math-symbol"
+      ],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/abacus-390866ad8b/abacus-390866ad8b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10237,
+        "sha256": "0467923a829f5bdc960e8ba95e94548d2db94fd821107bede893e7e9510757e9"
+      }
+    },
+    {
+      "id": "alarm-clock-dcde8fdfe7",
+      "name": "Alarm Clock",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alarm-clock-dcde8fdfe7/alarm-clock-dcde8fdfe7.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16453,
+        "sha256": "59812ccf856acf798c64ec710d1d8819ed3b0fa83c0ec533a950a1c2c576fe78"
+      }
+    },
+    {
+      "id": "alphabet-blocks-08ef6d8340",
+      "name": "Alphabet Blocks",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alphabet-blocks-08ef6d8340/alphabet-blocks-08ef6d8340.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 16067,
+        "sha256": "20147ba22d137f300d122a6ed743b6dbae72ca4aa9d5ed741bede9debf8628d6"
+      }
+    },
+    {
+      "id": "alphabet-popsicle-11a48b9adf",
+      "name": "Alphabet Popsicle",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alphabet-popsicle-11a48b9adf/alphabet-popsicle-11a48b9adf.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 19827,
+        "sha256": "a39fdd50165f77a2853508d885496e1abf9e3dd98d63872e1514e7d5f81d3f79"
+      }
+    },
+    {
+      "id": "alphabet-puzzle-073406a8b5",
+      "name": "Alphabet Puzzle",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/alphabet-puzzle-073406a8b5/alphabet-puzzle-073406a8b5.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 17584,
+        "sha256": "b7e0695533853eeae3916441a840a2034fe7ddb83effe6c08f99a0436ef1bb94"
+      }
+    },
+    {
+      "id": "atom-cb9da277e8",
+      "name": "Atom",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/atom-cb9da277e8/atom-cb9da277e8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 10989,
+        "sha256": "c814403aa4efef42b061d9cf9370c9e2dffb9ce3e325caf772df69e93e163937"
+      }
+    },
+    {
+      "id": "binder-file-584ce84640",
+      "name": "Binder File",
+      "type": "illustration",
+      "tags": [
+        "classroom",
+        "doodle",
+        "hand-drawn",
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "school",
+        "section-decoration"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "doodle",
+        "hand-drawn",
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/binder-file-584ce84640/binder-file-584ce84640.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 8112,
+        "sha256": "07ac8d0aef4dd6b9cfd2cfbe45ed3e101e258cc9d5300f14511b65c086ee9367"
+      }
+    },
+    {
+      "id": "glass-magnifying-3d-icon-9b6f6791c1",
+      "name": "Glass Magnifying 3D Icon",
+      "type": "texture",
+      "tags": [
+        "3d",
+        "background",
+        "classroom",
+        "dimensional",
+        "glossy",
+        "school"
+      ],
+      "themes": [
+        "classroom",
+        "school"
+      ],
+      "subjects": [],
+      "styles": [
+        "3d",
+        "dimensional",
+        "glossy"
+      ],
+      "useCases": [
+        "background"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/glass-magnifying-3d-icon-9b6f6791c1/glass-magnifying-3d-icon-9b6f6791c1.webp",
+        "mimeType": "image/webp",
+        "bytes": 569212,
+        "sha256": "a5ba5acc2b4ba0426252dd17133769c735c98870fb8143473999b791680e62f8",
+        "width": 2048,
+        "height": 2048
       }
     },
     {
@@ -653,62 +880,21 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/reading-glasses-bfd1553f94/reading-glasses-bfd1553f94.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14181
+        "bytes": 14181,
+        "sha256": "0ac06b1f2fcdf27f81aaa71118d5cf5c9544b2169d59b4920354d1564adf83a4"
       }
     },
     {
-      "id": "sad-student-4c17677bb2",
-      "name": "Sad Student",
-      "type": "character",
+      "id": "magnifying-glass-1ec65aa24b",
+      "name": "Magnifying Glass",
+      "type": "texture",
       "tags": [
+        "background",
         "classroom",
         "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "math",
-        "page-decoration",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "math",
-        "school"
-      ],
-      "subjects": [
-        "school"
-      ],
-      "styles": [
-        "doodle",
+        "glossy",
         "hand-drawn",
         "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/sad-student-4c17677bb2/sad-student-4c17677bb2.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 12406
-      }
-    },
-    {
-      "id": "scale-divider-5bf5fad325",
-      "name": "Scale Divider",
-      "type": "divider",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "line-art",
-        "page-decoration",
-        "section-divider"
       ],
       "themes": [
         "classroom"
@@ -716,12 +902,12 @@
       "subjects": [],
       "styles": [
         "doodle",
+        "glossy",
         "hand-drawn",
         "line-art"
       ],
       "useCases": [
-        "page-decoration",
-        "section-divider"
+        "background"
       ],
       "availableFormats": [
         "svg",
@@ -729,131 +915,10 @@
       ],
       "preferredVariant": {
         "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/divider/page-decoration/scale-divider-5bf5fad325/scale-divider-5bf5fad325.svg",
+        "url": "https://cdn.nlightlabs.com/assets/texture/background/magnifying-glass-1ec65aa24b/magnifying-glass-1ec65aa24b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10011
-      }
-    },
-    {
-      "id": "school-boy-fc97a7b42b",
-      "name": "School Boy",
-      "type": "character",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [
-        "school"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/school-boy-fc97a7b42b/school-boy-fc97a7b42b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13806
-      }
-    },
-    {
-      "id": "student-card-132cff09a4",
-      "name": "Student Card",
-      "type": "character",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "school"
-      ],
-      "subjects": [
-        "school"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-card-132cff09a4/student-card-132cff09a4.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 14147
-      }
-    },
-    {
-      "id": "student-degree-03e8e43def",
-      "name": "Student Degree",
-      "type": "character",
-      "tags": [
-        "classroom",
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "math",
-        "page-decoration",
-        "school"
-      ],
-      "themes": [
-        "classroom",
-        "math",
-        "school"
-      ],
-      "subjects": [
-        "school"
-      ],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-degree-03e8e43def/student-degree-03e8e43def.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 15541
+        "bytes": 17888,
+        "sha256": "ff8062f5dec0fd684152afffa8450dbc4aa254849dae195299811a7726988f28"
       }
     },
     {
@@ -893,7 +958,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-reading-ec0e599df3/student-reading-ec0e599df3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 47258
+        "bytes": 47258,
+        "sha256": "ca3b5efedf394b81928fe296a14318b232cebe2fbb8731c23407f99880167a69"
       }
     },
     {
@@ -935,7 +1001,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-solving-10b9a7e51b/student-solving-10b9a7e51b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12038
+        "bytes": 12038,
+        "sha256": "ad066b87f104d810ec54fe9ae94267931d9d44e04c3657eed96e1f3789cc7f77"
       }
     },
     {
@@ -977,7 +1044,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/student-trophy-a101d5e4b5/student-trophy-a101d5e4b5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 18146
+        "bytes": 18146,
+        "sha256": "3a830876f04da5c37a066b644edb5c1c406eee33c2a94fdc94a891934201f20d"
       }
     },
     {
@@ -1019,7 +1087,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/teacher-7a20a835d2/teacher-7a20a835d2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16706
+        "bytes": 16706,
+        "sha256": "e31ecf5fc8cc75f9fd63c18c2b94de0fca8f05815ad70985dc344fefbf43cdfd"
       }
     },
     {
@@ -1057,7 +1126,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/teacher-9e05ea1ed3/teacher-9e05ea1ed3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 44802
+        "bytes": 44802,
+        "sha256": "49bf04ec33ad3964bf537b10e18008bd33f4d41dd8adc7709c8c5833b62a123a"
       }
     },
     {
@@ -1101,7 +1171,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/teacher-chair-4c421a7b63/teacher-chair-4c421a7b63.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8105
+        "bytes": 8105,
+        "sha256": "b9c94f156a4506246254a0fbc2a01139236f7182bc3ea51a38aacb94cd5bb763"
       }
     },
     {
@@ -1138,7 +1209,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80/vctrly-student-education-learning-college-campus-book-study-bag-7a37d19d80.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 148377
+        "bytes": 148377,
+        "sha256": "8fd9b7f8fdd8f5899d81911e63b0c797b1e224cd190b6d0b7a3450ef888b0a98"
       }
     },
     {
@@ -1179,7 +1251,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d/vctrly-student-education-learning-college-campus-book-study-boar-3acdd5f92d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 157293
+        "bytes": 157293,
+        "sha256": "ef2d81ab80dba3d108a06ac24cbb9b02bcfda6ac3b388d57ccc6a4b44fc567e4"
       }
     },
     {
@@ -1216,7 +1289,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531/vctrly-student-education-learning-college-campus-book-study-clas-17f5fe1531.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 271046
+        "bytes": 271046,
+        "sha256": "53f8e04ebdc0457e21024af5208d142f20fc2bc3c8b0a58540fc5a871f456845"
       }
     },
     {
@@ -1253,7 +1327,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-fa8057c683/vctrly-student-education-learning-college-campus-book-study-fa8057c683.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 246806
+        "bytes": 246806,
+        "sha256": "ed9b3b2f3c5875cf7795a7ef3ad04f222dd3590b69d194ce5e3ab08ca96d0c4f"
       }
     },
     {
@@ -1290,48 +1365,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60/vctrly-student-education-learning-college-campus-book-study-girl-4adde6ef60.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 165315
-      }
-    },
-    {
-      "id": "vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9",
-      "name": "vctrly student education learning college campus book study girl desk corner",
-      "type": "character",
-      "tags": [
-        "book",
-        "classroom",
-        "corner-accent",
-        "hero-decoration",
-        "page-decoration",
-        "reading",
-        "school",
-        "table"
-      ],
-      "themes": [
-        "classroom",
-        "reading",
-        "school"
-      ],
-      "subjects": [
-        "book",
-        "school",
-        "table"
-      ],
-      "styles": [],
-      "useCases": [
-        "corner-accent",
-        "hero-decoration",
-        "page-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/character/corner-accent/vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9/vctrly-student-education-learning-college-campus-book-study-girl-525b5a44f9.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 200924
+        "bytes": 165315,
+        "sha256": "9ff42700cd53d7bad7694fcd88c9b08ef4252f841d5ddc2e254bce931a3daf99"
       }
     },
     {
@@ -1374,7 +1409,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50/vctrly-student-education-learning-college-campus-book-study-lamp-6e944bba50.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 217770
+        "bytes": 217770,
+        "sha256": "b68800d1799ffcc7af87510962635522163e04575b9ffefd628ad50dbf293bdf"
       }
     },
     {
@@ -1413,7 +1449,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c/vctrly-student-education-learning-college-campus-book-study-lapt-0524ddc85c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 194119
+        "bytes": 194119,
+        "sha256": "82ab565c6f39cf070cdc601f8e207288d3278e46789bc22a8ef70bbdc1dfa2aa"
       }
     },
     {
@@ -1450,7 +1487,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-man-f5b3773638/vctrly-student-education-learning-college-campus-book-study-man-f5b3773638.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 181726
+        "bytes": 181726,
+        "sha256": "53b0831ea93f5e74b9d2129f9e91c0bca917034cb67d737395e714217aea265d"
       }
     },
     {
@@ -1491,7 +1529,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/character/hero-decoration/vctrly-student-education-learning-college-campus-book-study-math-ed183eb973/vctrly-student-education-learning-college-campus-book-study-math-ed183eb973.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 226920
+        "bytes": 226920,
+        "sha256": "0ac9b06d01106b137125d05621b53831b3c4114a4adb497e7aac56475c40d76c"
       }
     }
   ]

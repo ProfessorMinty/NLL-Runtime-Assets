@@ -6,9 +6,48 @@
   },
   "page": 1,
   "pageSize": 100,
-  "assetCount": 9,
-  "totalAssetCount": 9,
+  "assetCount": 11,
+  "totalAssetCount": 11,
   "assets": [
+    {
+      "id": "christmas-star-e06d21b4cf",
+      "name": "Christmas Star",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "dimensional",
+        "icon",
+        "navigation-decoration",
+        "star",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [
+        "star"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/christmas-star-e06d21b4cf/christmas-star-e06d21b4cf.webp",
+        "mimeType": "image/webp",
+        "bytes": 330310,
+        "sha256": "03cca7f52a59e26d027997e7b34341e3cd0e6522bd74afbb2bf386a1b1251eed",
+        "width": 2048,
+        "height": 2048
+      }
+    },
     {
       "id": "moon-stars-a1f5255f57",
       "name": "Moon + Stars",
@@ -45,6 +84,7 @@
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/moon-stars-a1f5255f57/moon-stars-a1f5255f57.webp",
         "mimeType": "image/webp",
         "bytes": 403954,
+        "sha256": "af6146917c1171df5723b11697076faf29c74ccc92f05b4c9c50036d5cae0afe",
         "width": 2048,
         "height": 2048
       }
@@ -84,6 +124,7 @@
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/star-01-a3468124d1/star-01-a3468124d1.webp",
         "mimeType": "image/webp",
         "bytes": 1173600,
+        "sha256": "8212e2bb442458bf6fcc058ce6b9d060de91b597269d7656d5063ad3253dfc0e",
         "width": 2048,
         "height": 2048
       }
@@ -123,6 +164,7 @@
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/star-02-07b2867940/star-02-07b2867940.webp",
         "mimeType": "image/webp",
         "bytes": 1429238,
+        "sha256": "1d5d3a83d1c1872bda8d5d240cf307daf1e24f33508951640946afc03c77ca2b",
         "width": 2048,
         "height": 2048
       }
@@ -172,6 +214,7 @@
         "url": "https://cdn.nlightlabs.com/assets/decorative-element/corner-accent/star-444bd7ea04/star-444bd7ea04.webp",
         "mimeType": "image/webp",
         "bytes": 2247844,
+        "sha256": "dc9eda1adeaca64ba8268bddfd6b7cfe540f5904f7ddbe36c7d75e937e9ef9b8",
         "width": 2048,
         "height": 2048
       }
@@ -208,6 +251,7 @@
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/star-92e2f939be/star-92e2f939be.webp",
         "mimeType": "image/webp",
         "bytes": 504038,
+        "sha256": "ae2f087e7fd0320599ca0b9753789418690e8e321cadc6401475181c7e603d0d",
         "width": 2048,
         "height": 2048
       }
@@ -254,6 +298,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/star-baaaf41d0a/star-baaaf41d0a.webp",
         "mimeType": "image/webp",
         "bytes": 1337960,
+        "sha256": "ad25d607978e068d3a24bdd7579cf9c51991bb38221979933a8740278f859f4b",
         "width": 2048,
         "height": 2048
       }
@@ -295,6 +340,7 @@
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/star-balloons-697ef1c258/star-balloons-697ef1c258.webp",
         "mimeType": "image/webp",
         "bytes": 1308574,
+        "sha256": "378cca39cd57c35995446b2823e880027700589c4eb29ab908e2a5b24e101072",
         "width": 2048,
         "height": 2048
       }
@@ -335,7 +381,48 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/texture/background/star-glasses-9b959fbba7/star-glasses-9b959fbba7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15437
+        "bytes": 15437,
+        "sha256": "13038d429551fed51fe5b18d62f680f9c66ba12ebd379fcf5067909fc75a3174"
+      }
+    },
+    {
+      "id": "star-ornament-96788e4d3b",
+      "name": "Star Ornament",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "star",
+        "winter"
+      ],
+      "themes": [
+        "winter"
+      ],
+      "subjects": [
+        "star"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/star-ornament-96788e4d3b/star-ornament-96788e4d3b.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 65212,
+        "sha256": "76ee7da26f37d65c096555a000f1165b4aa76568ab6d73d17f57e992aaea018a"
       }
     },
     {
@@ -372,6 +459,7 @@
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/stars-3eef230c4b/stars-3eef230c4b.webp",
         "mimeType": "image/webp",
         "bytes": 309974,
+        "sha256": "4cf3efe6b6f625b432d334abc03362aa88a7b93497fc2146cf51d8b4000ef20a",
         "width": 2048,
         "height": 2048
       }

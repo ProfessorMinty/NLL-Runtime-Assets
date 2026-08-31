@@ -7,8 +7,173 @@
   "page": 9,
   "pageSize": 100,
   "assetCount": 100,
-  "totalAssetCount": 1303,
+  "totalAssetCount": 1311,
   "assets": [
+    {
+      "id": "malbork-castle-8241c9e268",
+      "name": "Malbork Castle",
+      "type": "illustration",
+      "tags": [
+        "field-trip",
+        "hero-decoration",
+        "landmark",
+        "line-art",
+        "museum",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "field-trip",
+        "museum",
+        "travel"
+      ],
+      "subjects": [
+        "landmark"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/malbork-castle-8241c9e268/malbork-castle-8241c9e268.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 337345,
+        "sha256": "f81cdaa29ff17c488b77cdb1047612b4fc53bfff645576bdd7d1ecdfa6debece"
+      }
+    },
+    {
+      "id": "mangrove-forest-acef670694",
+      "name": "Mangrove Forest",
+      "type": "illustration",
+      "tags": [
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "tree"
+      ],
+      "themes": [
+        "nature"
+      ],
+      "subjects": [
+        "tree"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mangrove-forest-acef670694/mangrove-forest-acef670694.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 175563,
+        "sha256": "6030f1d57f3b98f60cae6cafd8499f47b91a8498d5030f57e74b49f6411d7d6c"
+      }
+    },
+    {
+      "id": "maple-leaf-66679b92e3",
+      "name": "Maple Leaf",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "leaf",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "leaf"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/maple-leaf-66679b92e3/maple-leaf-66679b92e3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 307629,
+        "sha256": "7b5b85af790675571a4ec7fa6e8de0af2de0f3ec221de219e7a2a6b8381db14a"
+      }
+    },
+    {
+      "id": "marigold-bud-06c312a5a8",
+      "name": "Marigold Bud",
+      "type": "illustration",
+      "tags": [
+        "botanical",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "botanical",
+        "nature"
+      ],
+      "subjects": [],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/marigold-bud-06c312a5a8/marigold-bud-06c312a5a8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 584266,
+        "sha256": "6a6d5056e4ef9d53a3fb01fe02063311c9b04aa35fce292f43d6fe1aa1215da0"
+      }
+    },
     {
       "id": "marigold-buds-2d85bb27f7",
       "name": "Marigold Buds",
@@ -44,7 +209,52 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/marigold-buds-2d85bb27f7/marigold-buds-2d85bb27f7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 544509
+        "bytes": 544509,
+        "sha256": "fc3bbe20138e5efd48d9307417aa56366b15a815560685c73d49facb73b513b5"
+      }
+    },
+    {
+      "id": "marigold-flowers-29725840c8",
+      "name": "Marigold Flowers",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "botanical",
+        "flower",
+        "hero-decoration",
+        "line-art",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "botanical",
+        "nature"
+      ],
+      "subjects": [
+        "flower"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/marigold-flowers-29725840c8/marigold-flowers-29725840c8.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 257429,
+        "sha256": "34739f595ab894881fe35edad94e0616980071433051d99113581384006eb38c"
       }
     },
     {
@@ -87,7 +297,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/matsumoto-castle-a432ce7edc/matsumoto-castle-a432ce7edc.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 382034
+        "bytes": 382034,
+        "sha256": "0ca291a283349532c91f9436db1203926929afee42f41c46adb0c0f40fb0f574"
       }
     },
     {
@@ -127,7 +338,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/measurement-ruler-1937ed919d/measurement-ruler-1937ed919d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10564
+        "bytes": 10564,
+        "sha256": "da087f81463fce8bf499cc42b959c51b182a07c7a8b629c28bdc5c97f08817bb"
       }
     },
     {
@@ -167,7 +379,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mechanical-lever-b212abff98/mechanical-lever-b212abff98.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 24061
+        "bytes": 24061,
+        "sha256": "5ec1b5f424aa4e8fd0e48b4af6656bb1b7a7250dcb1402ff42ae316660d970bf"
       }
     },
     {
@@ -207,7 +420,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/medical-gloves-0434204ede/medical-gloves-0434204ede.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11041
+        "bytes": 11041,
+        "sha256": "07b3f1537ef4617835fb2439bca0426c09627af3cc9ea5f0cb1dbb22f3970644"
       }
     },
     {
@@ -247,7 +461,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/melting-glacier-6d882ff861/melting-glacier-6d882ff861.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11536
+        "bytes": 11536,
+        "sha256": "316f34dc5e01dc20633ede439a1ade09d7e6f6391e5cf60ded3ee3f64bcd0d7b"
       }
     },
     {
@@ -283,7 +498,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/melting-iceberg-23445c4297/melting-iceberg-23445c4297.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 139144
+        "bytes": 139144,
+        "sha256": "38c8a3b9b40dcf8baa57d9a69c9bd09427fde1ac66dc5812fede74df3d7d8281"
       }
     },
     {
@@ -324,7 +540,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/memory-book-d1fb845d74/memory-book-d1fb845d74.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 53737
+        "bytes": 53737,
+        "sha256": "1ac11a759895ae7b994e3f9b0fa8e2a3158089d1127ad9beaba309f9235dcfe5"
       }
     },
     {
@@ -362,7 +579,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/mesoamerican-mask-db33853888/mesoamerican-mask-db33853888.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12295
+        "bytes": 12295,
+        "sha256": "23d4ff3bc00033583155858be9acd768ab1d6f1e915885e05a98765d1666c942"
       }
     },
     {
@@ -400,7 +618,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/meteorite-b12fced9b9/meteorite-b12fced9b9.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 7236
+        "bytes": 7236,
+        "sha256": "220bfc8d4b3e6451de8c8486e3927bb8ab5f0bcc98d1c2b66635b1e677ad6ce7"
       }
     },
     {
@@ -443,7 +662,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/miami-tower-21ad8558eb/miami-tower-21ad8558eb.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 515692
+        "bytes": 515692,
+        "sha256": "4fa11d597b385d2d48d363f919286981898e7408a6aef45221bd0cd279b8627f"
       }
     },
     {
@@ -483,7 +703,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/microbiology-e8dfece582/microbiology-e8dfece582.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 15919
+        "bytes": 15919,
+        "sha256": "81fc6a7f6fabd8ca417c43692f26bf1a89d6507e5be458696775ecbd9ef11e05"
       }
     },
     {
@@ -523,7 +744,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/microchip-af2af275c6/microchip-af2af275c6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 20465
+        "bytes": 20465,
+        "sha256": "f75c776026b4a441b731d625c5badfc3df6d038bdca25b7a1317384131c8a542"
       }
     },
     {
@@ -563,7 +785,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/micrometer-0563b1e50c/micrometer-0563b1e50c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 22584
+        "bytes": 22584,
+        "sha256": "7f7981605c5b98d80d9ad3ef73c208256460701b3208fb1e0a818dfa6543a0c8"
       }
     },
     {
@@ -603,7 +826,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/microorganism-0ebe2bebad/microorganism-0ebe2bebad.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12968
+        "bytes": 12968,
+        "sha256": "aaa4b4ff1367d18d83f9cd41d490c3cec8f45d41ec3ced1e1701c5a93a32841a"
       }
     },
     {
@@ -642,6 +866,7 @@
         "url": "https://cdn.nlightlabs.com/assets/prop/hero-prop/microscope-11ddba1106/microscope-11ddba1106.webp",
         "mimeType": "image/webp",
         "bytes": 679224,
+        "sha256": "65f139595930ebcf789a03920a11c3fae23288532d3f158b5320283ee32d3f50",
         "width": 2048,
         "height": 2048
       }
@@ -684,6 +909,7 @@
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/microscope-3d-icon-55f90bf7e0/microscope-3d-icon-55f90bf7e0.webp",
         "mimeType": "image/webp",
         "bytes": 566866,
+        "sha256": "6cbb81ec6459e154e4df18b1b53cf5f75a429d21063af1d8492ff9b08dee15e1",
         "width": 2048,
         "height": 2048
       }
@@ -732,7 +958,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/microscope-5993ce3a67/microscope-5993ce3a67.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13571
+        "bytes": 13571,
+        "sha256": "5436035c87d3d4d0c5cdcba9ab75e10450faceef2e10bc88dd9de1d890f496d3"
       }
     },
     {
@@ -775,7 +1002,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/microscope-a7b3006163/microscope-a7b3006163.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 18496
+        "bytes": 18496,
+        "sha256": "0193d35a6f9ee179206c893420ef99c9092a10fe932ac7ac7b15bd540565a9a6"
       }
     },
     {
@@ -820,7 +1048,51 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mint-plant-5fe14595ac/mint-plant-5fe14595ac.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 19704
+        "bytes": 19704,
+        "sha256": "f25446d3478fbf5dcbd6f7269c41ae1e4c780311060585b7c60f57c6fe694c32"
+      }
+    },
+    {
+      "id": "mistletoe-flower-cff88f4eea",
+      "name": "Mistletoe Flower",
+      "type": "icon",
+      "tags": [
+        "3d",
+        "botanical",
+        "dimensional",
+        "flower",
+        "icon",
+        "nature",
+        "navigation-decoration",
+        "winter"
+      ],
+      "themes": [
+        "botanical",
+        "nature",
+        "winter"
+      ],
+      "subjects": [
+        "flower"
+      ],
+      "styles": [
+        "3d",
+        "dimensional"
+      ],
+      "useCases": [
+        "icon",
+        "navigation-decoration"
+      ],
+      "availableFormats": [
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "webp",
+        "url": "https://cdn.nlightlabs.com/assets/icon/icon/mistletoe-flower-cff88f4eea/mistletoe-flower-cff88f4eea.webp",
+        "mimeType": "image/webp",
+        "bytes": 1023908,
+        "sha256": "e8be441abdfe31a3f35b7af1b529ca88484424a01a645c6f9ac8fbaf510cecd1",
+        "width": 2048,
+        "height": 2048
       }
     },
     {
@@ -860,7 +1132,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mole-antonelliana-4942a0a4a8/mole-antonelliana-4942a0a4a8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 413570
+        "bytes": 413570,
+        "sha256": "9e34d2b786fe82ebbe1add90e8fcc6ed38673106a21ba3058b4a12a93b3b0ee5"
       }
     },
     {
@@ -907,7 +1180,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/monkey-b6a454eedf/monkey-b6a454eedf.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 18707
+        "bytes": 18707,
+        "sha256": "9943c525f7bacc877801bc2e4b88f4e54a96ec078bddf6e02050e7a1192cbc99"
       }
     },
     {
@@ -947,7 +1221,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/monster-2fc7a7a989/monster-2fc7a7a989.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 24048
+        "bytes": 24048,
+        "sha256": "e609e333129581a3b0b6d5c6c1f495c75e7221c19c16e733113517515752319e"
       }
     },
     {
@@ -987,7 +1262,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/montreal-stadium-8a9b49c986/montreal-stadium-8a9b49c986.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 1415089
+        "bytes": 1415089,
+        "sha256": "639d5fd5396d717707dd49b345eaf1c038a5a540d4a894ca665e89e70740d55e"
       }
     },
     {
@@ -1025,6 +1301,7 @@
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/moon-06b70d46a7/moon-06b70d46a7.webp",
         "mimeType": "image/webp",
         "bytes": 467146,
+        "sha256": "5f262d3a712610ea78d7f6c9a7a76b76009f0ce11a8a15dbdfbdae3f39c20bfc",
         "width": 2048,
         "height": 2048
       }
@@ -1071,6 +1348,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/moon-42b7f5e308/moon-42b7f5e308.webp",
         "mimeType": "image/webp",
         "bytes": 2028080,
+        "sha256": "8bfb6bda833fc3e3af597d024722cee756c075f83ffc8dd3444d8cd013876038",
         "width": 2048,
         "height": 2048
       }
@@ -1115,7 +1393,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/moon-b7752b8c1d/moon-b7752b8c1d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 12183
+        "bytes": 12183,
+        "sha256": "4edf46bfe8deb99b5f4880a5e2fddca97750de34568ea0fe3c8e883158b8544b"
       }
     },
     {
@@ -1153,7 +1432,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/morning-glory-6de10a0d3b/morning-glory-6de10a0d3b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 293314
+        "bytes": 293314,
+        "sha256": "812fe7e0d45ec4bf3292bd265bbcfd6f69884edf1a2d95b20ec934a389e35722"
       }
     },
     {
@@ -1193,7 +1473,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mortar-pestle-0c908a5737/mortar-pestle-0c908a5737.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10273
+        "bytes": 10273,
+        "sha256": "8a3a50950bbe80bf7412657910f164646e0f4d8121a589b6c9665150f89441e1"
       }
     },
     {
@@ -1229,7 +1510,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/mosquito-net-0847c102da/mosquito-net-0847c102da.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 36708
+        "bytes": 36708,
+        "sha256": "ef44c8873279da20c47c9ee374e0974a0b6fe798ed3d05f8badb705236ece843"
       }
     },
     {
@@ -1269,7 +1551,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/moss-rock-35f2e23da6/moss-rock-35f2e23da6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10823
+        "bytes": 10823,
+        "sha256": "75a097443cbdc3c224eeb94fcc8c092c8cf53a02d681bc2539317b3468dbbf6b"
       }
     },
     {
@@ -1312,6 +1595,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-9ce06a74f9/mountain-9ce06a74f9.webp",
         "mimeType": "image/webp",
         "bytes": 747488,
+        "sha256": "455f22760bfd99e0ebfd7adebd7198cd4ab1d9f2a4c9b5b67d14984eed060b54",
         "width": 1840,
         "height": 1380
       }
@@ -1352,7 +1636,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-alpenglow-16d28c4976/mountain-alpenglow-16d28c4976.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 238611
+        "bytes": 238611,
+        "sha256": "6feafe4790c001d5b506c382b6693a7dfb92cf0ffaadfaf3024eff060d65d05c"
       }
     },
     {
@@ -1391,7 +1676,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-lake-9faf9ed724/mountain-lake-9faf9ed724.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 223812
+        "bytes": 223812,
+        "sha256": "ce6c142f2a25959d33f9a70eed8857b80cf144085d8be9745a37258b5d392ce4"
       }
     },
     {
@@ -1430,7 +1716,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-loch-f16d5e4bb0/mountain-loch-f16d5e4bb0.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 201642
+        "bytes": 201642,
+        "sha256": "15a1a74eebf851cc7fafa52ee03a4457f780459b7830dc25ab6e531c89e3141c"
       }
     },
     {
@@ -1473,6 +1760,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-nobg-fcf012ebc3/mountain-nobg-fcf012ebc3.webp",
         "mimeType": "image/webp",
         "bytes": 760492,
+        "sha256": "0840dd01c67e252cd1aeacc6d2b7ef7a412d9260e3c3b0c0ebf91b40dcf9f112",
         "width": 1840,
         "height": 1380
       }
@@ -1517,7 +1805,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-peak-bdc5c1df14/mountain-peak-bdc5c1df14.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6837
+        "bytes": 6837,
+        "sha256": "d309a2ff43a12fffdab8d4757f7c8e25bcf7d66d89fbced7cda55e8480f947c5"
       }
     },
     {
@@ -1556,7 +1845,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-reflection-6053a613ca/mountain-reflection-6053a613ca.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 398012
+        "bytes": 398012,
+        "sha256": "66fe438c3cf3376f07a1a09694f4cc6179fb2aead208e3bc495e252049e65832"
       }
     },
     {
@@ -1595,7 +1885,50 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-river-ed6676f07b/mountain-river-ed6676f07b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 209483
+        "bytes": 209483,
+        "sha256": "11b0196d3faae05eae04b074caee7c00f708e0ab9a833ec3076c1b7f44d4753e"
+      }
+    },
+    {
+      "id": "mountain-scenery-0cf3ed85f3",
+      "name": "Mountain Scenery",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "mountain",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "themes": [
+        "autumn",
+        "nature"
+      ],
+      "subjects": [
+        "mountain"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-scenery-0cf3ed85f3/mountain-scenery-0cf3ed85f3.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 190584,
+        "sha256": "e2fccf58373081729145bf3fec7c1e350201816338c1325911e62215585f5a48"
       }
     },
     {
@@ -1634,7 +1967,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-scenery-a908681d58/mountain-scenery-a908681d58.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 176311
+        "bytes": 176311,
+        "sha256": "196c20f0374763f1f1b455d2c7c3f2e4fb1497722cc7ffb53080b70a57013468"
       }
     },
     {
@@ -1673,7 +2007,52 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-snowfall-ceed202ebf/mountain-snowfall-ceed202ebf.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 123798
+        "bytes": 123798,
+        "sha256": "99c7578ab1cc338a7e5f648d82f7bdcfe8a72a08de25e047caa82d2792311b17"
+      }
+    },
+    {
+      "id": "mountain-travel-9263ec6e79",
+      "name": "Mountain Travel",
+      "type": "illustration",
+      "tags": [
+        "autumn",
+        "hero-decoration",
+        "line-art",
+        "mountain",
+        "nature",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration",
+        "travel"
+      ],
+      "themes": [
+        "autumn",
+        "nature",
+        "travel"
+      ],
+      "subjects": [
+        "mountain"
+      ],
+      "styles": [
+        "line-art"
+      ],
+      "useCases": [
+        "hero-decoration",
+        "page-decoration",
+        "photo-accent",
+        "section-decoration"
+      ],
+      "availableFormats": [
+        "svg",
+        "webp"
+      ],
+      "preferredVariant": {
+        "format": "svg",
+        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-travel-9263ec6e79/mountain-travel-9263ec6e79.svg",
+        "mimeType": "image/svg+xml",
+        "bytes": 251240,
+        "sha256": "e239cfbd7cb9a9dcee96bd2b95cce9ecd35311f7b716fa53b5d73897343f5571"
       }
     },
     {
@@ -1712,7 +2091,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-view-06c590dfe1/mountain-view-06c590dfe1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 214477
+        "bytes": 214477,
+        "sha256": "14c5b47c8fc71ea82accc01cc778d5b67ff71855e22f0e9902eaa650f0e7ccaf"
       }
     },
     {
@@ -1751,7 +2131,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountain-waterfall-780ac5d519/mountain-waterfall-780ac5d519.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 162505
+        "bytes": 162505,
+        "sha256": "4bcb68d924ab5c9bdc1418ea282b47b361b6f9d9f8b6ff4d204c98501f976640"
       }
     },
     {
@@ -1790,7 +2171,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mountains-6bc2c2454c/mountains-6bc2c2454c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 154745
+        "bytes": 154745,
+        "sha256": "d34b7218438a9db2a326b177a1050d204720e3a2b5437b8dff2deecfce2cb82b"
       }
     },
     {
@@ -1830,7 +2212,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/multimeter-d5c289c043/multimeter-d5c289c043.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 17714
+        "bytes": 17714,
+        "sha256": "bc196d14aad2d879eff511225c3c4036fa0a05708d9ebe01770953c0235044dd"
       }
     },
     {
@@ -1870,7 +2253,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mumbai-gateway-4156a16c1f/mumbai-gateway-4156a16c1f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 281910
+        "bytes": 281910,
+        "sha256": "1a7034d32e192eadcf383c0e6cee5a35d66944a55897322021747bbc182c6c06"
       }
     },
     {
@@ -1908,7 +2292,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/mummy-834fe4e9f9/mummy-834fe4e9f9.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6824
+        "bytes": 6824,
+        "sha256": "a5db77f6245bce9511471a6ecb40701fa85683d9dbb79010f51ee5e0f53b93c0"
       }
     },
     {
@@ -1948,7 +2333,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/museum-e141ca5eb8/museum-e141ca5eb8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8531
+        "bytes": 8531,
+        "sha256": "3c1b5416054425b79fb601000ea41d125ca2e194707a5f883458a2c923462b56"
       }
     },
     {
@@ -1990,6 +2376,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/mushrooms-d9549e0535/mushrooms-d9549e0535.webp",
         "mimeType": "image/webp",
         "bytes": 2070224,
+        "sha256": "39b541dff92a8b223fb371596c979fc01ded23ad1bb0a5b5f1329305cd9e7b29",
         "width": 2048,
         "height": 2048
       }
@@ -2034,7 +2421,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/musical-instrument-bc527d3cc1/musical-instrument-bc527d3cc1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6615
+        "bytes": 6615,
+        "sha256": "72ed54d991e141c152b4536bb0d2aa368c27d5da3619365029be59287d125153"
       }
     },
     {
@@ -2074,7 +2462,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/musikverein-ba828d2709/musikverein-ba828d2709.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 193451
+        "bytes": 193451,
+        "sha256": "1413373a91cadd033ddb4afa698948027e6ff216cac6b87bf1ebc471215eebd9"
       }
     },
     {
@@ -2117,7 +2506,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/nagoya-castle-f4deea9148/nagoya-castle-f4deea9148.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 426184
+        "bytes": 426184,
+        "sha256": "0e04f3cdcdbbcbac5f5a0a57a2df7b44ddee19170eb6949eff0a57ec9fd5c71b"
       }
     },
     {
@@ -2157,7 +2547,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/najaf-11048f36d3/najaf-11048f36d3.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 523260
+        "bytes": 523260,
+        "sha256": "99fd911edaaa66e0e7c56d9a36630e163165474561369de7b6831b66d65ccc54"
       }
     },
     {
@@ -2195,7 +2586,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/narcissus-e0aa56c77b/narcissus-e0aa56c77b.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 412921
+        "bytes": 412921,
+        "sha256": "4dc0def8e303e539c4dd72551c08fdc1693121321dd999643f3353f458b0997a"
       }
     },
     {
@@ -2236,7 +2628,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/narcissus-flower-9aae51cca4/narcissus-flower-9aae51cca4.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 193581
+        "bytes": 193581,
+        "sha256": "a0666a09d7b42e6d9115bbd3e619e153e088bf3479eb8b17e4bc6f52d61032a9"
       }
     },
     {
@@ -2273,6 +2666,7 @@
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/nature-203ecb144c/nature-203ecb144c.webp",
         "mimeType": "image/webp",
         "bytes": 506504,
+        "sha256": "11e11802ee0f7df1d0ba623e641fc21150707db526aeae32bcb9ac79c86ad47f",
         "width": 2048,
         "height": 2048
       }
@@ -2314,7 +2708,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/nature-doodles-a463967a96/nature-doodles-a463967a96.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 699770
+        "bytes": 699770,
+        "sha256": "1303653da1e906aa5ac5c049ec3aae5e824b0e720470a4d4832600518e1acb68"
       }
     },
     {
@@ -2347,7 +2742,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/nature-landscapes-illustrations-025a95c6b8/nature-landscapes-illustrations-025a95c6b8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13381333
+        "bytes": 13381333,
+        "sha256": "d2ec961345ed563a38b8a1b7611fa31b3fdd0893c1520f016f03909926b1ecac"
       }
     },
     {
@@ -2387,7 +2783,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/nature-spirit-cf586450d0/nature-spirit-cf586450d0.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 29095
+        "bytes": 29095,
+        "sha256": "12374decb165fb265c692917e61c7f49782b251bf8f8cb3b813f04c97ab4b488"
       }
     },
     {
@@ -2425,7 +2822,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/necklace-0db24c22a7/necklace-0db24c22a7.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 8894
+        "bytes": 8894,
+        "sha256": "b1fba76996dd974d19f3fb24a0c895d98474203433f09bb6bbd288406c7e946a"
       }
     },
     {
@@ -2469,7 +2867,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/night-goggles-0d45ed2d27/night-goggles-0d45ed2d27.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11489
+        "bytes": 11489,
+        "sha256": "230c39e644e6f97b3716cadb2a99b5672dd5034e101745a58f50cc16f0de9fb7"
       }
     },
     {
@@ -2513,7 +2912,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/nile-monitor-0574288ac8/nile-monitor-0574288ac8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16696
+        "bytes": 16696,
+        "sha256": "cb977f2ef3d6da3de94967ffbc1a9e2e56b79934ad588b95291b6a23e5997ef6"
       }
     },
     {
@@ -2557,7 +2957,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/notebook-c4c773583a/notebook-c4c773583a.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13724
+        "bytes": 13724,
+        "sha256": "99dfe7a89b799b10e6882e60c4475c7e6f33c1e12f7a643a6001d237d745271c"
       }
     },
     {
@@ -2595,7 +2996,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oak-branches-1a5971fdd2/oak-branches-1a5971fdd2.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 427857
+        "bytes": 427857,
+        "sha256": "187adfed98c662fec6f9a7685af7fc17f3b271e816c0d57df69355eac5229cf2"
       }
     },
     {
@@ -2636,7 +3038,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oak-foliage-9b52109478/oak-foliage-9b52109478.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 1321514
+        "bytes": 1321514,
+        "sha256": "ab08d72b6079fff654fbbf31634f25d9830ea416b497d1ef1e3f236e6fe86c44"
       }
     },
     {
@@ -2677,7 +3080,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oak-leaves-92e1d0e19c/oak-leaves-92e1d0e19c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 344841
+        "bytes": 344841,
+        "sha256": "58e5b6b5c6ea5f4a31846f543757a15ef5218c3ea6e12f31cfaf320ab81b0ded"
       }
     },
     {
@@ -2720,7 +3124,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oak-tree-7c78d14893/oak-tree-7c78d14893.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14913
+        "bytes": 14913,
+        "sha256": "614163753dd7993539fa9faa00cd6aa458284f08791346d2cbb40903e69f562f"
       }
     },
     {
@@ -2758,7 +3163,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/obelisk-a46fa95ab5/obelisk-a46fa95ab5.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 5336
+        "bytes": 5336,
+        "sha256": "b9aa2ffe777a13229fd3aaa22f4fd736d4c0cdfddbc0eedaf2ea0efe4fe9adfb"
       }
     },
     {
@@ -2798,7 +3204,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/observatory-2713606f53/observatory-2713606f53.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13928
+        "bytes": 13928,
+        "sha256": "78cfa182f28c13a8e2119353630673b62b6e7a38de7fce772ddcf82adaec4042"
       }
     },
     {
@@ -2836,7 +3243,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/obsidian-blade-fc6b10867d/obsidian-blade-fc6b10867d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 5062
+        "bytes": 5062,
+        "sha256": "368279152d8c64ff472bf25c39dc226700a5f8a8b729866c9c0754af8dfde0b8"
       }
     },
     {
@@ -2879,7 +3287,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/oil-lamp-bcea1d5b1d/oil-lamp-bcea1d5b1d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10359
+        "bytes": 10359,
+        "sha256": "26d5a6f6b9fce91e28d1fe174a82c63d902440148b6762b2c7af78d26c40e6c3"
       }
     },
     {
@@ -2919,7 +3328,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/old-bagan-75f8085fc8/old-bagan-75f8085fc8.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 497113
+        "bytes": 497113,
+        "sha256": "1246adc6a5114328aa3432395a9c39316136317a3df2a587311ea34e7925af49"
       }
     },
     {
@@ -2959,7 +3369,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/orbit-8650ef8d4a/orbit-8650ef8d4a.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 10996
+        "bytes": 10996,
+        "sha256": "fe4d51b7b0e8adb2ac796e94e61cab4d5168dab099a58dd31dd2cd15b2de8a53"
       }
     },
     {
@@ -3000,7 +3411,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/orchid-flower-bd8de25f94/orchid-flower-bd8de25f94.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 232401
+        "bytes": 232401,
+        "sha256": "0862ec191d91f6125d3a8d3354d1199cdc5ca3bc0dd1cc9085561b5db4f7a9f0"
       }
     },
     {
@@ -3040,7 +3452,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/organelle-19edcc0a0d/organelle-19edcc0a0d.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 11115
+        "bytes": 11115,
+        "sha256": "ca9d9945058d9ec91154a6899a361e59ca3a1c74b77053c1d425aaa80693aabf"
       }
     },
     {
@@ -3080,7 +3493,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oriental-pearl-17308ea04c/oriental-pearl-17308ea04c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 237152
+        "bytes": 237152,
+        "sha256": "ba6b630de343ea85f1f7bfff468340fe67dd7bc62efb28e5a8abbe37d7390e16"
       }
     },
     {
@@ -3118,7 +3532,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/origano-stem-d913171d09/origano-stem-d913171d09.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 252075
+        "bytes": 252075,
+        "sha256": "e59acefb0964a186c4a9ef290843f82e9b89d91951e9dc99f38cc2d3eddae144"
       }
     },
     {
@@ -3158,7 +3573,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oscilloscope-de6ab8372f/oscilloscope-de6ab8372f.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14801
+        "bytes": 14801,
+        "sha256": "147bbf64a9d92e28b393644afec9e2d76be34a22c97f4d077cd7ea6d48a5f1a3"
       }
     },
     {
@@ -3202,7 +3618,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ostrich-running-4a215a4809/ostrich-running-4a215a4809.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 16011
+        "bytes": 16011,
+        "sha256": "1aca23a8c07c330d20c9ccc8c7366c54056c40f00e4aae65f879e992fc8f99d7"
       }
     },
     {
@@ -3238,7 +3655,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/outdoor-recliner-e1f4dc2c3c/outdoor-recliner-e1f4dc2c3c.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 21589
+        "bytes": 21589,
+        "sha256": "f415b112d5373f6645f0107691d86affb5822a6db5ab255b56e9e254ba030fc3"
       }
     },
     {
@@ -3278,7 +3696,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oxygen-cylinder-72586fdfbd/oxygen-cylinder-72586fdfbd.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13409
+        "bytes": 13409,
+        "sha256": "e846693b9729fd8096c511f3bf8eb814d79c862e325fd4903e16882a24b2e7f7"
       }
     },
     {
@@ -3318,7 +3737,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/oxygen-mask-59609f1143/oxygen-mask-59609f1143.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 14243
+        "bytes": 14243,
+        "sha256": "8ca4bf787a8d175198ed3a262d42ef01d50e7f56c4e9653ee12aa339ba57df0c"
       }
     },
     {
@@ -3358,7 +3778,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/ozone-layer-fde76e40c1/ozone-layer-fde76e40c1.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 13729
+        "bytes": 13729,
+        "sha256": "620b5be1258016f59bd7c374a96424beb1e114164785a48e0e6edc302477c465"
       }
     },
     {
@@ -3394,7 +3815,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pagoda-view-f87894cbb6/pagoda-view-f87894cbb6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 186736
+        "bytes": 186736,
+        "sha256": "e407f764d2eb11d57904882787d7e9601a09584f5491ebb18bf5520de2be6f79"
       }
     },
     {
@@ -3432,7 +3854,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/painted-vase-7a42d24cda/painted-vase-7a42d24cda.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 6857
+        "bytes": 6857,
+        "sha256": "97d4fdd184ffdb550b9a2ef036b466570242b40f4d33f2be47461d98266c6461"
       }
     },
     {
@@ -3470,7 +3893,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/icon/icon/painting-ccaa6fcd44/painting-ccaa6fcd44.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 5667
+        "bytes": 5667,
+        "sha256": "155e7c3c27b46ed3376d9f95b81e2464238b6131de8fb74d2db4e2466742f726"
       }
     },
     {
@@ -3513,7 +3937,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palace-fort-017b464bde/palace-fort-017b464bde.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 177044
+        "bytes": 177044,
+        "sha256": "c3c3fc186260069d7e69c1a9f458d509f341a2c0fb4317c4adcf9e06a584eb88"
       }
     },
     {
@@ -3553,7 +3978,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palenque-ruins-6713397fde/palenque-ruins-6713397fde.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 343311
+        "bytes": 343311,
+        "sha256": "ca46dce5cc475ad6c6b32eb9337c53e367f51e91d3c859022532ec9cb909e9ef"
       }
     },
     {
@@ -3596,7 +4022,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-fronds-f062bd49c6/palm-fronds-f062bd49c6.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 237774
+        "bytes": 237774,
+        "sha256": "f9bf3dc60d6f7fbd6a9ab23e54948c875380a670262585dc79e667a8fbea9e99"
       }
     },
     {
@@ -3637,7 +4064,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-island-bbac7f1a72/palm-island-bbac7f1a72.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 206993
+        "bytes": 206993,
+        "sha256": "d3557d7ef529587d09be9dbff2ef1d42373b4a5a8611278df3816990f897e34a"
       }
     },
     {
@@ -3684,6 +4112,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-tree-ee4d43794a/palm-tree-ee4d43794a.webp",
         "mimeType": "image/webp",
         "bytes": 2119378,
+        "sha256": "9d99e330a4d539faf421e3f1920502fe5b777120848c4827721d90ccc8a232df",
         "width": 2048,
         "height": 2048
       }
@@ -3726,328 +4155,8 @@
         "format": "svg",
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/palm-trees-9215ddcc31/palm-trees-9215ddcc31.svg",
         "mimeType": "image/svg+xml",
-        "bytes": 184907
-      }
-    },
-    {
-      "id": "pampas-grass-737cb7e638",
-      "name": "Pampas Grass",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/pampas-grass-737cb7e638/pampas-grass-737cb7e638.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 17806
-      }
-    },
-    {
-      "id": "paper-map-4dee7f6e95",
-      "name": "Paper Map",
-      "type": "icon",
-      "tags": [
-        "doodle",
-        "field-trip",
-        "hand-drawn",
-        "icon",
-        "line-art",
-        "museum",
-        "navigation-decoration",
-        "paper"
-      ],
-      "themes": [
-        "field-trip",
-        "museum"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art",
-        "paper"
-      ],
-      "useCases": [
-        "icon",
-        "navigation-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/icon/icon/paper-map-4dee7f6e95/paper-map-4dee7f6e95.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13013
-      }
-    },
-    {
-      "id": "paper-map-f1f878665a",
-      "name": "Paper Map",
-      "type": "icon",
-      "tags": [
-        "camping",
-        "field-trip",
-        "icon",
-        "line-art",
-        "navigation-decoration",
-        "paper",
-        "travel"
-      ],
-      "themes": [
-        "camping",
-        "field-trip",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art",
-        "paper"
-      ],
-      "useCases": [
-        "icon",
-        "navigation-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/icon/icon/paper-map-f1f878665a/paper-map-f1f878665a.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 86903
-      }
-    },
-    {
-      "id": "paradise-plant-f090b6624a",
-      "name": "Paradise Plant",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "plant",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [
-        "plant"
-      ],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/paradise-plant-f090b6624a/paradise-plant-f090b6624a.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 355639
-      }
-    },
-    {
-      "id": "park-guell-92ac5f97eb",
-      "name": "Park Guell",
-      "type": "illustration",
-      "tags": [
-        "field-trip",
-        "hero-decoration",
-        "line-art",
-        "museum",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "museum",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/park-guell-92ac5f97eb/park-guell-92ac5f97eb.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 253268
-      }
-    },
-    {
-      "id": "parrot-9a6a9f1bda",
-      "name": "Parrot",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "field-trip",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "safari",
-        "section-decoration",
-        "travel"
-      ],
-      "themes": [
-        "field-trip",
-        "safari",
-        "travel"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/parrot-9a6a9f1bda/parrot-9a6a9f1bda.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 20200
-      }
-    },
-    {
-      "id": "parsley-9c97958c2b",
-      "name": "Parsley",
-      "type": "illustration",
-      "tags": [
-        "botanical",
-        "hero-decoration",
-        "line-art",
-        "nature",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "themes": [
-        "botanical",
-        "nature"
-      ],
-      "subjects": [],
-      "styles": [
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/parsley-9c97958c2b/parsley-9c97958c2b.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 269067
-      }
-    },
-    {
-      "id": "patient-020750ffff",
-      "name": "Patient",
-      "type": "illustration",
-      "tags": [
-        "doodle",
-        "hand-drawn",
-        "hero-decoration",
-        "line-art",
-        "page-decoration",
-        "photo-accent",
-        "science",
-        "section-decoration"
-      ],
-      "themes": [
-        "science"
-      ],
-      "subjects": [],
-      "styles": [
-        "doodle",
-        "hand-drawn",
-        "line-art"
-      ],
-      "useCases": [
-        "hero-decoration",
-        "page-decoration",
-        "photo-accent",
-        "section-decoration"
-      ],
-      "availableFormats": [
-        "svg",
-        "webp"
-      ],
-      "preferredVariant": {
-        "format": "svg",
-        "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/patient-020750ffff/patient-020750ffff.svg",
-        "mimeType": "image/svg+xml",
-        "bytes": 13393
+        "bytes": 184907,
+        "sha256": "f5dac953da7dffec57927850029235edb20d34b8ea79f782d92ea22d0f7b9f32"
       }
     }
   ]

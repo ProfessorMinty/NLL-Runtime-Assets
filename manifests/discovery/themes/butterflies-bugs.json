@@ -6,6 +6,14 @@
     "description": "Photo Album recipe using the shared eight-slot contract for Butterflies & Bugs.",
     "collectionIds": [
       "album-theme-butterflies-bugs"
+    ],
+    "suggestionStatus": "INCOMPLETE",
+    "missingSlots": [
+      "top-trim",
+      "bottom-trim",
+      "photo-frame",
+      "background",
+      "divider"
     ]
   },
   "assetSlots": {
@@ -98,6 +106,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/1-d43ae3a55c/1-d43ae3a55c.webp",
         "mimeType": "image/webp",
         "bytes": 179082,
+        "sha256": "ed827f050477187fefe696ae89df3b214565c52b27a1ad50be2c73aedfae3efb",
         "width": 2048,
         "height": 2048
       }
@@ -137,6 +146,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/10-6e2bd29d62/10-6e2bd29d62.webp",
         "mimeType": "image/webp",
         "bytes": 159076,
+        "sha256": "0e32d0d33253e912c40adb384fb6e5d18a96311537488784296b050d9c0aac3c",
         "width": 2048,
         "height": 2048
       }
@@ -176,6 +186,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/100-5d913bec9c/100-5d913bec9c.webp",
         "mimeType": "image/webp",
         "bytes": 214940,
+        "sha256": "6965369cd56c40a6ffd8137369956e62acc13853dd4067832f692523c89d4f9d",
         "width": 2048,
         "height": 2048
       }
@@ -215,6 +226,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/11-a613f34798/11-a613f34798.webp",
         "mimeType": "image/webp",
         "bytes": 198942,
+        "sha256": "0feaa58202a740f0fd560c350e462252047447b47697da57a172c591f3b90432",
         "width": 2048,
         "height": 2048
       }
@@ -254,6 +266,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/12-725a24dad0/12-725a24dad0.webp",
         "mimeType": "image/webp",
         "bytes": 267492,
+        "sha256": "703c3fb014f548c60185eaa48ec73ab5e527c8246a3c1502be987698696c7509",
         "width": 2048,
         "height": 2048
       }
@@ -293,6 +306,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/13-2fb690c245/13-2fb690c245.webp",
         "mimeType": "image/webp",
         "bytes": 218450,
+        "sha256": "d618178d6c258e339afb2b2eb24addde5d1d69dc11eaf6e3c6f971078b7a683b",
         "width": 2048,
         "height": 2048
       }
@@ -332,6 +346,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/14-925e5a5bad/14-925e5a5bad.webp",
         "mimeType": "image/webp",
         "bytes": 235176,
+        "sha256": "009dd176ba8d3dfbc0298d06b5f98ca42dea9ab732ff98d9faa00eae13e45d45",
         "width": 2048,
         "height": 2048
       }
@@ -371,6 +386,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/15-aa163bc8af/15-aa163bc8af.webp",
         "mimeType": "image/webp",
         "bytes": 207620,
+        "sha256": "162033ac32892711b90e5347227584c15bf442aed90b946d6a9371180f9c75f6",
         "width": 2048,
         "height": 2048
       }
@@ -410,6 +426,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/16-82042f61f4/16-82042f61f4.webp",
         "mimeType": "image/webp",
         "bytes": 243588,
+        "sha256": "63a538d25d13595c8c29542e939aa5e1ee2d901c9681ee00c7e0a20ab5f57ad8",
         "width": 2048,
         "height": 2048
       }
@@ -449,6 +466,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/17-56c496995d/17-56c496995d.webp",
         "mimeType": "image/webp",
         "bytes": 254058,
+        "sha256": "4aba35edbdcf32a4923f1447e4e258ebc3292328bb27a09b87bc0503cd4699ad",
         "width": 2048,
         "height": 2048
       }
@@ -488,6 +506,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/18-9578195f6c/18-9578195f6c.webp",
         "mimeType": "image/webp",
         "bytes": 272112,
+        "sha256": "4c31006c4f5a414424a19f6af77e3a48f812be7c2617867d2b4f1dbcbc9c18ce",
         "width": 2048,
         "height": 2048
       }
@@ -527,6 +546,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/19-07d9b2a89c/19-07d9b2a89c.webp",
         "mimeType": "image/webp",
         "bytes": 227764,
+        "sha256": "b218c216dcb683f5b72b4c7b5fda6cf2deb28f06b8d6f7bddaa62577f5f46635",
         "width": 2048,
         "height": 2048
       }
@@ -566,6 +586,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/2-4778964c8f/2-4778964c8f.webp",
         "mimeType": "image/webp",
         "bytes": 183280,
+        "sha256": "a70c8f97b23a5d3619592a821094889ef07ec66a5827a2b0b9dd8a412edb0d51",
         "width": 2048,
         "height": 2048
       }
@@ -605,6 +626,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/20-2fa7662293/20-2fa7662293.webp",
         "mimeType": "image/webp",
         "bytes": 212772,
+        "sha256": "3b8b66564d121f43b48b8f27646b8a8a66baf6b6c18d105ee33aef251d52c18f",
         "width": 2048,
         "height": 2048
       }
@@ -644,6 +666,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/21-00d4416ad5/21-00d4416ad5.webp",
         "mimeType": "image/webp",
         "bytes": 215590,
+        "sha256": "667e538291c87e72dcaabd377cab8df56a7c5c277b307b8f4593c9f73ddf2947",
         "width": 2048,
         "height": 2048
       }
@@ -683,6 +706,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/22-3cd726f56f/22-3cd726f56f.webp",
         "mimeType": "image/webp",
         "bytes": 245552,
+        "sha256": "adaee6fa1140aed3106d9436d26c8cc690a8f36b9ce67d291392d79dd10267a4",
         "width": 2048,
         "height": 2048
       }
@@ -722,6 +746,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/23-7002aef4d1/23-7002aef4d1.webp",
         "mimeType": "image/webp",
         "bytes": 260312,
+        "sha256": "404fe715c952b068e6e265cddad87d6b8927bd1e8ad3b9fb134569aa20272ad1",
         "width": 2048,
         "height": 2048
       }
@@ -761,6 +786,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/24-7b9df7bb8f/24-7b9df7bb8f.webp",
         "mimeType": "image/webp",
         "bytes": 260346,
+        "sha256": "d30737a48a545f0d5f52550a3c748ec4a2dfe03cefd6c1173cff025c2fcbb155",
         "width": 2048,
         "height": 2048
       }
@@ -800,6 +826,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/25-aefc693bfa/25-aefc693bfa.webp",
         "mimeType": "image/webp",
         "bytes": 198068,
+        "sha256": "01aa8b77be33a21dc0911f4059f89d85365c9f3cfa42777571357d8ef05ed4a8",
         "width": 2048,
         "height": 2048
       }
@@ -839,6 +866,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/26-248c09afd0/26-248c09afd0.webp",
         "mimeType": "image/webp",
         "bytes": 171456,
+        "sha256": "65b05236dd86cd327a279c63bb1f1237cb74134662ec8709b7058da8b0bb9b52",
         "width": 2048,
         "height": 2048
       }
@@ -878,6 +906,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/27-3ddbfff910/27-3ddbfff910.webp",
         "mimeType": "image/webp",
         "bytes": 186400,
+        "sha256": "0e90ecdb133144804c60377e2ce4bbeb5c97a59b1c1a8d2c49f102c9713e05ca",
         "width": 2048,
         "height": 2048
       }
@@ -917,6 +946,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/28-d99f2c1918/28-d99f2c1918.webp",
         "mimeType": "image/webp",
         "bytes": 204486,
+        "sha256": "7fb3c77a0c29fe43aeb7ad6a768c51909d1686abcd9c06188e9b531c3b8db174",
         "width": 2048,
         "height": 2048
       }
@@ -956,6 +986,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/29-4f31fe8a33/29-4f31fe8a33.webp",
         "mimeType": "image/webp",
         "bytes": 247340,
+        "sha256": "4b9e381bd3189945f42608952e4386851634c9bf6a451254c5f7b3761c6d477c",
         "width": 2048,
         "height": 2048
       }
@@ -995,6 +1026,7 @@
         "url": "https://cdn.nlightlabs.com/assets/illustration/hero-decoration/3-252d55305c/3-252d55305c.webp",
         "mimeType": "image/webp",
         "bytes": 206744,
+        "sha256": "890ae307bc12e39a6303c3ec70f8af943041492cc5a6342088f4008d5a5b49e7",
         "width": 2048,
         "height": 2048
       }
