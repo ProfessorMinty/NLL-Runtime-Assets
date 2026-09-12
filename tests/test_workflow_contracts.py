@@ -67,6 +67,27 @@ class WorkflowContractTests(unittest.TestCase):
             self.assertIn("'+refs/tags/*:refs/tags/*'", text)
             self.assertNotIn("persist-credentials", text)
 
+    def test_materialized_repositories_use_exact_ephemeral_safe_directories(self) -> None:
+        expected = {
+            "validate-runtime.yml": (
+                "git init .",
+                'git config --global --add safe.directory "$GITHUB_WORKSPACE"',
+                'git remote add origin "$GITHUB_SERVER_URL/$REPOSITORY.git"',
+            ),
+            "release-policy.yml": (
+                "git init repository",
+                'git config --global --add safe.directory "$GITHUB_WORKSPACE/repository"',
+                'git -C repository remote add origin "$GITHUB_SERVER_URL/$BASE_REPOSITORY.git"',
+            ),
+        }
+        for workflow in WORKFLOWS:
+            text = workflow.read_text(encoding="utf-8")
+            initialize, trust, remote = expected[workflow.name]
+            self.assertEqual(text.count(trust), 1)
+            self.assertLess(text.index(initialize), text.index(trust))
+            self.assertLess(text.index(trust), text.index(remote))
+            self.assertNotRegex(text, r"safe\.directory\s+['\"]?\*['\"]?")
+
     def test_untrusted_event_values_never_interpolate_inside_run_scripts(self) -> None:
         for workflow in WORKFLOWS:
             for block in run_blocks(workflow.read_text(encoding="utf-8")):

@@ -94,7 +94,7 @@ WORKFLOW_TRIGGER_BLOCKS = {
 WORKFLOW_STEP_HASHES = {
     ".github/workflows/release-policy.yml": (
         ("Verify immutable execution environment and same-repository head", "9cf35220e7f356b3faefb4f45492760888752f68e0d6d4c0ac263d9c4e0c8f3c"),
-        ("Materialize exact trusted base and candidate as data", "595a8c266910539967285038749cf2cedaa6ad6e61b0afbd0877d7bcb330565c"),
+        ("Materialize exact trusted base and candidate as data", "6860ce7498e2c4b6041b947a69eb0b5d5880037fcffad0ddd6acc5ebe987e543"),
         ("Enforce tracked public repository boundary from trusted base", "82ce20bb9fea19520f69c3245f5e43faa50e2ffa6b105e63b7ad5c2f1ecdef62"),
         ("Verify immutable trusted wheelhouse before dependency install", "0139a84763984827cbd3e446dfef92704b7b768482fd47c8d8190e1629ce0138"),
         ("Install trusted validation dependency", "26a9f7517083b31b2a1171fb8e6da42a6015b214744945e4817c8484ac7f919a"),
@@ -103,7 +103,7 @@ WORKFLOW_STEP_HASHES = {
     ),
     ".github/workflows/validate-runtime.yml": (
         ("Verify immutable execution environment", "056746c36160b4f82e3897e3d95e4d9d26d420ec5fb7f7ac220be81993e6b21b"),
-        ("Materialize exact repository revision", "d98f044847a054d546a4de346bbf672ea22449a466480df9e698dbc10327dc29"),
+        ("Materialize exact repository revision", "8c510584896522be3c1e69a55dbae527ddc400111c407c95abc060f63406ba72"),
         ("Verify immutable wheelhouse before dependency install", "5145b5382035e9966748554eefab99fbfec190ca514527f1be0e9665be197892"),
         ("Install validation dependency", "d3bee1a8dde83b82e2df328dcfc22a6dd1bce1f169a0a6b0b01fed82716b1873"),
         ("Validate reviewed release repository state", "a1f806bd66b6d18d27aa3d2d27aa5456e39e6dddb9f767d1146a2cb74b6fc57d"),

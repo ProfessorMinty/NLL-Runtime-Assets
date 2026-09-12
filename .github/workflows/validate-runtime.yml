@@ -33,6 +33,7 @@ jobs:
           printf '%s\n' "$REPOSITORY" | grep -Eq '^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$'
           printf '%s\n' "$VALIDATION_REVISION" | grep -Eq '^[0-9a-f]{40}$'
           git init .
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git remote add origin "$GITHUB_SERVER_URL/$REPOSITORY.git"
           git fetch --force origin '+refs/heads/*:refs/remotes/origin/*' '+refs/tags/*:refs/tags/*'
           test "$(git rev-parse "$VALIDATION_REVISION")" = "$VALIDATION_REVISION"

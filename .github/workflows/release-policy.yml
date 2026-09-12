@@ -34,6 +34,7 @@ jobs:
           printf '%s\n' "$PR_BASE_SHA" | grep -Eq '^[0-9a-f]{40}$'
           printf '%s\n' "$PR_HEAD_SHA" | grep -Eq '^[0-9a-f]{40}$'
           git init repository
+          git config --global --add safe.directory "$GITHUB_WORKSPACE/repository"
           git -C repository remote add origin "$GITHUB_SERVER_URL/$BASE_REPOSITORY.git"
           git -C repository fetch --force origin '+refs/heads/*:refs/remotes/origin/*' '+refs/tags/*:refs/tags/*'
           test "$(git -C repository rev-parse "$PR_BASE_SHA")" = "$PR_BASE_SHA"

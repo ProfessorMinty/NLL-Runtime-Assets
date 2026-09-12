@@ -260,6 +260,11 @@ class PublicBoundaryTests(unittest.TestCase):
                 1,
             ),
             reviewed.replace(
+                'git config --global --add safe.directory "$GITHUB_WORKSPACE"',
+                'git config --global --add safe.directory "*"',
+                1,
+            ),
+            reviewed.replace(
                 "    steps:\n",
                 "    steps:\n      - run: true\n",
                 1,
