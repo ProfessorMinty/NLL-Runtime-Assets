@@ -1,4 +1,4 @@
-# NL Asset Library — AI Consumer Guide
+# Northern Lights Asset Library — AI Consumer Guide
 
 This repository is the public semantic/control layer for the Northern Lights Asset Library.
 
@@ -25,16 +25,19 @@ Do not begin by loading the complete `manifests/assets.json` registry unless per
 7. Use the supplied `preferredVariant.url` when appropriate.
 8. Other public runtime formats are listed in `availableFormats`.
 
-## Automatic-use safety policy
+## Legacy discovery selection policy
 
-Discovery contains only assets satisfying BOTH:
+The frozen legacy discovery layer contains only assets satisfying BOTH:
 
 - `runtimeStatus = READY`
 - `automaticSelection = ELIGIBLE`
 
 Assets classified `EXCLUDE_AUTO`, `REVIEW`, `DERIVATIVE_NEEDED`, withheld, or otherwise unavailable are deliberately absent from automatic discovery.
 
-Do not bypass this policy for automatic classroom asset selection.
+This is a technical and curation filter, not durable rights approval. Legacy
+discovery inclusion alone never authorizes use. Use still requires an
+independently authorized Northern Lights Labs project context, and the reusable
+library or its assets must not be redistributed as a standalone product.
 
 ## Stable identity
 
@@ -77,11 +80,13 @@ Choose according to the requested subject, visual style, use case, age/context a
 
 ## Public versus private data
 
-This discovery layer exposes approved runtime metadata and public derivative URLs only.
+This legacy discovery layer exposes selected runtime metadata and public
+derivative URLs. Its presence is delivery evidence, not current rights evidence.
+An authorized V1 consumer release is the durable public approval boundary.
 
 Never request, infer, reconstruct, or expose:
 
-- `E:\Assets`
+- private library root locations
 - RawAssets
 - vendor/source ZIP organization
 - private masters

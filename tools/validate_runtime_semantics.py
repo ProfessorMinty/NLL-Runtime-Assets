@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import sys
 from pathlib import Path
 
@@ -11,8 +12,15 @@ from runtime_validation import validate_runtime
 ROOT = Path(__file__).resolve().parents[1]
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--root", type=Path, default=ROOT)
+    return parser.parse_args()
+
+
 def main() -> int:
-    errors, counts = validate_runtime(ROOT, verify_derivatives=False)
+    args = parse_args()
+    errors, counts = validate_runtime(args.root.resolve(), verify_derivatives=False)
     if errors:
         print(f"NLL Runtime semantic validation FAILED with {len(errors)} error(s):")
         for error in errors:
