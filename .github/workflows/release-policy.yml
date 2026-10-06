@@ -80,3 +80,61 @@ jobs:
           --root candidate --schema-root trusted --candidate-repository
           --base "$PR_BASE_SHA" --head "$PR_HEAD_SHA"
           --branch "$PR_HEAD_REF" --main "$PR_HEAD_SHA"
+
+      - name: Record exact evaluated pull request
+        env:
+          EVALUATED_REPOSITORY_ID: ${{ github.repository_id }}
+          EVALUATED_PR_NUMBER: ${{ github.event.pull_request.number }}
+          EVALUATED_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          EVALUATED_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          EVALUATED_WORKFLOW_SHA: ${{ github.sha }}
+          EVALUATED_RUN_ID: ${{ github.run_id }}
+          EVALUATED_RUN_ATTEMPT: ${{ github.run_attempt }}
+        run: |
+          python -I - <<'PY'
+          import base64, json, os, re, subprocess
+          def identity(name):
+              value = os.environ[name]
+              if not re.fullmatch(r'[a-f0-9]{40}', value):
+                  raise ValueError('Invalid evaluated commit identity')
+              return value
+          def number(name):
+              value = os.environ[name]
+              if not re.fullmatch(r'[1-9][0-9]{0,15}', value):
+                  raise ValueError('Invalid evaluated numeric identity')
+              return int(value)
+          base = identity('EVALUATED_BASE_SHA')
+          head = identity('EVALUATED_HEAD_SHA')
+          workflow = identity('EVALUATED_WORKFLOW_SHA')
+          if workflow != base:
+              raise ValueError('Workflow revision differs from evaluated base')
+          fields = subprocess.check_output([
+              'git', '-C', 'repository', 'diff', '--raw', '--no-renames',
+              '--abbrev=40', '-z', base, head
+          ]).split(b'\0')
+          if fields.pop() != b'' or len(fields) % 2:
+              raise ValueError('Invalid evaluated diff')
+          changes = []
+          for index in range(0, len(fields), 2):
+              modes = fields[index].decode('ascii').split()
+              path = fields[index + 1].decode('ascii')
+              if len(modes) != 5 or modes[0][1:] not in ('000000', '100644') or modes[1] not in ('000000', '100644'):
+                  raise ValueError('Unsupported evaluated file mode')
+              if not re.fullmatch(r'[A-Za-z0-9._/-]{1,300}', path) or any(part in ('', '.', '..') for part in path.split('/')):
+                  raise ValueError('Unsupported evaluated path')
+              before, after = modes[2:4]
+              if not all(re.fullmatch(r'[a-f0-9]{40}', sha) for sha in (before, after)):
+                  raise ValueError('Invalid evaluated blob identity')
+              changes.append({'path': path, 'before': None if before == '0' * 40 else before, 'after': None if after == '0' * 40 else after})
+          if not 1 <= len(changes) <= 1000:
+              raise ValueError('Unsupported evaluated change count')
+          receipt = dict(
+              schemaVersion=1, repositoryId=number('EVALUATED_REPOSITORY_ID'),
+              pullRequestNumber=number('EVALUATED_PR_NUMBER'), headSha=head,
+              baseSha=base, workflowSha=workflow, runId=number('EVALUATED_RUN_ID'),
+              runAttempt=number('EVALUATED_RUN_ATTEMPT'),
+              changes=sorted(changes, key=lambda item: item['path'])
+          )
+          canonical = json.dumps(receipt, sort_keys=True, separators=(',', ':')).encode('ascii')
+          print('NL_RUNTIME_EVALUATION_V1=' + base64.b64encode(canonical).decode('ascii'))
+          PY

@@ -195,6 +195,19 @@ class WorkflowContractTests(unittest.TestCase):
         self.assertIn('--base "$PR_BASE_SHA" --head "$PR_HEAD_SHA"', repository_block)
         self.assertIn('--branch "$PR_HEAD_REF" --main "$PR_HEAD_SHA"', repository_block)
 
+    def test_evaluation_receipt_follows_successful_validation_and_uses_only_event_identities(self) -> None:
+        text = WORKFLOWS[1].read_text(encoding="utf-8")
+        self.assertLess(text.index("Enforce reviewed repository state from trusted base"), text.index("Record exact evaluated pull request"))
+        receipt_step = text[text.index("      - name: Record exact evaluated pull request"):]
+        self.assertNotIn("if:", receipt_step)
+        self.assertIn("python -I -", receipt_step)
+        self.assertIn("NL_RUNTIME_EVALUATION_V1=", receipt_step)
+        self.assertIn("'--abbrev=40', '-z', base, head", receipt_step)
+        self.assertIn("if workflow != base:", receipt_step)
+        self.assertNotIn("candidate/", receipt_step)
+        for name in ("REPOSITORY_ID", "PR_NUMBER", "HEAD_SHA", "BASE_SHA", "WORKFLOW_SHA", "RUN_ID", "RUN_ATTEMPT"):
+            self.assertIn("EVALUATED_" + name, receipt_step)
+
     def test_scheduled_monitor_lane_executes_only_protected_python(self) -> None:
         text = WORKFLOWS[0].read_text(encoding="utf-8")
         schedule_safe_entrypoints = {

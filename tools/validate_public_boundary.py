@@ -100,6 +100,7 @@ WORKFLOW_STEP_HASHES = {
         ("Install trusted validation dependency", "26a9f7517083b31b2a1171fb8e6da42a6015b214744945e4817c8484ac7f919a"),
         ("Enforce changed-path lane from trusted base", "6c751522fd633c577613a1b1841ead5c1ce33bbe87460c49717e535b33b956a6"),
         ("Enforce reviewed repository state from trusted base", "9419fb53183f15ee1df031de036045f0aa5ca8b56bcfdd3bf912e32d7d1ad32a"),
+        ("Record exact evaluated pull request", "7a1e71f009217c15f502c793f2ffcc93b95ad47f8a5ad7160fb464c78bf4f995"),
     ),
     ".github/workflows/validate-runtime.yml": (
         ("Verify immutable execution environment", "056746c36160b4f82e3897e3d95e4d9d26d420ec5fb7f7ac220be81993e6b21b"),

@@ -100,6 +100,14 @@ A top-level generation timestamp is acceptable for publish tracking.
 
 ## 6. Reviewed immutable releases
 
+The trusted-base `release-policy.yml` records one canonical `NL_RUNTIME_EVALUATION_V1`
+receipt after all validation succeeds. It binds repository ID, PR number, exact head/base
+and workflow revision, run/attempt, and the sorted complete changed-file Git blob delta.
+The receipt contains public Git identities only; it is not a publication authorization.
+External evaluation must independently verify the trusted execution closure and current
+provider identities/state. Candidate-controlled same-name checks cannot grant approval.
+The workflow remains a proposed activation marker until its separate activation gate passes.
+
 Runtime publication is a two-gate reviewed workflow. The publisher never
 commits directly to `main`.
 
