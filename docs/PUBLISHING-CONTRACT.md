@@ -2,6 +2,28 @@
 
 This document defines the boundary between the private Northern Lights Asset Library and `NLL-Runtime-Assets`.
 
+> **Current operating-profile correction — October 8, 2026:** Arctic selected Path B (the
+> independent Cloudflare evaluator) while retaining this repository and its canonical URLs.
+> The private gateway now supports an explicit `PROJECT_OPERATIONS` ref-protection profile:
+> two active rulesets, not eleven. `Protect runtime main` prohibits deletion/force pushes,
+> requires normal-merge PRs, one current independent approval, resolved threads and strict
+> App-bound checks: `validate` / `release-policy` from GitHub Actions `15368`,
+> `runtime-rights-eligibility` from the certified Rights App, and
+> `nl-asset-release-evaluation` from the certified Evaluator App. `Protect immutable runtime
+> tags` prohibits update/deletion without bypass and covers flat, one-level and nested
+> `runtime-v1-*` tag refs. The other nine exclusive routing rules and automatic execution
+> migration identity are not dependencies of this profile. Detailed eleven-ruleset/exclusive
+> governance instructions below describe the retained legacy profile, not mandatory current
+> commissioning. No new App, replacement repository, ID or object store is required.
+>
+> Real current rights, byte validation, isolated candidate checks, immutable artifacts/tags,
+> separate pointer PR, independent technical validation, retry/rollback and the reviewed
+> activation bootstrap remain necessary. A clean Windows Python pre-ref witness can run the
+> exact V1 validator without another Linux/Podman installation; hosted CI retains its pinned
+> Linux closure. This source-tested simplification is not live commissioning or publication
+> approval. The activation marker remains unmerged; no asset release is activated by this
+> documentation change. First real public asset publication still needs separate authorization.
+
 ## 1. Authority
 
 **NL Asset Control is the authoring authority.**
