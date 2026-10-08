@@ -1,0 +1,140 @@
+name: Enforce Runtime Release Policy
+
+on:
+  pull_request_target:
+    branches: [main]
+    types: [opened, reopened, synchronize, ready_for_review]
+
+permissions:
+  contents: read
+
+jobs:
+  release-policy:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    container:
+      image: python:3.12.11-bookworm@sha256:13c9584604a99ca134c4f41800f74ffc64ee6ac8cf555cf1e704a6087fc84f12
+
+    steps:
+      - name: Verify immutable execution environment and same-repository head
+        env:
+          BASE_REPOSITORY: ${{ github.repository }}
+          HEAD_REPOSITORY: ${{ github.event.pull_request.head.repo.full_name }}
+        run: |
+          test "$HEAD_REPOSITORY" = "$BASE_REPOSITORY"
+          test "$(python -c 'import sys; print(".".join(map(str, sys.version_info[:3])))')" = "3.12.11"
+          printf '%s\n' "$BASE_REPOSITORY" | grep -Eq '^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$'
+
+      - name: Materialize exact trusted base and candidate as data
+        env:
+          BASE_REPOSITORY: ${{ github.repository }}
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          printf '%s\n' "$PR_BASE_SHA" | grep -Eq '^[0-9a-f]{40}$'
+          printf '%s\n' "$PR_HEAD_SHA" | grep -Eq '^[0-9a-f]{40}$'
+          git init repository
+          git config --global --add safe.directory "$GITHUB_WORKSPACE/repository"
+          git -C repository remote add origin "$GITHUB_SERVER_URL/$BASE_REPOSITORY.git"
+          git -C repository fetch --force origin '+refs/heads/*:refs/remotes/origin/*' '+refs/tags/*:refs/tags/*'
+          test "$(git -C repository rev-parse "$PR_BASE_SHA")" = "$PR_BASE_SHA"
+          test "$(git -C repository rev-parse "$PR_HEAD_SHA")" = "$PR_HEAD_SHA"
+          git -C repository worktree add --detach ../trusted "$PR_BASE_SHA"
+          git -C repository worktree add --detach ../candidate "$PR_HEAD_SHA"
+
+      - name: Enforce tracked public repository boundary from trusted base
+        env:
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD_REF: ${{ github.event.pull_request.head.ref }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: >-
+          python -P trusted/tools/validate_public_boundary.py
+          --root candidate --base "$PR_BASE_SHA" --head "$PR_HEAD_SHA"
+          --branch "$PR_HEAD_REF"
+
+      - name: Verify immutable trusted wheelhouse before dependency install
+        run: python -P trusted/tools/verify_v1_wheelhouse.py --root trusted
+
+      - name: Install trusted validation dependency
+        run: >-
+          python -m pip install --disable-pip-version-check --no-deps --no-index
+          --find-links trusted/ci/wheelhouse --require-hashes -r trusted/requirements-ci.txt
+
+      - name: Enforce changed-path lane from trusted base
+        env:
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD_REF: ${{ github.event.pull_request.head.ref }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: >-
+          python -P trusted/tools/validate_runtime_release_v1.py
+          --root candidate --schema-root trusted --pull-request
+          --base "$PR_BASE_SHA" --head "$PR_HEAD_SHA" --branch "$PR_HEAD_REF"
+
+      - name: Enforce reviewed repository state from trusted base
+        env:
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD_REF: ${{ github.event.pull_request.head.ref }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: >-
+          python -P trusted/tools/validate_runtime_release.py
+          --root candidate --schema-root trusted --candidate-repository
+          --base "$PR_BASE_SHA" --head "$PR_HEAD_SHA"
+          --branch "$PR_HEAD_REF" --main "$PR_HEAD_SHA"
+
+      - name: Record exact evaluated pull request
+        env:
+          EVALUATED_REPOSITORY_ID: ${{ github.repository_id }}
+          EVALUATED_PR_NUMBER: ${{ github.event.pull_request.number }}
+          EVALUATED_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          EVALUATED_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          EVALUATED_WORKFLOW_SHA: ${{ github.sha }}
+          EVALUATED_RUN_ID: ${{ github.run_id }}
+          EVALUATED_RUN_ATTEMPT: ${{ github.run_attempt }}
+        run: |
+          python -I - <<'PY'
+          import base64, json, os, re, subprocess
+          def identity(name):
+              value = os.environ[name]
+              if not re.fullmatch(r'[a-f0-9]{40}', value):
+                  raise ValueError('Invalid evaluated commit identity')
+              return value
+          def number(name):
+              value = os.environ[name]
+              if not re.fullmatch(r'[1-9][0-9]{0,15}', value):
+                  raise ValueError('Invalid evaluated numeric identity')
+              return int(value)
+          base = identity('EVALUATED_BASE_SHA')
+          head = identity('EVALUATED_HEAD_SHA')
+          workflow = identity('EVALUATED_WORKFLOW_SHA')
+          if workflow != base:
+              raise ValueError('Workflow revision differs from evaluated base')
+          fields = subprocess.check_output([
+              'git', '-C', 'repository', 'diff', '--raw', '--no-renames',
+              '--abbrev=40', '-z', base, head
+          ]).split(b'\0')
+          if fields.pop() != b'' or len(fields) % 2:
+              raise ValueError('Invalid evaluated diff')
+          changes = []
+          for index in range(0, len(fields), 2):
+              modes = fields[index].decode('ascii').split()
+              path = fields[index + 1].decode('ascii')
+              if len(modes) != 5 or modes[0][1:] not in ('000000', '100644') or modes[1] not in ('000000', '100644'):
+                  raise ValueError('Unsupported evaluated file mode')
+              if not re.fullmatch(r'[A-Za-z0-9._/-]{1,300}', path) or any(part in ('', '.', '..') for part in path.split('/')):
+                  raise ValueError('Unsupported evaluated path')
+              before, after = modes[2:4]
+              if not all(re.fullmatch(r'[a-f0-9]{40}', sha) for sha in (before, after)):
+                  raise ValueError('Invalid evaluated blob identity')
+              changes.append({'path': path, 'before': None if before == '0' * 40 else before, 'after': None if after == '0' * 40 else after})
+          if not 1 <= len(changes) <= 1000:
+              raise ValueError('Unsupported evaluated change count')
+          receipt = dict(
+              schemaVersion=1, repositoryId=number('EVALUATED_REPOSITORY_ID'),
+              pullRequestNumber=number('EVALUATED_PR_NUMBER'), headSha=head,
+              baseSha=base, workflowSha=workflow, runId=number('EVALUATED_RUN_ID'),
+              runAttempt=number('EVALUATED_RUN_ATTEMPT'),
+              changes=sorted(changes, key=lambda item: item['path'])
+          )
+          canonical = json.dumps(receipt, sort_keys=True, separators=(',', ':')).encode('ascii')
+          print('NL_RUNTIME_EVALUATION_V1=' + base64.b64encode(canonical).decode('ascii'))
+          PY

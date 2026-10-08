@@ -4,7 +4,13 @@ This repository is a **public runtime delivery repository**, not a blanket asset
 
 ## What public visibility means
 
-An asset appearing in `NLL-Runtime-Assets` means Northern Lights Labs has approved that specific runtime derivative for its intended public delivery context.
+A `READY` asset in a reviewed V1 consumer-catalog release means Northern Lights
+Labs approved only its exact listed runtime variants for the intended public
+delivery context. An `UNAVAILABLE` tombstone is stable-identity and retirement
+evidence, not derivative approval or delivery permission. Mere presence in the
+frozen legacy manifests is not durable approval evidence; legacy records may
+carry the fail-closed `private-library` state and must still satisfy current
+publication eligibility before entering a V1 release.
 
 It does **not** automatically mean that:
 
@@ -23,13 +29,28 @@ Do not publish private receipts, license keys, purchase records, vendor archives
 
 ## Runtime manifest rights status
 
-Published asset records may expose a limited machine-readable rights status such as:
+The frozen legacy asset registry uses exactly:
 
 - `approved-runtime-use`
 - `credit-required`
-- `restricted`
+- `private-library`
 
-This status exists to help Northern Lights Labs applications decide whether and how an asset may be delivered. It is not intended to replace the underlying private license record.
+`private-library` is a fail-closed legacy state and is not publication approval.
+The V2 registry accepts only `approved-runtime-use` and `credit-required` for
+exported records. `restricted` is not a valid status in either machine
+contract.
+
+The narrow V1 consumer catalog does not expose a competing rights-status field.
+A `READY` record and every delivered variant must have passed current private
+publication eligibility. An `UNAVAILABLE` record is a non-deliverable stable-ID
+tombstone: it has no variants, but every retained browser-visible field must
+still pass current permission, privacy, sanitization, and minimization review.
+Public credit and sanitized provenance appear only where permitted and needed.
+Detailed rights evidence and policy decisions remain in the private authority.
+
+These machine states help Northern Lights Labs applications decide whether and
+how an asset may be delivered. They do not replace the underlying private
+license record.
 
 ## Attribution
 

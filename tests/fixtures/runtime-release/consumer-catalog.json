@@ -1,0 +1,46 @@
+{
+  "assetCount": 1,
+  "assets": [
+    {
+      "accessibility": {
+        "alt": "",
+        "role": "decorative"
+      },
+      "assetId": "fixture-asset",
+      "assetVersion": "sha256:5fda50d42d908671b9e8dfb9eeebc0af3a7a7e311fdafb8996ae2a799beb54f9",
+      "deprecated": false,
+      "displayName": "Fixture Asset",
+      "fallbackAssetId": null,
+      "publicCredit": null,
+      "readinessStatus": "READY",
+      "releaseId": "runtime-v1-2026.09.01.1",
+      "sanitizedProvenance": {
+        "sourceLabel": "Non-sensitive test fixture"
+      },
+      "styles": [],
+      "subjects": [],
+      "subtype": null,
+      "tags": [
+        "fixture"
+      ],
+      "themes": [],
+      "type": "illustration",
+      "useCases": [],
+      "variants": [
+        {
+          "bytes": 12,
+          "format": "webp",
+          "height": 1,
+          "mimeType": "image/webp",
+          "objectKey": "objects/sha256/aa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.webp",
+          "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "url": "https://cdn.nlightlabs.com/objects/sha256/aa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.webp",
+          "width": 1
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-09-01T12:00:00Z",
+  "releaseId": "runtime-v1-2026.09.01.1",
+  "schemaVersion": "1.0.0"
+}

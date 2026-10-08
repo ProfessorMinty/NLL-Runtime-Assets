@@ -1,0 +1,251 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/ProfessorMinty/NLL-Runtime-Assets/main/schemas/nl-asset-consumer-catalog-v1.schema.json",
+  "title": "Northern Lights Asset Consumer Catalog V1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "releaseId",
+    "generatedAt",
+    "assetCount",
+    "assets"
+  ],
+  "properties": {
+    "schemaVersion": { "const": "1.0.0" },
+    "releaseId": { "$ref": "#/$defs/releaseId" },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "assetCount": { "type": "integer", "minimum": 1, "maximum": 25000 },
+    "assets": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 25000,
+      "items": { "$ref": "#/$defs/asset" }
+    }
+  },
+  "$defs": {
+    "releaseId": {
+      "type": "string",
+      "maxLength": 32,
+      "pattern": "^runtime-v1-[0-9]{4}\\.[0-9]{2}\\.[0-9]{2}\\.[1-9][0-9]*$"
+    },
+    "assetId": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 160,
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "identity": {
+      "type": "string",
+      "pattern": "^sha256:[a-f0-9]{64}$"
+    },
+    "stringList": {
+      "type": "array",
+      "maxItems": 100,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 100,
+        "pattern": "^(?=.*\\S)[^\\u0000-\\u001F\\u007F-\\u009F\\u061C\\u200E\\u200F\\u202A-\\u202E\\u2066-\\u2069]*$"
+      },
+      "uniqueItems": true
+    },
+    "asset": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "assetId",
+        "assetVersion",
+        "releaseId",
+        "displayName",
+        "type",
+        "subtype",
+        "tags",
+        "themes",
+        "subjects",
+        "styles",
+        "useCases",
+        "accessibility",
+        "publicCredit",
+        "readinessStatus",
+        "deprecated",
+        "fallbackAssetId",
+        "sanitizedProvenance",
+        "variants"
+      ],
+      "properties": {
+        "assetId": { "$ref": "#/$defs/assetId" },
+        "assetVersion": { "$ref": "#/$defs/identity" },
+        "releaseId": { "$ref": "#/$defs/releaseId" },
+        "displayName": { "type": "string", "minLength": 1, "maxLength": 200, "pattern": "^(?=.*\\S)[^\\u0000-\\u001F\\u007F-\\u009F\\u061C\\u200E\\u200F\\u202A-\\u202E\\u2066-\\u2069]*$" },
+        "type": { "type": "string", "minLength": 1, "maxLength": 80, "pattern": "^(?=.*\\S)[^\\u0000-\\u001F\\u007F-\\u009F\\u061C\\u200E\\u200F\\u202A-\\u202E\\u2066-\\u2069]*$" },
+        "subtype": {
+          "type": ["string", "null"],
+          "minLength": 1,
+          "maxLength": 100,
+          "pattern": "^(?=.*\\S)[^\\u0000-\\u001F\\u007F-\\u009F\\u061C\\u200E\\u200F\\u202A-\\u202E\\u2066-\\u2069]*$"
+        },
+        "tags": { "$ref": "#/$defs/stringList" },
+        "themes": { "$ref": "#/$defs/stringList" },
+        "subjects": { "$ref": "#/$defs/stringList" },
+        "styles": { "$ref": "#/$defs/stringList" },
+        "useCases": { "$ref": "#/$defs/stringList" },
+        "accessibility": { "$ref": "#/$defs/accessibility" },
+        "publicCredit": {
+          "type": ["string", "null"],
+          "minLength": 1,
+          "maxLength": 500,
+          "pattern": "^(?=.*\\S)[^\\u0000-\\u001F\\u007F-\\u009F\\u061C\\u200E\\u200F\\u202A-\\u202E\\u2066-\\u2069]*$"
+        },
+        "readinessStatus": { "type": "string", "enum": ["READY", "UNAVAILABLE"] },
+        "deprecated": { "type": "boolean" },
+        "fallbackAssetId": {
+          "oneOf": [
+            { "type": "null" },
+            { "$ref": "#/$defs/assetId" }
+          ]
+        },
+        "sanitizedProvenance": { "$ref": "#/$defs/provenance" },
+        "variants": {
+          "type": "array",
+          "minItems": 0,
+          "maxItems": 7,
+          "uniqueItems": true,
+          "items": { "$ref": "#/$defs/variant" }
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": { "readinessStatus": { "const": "READY" } },
+            "required": ["readinessStatus"]
+          },
+          "then": {
+            "properties": { "variants": { "minItems": 1 } }
+          },
+          "else": {
+            "properties": {
+              "readinessStatus": { "const": "UNAVAILABLE" },
+              "deprecated": { "const": true },
+              "variants": { "maxItems": 0 }
+            }
+          }
+        }
+      ]
+    },
+    "accessibility": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["role", "alt"],
+      "properties": {
+        "role": { "type": "string", "enum": ["decorative", "informative"] },
+        "alt": { "type": "string", "maxLength": 500, "pattern": "^[^\\u0000-\\u001F\\u007F-\\u009F\\u061C\\u200E\\u200F\\u202A-\\u202E\\u2066-\\u2069]*$" }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": { "role": { "const": "decorative" } },
+            "required": ["role"]
+          },
+          "then": { "properties": { "alt": { "const": "" } } },
+          "else": { "properties": { "alt": { "minLength": 1, "pattern": "\\S" } } }
+        }
+      ]
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "sourceLabel": { "type": "string", "minLength": 1, "maxLength": 200, "pattern": "^(?=.*\\S)[^\\u0000-\\u001F\\u007F-\\u009F\\u061C\\u200E\\u200F\\u202A-\\u202E\\u2066-\\u2069]*$" },
+        "creator": { "type": "string", "minLength": 1, "maxLength": 200, "pattern": "^(?=.*\\S)[^\\u0000-\\u001F\\u007F-\\u009F\\u061C\\u200E\\u200F\\u202A-\\u202E\\u2066-\\u2069]*$" },
+        "licenseLabel": { "type": "string", "minLength": 1, "maxLength": 200, "pattern": "^(?=.*\\S)[^\\u0000-\\u001F\\u007F-\\u009F\\u061C\\u200E\\u200F\\u202A-\\u202E\\u2066-\\u2069]*$" }
+      }
+    },
+    "variant": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "format",
+        "objectKey",
+        "url",
+        "mimeType",
+        "bytes",
+        "width",
+        "height",
+        "sha256"
+      ],
+      "properties": {
+        "format": {
+          "type": "string",
+          "enum": ["svg", "webp", "png", "jpg", "jpeg", "glb", "gltf"]
+        },
+        "objectKey": {
+          "type": "string",
+          "pattern": "^objects/sha256/[a-f0-9]{2}/[a-f0-9]{64}\\.[a-z0-9]+$"
+        },
+        "url": {
+          "type": "string",
+          "pattern": "^https://cdn\\.nlightlabs\\.com/objects/sha256/[a-f0-9]{2}/[a-f0-9]{64}\\.[a-z0-9]+$"
+        },
+        "mimeType": { "type": "string", "minLength": 1, "maxLength": 100, "pattern": "^(?=.*\\S)[^\\u0000-\\u001F\\u007F-\\u009F\\u061C\\u200E\\u200F\\u202A-\\u202E\\u2066-\\u2069]*$" },
+        "bytes": { "type": "integer", "minimum": 1, "maximum": 67108864 },
+        "width": {
+          "oneOf": [
+            { "type": "null" },
+            { "type": "integer", "minimum": 1, "maximum": 2147483647 }
+          ]
+        },
+        "height": {
+          "oneOf": [
+            { "type": "null" },
+            { "type": "integer", "minimum": 1, "maximum": 2147483647 }
+          ]
+        },
+        "sha256": { "$ref": "#/$defs/sha256" }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "format": { "enum": ["webp", "png", "jpg", "jpeg"] }
+            },
+            "required": ["format"]
+          },
+          "then": {
+            "properties": {
+              "width": { "type": "integer", "minimum": 1, "maximum": 2147483647 },
+              "height": { "type": "integer", "minimum": 1, "maximum": 2147483647 }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": { "format": { "const": "svg" } },
+            "required": ["format"]
+          },
+          "then": { "properties": { "bytes": { "maximum": 2097152 } } }
+        },
+        {
+          "if": {
+            "properties": {
+              "format": { "enum": ["webp", "png", "jpg", "jpeg"] }
+            },
+            "required": ["format"]
+          },
+          "then": { "properties": { "bytes": { "maximum": 16777216 } } }
+        },
+        {
+          "if": {
+            "properties": { "format": { "const": "gltf" } },
+            "required": ["format"]
+          },
+          "then": { "properties": { "bytes": { "maximum": 8388608 } } }
+        }
+      ]
+    }
+  }
+}

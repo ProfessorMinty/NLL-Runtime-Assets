@@ -3,39 +3,98 @@ name: Validate Runtime Assets
 on:
   push:
     branches: [main]
+    tags:
+      - 'runtime-v1-*'
+      - 'runtime-v1-*/**'
   pull_request:
     branches: [main]
+  schedule:
+    - cron: '17 * * * *'
 
 permissions:
   contents: read
 
 jobs:
   validate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    container:
+      image: python:3.12.11-bookworm@sha256:13c9584604a99ca134c4f41800f74ffc64ee6ac8cf555cf1e704a6087fc84f12
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
+      - name: Verify immutable execution environment
+        run: test "$(python -c 'import sys; print(".".join(map(str, sys.version_info[:3])))')" = "3.12.11"
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+      - name: Materialize exact repository revision
+        env:
+          REPOSITORY: ${{ github.repository }}
+          VALIDATION_REVISION: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: |
+          printf '%s\n' "$REPOSITORY" | grep -Eq '^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$'
+          printf '%s\n' "$VALIDATION_REVISION" | grep -Eq '^[0-9a-f]{40}$'
+          git init .
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git remote add origin "$GITHUB_SERVER_URL/$REPOSITORY.git"
+          git fetch --force origin '+refs/heads/*:refs/remotes/origin/*' '+refs/tags/*:refs/tags/*'
+          test "$(git rev-parse "$VALIDATION_REVISION")" = "$VALIDATION_REVISION"
+          git checkout --detach "$VALIDATION_REVISION^{commit}"
+
+      - name: Verify immutable wheelhouse before dependency install
+        run: python -P tools/verify_v1_wheelhouse.py
 
       - name: Install validation dependency
-        run: python -m pip install -r requirements-ci.txt
+        run: >-
+          python -m pip install --disable-pip-version-check --no-deps --no-index
+          --find-links ci/wheelhouse --require-hashes -r requirements-ci.txt
+
+      - name: Validate reviewed release repository state
+        if: ${{ github.event_name != 'pull_request' && !startsWith(github.ref, 'refs/tags/') }}
+        env:
+          VALIDATION_MAIN: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: >-
+          python -P tools/validate_runtime_release.py --repository
+          --main "$VALIDATION_MAIN"
+
+      - name: Validate reviewed release pull-request lane
+        if: github.event_name == 'pull_request'
+        env:
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD_REF: ${{ github.head_ref }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: >-
+          python -P tools/validate_runtime_release.py --candidate-repository
+          --base "$PR_BASE_SHA" --head "$PR_HEAD_SHA"
+          --branch "$PR_HEAD_REF" --main "$PR_HEAD_SHA"
+
+      - name: Validate annotated runtime release tag
+        if: github.event_name == 'push' && startsWith(github.ref, 'refs/tags/')
+        run: >-
+          python -P tools/validate_runtime_release.py --tag "$GITHUB_REF_NAME"
+          --main "origin/main"
+
+      - name: Validate tracked public repository boundary
+        env:
+          VALIDATION_REVISION: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: >-
+          python -P tools/validate_public_boundary.py
+          --revision "$VALIDATION_REVISION^{commit}"
 
       - name: Validate immutable identity contracts
+        if: github.event_name == 'pull_request' || (github.event_name == 'push' && github.ref == 'refs/heads/main')
         run: python tools/validate_identity_contracts.py
 
       - name: Validate public runtime semantics
+        if: github.event_name == 'pull_request' || (github.event_name == 'push' && github.ref == 'refs/heads/main')
         run: python tools/validate_runtime_semantics.py
 
       - name: Require deterministic discovery output
+        if: github.event_name == 'pull_request' || (github.event_name == 'push' && github.ref == 'refs/heads/main')
         run: python tools/generate_discovery.py --check
 
       - name: Validate discovery consistency
+        if: github.event_name == 'pull_request' || (github.event_name == 'push' && github.ref == 'refs/heads/main')
         run: python tools/validate_discovery.py
 
       - name: Run contract regression tests
+        if: github.event_name == 'pull_request' || (github.event_name == 'push' && github.ref == 'refs/heads/main')
         run: python -m unittest discover -s tests -v

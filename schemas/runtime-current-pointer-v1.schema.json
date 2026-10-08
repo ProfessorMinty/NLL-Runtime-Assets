@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/ProfessorMinty/NLL-Runtime-Assets/main/schemas/runtime-current-pointer-v1.schema.json",
+  "title": "Northern Lights Runtime Current Pointer V1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "releaseId",
+    "predecessorReleaseId",
+    "releaseArtifactCommit",
+    "catalogPath",
+    "catalogSha256",
+    "catalogSchemaVersion",
+    "publicationAuthorizationIdentity"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "releaseId": { "$ref": "#/$defs/releaseId" },
+    "predecessorReleaseId": {
+      "oneOf": [
+        { "const": "" },
+        { "$ref": "#/$defs/releaseId" }
+      ]
+    },
+    "releaseArtifactCommit": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{40}$"
+    },
+    "catalogPath": {
+      "type": "string",
+      "pattern": "^manifests/releases/runtime-v1-[0-9]{4}\\.[0-9]{2}\\.[0-9]{2}\\.[1-9][0-9]*/consumer-catalog\\.json$"
+    },
+    "catalogSha256": { "$ref": "#/$defs/sha256" },
+    "catalogSchemaVersion": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "publicationAuthorizationIdentity": {
+      "type": "string",
+      "pattern": "^sha256:[a-f0-9]{64}$"
+    }
+  },
+  "$defs": {
+    "releaseId": {
+      "type": "string",
+      "maxLength": 32,
+      "pattern": "^runtime-v1-[0-9]{4}\\.[0-9]{2}\\.[0-9]{2}\\.[1-9][0-9]*$"
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    }
+  }
+}

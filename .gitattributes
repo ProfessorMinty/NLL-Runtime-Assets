@@ -1,5 +1,7 @@
 * text=auto
+requirements-ci.txt text eol=lf
 *.json text eol=lf
+ci/wheelhouse/*.whl -text
 *.jsonc text eol=lf
 *.svg text eol=lf
 *.md text eol=lf

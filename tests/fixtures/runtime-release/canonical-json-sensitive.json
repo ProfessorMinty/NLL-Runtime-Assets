@@ -1,0 +1,11 @@
+{
+  "canonicalSha256": "b5ebec3d71d60cdc838be1abae0f4313f6615da57334369636bb5a4b1551fbdc",
+  "canonicalUtf8Base64": "ewogICJlc2NhcGVzIjogIlx1MDAyMlxcXGJcdFxuXGZcclx1MDAyNyBcdTAwMkJcdTAwNjBcdTAwMjZcdTAwM0NcdTAwM0UvIiwKICAiaHRtbCI6ICJBXHUwMDI2Qlx1MDAzQ0NcdTAwM0UiLAogICJ1bmljb2RlIjogIlx1MDBFOVx1OTZFQVx1RDgzRFx1REUwMCIsCiAgIlx1RDgzRFx1REUwMCI6ICJzdXBwbGVtZW50YXJ5LWtleS1zb3J0cy1iZWZvcmUtYm1wLXByaXZhdGUtdXNlIiwKICAiXHVFMDAwIjogImJtcC1wcml2YXRlLXVzZSIKfQo=",
+  "escapesCodePoints": [34, 92, 8, 9, 10, 12, 13, 39, 32, 43, 96, 38, 60, 62, 47],
+  "value": {
+    "html": "A&B<C>",
+    "unicode": "é雪😀",
+    "😀": "supplementary-key-sorts-before-bmp-private-use",
+    "": "bmp-private-use"
+  }
+}

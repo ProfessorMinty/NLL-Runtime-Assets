@@ -4,7 +4,10 @@ Public runtime asset repository for **Northern Lights Labs** applications.
 
 `NLL-Runtime-Assets` is the delivery layer between the private **Northern Lights Asset Library** and applications that consume reusable visual assets.
 
-It is designed to hold curated, browser-safe derivatives and machine-readable manifests exported by **NL Asset Control**.
+It is designed to hold reviewed machine-readable manifests and public runtime
+contracts exported by **NL Asset Control**. Approved browser-safe derivative
+bytes live in Cloudflare R2 and are delivered through `cdn.nlightlabs.com`; they
+are deliberately not stored in this Git repository.
 
 ## Purpose
 
@@ -20,13 +23,16 @@ Applications should reference **stable asset IDs** from generated manifests rath
 
 The next release format adds immutable `assetVersion` identities and content-addressed `objectKey` values while retaining frozen legacy paths. See [`docs/IMMUTABLE_IDENTITY_CONTRACT.md`](docs/IMMUTABLE_IDENTITY_CONTRACT.md). The schemas are additive contract authority only; the current release pointer is unchanged until a later reviewed cutover.
 
+Permanent release safeguards now define separate immutable-artifact and
+pointer-only review lanes, plus the narrow browser-safe
+`NLAssetConsumerCatalogV1` contract. No release or current pointer exists
+merely because these contracts exist. See
+[`docs/PUBLISHING-CONTRACT.md`](docs/PUBLISHING-CONTRACT.md).
+
 ## Repository boundary
 
 This repository MAY contain:
 
-- approved browser-safe image derivatives;
-- SVG assets approved for public delivery;
-- WebP and PNG derivatives;
 - public asset manifests;
 - stable runtime asset IDs;
 - collections and theme recipes;
@@ -34,12 +40,24 @@ This repository MAY contain:
 - integrity metadata such as SHA-256 hashes;
 - limited public provenance needed for runtime or attribution;
 - schemas and documentation for the runtime contract.
+- the exact hash-reviewed V1 CI wheelhouse required to validate historical
+  releases without contacting a mutable package index.
+
+The only permitted entry under `assets/` is the tracked `.gitkeep` directory
+sentinel. Runtime binaries and Git LFS pointers are rejected by the public
+boundary validator. R2 is the sole authority for published derivative bytes;
+reviewed, commit-pinned Git manifests are the semantic authority that identifies
+those immutable objects.
+
+The binary files under `ci/wheelhouse/` are a narrow validation-toolchain
+exception, not runtime assets. Their filenames, sizes, SHA-256 identities, and
+complete set are locked by the public boundary and V1 authority.
 
 This repository MUST NOT contain:
 
 - original vendor ZIP archives;
 - private licensed master files;
-- AI, EPS, PSD, BLEND, FBX, C4D, or similar source masters unless explicitly approved for public distribution;
+- AI, EPS, PSD, BLEND, FBX, C4D, or any other source/master files;
 - purchase receipts;
 - private license documents;
 - credentials or secrets;
@@ -56,9 +74,12 @@ The private library owns acquisitions, source masters, provenance, curation meta
 
 This repository is a **generated publishing target**, not the canonical vault.
 
-Generated runtime files should not be manually edited when they can be reproduced by NL Asset Control.
+Generated runtime manifests should not be manually edited when they can be reproduced by NL Asset Control.
 
-Public CI validates manifest semantics and deterministic discovery without requiring the ignored runtime binaries. The private publisher environment separately validates every derivative byte. See [`docs/VALIDATION_AND_DISCOVERY.md`](docs/VALIDATION_AND_DISCOVERY.md).
+Public CI validates manifest semantics and deterministic discovery without
+placing runtime binaries in Git. The private publisher environment separately
+validates every derivative byte. See
+[`docs/VALIDATION_AND_DISCOVERY.md`](docs/VALIDATION_AND_DISCOVERY.md).
 
 ## Runtime model
 
@@ -78,12 +99,14 @@ Conceptually:
   "variants": [
     {
       "format": "svg",
-      "path": "assets/science/science-microscope-01.svg",
+      "objectKey": "objects/sha256/5f/5fda50d42d908671b9e8dfb9eeebc0af3a7a7e311fdafb8996ae2a799beb54f9.svg",
+      "url": "https://cdn.nlightlabs.com/objects/sha256/5f/5fda50d42d908671b9e8dfb9eeebc0af3a7a7e311fdafb8996ae2a799beb54f9.svg",
       "mimeType": "image/svg+xml"
     },
     {
       "format": "webp",
-      "path": "assets/science/science-microscope-01.webp",
+      "objectKey": "objects/sha256/a1/a111111111111111111111111111111111111111111111111111111111111111.webp",
+      "url": "https://cdn.nlightlabs.com/objects/sha256/a1/a111111111111111111111111111111111111111111111111111111111111111.webp",
       "mimeType": "image/webp"
     }
   ]
@@ -102,13 +125,15 @@ rather than private source paths, vendor filenames, or archive names.
 
 ```text
 /
-├── assets/                  # generated browser-safe derivatives
+├── assets/.gitkeep         # directory sentinel; no runtime bytes in Git
 ├── manifests/
 │   ├── index.json           # stable manifest entry point
 │   ├── assets.json          # public runtime asset registry
 │   ├── collections.json     # reusable asset collections
-│   └── themes.json          # theme/recipe references
+│   ├── themes.json          # theme/recipe references
+│   └── releases/            # reviewed immutable catalogs and current pointer
 ├── schemas/                 # machine-readable runtime contracts
+├── ci/wheelhouse/           # immutable offline V1 validation dependencies
 ├── docs/                    # publishing and integration documentation
 ├── RIGHTS.md                # repository rights boundary
 └── README.md
@@ -121,7 +146,7 @@ The structure may evolve as NL Asset Control's publishing pipeline is implemente
 The intended pipeline is:
 
 ```text
-Private NL Asset Library
+Private Northern Lights Asset Library
         ↓
 Curate / classify
         ↓
@@ -131,30 +156,44 @@ Validate rights + metadata
         ↓
 Build browser-safe derivatives
         ↓
+Upload immutable content-addressed objects to R2
+        ↓
 Generate deterministic manifests
         ↓
-Stage / publish to NLL-Runtime-Assets
+Review / merge manifests in NLL-Runtime-Assets
         ↓
-Applications consume stable asset IDs
+Applications resolve stable IDs through Git manifests and fetch bytes from CDN
 ```
 
 A normal publish should be repeatable. Re-running the exporter with unchanged inputs should produce equivalent runtime output rather than hand-edited drift.
 
-## Manifest entry point
+## Manifest entry points
 
-Consumers should begin with:
+Existing legacy consumers still begin with the frozen compatibility entry:
 
 ```text
 manifests/index.json
 ```
 
-That file points to the current asset, collection, and theme manifests. This gives consumers one stable discovery location while allowing the internal runtime contract to evolve deliberately.
+New V1 consumers use the reviewed pointer at
+`manifests/releases/current.json`, then pin and hash-verify its
+commit-addressed `consumer-catalog.json`. The pointer is intentionally absent
+until an authorized first selection. Derivative bytes are always loaded from
+the catalog's exact `cdn.nlightlabs.com` variant URLs. See
+[`docs/EDUBLOGS-CONSUMER.md`](docs/EDUBLOGS-CONSUMER.md).
 
 ## Rights and licensing
 
 **Public availability does not create a blanket license for reuse.**
 
-Assets in this repository may originate from multiple sources with different licensing terms. Inclusion means Northern Lights Labs has approved that specific runtime derivative for its intended public delivery context. It does not imply that source masters, vendor packages, or underlying third-party rights are transferred to repository visitors.
+Assets cataloged by this repository may originate from multiple sources with
+different licensing terms. A `READY` asset in a reviewed V1 consumer-catalog
+release means Northern Lights Labs approved only its exact listed runtime
+variants for the intended public delivery context; an `UNAVAILABLE` tombstone
+is identity/retirement evidence, not approval. Mere presence in the frozen
+legacy manifests does not establish approval. Approval does not imply that
+source masters, vendor packages, or underlying third-party rights are
+transferred to repository visitors.
 
 See [`RIGHTS.md`](RIGHTS.md) for the repository-wide rights boundary.
 
@@ -164,7 +203,7 @@ Consumers should treat the generated manifests as the API.
 
 Do not couple application code to:
 
-- local `E:\Assets` paths;
+- local private-library-root paths;
 - vendor ZIP names;
 - extracted source directory structures;
 - private acquisition metadata;
