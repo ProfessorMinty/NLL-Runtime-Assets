@@ -21,8 +21,33 @@ This document defines the boundary between the private Northern Lights Asset Lib
 > activation bootstrap remain necessary. A clean Windows Python pre-ref witness can run the
 > exact V1 validator without another Linux/Podman installation; hosted CI retains its pinned
 > Linux closure. This source-tested simplification is not live commissioning or publication
-> approval. The activation marker remains unmerged; no asset release is activated by this
-> documentation change. First real public asset publication still needs separate authorization.
+> approval. The asset-free bootstrap is merged at
+> `c03a2420b94f96dfbb5a3b38b4ec270c1ff228fc` (PR #2); its exact tree is
+> `dc308a5c29bb26fa1f681e35055e6f612a1bf6b7`. First real public asset publication
+> still needs separate authorization.
+
+### Permanent evaluator commissioning — October 8, 2026
+
+The trusted-base `release-policy.yml` workflow now has real GitHub ID `378842415`.
+The existing independent Evaluator App (`5205181`) and Rights App (`5205489`) are
+bound by name and numeric integration ID in main ruleset `24745624` (`Protect runtime main`).
+Tag ruleset `24745625` (`Protect immutable runtime tags`) rejects release-tag updates/deletion.
+Both are active, repository-owned and have no bypass actors. No other ref ruleset was created.
+
+The permanent Cloudflare evaluator is deployed at
+`https://asset-release-evaluator.nlightlabs.com`, with workers.dev and Preview URLs disabled.
+Its current canonical policy SHA-256 is
+`799889b3b3cec3fbef697f7dd2d22f7dc11a9a619cb047642c3502a342bafc5f`.
+It pins the merged bootstrap's 19 reviewed authority blobs and genuine workflow ID.
+It owns no R2, asset source, publisher or repository-content write authority.
+An enabled technical evaluator is not an enabled asset publisher or a rights/readiness decision.
+
+The initial disabled rollback Worker version is `d08c8293-928d-410a-91c4-7ee75e375ad0`;
+the enabled evaluator version is `030aaba4-38fa-45eb-b5cb-70141bc8ec0e`.
+Health and HMAC edge checks pass. Real trusted-workflow/check issuance and its denial/replay
+evidence are being certified on this documentation-only PR. No asset release, tag, current
+pointer, operating manifest/discovery or public object changes as part of this commissioning.
+The private transactional publisher remains disabled until its operating and recovery gates pass.
 
 ## 1. Authority
 
