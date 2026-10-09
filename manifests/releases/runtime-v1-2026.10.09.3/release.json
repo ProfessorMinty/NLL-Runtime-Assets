@@ -1,0 +1,23 @@
+{
+  "candidateIdentity": "sha256:54141fe0e102bade845753254383d540456258c194bdcf085decda5bf8612da7",
+  "consumerCatalog": {
+    "path": "manifests/releases/runtime-v1-2026.10.09.3/consumer-catalog.json",
+    "schemaVersion": "1.0.0",
+    "sha256": "e2a9aa7a50fc15a041a72b7ab7d599984daa2fdf4a1fc74aecf035665de6a9f4"
+  },
+  "createdAt": "2026-10-09T19:38:16Z",
+  "objects": [
+    {
+      "bytes": 56542,
+      "objectKey": "objects/sha256/ad/ada2a4c32a28d2e5aafd20bdf79d89276961cae04e2487077826213ecf396f4f.webp",
+      "sha256": "ada2a4c32a28d2e5aafd20bdf79d89276961cae04e2487077826213ecf396f4f",
+      "url": "https://cdn.nlightlabs.com/objects/sha256/ad/ada2a4c32a28d2e5aafd20bdf79d89276961cae04e2487077826213ecf396f4f.webp"
+    }
+  ],
+  "predecessorReleaseId": "runtime-v1-2026.10.09.2",
+  "publicationAuthorizationIdentity": "sha256:340980c2df6a82b62469cdc971d26224eb9c8ce647e817fc9e88e0916e537010",
+  "publisherIdentity": "NL Asset Runtime Publisher",
+  "releaseId": "runtime-v1-2026.10.09.3",
+  "schemaVersion": 1,
+  "transactionRecoveryAuthorizationIdentity": "sha256:c2b52349bbb6aa7f44bc275b495af9d0d2161c21fa1bbaf9f71d97b0aadc7209"
+}
