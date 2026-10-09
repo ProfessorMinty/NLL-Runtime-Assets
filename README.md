@@ -210,3 +210,11 @@ Do not couple application code to:
 - human-maintained one-off URLs when a stable runtime ID exists.
 
 The goal is simple: **NL Asset Control knows where an asset came from. Applications only need to know what the asset is.**
+
+## Publisher operational certification
+
+The permanent NL Asset Runtime Publisher uses reviewed, normal-merge pull requests.
+Its provider identity is certified separately from asset publication. This documentation-only
+checkpoint publishes no assets, creates no release tag, and changes no current pointer.
+Derivative bytes remain in R2; private rights, candidate validation and recovery remain
+the responsibility of NL Asset Control's transactional publisher.
