@@ -4,6 +4,8 @@
 from __future__ import annotations
 
 import argparse
+import base64
+import binascii
 import hashlib
 import json
 import os
@@ -943,6 +945,83 @@ def _blob_bytes(root: Path, object_ids: list[str]) -> dict[str, bytes]:
     return blobs
 
 
+def _commit_path_scan_text(raw_text: str) -> str:
+    """Classify opaque OpenPGP signature encoding, never author/message text.
+
+    Git folds gpgsig continuation lines with one leading space. Only canonical
+    armor holding one bounded Signature packet is excluded from the Unix-path
+    heuristic. All other private/credential checks still scan the full object.
+    This is format classification, not a signature-authentication substitute.
+    """
+    header_text, separator, message = raw_text.partition("\n\n")
+    if not separator:
+        raise PublicBoundaryError("Candidate commit has no message separator.")
+    lines = header_text.split("\n")
+    indexes = [i for i, line in enumerate(lines) if line.startswith("gpgsig ")]
+    if not indexes:
+        return raw_text
+    if len(indexes) != 1:
+        raise PublicBoundaryError("Candidate commit has duplicate signature headers.")
+    start = indexes[0]
+    end = start + 1
+    while end < len(lines) and lines[end].startswith(" "):
+        end += 1
+    armor = [lines[start][7:]] + [line[1:] for line in lines[start + 1:end]]
+    if armor[-1] == "":
+        armor.pop()  # GitHub folds the armor's final newline as an empty continuation.
+    if (len(armor) < 4 or armor[0] != "-----BEGIN PGP SIGNATURE-----"
+            or armor[-1] != "-----END PGP SIGNATURE-----" or armor[1] != ""):
+        raise PublicBoundaryError("Candidate commit signature armor is unsupported or malformed.")
+    encoded = armor[2:-1]
+    checksum = encoded.pop() if encoded and encoded[-1].startswith("=") else None
+    if not encoded or any(re.fullmatch(r"[A-Za-z0-9+/]{1,76}={0,2}", line) is None for line in encoded):
+        raise PublicBoundaryError("Candidate commit signature encoding is malformed.")
+    try:
+        packet = base64.b64decode("".join(encoded), validate=True)
+        if base64.b64encode(packet).decode("ascii") != "".join(encoded):
+            raise ValueError("Noncanonical signature encoding")
+        # OpenPGP new/old packet headers; disallow partial/indeterminate lengths.
+        first = packet[0]
+        if first & 0x40:
+            if first != 0xC2:
+                raise ValueError("Not a Signature packet")
+            length = packet[1]
+            offset = 2
+            if 192 <= length <= 223:
+                length = ((length - 192) << 8) + packet[2] + 192
+                offset = 3
+            elif length == 255:
+                length = int.from_bytes(packet[2:6], "big")
+                offset = 6
+            elif length >= 224:
+                raise ValueError("Partial packet")
+        else:
+            if first & 0xFC != 0x88 or first & 3 == 3:
+                raise ValueError("Not a bounded Signature packet")
+            width = 1 << (first & 3)
+            length = int.from_bytes(packet[1:1 + width], "big")
+            offset = 1 + width
+        if length < 10 or offset + length != len(packet) or packet[offset] not in (4, 6):
+            raise ValueError("Incomplete or unsupported Signature packet")
+        if checksum is not None:
+            if re.fullmatch(r"=[A-Za-z0-9+/]{4}", checksum) is None:
+                raise ValueError("Malformed armor checksum")
+            crc = 0xB704CE
+            for octet in packet:
+                crc ^= octet << 16
+                for _ in range(8):
+                    crc <<= 1
+                    if crc & 0x1000000:
+                        crc ^= 0x1864CFB
+            if base64.b64decode(checksum[1:], validate=True) != (crc & 0xFFFFFF).to_bytes(3, "big"):
+                raise ValueError("Incorrect armor checksum")
+    except (ValueError, IndexError, binascii.Error) as exc:
+        raise PublicBoundaryError("Candidate commit signature packet is malformed.") from exc
+    # Preserve line structure and all text outside the encoded signature header.
+    lines[start:end] = ["gpgsig <encoded-public-signature>"] + [" " for _ in range(end - start - 1)]
+    return "\n".join(lines) + separator + message
+
+
 def _validate_commit_message(root: Path, revision: str) -> None:
     if re.fullmatch(r"[a-f0-9]{40}", revision) is None:
         raise PublicBoundaryError("Candidate revision is not one lowercase full commit SHA.")
@@ -1001,8 +1080,11 @@ def _validate_commit_message(root: Path, revision: str) -> None:
         raise PublicBoundaryError(
             "Candidate commit metadata or message contains prohibited control text."
         )
+    path_scan_text = _commit_path_scan_text(public_commit_text)
     for pattern in (*SECRET_PATTERNS, *PRIVATE_TEXT_PATTERNS):
-        if pattern.search(public_commit_text):
+        # Only the Unix absolute-path heuristic needs encoded-signature classification.
+        selected_text = path_scan_text if pattern is PRIVATE_TEXT_PATTERNS[3] else public_commit_text
+        if pattern.search(selected_text):
             raise PublicBoundaryError(
                 "Candidate commit metadata or message contains private or credential-shaped content."
             )
